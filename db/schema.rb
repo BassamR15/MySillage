@@ -10,9 +10,10 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2025_12_24_114201) do
+ActiveRecord::Schema[7.1].define(version: 2025_12_25_180911) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+  enable_extension "vector"
 
   create_table "active_storage_attachments", force: :cascade do |t|
     t.string "name", null: false
@@ -286,6 +287,12 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_24_114201) do
     t.integer "launch_year"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.boolean "discontinued", default: false
+    t.integer "discontinued_year"
+    t.boolean "reformulated", default: false
+    t.integer "reformulation_year"
+    t.vector "embedding", limit: 1536
+    t.integer "price_cents"
     t.index ["brand_id"], name: "index_perfumes_on_brand_id"
   end
 
@@ -299,6 +306,17 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_24_114201) do
     t.datetime "updated_at", null: false
     t.index ["perfume_id"], name: "index_price_alerts_on_perfume_id"
     t.index ["user_id"], name: "index_price_alerts_on_user_id"
+  end
+
+  create_table "recommended_perfumes", force: :cascade do |t|
+    t.bigint "user_id", null: false
+    t.bigint "perfume_id", null: false
+    t.float "score"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["perfume_id"], name: "index_recommended_perfumes_on_perfume_id"
+    t.index ["user_id", "perfume_id"], name: "index_recommended_perfumes_on_user_id_and_perfume_id", unique: true
+    t.index ["user_id"], name: "index_recommended_perfumes_on_user_id"
   end
 
   create_table "reviews", force: :cascade do |t|
@@ -462,6 +480,8 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_24_114201) do
   add_foreign_key "perfumes", "brands"
   add_foreign_key "price_alerts", "perfumes"
   add_foreign_key "price_alerts", "users"
+  add_foreign_key "recommended_perfumes", "perfumes"
+  add_foreign_key "recommended_perfumes", "users"
   add_foreign_key "reviews", "perfumes"
   add_foreign_key "reviews", "users"
   add_foreign_key "sale_records", "perfumes"

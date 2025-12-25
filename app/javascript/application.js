@@ -6,6 +6,17 @@ document.addEventListener("DOMContentLoaded", () => {
   const container = document.getElementById("react-root")
   if (container) {
     const root = createRoot(container)
-    root.render(<App />)
+
+    const recommended = JSON.parse(container.dataset.recommended || "[]")
+    const latest = JSON.parse(container.dataset.latest || "[]")
+    const userSignedIn = container.dataset.userSignedIn === "true"
+    const currentUser = container.dataset.currentUser ? JSON.parse(container.dataset.currentUser) : null
+
+    root.render(<App
+      recommended={recommended}
+      latest={latest}
+      userSignedIn={userSignedIn}
+      currentUser={currentUser}
+    />)
   }
 })

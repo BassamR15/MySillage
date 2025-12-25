@@ -19,6 +19,7 @@ class Perfume < ApplicationRecord
   has_many :verifications, dependent: :destroy
   has_many :sale_records, dependent: :destroy
   has_many :orders, dependent: :nullify
+  has_many :recommended_perfumes, dependent: :destroy
 
   has_many :dupe_relations, class_name: "PerfumeDupe", foreign_key: :original_perfume_id, dependent: :destroy
   has_many :dupes, through: :dupe_relations, source: :dupe
@@ -28,4 +29,55 @@ class Perfume < ApplicationRecord
 
   has_many :base_layerings, class_name: "Layering", foreign_key: :base_perfume_id, dependent: :destroy
   has_many :top_layerings, class_name: "Layering", foreign_key: :top_perfume_id, dependent: :destroy
+
+  has_neighbors :embedding
+  after_create :set_embedding
+
+  scope :popular, -> {
+    left_joins(:reviews)
+      .group(:id)
+      .order('COUNT(reviews.id) DESC')
+  }
+
+  scope :latest_releases, -> {
+    where(launch_year: [Date.current.year, Date.current.year - 1])
+      .order(launch_year: :desc, created_at: :desc)
+      .limit(12)
+  }
+
+  private
+
+  def top_seasons
+    votes = season_votes
+    return "all season" if votes.empty?
+
+    total = {
+      spring: votes.where(spring: true).size,
+      fall: votes.where(fall: true).size,
+      winter: votes.where(winter: true).size,
+      summer: votes.where(summer: true).size
+    }
+
+    max_votes = total.values.max
+    return "all seasons" if max_votes == 0
+
+    threshold = max_votes * 0.82
+    total.select { |k, v| v >= threshold }.keys.join(', ')
+  end
+
+  def set_embedding
+    embedding = RubyLLm.embed(
+                              <<~TEXT
+                                #{name} by #{brand.name}.
+                                Gender: #{gender}.
+                                Best season: #{top_seasons}.
+                                Notes: #{notes.map(&:name).join(', ')}.
+                                Families: #{notes.map(&:family).uniq.join(', ')}.
+                                Perfumers: #{perfumers.map(&:name).join(', ')}.
+                                #{description}
+                              TEXT
+    )
+
+    update_column(:embedding, embedding.vectors)
+  end
 end

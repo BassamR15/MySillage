@@ -5,13 +5,23 @@ ruby "3.3.5"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.6"
 
+# LLM
+gem "ruby_llm", "~> 1.2.0"
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
 
+# Image stockage
 gem "cloudinary"
+
+# Job
+gem 'solid_queue'
+
+# Vectors
+gem "neighbor"
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
