@@ -1,0 +1,4739 @@
+{
+  "brand": "Amouage",
+  "country": "Oman",
+  "founded": 1983,
+  "founder": "Sultan Qaboos bin Said al Said",
+  "type": "Niche Luxury",
+  "total_perfumes": 146,
+  "signature_notes": [
+    "Frankincense (Omani)",
+    "Rose",
+    "Oud",
+    "Myrrh",
+    "Sandalwood"
+  ],
+  "price_range": "200-500€+",
+  "database_created": "2025-12-26T10:14:41.648421",
+  "collections": [
+    "Main Collection",
+    "The Attars",
+    "The Essences",
+    "The Exceptional Extraits",
+    "The Library Collection (Opus)",
+    "The Odyssey Collection - Chapter I Renaissance",
+    "The Odyssey Collection - Chapter II Liberation",
+    "The Odyssey Collection - Chapter III Escape",
+    "Secret Garden Collection",
+    "Limited Editions"
+  ],
+  "perfumes": [
+    {
+      "name": "Gold Man",
+      "year": 1983,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Guy Robert",
+      "notes": {
+        "top": [
+          "Lily of the Valley",
+          "Rose",
+          "Jasmine"
+        ],
+        "heart": [
+          "Orris",
+          "Myrrh",
+          "Frankincense"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Civet"
+        ]
+      },
+      "dupes": [],
+      "id": 1,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Dia Man",
+      "year": 2002,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Jean-Claude Ellena",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Labdanum"
+        ],
+        "heart": [
+          "Jasmine",
+          "Rose",
+          "Orris"
+        ],
+        "base": [
+          "Frankincense",
+          "Sandalwood",
+          "Cedar"
+        ]
+      },
+      "dupes": [],
+      "id": 2,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Reflection Man",
+      "year": 2006,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Rosemary",
+          "Pink Pepper",
+          "Petitgrain"
+        ],
+        "heart": [
+          "Jasmine",
+          "Neroli",
+          "Orris",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Sandalwood",
+          "Cedar",
+          "Vetiver",
+          "Patchouli"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Shiyaaka For Men (Silver)",
+          "brand": "Khadlaj",
+          "similarity": 85,
+          "price": 25,
+          "notes": "Meilleur clone budget, très proche du DNA",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Desert Reflection",
+          "brand": "Dua Fragrances",
+          "similarity": 90,
+          "price": 50,
+          "notes": "Clone extrait très puissant et fidèle",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "The Run Way",
+          "brand": "Alexandria Fragrances",
+          "similarity": 88,
+          "price": 55,
+          "notes": "Clone premium UK, extrait concentration",
+          "price_eur": 55,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Mystique Homme",
+          "brand": "Al Haramain",
+          "similarity": 80,
+          "price": 30,
+          "notes": "Alternative florale proche",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Her Desert Reflection",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Version féminine du clone",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 3,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Epic Man",
+      "year": 2009,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Randa Hammami",
+      "notes": {
+        "top": [
+          "Pink Pepper",
+          "Cardamom",
+          "Nutmeg",
+          "Cumin"
+        ],
+        "heart": [
+          "Frankincense",
+          "Myrrh",
+          "Geranium",
+          "Oud"
+        ],
+        "base": [
+          "Leather",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Derby Club House Ascot",
+          "brand": "Armaf",
+          "similarity": 75,
+          "price": 30,
+          "notes": "Inspiration similaire, pas clone exact",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Al Areeq Silver",
+          "brand": "Lattafa",
+          "similarity": 70,
+          "price": 25,
+          "notes": "DNA similaire mais pas clone direct",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Mrs. Sultan's Elixir",
+          "brand": "Dua Fragrances",
+          "similarity": 80,
+          "price": 50,
+          "notes": "Clone version féminine Epic Woman",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 4,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Jubilation XXV Man",
+      "year": 2008,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Bertrand Duchaufour",
+      "notes": {
+        "top": [
+          "Orange",
+          "Blackberry",
+          "Tarragon",
+          "Labdanum"
+        ],
+        "heart": [
+          "Honey",
+          "Cinnamon",
+          "Guaiac Wood",
+          "Bay Leaf",
+          "Clove"
+        ],
+        "base": [
+          "Opoponax",
+          "Frankincense",
+          "Myrrh",
+          "Musk",
+          "Oud"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Golden Rush",
+          "brand": "Alexandria Fragrances",
+          "similarity": 85,
+          "price": 55,
+          "notes": "Clone extrait premium, très fidèle",
+          "price_eur": 55,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Jubilee",
+          "brand": "Montagne Parfums",
+          "similarity": 80,
+          "price": 40,
+          "notes": "Clone occidental abordable",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Oudelation Man",
+          "brand": "Fragrenza",
+          "similarity": 80,
+          "price": 35,
+          "notes": "Clone US, bon rapport qualité/prix",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Rumz 9453 Pour Lui (Leopard)",
+          "brand": "Rasasi",
+          "similarity": 55,
+          "price": 30,
+          "notes": "Hybride Black Afgano/Jubilation, pas un clone direct",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Ecstasy",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone très apprécié de la communauté",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 5,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Lyric Man",
+      "year": 2008,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Bertrand Duchaufour",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Rose",
+          "Angelica",
+          "Kiwi"
+        ],
+        "heart": [
+          "Saffron",
+          "Ginger",
+          "Rose"
+        ],
+        "base": [
+          "Frankincense",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Rose Noir",
+          "brand": "Alexandria Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone rose/safran premium",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 6,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Memoir Man",
+      "year": 2010,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Jean-Claude Ellena",
+      "notes": {
+        "top": [
+          "Absinthe",
+          "Wormwood",
+          "Basil",
+          "Mint"
+        ],
+        "heart": [
+          "Rose",
+          "Frankincense",
+          "Lavender"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vetiver",
+          "Guaiac Wood",
+          "Amber",
+          "Leather",
+          "Tobacco"
+        ]
+      },
+      "dupes": [],
+      "id": 7,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Interlude Man",
+      "year": 2012,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Pierre Negrin",
+      "notes": {
+        "top": [
+          "Oregano",
+          "Bergamot",
+          "Pimento"
+        ],
+        "heart": [
+          "Opoponax",
+          "Frankincense",
+          "Amber",
+          "Labdanum"
+        ],
+        "base": [
+          "Leather",
+          "Oud",
+          "Patchouli",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Supremacy Incense",
+          "brand": "Afnan",
+          "similarity": 85,
+          "price": 35,
+          "notes": "Clone très proche, notes fumées et épicées similaires",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Aromatic Conflict",
+          "brand": "Alexandria Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone premium UK, extrait de parfum",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Midnight Oud",
+          "brand": "Ard Al Zaafaran",
+          "similarity": 80,
+          "price": 20,
+          "notes": "Clone abordable, bonne performance",
+          "price_eur": 20,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Shaghaf Oud Abyad",
+          "brand": "Swiss Arabian",
+          "similarity": 85,
+          "price": 35,
+          "notes": "Très proche de l'original, légèrement plus sucré",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Intermission",
+          "brand": "Montagne Parfums",
+          "similarity": 80,
+          "price": 40,
+          "notes": "Clone occidental de qualité",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 8,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Honour Man",
+      "year": 2011,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Pepper",
+          "Elemi"
+        ],
+        "heart": [
+          "Jasmine",
+          "Iris",
+          "Geranium"
+        ],
+        "base": [
+          "Vetiver",
+          "Cedar",
+          "Sandalwood",
+          "Benzoin"
+        ]
+      },
+      "dupes": [],
+      "id": 9,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Fate Man",
+      "year": 2013,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Annick Menardo",
+      "notes": {
+        "top": [
+          "Cumin",
+          "Mandarin"
+        ],
+        "heart": [
+          "Immortelle",
+          "Copaiba Balsam",
+          "Ciste"
+        ],
+        "base": [
+          "Oud",
+          "Ambergris",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 10,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Journey Man",
+      "year": 2014,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Daniel Maurel",
+      "notes": {
+        "top": [
+          "Juniper Berries",
+          "Pink Pepper",
+          "Caraway"
+        ],
+        "heart": [
+          "Cardamom",
+          "Tobacco",
+          "Incense"
+        ],
+        "base": [
+          "Patchouli",
+          "Benzoin",
+          "Labdanum"
+        ]
+      },
+      "dupes": [],
+      "id": 11,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Figment Man",
+      "year": 2017,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Antoine Maisondieu",
+      "notes": {
+        "top": [
+          "Immortelle",
+          "Beeswax",
+          "Carrot Seeds"
+        ],
+        "heart": [
+          "Rose",
+          "Orris",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Labdanum",
+          "Cypriol",
+          "Patchouli",
+          "Leather"
+        ]
+      },
+      "dupes": [],
+      "id": 12,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Beach Hut Man",
+      "year": 2017,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Elise Benat",
+      "notes": {
+        "top": [
+          "Mint",
+          "Galbanum",
+          "Orange Blossom"
+        ],
+        "heart": [
+          "Ivy",
+          "Vetiver",
+          "Moss"
+        ],
+        "base": [
+          "Woody Notes",
+          "Myrrh",
+          "Patchouli"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Malibu Beach",
+          "brand": "Alexandria Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone premium UK, menthe/vétiver",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Paradise Sunrise",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone extrait très fidèle",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Sand House For Men 1828",
+          "brand": "Perfume Parlour",
+          "similarity": 80,
+          "price": 15,
+          "notes": "Clone UK très abordable",
+          "price_eur": 15,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 13,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Bracken Man",
+      "year": 2017,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Annick Menardo",
+      "notes": {
+        "top": [
+          "Artemisia",
+          "Bitter Orange",
+          "Cumin"
+        ],
+        "heart": [
+          "Cinnamon",
+          "Cardamom",
+          "Rose",
+          "Orris"
+        ],
+        "base": [
+          "Patchouli",
+          "Amber",
+          "Oud"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Cypress Spring",
+          "brand": "Alexandria Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone boisé/épicé premium",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 14,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Sunshine Man",
+      "year": 2018,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Alienor Massenet",
+      "notes": {
+        "top": [
+          "Lavender",
+          "Lemon",
+          "Rum"
+        ],
+        "heart": [
+          "Almond",
+          "Osmanthus",
+          "Cardamom",
+          "Licorice"
+        ],
+        "base": [
+          "Tonka Bean",
+          "Benzoin",
+          "Vanilla",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Aurora Borealis",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone gourmand fidèle",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Sunrise Killer Oud",
+          "brand": "Paris Corner",
+          "similarity": 80,
+          "price": 30,
+          "notes": "Clone oriental",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Killer Oud",
+          "brand": "Pendora Scents",
+          "similarity": 80,
+          "price": 25,
+          "notes": "Clone budget",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 15,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Imitation Man",
+      "year": 2018,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Nathalie Lorson",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Elemi",
+          "Galbanum"
+        ],
+        "heart": [
+          "Leather",
+          "Cinnamon",
+          "Labdanum"
+        ],
+        "base": [
+          "Opoponax",
+          "Musk",
+          "Styrax"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Betrayal",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone cuir/labdanum",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 16,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Enclave",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Mint",
+          "Pepper",
+          "Cinnamon"
+        ],
+        "heart": [
+          "Patchouli",
+          "Vetiver",
+          "Oud"
+        ],
+        "base": [
+          "Vanilla",
+          "Musk",
+          "Ambergris"
+        ]
+      },
+      "dupes": [],
+      "id": 17,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Gold Woman",
+      "year": 1983,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Guy Robert",
+      "notes": {
+        "top": [
+          "Rose",
+          "Lily of the Valley",
+          "Jasmine"
+        ],
+        "heart": [
+          "Orris",
+          "Myrrh",
+          "Frankincense"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Civet"
+        ]
+      },
+      "dupes": [],
+      "id": 18,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Dia Woman",
+      "year": 2002,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Jean-Claude Ellena",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Cassis"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Lotus"
+        ],
+        "base": [
+          "White Musk",
+          "Sandalwood",
+          "Frankincense"
+        ]
+      },
+      "dupes": [],
+      "id": 19,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Reflection Woman",
+      "year": 2006,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Magnolia",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Ylang-Ylang",
+          "Jasmine",
+          "Rose",
+          "Orris"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Cedar"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Her Desert Reflection",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone floral féminin",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 20,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Epic Woman",
+      "year": 2009,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Randa Hammami",
+      "notes": {
+        "top": [
+          "Cumin",
+          "Caraway",
+          "Pink Pepper",
+          "Cinnamon"
+        ],
+        "heart": [
+          "Tea",
+          "Rose",
+          "Geranium",
+          "Oud"
+        ],
+        "base": [
+          "Frankincense",
+          "Amber",
+          "Opoponax",
+          "Musk"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Mrs. Sultan's Elixir",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone épicé/oud féminin",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 21,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Jubilation 25 Woman",
+      "year": 2008,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Bertrand Duchaufour",
+      "notes": {
+        "top": [
+          "Mandarin",
+          "Blackcurrant Bud"
+        ],
+        "heart": [
+          "Ylang-Ylang",
+          "Rose",
+          "Orchid",
+          "Plum"
+        ],
+        "base": [
+          "Frankincense",
+          "Myrrh",
+          "Musk",
+          "Oud"
+        ]
+      },
+      "dupes": [],
+      "id": 22,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Lyric Woman",
+      "year": 2007,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Bertrand Duchaufour",
+      "notes": {
+        "top": [
+          "Mandarin",
+          "Bergamot",
+          "Rose"
+        ],
+        "heart": [
+          "Lily of the Valley",
+          "Jasmine",
+          "Violet",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vanilla",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 23,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Memoir Woman",
+      "year": 2010,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Jean-Claude Ellena",
+      "notes": {
+        "top": [
+          "Mandarin",
+          "Absinthe",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Incense"
+        ],
+        "base": [
+          "Oud",
+          "Musk",
+          "Benzoin"
+        ]
+      },
+      "dupes": [],
+      "id": 24,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Interlude Woman",
+      "year": 2012,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Pierre Negrin",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Oregano",
+          "Amber"
+        ],
+        "heart": [
+          "Incense",
+          "Rose",
+          "Labdanum",
+          "Opoponax"
+        ],
+        "base": [
+          "Musk",
+          "Oud",
+          "Amber",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Queen's Precious Oud",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone féminin fidèle",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 25,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Honour Woman",
+      "year": 2011,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Nathalie Lorson",
+      "notes": {
+        "top": [
+          "Rhubarb",
+          "Pepper"
+        ],
+        "heart": [
+          "Jasmine",
+          "Tuberose",
+          "Gardenia",
+          "Lily of the Valley"
+        ],
+        "base": [
+          "Musk",
+          "Frankincense",
+          "Benzoin"
+        ]
+      },
+      "dupes": [],
+      "id": 26,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Fate Woman",
+      "year": 2013,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Annick Menardo",
+      "notes": {
+        "top": [
+          "Chilli Pepper",
+          "Mandarin",
+          "Bergamot"
+        ],
+        "heart": [
+          "Cinnamon",
+          "Incense",
+          "Champaca",
+          "Jasmine"
+        ],
+        "base": [
+          "Amber",
+          "Musk",
+          "Moss"
+        ]
+      },
+      "dupes": [],
+      "id": 27,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Journey Woman",
+      "year": 2014,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Daniel Maurel",
+      "notes": {
+        "top": [
+          "Apricot",
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Tobacco",
+          "Narcissus",
+          "Champaca"
+        ],
+        "base": [
+          "Oakmoss",
+          "Benzoin",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 28,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Figment Woman",
+      "year": 2017,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Antoine Maisondieu",
+      "notes": {
+        "top": [
+          "Beeswax",
+          "Lotus",
+          "Jasmine"
+        ],
+        "heart": [
+          "Jasmine Sambac",
+          "Orris",
+          "Rose"
+        ],
+        "base": [
+          "Cedar",
+          "Musk",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 29,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Beach Hut Woman",
+      "year": 2017,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Elise Benat",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Grapefruit",
+          "Osmanthus"
+        ],
+        "heart": [
+          "Jasmine",
+          "Frangipani",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Coconut",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 30,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Bracken Woman",
+      "year": 2017,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Annick Menardo",
+      "notes": {
+        "top": [
+          "Cardamom",
+          "Ginger",
+          "Cypress"
+        ],
+        "heart": [
+          "Carnation",
+          "Rose",
+          "Clary Sage"
+        ],
+        "base": [
+          "Cedar",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 31,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Blossom Love",
+      "year": 2017,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Ann Gottlieb",
+      "notes": {
+        "top": [
+          "Cherry Blossom",
+          "Rose",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Honeysuckle",
+          "Ylang-Ylang",
+          "Orange Blossom"
+        ],
+        "base": [
+          "Amberwood",
+          "Musk",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 32,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Sunshine Woman",
+      "year": 2018,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Alienor Massenet",
+      "notes": {
+        "top": [
+          "Blackcurrant",
+          "Magnolia",
+          "Almond"
+        ],
+        "heart": [
+          "Jasmine",
+          "Rose",
+          "Osmanthus"
+        ],
+        "base": [
+          "Papyrus",
+          "Musk",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 33,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Imitation Woman",
+      "year": 2018,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Nathalie Lorson",
+      "notes": {
+        "top": [
+          "Raspberry",
+          "Osmanthus",
+          "Pepper"
+        ],
+        "heart": [
+          "Tuberose",
+          "Orange Blossom",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "id": 34,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Interlude Black Iris",
+      "year": 2020,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Pierre Negrin",
+      "notes": {
+        "top": [
+          "Oregano",
+          "Bergamot"
+        ],
+        "heart": [
+          "Orris",
+          "Opoponax",
+          "Frankincense"
+        ],
+        "base": [
+          "Amber",
+          "Oud",
+          "Leather",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "King's Precious Iris & Oud",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 55,
+          "notes": "Clone iris/oud premium",
+          "price_eur": 55,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 35,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Interlude 53 Man",
+      "year": 2021,
+      "concentration": "Extrait",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Pierre Negrin",
+      "notes": {
+        "top": [
+          "Oregano",
+          "Bergamot",
+          "Pimento"
+        ],
+        "heart": [
+          "Opoponax",
+          "Frankincense",
+          "Amber"
+        ],
+        "base": [
+          "Leather",
+          "Oud",
+          "Sandalwood",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "id": 36,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus I",
+      "year": 2011,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Coriander"
+        ],
+        "heart": [
+          "Rose",
+          "Cardamom",
+          "Incense"
+        ],
+        "base": [
+          "Amber",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 37,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus II",
+      "year": 2012,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Coriander",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Oud",
+          "Incense"
+        ],
+        "base": [
+          "Sandalwood",
+          "Cedar",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 38,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus III",
+      "year": 2012,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Coriander",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Saffron",
+          "Incense"
+        ],
+        "base": [
+          "Oud",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 39,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus IV",
+      "year": 2012,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Pink Pepper",
+          "Bergamot"
+        ],
+        "heart": [
+          "Incense",
+          "Nutmeg",
+          "Saffron"
+        ],
+        "base": [
+          "Amber",
+          "Musk",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 40,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus V",
+      "year": 2013,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Pierre Negrin",
+      "notes": {
+        "top": [
+          "Rum",
+          "Violet Leaf"
+        ],
+        "heart": [
+          "Jasmine",
+          "Iris",
+          "Opoponax"
+        ],
+        "base": [
+          "Musk",
+          "Amber",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 41,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus VI",
+      "year": 2014,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Galbanum",
+          "Lemon"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Incense"
+        ],
+        "base": [
+          "Musk",
+          "Amber",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 42,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus VII",
+      "year": 2014,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Fabrice Pellegrin",
+      "notes": {
+        "top": [
+          "Lime",
+          "Bergamot",
+          "Lotus"
+        ],
+        "heart": [
+          "Jasmine",
+          "Tuberose",
+          "Frankincense"
+        ],
+        "base": [
+          "Benzoin",
+          "Musk",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 43,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus VIII",
+      "year": 2015,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Christophe Raynaud",
+      "notes": {
+        "top": [
+          "Pepper",
+          "Bergamot",
+          "Cinnamon"
+        ],
+        "heart": [
+          "Jasmine",
+          "Plum",
+          "Opoponax"
+        ],
+        "base": [
+          "Musk",
+          "Benzoin",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 44,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus IX",
+      "year": 2016,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Rose",
+          "Saffron",
+          "Bergamot"
+        ],
+        "heart": [
+          "Oud",
+          "Myrrh",
+          "Incense"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 45,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus X",
+      "year": 2017,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Green Notes"
+        ],
+        "heart": [
+          "Rose",
+          "Oud",
+          "Incense"
+        ],
+        "base": [
+          "Vanilla",
+          "Amber",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 46,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus XI",
+      "year": 2018,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Violaine Collas",
+      "notes": {
+        "top": [
+          "Pink Pepper",
+          "Petitgrain"
+        ],
+        "heart": [
+          "Incense",
+          "Jasmine",
+          "Myrrh"
+        ],
+        "base": [
+          "Ambergris",
+          "Labdanum",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 47,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus XII - Rose Incense",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Frankincense",
+          "Myrrh"
+        ],
+        "base": [
+          "Sandalwood",
+          "Benzoin",
+          "Musk"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "With Love From Oman",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 55,
+          "notes": "Clone rose/encens premium",
+          "price_eur": 55,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 48,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus XIII - Silver Oud",
+      "year": 2020,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pepper"
+        ],
+        "heart": [
+          "Oud",
+          "Rose",
+          "Incense"
+        ],
+        "base": [
+          "Amber",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 49,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus XIV - Royal Tobacco",
+      "year": 2021,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Cinnamon",
+          "Bergamot"
+        ],
+        "heart": [
+          "Tobacco",
+          "Honey",
+          "Rose"
+        ],
+        "base": [
+          "Benzoin",
+          "Amber",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 50,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus XV - King Blue",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Frankincense",
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Myrrh",
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 51,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Guidance",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter I Renaissance",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Rose Water",
+          "Pear",
+          "Hazelnut",
+          "Frankincense"
+        ],
+        "heart": [
+          "Rose",
+          "Osmanthus",
+          "Jasmine"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vanilla",
+          "Ambergris"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Decadent Dream",
+          "brand": "Maison Alhambra",
+          "similarity": 90,
+          "price": 25,
+          "notes": "Clone 2025 très proche, version plus légère",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Bayn Al Asrar",
+          "brand": "Paris Corner",
+          "similarity": 85,
+          "price": 30,
+          "notes": "Clone du DNA Guidance, plus aqueux",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "The Guide",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone premium",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Signature Pearl",
+          "brand": "Fragrance World",
+          "similarity": 80,
+          "price": 25,
+          "notes": "Clone budget abordable",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Musc Pour Amber",
+          "brand": "Khadlaj",
+          "similarity": 80,
+          "price": 25,
+          "notes": "Alternative musquée",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Impadia",
+          "brand": "BDK Parfums",
+          "similarity": 75,
+          "price": 150,
+          "notes": "Inspiration niche, pas un clone direct",
+          "price_eur": 150,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Mouj Gardens",
+          "brand": "Milestone",
+          "similarity": 80,
+          "price": 30,
+          "notes": "Clone du DNA",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Miss Gris Intense",
+          "brand": "Assaf",
+          "similarity": 80,
+          "price": 35,
+          "notes": "Clone vérifié",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Athena's Wisdom",
+          "brand": "Barrett Fragrances",
+          "similarity": 80,
+          "price": 40,
+          "notes": "Clone artisanal",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 52,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Purpose",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter I Renaissance",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Frankincense",
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Vetiver",
+          "Sandalwood"
+        ],
+        "base": [
+          "Vanilla",
+          "Saffron",
+          "Suede",
+          "Ambergris"
+        ]
+      },
+      "dupes": [],
+      "id": 53,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Meander",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter II Liberation",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Cardamom",
+          "Carrot Seeds"
+        ],
+        "heart": [
+          "Tuberose",
+          "Jasmine",
+          "Heliotrope"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vanilla",
+          "Musk"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Risky Business",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone tubéreuse/jasmin",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 54,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Material",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter II Liberation",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper",
+          "Frankincense"
+        ],
+        "heart": [
+          "Rose",
+          "Oud",
+          "Saffron"
+        ],
+        "base": [
+          "Leather",
+          "Sandalwood",
+          "Ambergris"
+        ]
+      },
+      "dupes": [],
+      "id": 55,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Search",
+      "year": 2023,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter III Escape",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Lemon",
+          "Lime",
+          "Frankincense"
+        ],
+        "heart": [
+          "Elemi",
+          "Pepper",
+          "Vetiver"
+        ],
+        "base": [
+          "Cedar",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 56,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Boundless",
+      "year": 2023,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter III Escape",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper",
+          "Elemi"
+        ],
+        "heart": [
+          "Saffron",
+          "Rose",
+          "Incense"
+        ],
+        "base": [
+          "Leather",
+          "Oud",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 57,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Decision",
+      "year": 2025,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter III Escape",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Frankincense",
+          "Bergamot",
+          "Cardamom",
+          "Pepper"
+        ],
+        "heart": [
+          "Myrrh",
+          "Juniper Berries",
+          "Rose"
+        ],
+        "base": [
+          "Leather",
+          "Vanilla",
+          "Sandalwood",
+          "Ambergris"
+        ]
+      },
+      "dupes": [],
+      "id": 58,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Existence",
+      "year": 2025,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter III Escape",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Aldehydes",
+          "Lemon",
+          "Frankincense"
+        ],
+        "heart": [
+          "Lily of the Valley",
+          "Rose",
+          "Incense"
+        ],
+        "base": [
+          "Musk",
+          "Sandalwood",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 59,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Reflection 45",
+      "year": 2023,
+      "concentration": "Extrait",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Rosemary",
+          "Pink Pepper",
+          "Petitgrain"
+        ],
+        "heart": [
+          "Jasmine",
+          "Neroli",
+          "Orris"
+        ],
+        "base": [
+          "Sandalwood",
+          "Cedar",
+          "Vetiver",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 60,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Guidance 46",
+      "year": 2024,
+      "concentration": "Extrait",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Rose Water",
+          "Pear",
+          "Hazelnut",
+          "Bitter Almond",
+          "Frankincense"
+        ],
+        "heart": [
+          "Rose",
+          "Osmanthus",
+          "Saffron",
+          "Jasmine Sambac"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vanilla",
+          "Ambergris",
+          "Cypriol"
+        ]
+      },
+      "dupes": [],
+      "id": 61,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Dia 40",
+      "year": 2023,
+      "concentration": "Extrait",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Jean-Claude Ellena",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Cassis"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Lotus",
+          "Orris"
+        ],
+        "base": [
+          "Musk",
+          "Sandalwood",
+          "Frankincense",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 62,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Jubilation 40",
+      "year": 2023,
+      "concentration": "Extrait",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Bertrand Duchaufour",
+      "notes": {
+        "top": [
+          "Orange",
+          "Blackberry",
+          "Tarragon",
+          "Labdanum"
+        ],
+        "heart": [
+          "Honey",
+          "Cinnamon",
+          "Guaiac Wood",
+          "Bay Leaf"
+        ],
+        "base": [
+          "Opoponax",
+          "Frankincense",
+          "Myrrh",
+          "Oud",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 63,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Purpose 50",
+      "year": 2025,
+      "concentration": "Extrait",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pimento",
+          "Frankincense"
+        ],
+        "heart": [
+          "Rose",
+          "Vetiver",
+          "Sandalwood",
+          "Papyrus"
+        ],
+        "base": [
+          "Saffron",
+          "Suede",
+          "Vanilla",
+          "Ambergris"
+        ]
+      },
+      "dupes": [],
+      "id": 64,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Lustre",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Essences",
+      "perfumer": "Julien Rasquinet & Paul Guerlain",
+      "notes": {
+        "top": [
+          "Cardamom",
+          "Orris"
+        ],
+        "heart": [
+          "Sandalwood",
+          "Cedar",
+          "Patchouli"
+        ],
+        "base": [
+          "Myrrh",
+          "Benzoin",
+          "Vanilla",
+          "Tonka Bean"
+        ]
+      },
+      "dupes": [],
+      "id": 65,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Outlands",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Essences",
+      "perfumer": "Cécile Zarokian",
+      "notes": {
+        "top": [
+          "Frankincense",
+          "Cardamom",
+          "Lemon",
+          "Bergamot"
+        ],
+        "heart": [
+          "Patchouli",
+          "Saffron",
+          "Rose",
+          "Orange Blossom"
+        ],
+        "base": [
+          "Frankincense",
+          "Vanilla",
+          "Benzoin",
+          "Amber",
+          "Oud"
+        ]
+      },
+      "dupes": [],
+      "id": 66,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Reasons",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Essences",
+      "perfumer": "Bertrand Duchaufour",
+      "notes": {
+        "top": [
+          "Cardamom",
+          "Pink Pepper",
+          "Hazelnut",
+          "Cinnamon"
+        ],
+        "heart": [
+          "Pine",
+          "Davana",
+          "Cypriol",
+          "Cashmeran",
+          "Patchouli"
+        ],
+        "base": [
+          "Palo Santo",
+          "Myrrh",
+          "Sandalwood",
+          "Benzoin"
+        ]
+      },
+      "dupes": [],
+      "id": 67,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Love Tuberose",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Secret Garden Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Pink Pepper",
+          "Bergamot"
+        ],
+        "heart": [
+          "Tuberose",
+          "Jasmine",
+          "Osmanthus"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Cedar"
+        ]
+      },
+      "dupes": [],
+      "id": 68,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Love Mimosa",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Secret Garden Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Mandarin"
+        ],
+        "heart": [
+          "Mimosa",
+          "Heliotrope",
+          "Iris"
+        ],
+        "base": [
+          "Sandalwood",
+          "Tonka Bean",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 69,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Love Delight",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Secret Garden Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Ginger",
+          "Mandarin",
+          "Rose Water",
+          "Cinnamon"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Chocolate"
+        ],
+        "base": [
+          "Vanilla",
+          "Tonka Bean",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 70,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Homage Attar",
+      "year": 2017,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Incense",
+          "Myrrh"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 71,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Tribute Attar",
+      "year": 2017,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Rose",
+          "Bergamot"
+        ],
+        "heart": [
+          "Frankincense",
+          "Oud",
+          "Saffron"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 72,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Luban Al Akhdar",
+      "year": 2025,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Green Frankincense",
+          "Bergamot"
+        ],
+        "heart": [
+          "Incense",
+          "Rose",
+          "Myrrh"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 73,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Cristal & Gold Man",
+      "year": 2023,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Limited Editions",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Frankincense",
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Oud",
+          "Myrrh"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 74,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Cristal & Gold Woman",
+      "year": 2023,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Limited Editions",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Rose",
+          "Jasmine"
+        ],
+        "heart": [
+          "Frankincense",
+          "Ylang-Ylang",
+          "Orris"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 75,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ubar",
+      "year": 1995,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "Creations Aromatiques",
+      "notes": {
+        "top": [
+          "Tangerine",
+          "Orange",
+          "Violet Leaf",
+          "Litsea Cubeba"
+        ],
+        "heart": [
+          "Jasmine",
+          "Ylang-Ylang",
+          "Tuberose",
+          "Orange Blossom",
+          "Lily of the Valley"
+        ],
+        "base": [
+          "Black Amber",
+          "Sandalwood",
+          "Patchouli",
+          "Vanilla",
+          "Vetiver"
+        ]
+      },
+      "dupes": [],
+      "id": 76,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ciel Pour Homme",
+      "year": 2003,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Jean-Claude Ellena",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Lime",
+          "Coriander"
+        ],
+        "heart": [
+          "Jasmine",
+          "Lily of the Valley",
+          "Rose"
+        ],
+        "base": [
+          "Cedar",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 77,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ciel Pour Femme",
+      "year": 2003,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Jean-Claude Ellena",
+      "notes": {
+        "top": [
+          "Peach",
+          "Bergamot",
+          "Coconut"
+        ],
+        "heart": [
+          "Jasmine",
+          "Rose",
+          "Ylang-Ylang",
+          "Lily of the Valley"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Cedar"
+        ]
+      },
+      "dupes": [],
+      "id": 78,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Silver Man",
+      "year": 2005,
+      "concentration": "Cologne",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Lemon",
+          "Lime",
+          "Neroli"
+        ],
+        "heart": [
+          "Jasmine",
+          "Orange Blossom",
+          "Coriander"
+        ],
+        "base": [
+          "Musk",
+          "Cedar",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 79,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Beloved Man",
+      "year": 2013,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Orange",
+          "Grapefruit",
+          "Elemi",
+          "Black Pepper",
+          "Cardamom"
+        ],
+        "heart": [
+          "Geranium",
+          "Jasmine",
+          "Orris",
+          "Saffron"
+        ],
+        "base": [
+          "Cedar",
+          "Guaiac Wood",
+          "Leather",
+          "Patchouli",
+          "Musk",
+          "Vetiver"
+        ]
+      },
+      "dupes": [],
+      "id": 80,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Beloved Woman",
+      "year": 2013,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Davana",
+          "Kiwi",
+          "Green Apple",
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Orchid"
+        ],
+        "base": [
+          "Sandalwood",
+          "Cedar",
+          "Musk",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 81,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Myths Man",
+      "year": 2016,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Pink Pepper",
+          "Grapefruit",
+          "Violet Leaf"
+        ],
+        "heart": [
+          "Orris",
+          "Jasmine",
+          "Heliotrope"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk",
+          "Vetiver"
+        ]
+      },
+      "dupes": [],
+      "id": 82,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Myths Woman",
+      "year": 2016,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Mandarin",
+          "Pink Pepper",
+          "Cardamom"
+        ],
+        "heart": [
+          "Rose",
+          "Orris",
+          "Jasmine"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Amber",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "id": 83,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ashore",
+      "year": 2020,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Sea Salt",
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Ylang-Ylang",
+          "Jasmine"
+        ],
+        "base": [
+          "Ambergris",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 84,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Al Mas",
+      "year": 2015,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Saffron"
+        ],
+        "heart": [
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Musk",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 85,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Rose Aqor",
+      "year": 2015,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Saffron"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 86,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Sunshine Attar",
+      "year": 2022,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Lavender",
+          "Citrus"
+        ],
+        "heart": [
+          "Almond",
+          "Osmanthus"
+        ],
+        "base": [
+          "Vanilla",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 87,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Oudh Al Khaloud",
+      "year": 2000,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Oud"
+        ],
+        "heart": [
+          "Rose",
+          "Saffron"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 88,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Taifi Rose",
+      "year": 2000,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Taifi Rose"
+        ],
+        "base": [
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 89,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Sandal",
+      "year": 2000,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Sandalwood"
+        ],
+        "heart": [
+          "Rose"
+        ],
+        "base": [
+          "Musk",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 90,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Molook",
+      "year": 2000,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Rose",
+          "Frankincense"
+        ],
+        "heart": [
+          "Oud",
+          "Saffron"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 91,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Afrah",
+      "year": 2000,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Jasmine",
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Incense"
+        ],
+        "base": [
+          "Musk",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 92,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Badr Al Badour",
+      "year": 2000,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Jasmine"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 93,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Love Osmanthus",
+      "year": 2023,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Secret Garden Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pear"
+        ],
+        "heart": [
+          "Osmanthus",
+          "Jasmine",
+          "Peach"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 94,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Eau d'Amouage",
+      "year": 2015,
+      "concentration": "EDC",
+      "gender": "unisexe",
+      "status": "discontinued",
+      "collection": "Limited Editions",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Lemon"
+        ],
+        "heart": [
+          "Jasmine",
+          "Rose"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 95,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Esprit d'Amouage",
+      "year": 2015,
+      "concentration": "Parfum",
+      "gender": "unisexe",
+      "status": "discontinued",
+      "collection": "Limited Editions",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Frankincense",
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Jasmine"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 96,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Reflection 45 Woman",
+      "year": 2023,
+      "concentration": "Extrait",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Magnolia",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Ylang-Ylang",
+          "Jasmine",
+          "Rose",
+          "Orris"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Cedar",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 97,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Interlude Woman 53",
+      "year": 2022,
+      "concentration": "Extrait",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Pierre Negrin",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Oregano",
+          "Amber"
+        ],
+        "heart": [
+          "Incense",
+          "Rose",
+          "Labdanum",
+          "Opoponax"
+        ],
+        "base": [
+          "Musk",
+          "Oud",
+          "Amber",
+          "Sandalwood",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 98,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Overture Man",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper",
+          "Cardamom"
+        ],
+        "heart": [
+          "Rose",
+          "Orris",
+          "Frankincense"
+        ],
+        "base": [
+          "Oud",
+          "Amber",
+          "Leather",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Harmony",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone oriental premium",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 99,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Overture Woman",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Orris"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 100,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Crimson Rocks",
+      "year": 2020,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Pink Pepper",
+          "Bergamot",
+          "Grapefruit"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Orris"
+        ],
+        "base": [
+          "Oud",
+          "Amber",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 101,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Renaissance",
+      "year": 2021,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter I Renaissance",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Frankincense",
+          "Orris"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 102,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Liberation",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "Odyssey - Chapter II Liberation",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Cardamom"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Incense"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vanilla",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 103,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Opus XVI - Reckless Leather",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Library Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper",
+          "Cardamom"
+        ],
+        "heart": [
+          "Leather",
+          "Rose",
+          "Frankincense"
+        ],
+        "base": [
+          "Oud",
+          "Sandalwood",
+          "Amber",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 104,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Portrayal Man",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Violaine Collas",
+      "notes": {
+        "top": [
+          "Pepper",
+          "Bergamot"
+        ],
+        "heart": [
+          "Oud",
+          "Incense",
+          "Rose"
+        ],
+        "base": [
+          "Leather",
+          "Amber",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 105,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Portrayal Woman",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Violaine Collas",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Incense"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 106,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Homage",
+      "year": 2003,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Frankincense",
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Saffron"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 107,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Tribute",
+      "year": 2003,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Rose",
+          "Bergamot"
+        ],
+        "heart": [
+          "Frankincense",
+          "Oud"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Attar Al Ghutra",
+          "brand": "Swiss Arabian",
+          "similarity": 80,
+          "price": 40,
+          "notes": "Clone attar oriental",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 108,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Arcus",
+      "year": 2010,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Mandarin"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Cedar"
+        ]
+      },
+      "dupes": [],
+      "id": 109,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Jubilation for Men",
+      "year": 2003,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Orange"
+        ],
+        "heart": [
+          "Frankincense",
+          "Myrrh",
+          "Rose"
+        ],
+        "base": [
+          "Sandalwood",
+          "Oud",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 110,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Jubilation for Women",
+      "year": 2003,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Mandarin",
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Orchid"
+        ],
+        "base": [
+          "Frankincense",
+          "Myrrh",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 111,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ashmegh",
+      "year": 2005,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Sandalwood"
+        ],
+        "base": [
+          "Musk",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 112,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Dahn Al Oudh Moattaq",
+      "year": 2010,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Oud"
+        ],
+        "heart": [
+          "Saffron",
+          "Rose"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 113,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Nahshaboon Attar",
+      "year": 2010,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Rose",
+          "Spices"
+        ],
+        "heart": [
+          "Oud",
+          "Frankincense"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 114,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "First Instinct Together for Her",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Limited Editions",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 115,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Midnight Flower",
+      "year": 2016,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Limited Editions",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Mandarin"
+        ],
+        "heart": [
+          "Tuberose",
+          "Jasmine",
+          "Rose"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 116,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Honour 42",
+      "year": 2023,
+      "concentration": "Extrait",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Pepper",
+          "Elemi"
+        ],
+        "heart": [
+          "Jasmine",
+          "Iris",
+          "Geranium"
+        ],
+        "base": [
+          "Vetiver",
+          "Cedar",
+          "Sandalwood",
+          "Benzoin",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 117,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Honour 42 Woman",
+      "year": 2023,
+      "concentration": "Extrait",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Nathalie Lorson",
+      "notes": {
+        "top": [
+          "Rhubarb",
+          "Pepper"
+        ],
+        "heart": [
+          "Jasmine",
+          "Tuberose",
+          "Gardenia"
+        ],
+        "base": [
+          "Musk",
+          "Frankincense",
+          "Benzoin",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 118,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ubar (2009)",
+      "year": 2009,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Creations Aromatiques",
+      "notes": {
+        "top": [
+          "Tangerine",
+          "Orange",
+          "Violet Leaf"
+        ],
+        "heart": [
+          "Jasmine",
+          "Ylang-Ylang",
+          "Tuberose",
+          "Orange Blossom"
+        ],
+        "base": [
+          "Black Amber",
+          "Sandalwood",
+          "Patchouli",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 119,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Honour 43 Man",
+      "year": 2024,
+      "concentration": "Extrait",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Lucas Sieuzac",
+      "notes": {
+        "top": [
+          "Pepper",
+          "Elemi",
+          "Bergamot"
+        ],
+        "heart": [
+          "Jasmine",
+          "Iris",
+          "Geranium"
+        ],
+        "base": [
+          "Vetiver",
+          "Cedar",
+          "Sandalwood",
+          "Benzoin"
+        ]
+      },
+      "dupes": [],
+      "id": 120,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Memoir 43",
+      "year": 2024,
+      "concentration": "Extrait",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Jean-Claude Ellena",
+      "notes": {
+        "top": [
+          "Absinthe",
+          "Wormwood",
+          "Basil"
+        ],
+        "heart": [
+          "Rose",
+          "Frankincense",
+          "Lavender"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vetiver",
+          "Leather",
+          "Tobacco",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 121,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Boundless 44",
+      "year": 2024,
+      "concentration": "Extrait",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper",
+          "Elemi"
+        ],
+        "heart": [
+          "Saffron",
+          "Rose",
+          "Incense"
+        ],
+        "base": [
+          "Leather",
+          "Oud",
+          "Amber",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 122,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "First Instinct Man",
+      "year": 2021,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper",
+          "Cardamom"
+        ],
+        "heart": [
+          "Rose",
+          "Frankincense",
+          "Orris"
+        ],
+        "base": [
+          "Oud",
+          "Leather",
+          "Sandalwood"
+        ]
+      },
+      "dupes": [],
+      "id": 123,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "First Instinct Woman",
+      "year": 2021,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Main Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vanilla",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 124,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Attar Homage",
+      "year": 2000,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Rose",
+          "Frankincense"
+        ],
+        "heart": [
+          "Oud",
+          "Saffron"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 125,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Attar Tribute",
+      "year": 2000,
+      "concentration": "Attar",
+      "gender": "unisexe",
+      "status": "current",
+      "collection": "The Attars",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Rose",
+          "Bergamot"
+        ],
+        "heart": [
+          "Frankincense",
+          "Oud",
+          "Saffron"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber"
+        ]
+      },
+      "dupes": [],
+      "id": 126,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Gold 45",
+      "year": 2024,
+      "concentration": "Extrait",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Rose",
+          "Lily of the Valley"
+        ],
+        "heart": [
+          "Jasmine",
+          "Orris",
+          "Myrrh"
+        ],
+        "base": [
+          "Frankincense",
+          "Sandalwood",
+          "Civet",
+          "Vanilla"
+        ]
+      },
+      "dupes": [],
+      "id": 127,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Lyric 46",
+      "year": 2024,
+      "concentration": "Extrait",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "The Exceptional Extraits",
+      "perfumer": "Bertrand Duchaufour",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Rose",
+          "Angelica"
+        ],
+        "heart": [
+          "Saffron",
+          "Ginger",
+          "Rose"
+        ],
+        "base": [
+          "Frankincense",
+          "Sandalwood",
+          "Vanilla",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 128,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Love Jasmine",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Secret Garden Collection",
+      "perfumer": "Quentin Bisch",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Mandarin"
+        ],
+        "heart": [
+          "Jasmine Sambac",
+          "Rose",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Cedar"
+        ]
+      },
+      "dupes": [],
+      "id": 129,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Dia Pure Perfume",
+      "year": 2005,
+      "concentration": "Parfum",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "Jean-Claude Ellena",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Cassis"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Lotus"
+        ],
+        "base": [
+          "White Musk",
+          "Sandalwood",
+          "Frankincense"
+        ]
+      },
+      "dupes": [],
+      "id": 130,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Gold Pure Perfume",
+      "year": 2005,
+      "concentration": "Parfum",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Main Collection",
+      "perfumer": "Guy Robert",
+      "notes": {
+        "top": [
+          "Rose",
+          "Lily of the Valley",
+          "Jasmine"
+        ],
+        "heart": [
+          "Orris",
+          "Myrrh",
+          "Frankincense"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Civet"
+        ]
+      },
+      "dupes": [],
+      "id": 131,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Salaam",
+      "year": 2015,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "limited",
+      "collection": "Limited Editions",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Frankincense",
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Saffron"
+        ],
+        "base": [
+          "Sandalwood",
+          "Amber",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 132,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Shua",
+      "year": 2015,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "limited",
+      "collection": "Limited Editions",
+      "perfumer": "N/A",
+      "notes": {
+        "top": [
+          "Citrus",
+          "Spices"
+        ],
+        "heart": [
+          "Incense",
+          "Rose"
+        ],
+        "base": [
+          "Oud",
+          "Sandalwood",
+          "Musk"
+        ]
+      },
+      "dupes": [],
+      "id": 133,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    }
+  ],
+  "dupe_summary": {
+    "total_dupes_found": 44,
+    "perfumes_with_dupes": 18,
+    "dupe_difficulty": "ÉLEVÉE - Compositions complexes avec ingrédients de haute qualité, mais les maisons de clones ont fait des progrès significatifs",
+    "most_cloned": [
+      {
+        "perfume": "Guidance",
+        "dupe_count": 9,
+        "best_dupe": "Maison Alhambra Decadent Dream (90%)"
+      },
+      {
+        "perfume": "Reflection Man",
+        "dupe_count": 5,
+        "best_dupe": "Khadlaj Shiyaaka For Men (Silver) (85%)"
+      },
+      {
+        "perfume": "Jubilation XXV Man",
+        "dupe_count": 5,
+        "best_dupe": "Alexandria Fragrances Golden Rush (85%)"
+      },
+      {
+        "perfume": "Interlude Man",
+        "dupe_count": 5,
+        "best_dupe": "Afnan Supremacy Incense (85%)"
+      },
+      {
+        "perfume": "Epic Man",
+        "dupe_count": 3,
+        "best_dupe": "Armaf Derby Club House Ascot (75%)"
+      },
+      {
+        "perfume": "Beach Hut Man",
+        "dupe_count": 3,
+        "best_dupe": "Alexandria Fragrances Malibu Beach (85%)"
+      },
+      {
+        "perfume": "Sunshine Man",
+        "dupe_count": 3,
+        "best_dupe": "Dua Fragrances Aurora Borealis (85%)"
+      },
+      {
+        "perfume": "Lyric Man",
+        "dupe_count": 1,
+        "best_dupe": "Alexandria Fragrances Rose Noir (85%)"
+      },
+      {
+        "perfume": "Bracken Man",
+        "dupe_count": 1,
+        "best_dupe": "Alexandria Fragrances Cypress Spring (85%)"
+      },
+      {
+        "perfume": "Imitation Man",
+        "dupe_count": 1,
+        "best_dupe": "Dua Fragrances Betrayal (85%)"
+      }
+    ],
+    "clone_houses": [
+      {
+        "brand": "Dua Fragrances",
+        "clones": [
+          "Desert Reflection (Reflection Man - 90%)",
+          "Her Desert Reflection (Reflection Man - 85%)",
+          "Mrs. Sultan's Elixir (Epic Man - 80%)",
+          "Ecstasy (Jubilation XXV Man - 85%)",
+          "Paradise Sunrise (Beach Hut Man - 85%)",
+          "Aurora Borealis (Sunshine Man - 85%)",
+          "Betrayal (Imitation Man - 85%)",
+          "Her Desert Reflection (Reflection Woman - 85%)",
+          "Mrs. Sultan's Elixir (Epic Woman - 85%)",
+          "Queen's Precious Oud (Interlude Woman - 85%)",
+          "King's Precious Iris & Oud (Interlude Black Iris - 85%)",
+          "With Love From Oman (Opus XII - Rose Incense - 85%)",
+          "The Guide (Guidance - 85%)",
+          "Risky Business (Meander - 85%)",
+          "Harmony (Overture Man - 85%)"
+        ]
+      },
+      {
+        "brand": "Alexandria Fragrances",
+        "clones": [
+          "The Run Way (Reflection Man - 88%)",
+          "Golden Rush (Jubilation XXV Man - 85%)",
+          "Rose Noir (Lyric Man - 85%)",
+          "Aromatic Conflict (Interlude Man - 85%)",
+          "Malibu Beach (Beach Hut Man - 85%)",
+          "Cypress Spring (Bracken Man - 85%)"
+        ]
+      },
+      {
+        "brand": "Khadlaj",
+        "clones": [
+          "Shiyaaka For Men (Silver) (Reflection Man - 85%)",
+          "Musc Pour Amber (Guidance - 80%)"
+        ]
+      },
+      {
+        "brand": "Montagne Parfums",
+        "clones": [
+          "Jubilee (Jubilation XXV Man - 80%)",
+          "Intermission (Interlude Man - 80%)"
+        ]
+      },
+      {
+        "brand": "Swiss Arabian",
+        "clones": [
+          "Shaghaf Oud Abyad (Interlude Man - 85%)",
+          "Attar Al Ghutra (Tribute - 80%)"
+        ]
+      },
+      {
+        "brand": "Paris Corner",
+        "clones": [
+          "Sunrise Killer Oud (Sunshine Man - 80%)",
+          "Bayn Al Asrar (Guidance - 85%)"
+        ]
+      },
+      {
+        "brand": "Al Haramain",
+        "clones": [
+          "Mystique Homme (Reflection Man - 80%)"
+        ]
+      },
+      {
+        "brand": "Armaf",
+        "clones": [
+          "Derby Club House Ascot (Epic Man - 75%)"
+        ]
+      },
+      {
+        "brand": "Lattafa",
+        "clones": [
+          "Al Areeq Silver (Epic Man - 70%)"
+        ]
+      },
+      {
+        "brand": "Fragrenza",
+        "clones": [
+          "Oudelation Man (Jubilation XXV Man - 80%)"
+        ]
+      },
+      {
+        "brand": "Rasasi",
+        "clones": [
+          "Rumz 9453 Pour Lui (Leopard) (Jubilation XXV Man - 55%)"
+        ]
+      },
+      {
+        "brand": "Afnan",
+        "clones": [
+          "Supremacy Incense (Interlude Man - 85%)"
+        ]
+      },
+      {
+        "brand": "Ard Al Zaafaran",
+        "clones": [
+          "Midnight Oud (Interlude Man - 80%)"
+        ]
+      },
+      {
+        "brand": "Perfume Parlour",
+        "clones": [
+          "Sand House For Men 1828 (Beach Hut Man - 80%)"
+        ]
+      },
+      {
+        "brand": "Pendora Scents",
+        "clones": [
+          "Killer Oud (Sunshine Man - 80%)"
+        ]
+      }
+    ],
+    "why_amouage_clones_exist": "Malgré la complexité des compositions Amouage, la popularité de la marque a motivé plusieurs maisons de clones (Dua, Alexandria, Lattafa, etc.) à créer des alternatives. Les clones ne reproduisent pas parfaitement la profondeur et l'évolution, mais offrent des alternatives accessibles.",
+    "best_clone_houses_for_amouage": [
+      "Dua Fragrances - Spécialiste Amouage avec de nombreux clones premium",
+      "Alexandria Fragrances UK - Clones extrait haute concentration",
+      "Maison Alhambra - Clone Guidance très réussi",
+      "Afnan - Supremacy Incense excellent clone Interlude",
+      "Khadlaj - Shiyaaka Silver meilleur rapport qualité/prix"
+    ]
+  },
+  "perfume_count": 133,
+  "database_updated": "2025-12-26T10:21:15.800257",
+  "catalogued_perfumes": 133,
+  "headquarters": "Muscat, Oman",
+  "website": "https://www.amouage.com",
+  "description": "Maison omanaise de haute parfumerie, réputée pour ses compositions orientales luxueuses."
+}

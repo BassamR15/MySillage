@@ -1,0 +1,1758 @@
+{
+  "brand": "Maison Crivelli",
+  "description": "Maison Crivelli est une maison de haute parfumerie française fondée par Thibaud Crivelli en 2018. Chaque création partage le souvenir d'une rencontre inattendue et ultra-sensorielle avec des matières premières de parfumerie. Les parfums surprennent par leurs contrastes, leur originalité et leur modernité.",
+  "founded": 2018,
+  "founder": "Thibaud Crivelli",
+  "country": "France",
+  "website": "https://maisoncrivelli.com",
+  "perfume_count": 21,
+  "collections": [
+    "Olfactory Shocks",
+    "Olfactory Experiences",
+    "Olfactory Mysteries"
+  ],
+  "signature_notes": [
+    "Hibiscus",
+    "Oud",
+    "Fruit de la passion",
+    "Tubéreuse",
+    "Safran",
+    "Iris",
+    "Patchouli",
+    "Santal"
+  ],
+  "price_range": {
+    "min": 200,
+    "max": 370,
+    "currency": "EUR"
+  },
+  "perfumes": [
+    {
+      "name": "Hibiscus Mahajád",
+      "brand": "Maison Crivelli",
+      "year": 2021,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Shocks",
+      "olfactory_family": "Floral Oriental",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "description": "L'expérience : une dégustation de thé d'hibiscus au cœur d'un marché de pierres précieuses. Contraste entre hibiscus/rose et cuir/vanille.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Hibiscus",
+          "Grenade",
+          "Cassis"
+        ],
+        "heart": [
+          "Rose damascena",
+          "Menthe verte",
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille absolue",
+          "Cuir",
+          "Ambrette"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Hibiscus Magic",
+          "brand": "Fragrance World",
+          "year": 2023,
+          "concentration": "EDP",
+          "olfactory_family": "Floral Oriental",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Hibiscus",
+              "Grenade"
+            ],
+            "heart": [
+              "Rose",
+              "Menthe"
+            ],
+            "base": [
+              "Vanille",
+              "Cuir"
+            ]
+          },
+          "similarity": "88%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Ibisco Nirvana",
+          "brand": "Paris Corner",
+          "year": 2023,
+          "concentration": "EDP",
+          "olfactory_family": "Floral Oriental",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Hibiscus",
+              "Cassis"
+            ],
+            "heart": [
+              "Rose",
+              "Cannelle"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "90%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Magic Of Hibiscus",
+          "brand": "Dua Fragrances",
+          "year": 2023,
+          "concentration": "Extrait",
+          "olfactory_family": "Floral Oriental",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Hibiscus",
+              "Rose damascena"
+            ],
+            "heart": [
+              "Cassis",
+              "Menthe"
+            ],
+            "base": [
+              "Ambrette",
+              "Cuir",
+              "Vanille"
+            ]
+          },
+          "similarity": "88%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "League Premiere",
+          "brand": "Rue Broca",
+          "year": 2023,
+          "concentration": "EDP",
+          "olfactory_family": "Floral Oriental",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Hibiscus",
+              "Fruits rouges"
+            ],
+            "heart": [
+              "Rose",
+              "Cannelle"
+            ],
+            "base": [
+              "Vanille",
+              "Cuir"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 8,
+        "été": 6,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 1,
+      "perfumer": "Quentin Bisch",
+      "accords": [
+        "Floral Oriental"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Oud Maracujá",
+      "brand": "Maison Crivelli",
+      "year": 2023,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Shocks",
+      "olfactory_family": "Cuir Fruité Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Jordi Fernández"
+      ],
+      "description": "L'expérience : une dégustation de fruit de la passion dans une forêt d'oud. Contraste entre richesse de l'oud et notes fruitées exotiques.",
+      "price": {
+        "50ml": 215,
+        "100ml": 370,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Fruit de la passion",
+          "Rose turque",
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Benjoin",
+          "Patchouli indonésien"
+        ],
+        "base": [
+          "Cuir",
+          "Akigalawood",
+          "Ambre",
+          "Vanille",
+          "Labdanum"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Passion Fruit Oudh",
+          "brand": "Dua Fragrances",
+          "year": 2023,
+          "concentration": "Extrait",
+          "olfactory_family": "Cuir Fruité",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Fruit de la passion",
+              "Safran",
+              "Rose"
+            ],
+            "heart": [
+              "Oud",
+              "Benjoin",
+              "Patchouli"
+            ],
+            "base": [
+              "Cuir",
+              "Ambre",
+              "Vanille"
+            ]
+          },
+          "similarity": "90%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Azzure Oud",
+          "brand": "French Avenue",
+          "year": 2023,
+          "concentration": "EDP",
+          "olfactory_family": "Cuir Fruité",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Fruit de la passion",
+              "Rose"
+            ],
+            "heart": [
+              "Oud",
+              "Benjoin"
+            ],
+            "base": [
+              "Cuir",
+              "Vanille"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Art of Nature 1",
+          "brand": "Lattafa",
+          "year": 2024,
+          "concentration": "EDP",
+          "olfactory_family": "Cuir Fruité",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Fruit de la passion",
+              "Safran"
+            ],
+            "heart": [
+              "Oud",
+              "Patchouli"
+            ],
+            "base": [
+              "Cuir",
+              "Ambre"
+            ]
+          },
+          "similarity": "83%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Oud Of Passion",
+          "brand": "Yom & Layl",
+          "year": 2023,
+          "concentration": "EDP",
+          "olfactory_family": "Cuir Fruité",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Fruit de la passion",
+              "Rose turque",
+              "Safran"
+            ],
+            "heart": [
+              "Oud",
+              "Patchouli"
+            ],
+            "base": [
+              "Cuir",
+              "Vanille",
+              "Labdanum"
+            ]
+          },
+          "similarity": "87%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Passion for Oud",
+          "brand": "Zoha Aroma",
+          "year": 2023,
+          "concentration": "EDP",
+          "olfactory_family": "Cuir Fruité",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Fruit de la passion",
+              "Rose",
+              "Safran"
+            ],
+            "heart": [
+              "Oud",
+              "Patchouli",
+              "Benjoin"
+            ],
+            "base": [
+              "Cuir",
+              "Ambre",
+              "Vanille"
+            ]
+          },
+          "similarity": "88%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Sabbia",
+          "brand": "Oudh Al Anfar",
+          "year": 2023,
+          "concentration": "EDP",
+          "olfactory_family": "Cuir Fruité",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Fruit de la passion"
+            ],
+            "heart": [
+              "Oud",
+              "Patchouli"
+            ],
+            "base": [
+              "Cuir",
+              "Vanille"
+            ]
+          },
+          "similarity": "82%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 7,
+        "été": 7,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 2,
+      "perfumer": "Jordi Fernández",
+      "accords": [
+        "Cuir Fruité Boisé"
+      ],
+      "retail_price_eur": 370
+    },
+    {
+      "name": "Oud Stallion",
+      "brand": "Maison Crivelli",
+      "year": 2023,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Shocks",
+      "olfactory_family": "Oriental Boisé Cuir",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Jordi Fernández"
+      ],
+      "description": "L'expérience : sentir l'oud lors d'une course hippique. Contraste entre cuir fumé et profondeur de l'oud.",
+      "price": {
+        "50ml": 215,
+        "100ml": 370,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Safran",
+          "Cardamome",
+          "Noix de muscade indonésienne"
+        ],
+        "heart": [
+          "Jasmin",
+          "Osmanthus",
+          "Rose turque"
+        ],
+        "base": [
+          "Oud",
+          "Cuir",
+          "Cèdre",
+          "Fève tonka",
+          "Patchouli"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Stallion Of Oud Wood",
+          "brand": "Dua Fragrances",
+          "year": 2024,
+          "concentration": "Extrait",
+          "olfactory_family": "Oriental Cuir",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Cardamome",
+              "Noix de muscade",
+              "Safran"
+            ],
+            "heart": [
+              "Rose"
+            ],
+            "base": [
+              "Oud",
+              "Cèdre",
+              "Cuir",
+              "Patchouli",
+              "Fève tonka"
+            ]
+          },
+          "similarity": "88%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Oud Nuclear",
+          "brand": "Fragrance World",
+          "year": 2024,
+          "concentration": "EDP",
+          "olfactory_family": "Oriental Cuir",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Safran",
+              "Cardamome"
+            ],
+            "heart": [
+              "Rose",
+              "Osmanthus"
+            ],
+            "base": [
+              "Oud",
+              "Cuir",
+              "Cèdre"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 3,
+      "perfumer": "Jordi Fernández",
+      "accords": [
+        "Oriental Boisé Cuir"
+      ],
+      "retail_price_eur": 370
+    },
+    {
+      "name": "Oud Cadenza",
+      "brand": "Maison Crivelli",
+      "year": 2024,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Shocks",
+      "olfactory_family": "Oriental Gourmand Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Jordi Fernández"
+      ],
+      "description": "L'expérience : sentir l'oud lors d'une fête cachée dans une palmeraie. Contraste entre oud et accord dattes/sucre de canne grillé.",
+      "price": {
+        "50ml": 215,
+        "100ml": 370,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Cardamome",
+          "Cannelle",
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Davana",
+          "Cacao"
+        ],
+        "base": [
+          "Vanille",
+          "Patchouli",
+          "Fève tonka",
+          "Myrrhe"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Cocoa Morado",
+          "brand": "French Avenue",
+          "year": 2024,
+          "concentration": "EDP",
+          "olfactory_family": "Oriental Gourmand",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Cardamome",
+              "Cannelle"
+            ],
+            "heart": [
+              "Oud",
+              "Cacao"
+            ],
+            "base": [
+              "Vanille",
+              "Patchouli"
+            ]
+          },
+          "similarity": "80%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 4,
+      "perfumer": "Jordi Fernández",
+      "accords": [
+        "Oriental Gourmand Boisé"
+      ],
+      "retail_price_eur": 370
+    },
+    {
+      "name": "Tubéreuse Astrale",
+      "brand": "Maison Crivelli",
+      "year": 2024,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Shocks",
+      "olfactory_family": "Floral Oriental Cuir",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Leslie Girard"
+      ],
+      "description": "L'expérience : sentir la tubéreuse crémeuse sous une voûte étoilée. Contraste entre tubéreuse et notes cuirées.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Cannelle"
+        ],
+        "heart": [
+          "Tubéreuse absolue",
+          "Osmanthus"
+        ],
+        "base": [
+          "Carotte",
+          "Patchouli",
+          "Ciste",
+          "Cuir",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Astral Tuberose",
+          "brand": "Dua Fragrances",
+          "year": 2024,
+          "concentration": "Extrait",
+          "olfactory_family": "Floral Oriental",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Cannelle"
+            ],
+            "heart": [
+              "Tubéreuse",
+              "Osmanthus"
+            ],
+            "base": [
+              "Cuir",
+              "Musc",
+              "Patchouli"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 7,
+        "été": 6,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 5,
+      "perfumer": "Leslie Girard",
+      "accords": [
+        "Floral Oriental Cuir"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Patchouli Magnetik",
+      "brand": "Maison Crivelli",
+      "year": 2022,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Shocks",
+      "olfactory_family": "Boisé Solaire",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "description": "L'expérience : une escapade à moto dans des champs de patchouli lors d'une tempête tropicale. Contraste entre patchouli sombre et duo santal/gardénia laiteux.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Gardénia",
+          "Pêche blanche"
+        ],
+        "heart": [
+          "Patchouli",
+          "Santal"
+        ],
+        "base": [
+          "Vanille",
+          "Benjoin",
+          "Cuir"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 6,
+      "perfumer": "Quentin Bisch",
+      "accords": [
+        "Boisé Solaire"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Ambre Chromatique",
+      "brand": "Maison Crivelli",
+      "year": 2022,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Shocks",
+      "olfactory_family": "Oriental Ambré",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "description": "L'expérience : découvrir l'ambre lors d'un coucher de soleil sur le désert. Contraste entre ambre chaud et iris frais.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Gingembre"
+        ],
+        "heart": [
+          "Iris",
+          "Cèdre"
+        ],
+        "base": [
+          "Ambre",
+          "Vanille",
+          "Musc",
+          "Benjoin"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Chromatic Amber",
+          "brand": "Dua Fragrances",
+          "year": 2023,
+          "concentration": "Extrait",
+          "olfactory_family": "Oriental Ambré",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Bergamote",
+              "Gingembre"
+            ],
+            "heart": [
+              "Iris",
+              "Cèdre"
+            ],
+            "base": [
+              "Ambre",
+              "Vanille",
+              "Musc"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Crivelli",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 7,
+        "été": 7,
+        "automne": 8,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 10
+      },
+      "id": 7,
+      "perfumer": "Quentin Bisch",
+      "accords": [
+        "Oriental Ambré"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Cuir InfraRouge",
+      "brand": "Maison Crivelli",
+      "year": 2024,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Shocks",
+      "olfactory_family": "Cuir Fruité Oriental",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Jordi Fernández"
+      ],
+      "description": "L'expérience : la chaleur contre la peau, illuminée par un flash de couleur rouge. Combinaison framboise-cuir-oud.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cannelle",
+          "Framboise"
+        ],
+        "heart": [
+          "Cèdre",
+          "Iris",
+          "Osmanthus"
+        ],
+        "base": [
+          "Cuir",
+          "Oud",
+          "Patchouli",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 9,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 10
+      },
+      "id": 8,
+      "perfumer": "Jordi Fernández",
+      "accords": [
+        "Cuir Fruité Oriental"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Safran Secret",
+      "brand": "Maison Crivelli",
+      "year": 2025,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Mysteries",
+      "olfactory_family": "Boisé Épicé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Gaël Montero"
+      ],
+      "description": "L'expérience : découvrir un champ de safran enveloppé dans un épais brouillard. Composition profonde et sensuelle.",
+      "price": {
+        "50ml": 215,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Safran"
+        ],
+        "base": [
+          "Bois blonds"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 9,
+      "perfumer": "Gaël Montero",
+      "accords": [
+        "Boisé Épicé"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Iris Malikhân",
+      "brand": "Maison Crivelli",
+      "year": 2020,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Aromatique Vert Poudré",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Marc Zini"
+      ],
+      "description": "L'expérience : la force des vents de sable sec, un jeu de lumière vive. La découverte d'iris sauvages en bordure de désert.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Galbanum",
+          "Cyprès",
+          "Lentisque"
+        ],
+        "heart": [
+          "Iris",
+          "Beurre d'iris",
+          "Mimosa"
+        ],
+        "base": [
+          "Vanille",
+          "Cuir",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 8,
+        "automne": 8,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 9
+      },
+      "id": 10,
+      "perfumer": "Marc Zini",
+      "accords": [
+        "Aromatique Vert Poudré"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Rose SaltifOlia",
+      "brand": "Maison Crivelli",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Floral Marin",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Nathalie Feisthauer"
+      ],
+      "description": "L'expérience : une promenade en bord de mer dans des champs de roses balayés par le vent. Contraste rose/sel marin.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Orange sanguine",
+          "Sel marin"
+        ],
+        "heart": [
+          "Rose",
+          "Géranium"
+        ],
+        "base": [
+          "Santal",
+          "Ambre gris",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 6,
+        "automne": 7,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 5
+      },
+      "id": 11,
+      "perfumer": "Nathalie Feisthauer",
+      "accords": [
+        "Floral Marin"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Bois Datchaï",
+      "brand": "Maison Crivelli",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Boisé Fruité",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Dorothée Piot"
+      ],
+      "description": "L'expérience : la découverte d'une datcha russe au cœur de l'hiver. Contraste bois fumé et baies acidulées.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Cassis",
+          "Thé noir"
+        ],
+        "heart": [
+          "Gaïac",
+          "Cannelle"
+        ],
+        "base": [
+          "Cèdre de Virginie",
+          "Patchouli",
+          "Papyrus",
+          "Encens"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 7,
+        "automne": 9,
+        "hiver": 7
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 5
+      },
+      "id": 12,
+      "perfumer": "Dorothée Piot",
+      "accords": [
+        "Boisé Fruité"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Santal Volcanique",
+      "brand": "Maison Crivelli",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Boisé Épicé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Richard Ibanez"
+      ],
+      "description": "L'expérience : le santal brûlé sur les pentes d'un volcan en éruption. Contraste santal crémeux et café épicé.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Cardamome",
+          "Citron vert"
+        ],
+        "heart": [
+          "Santal",
+          "Ylang-ylang",
+          "Café"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 9
+      },
+      "id": 13,
+      "perfumer": "Richard Ibanez",
+      "accords": [
+        "Boisé Épicé"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Fleur Diamantine",
+      "brand": "Maison Crivelli",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Floral Fruité",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "description": "L'expérience : la découverte d'une fleur scintillante comme un diamant. Explosion florale fruitée.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Framboise",
+          "Litchi"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine",
+          "Magnolia"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 8,
+        "automne": 6,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 5
+      },
+      "id": 14,
+      "perfumer": "Quentin Bisch",
+      "accords": [
+        "Floral Fruité"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Absinthe Boréale",
+      "brand": "Maison Crivelli",
+      "year": 2019,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Aromatique Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Bertrand Duchaufour"
+      ],
+      "description": "L'expérience : un shot d'absinthe sous la magie d'une aurore boréale. Contraste lumineux et doux.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Absinthe",
+          "Citron"
+        ],
+        "heart": [
+          "Lavande",
+          "Fougère"
+        ],
+        "base": [
+          "Résine",
+          "Bois de cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 7,
+        "été": 7,
+        "automne": 8,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 5
+      },
+      "id": 15,
+      "perfumer": "Bertrand Duchaufour",
+      "accords": [
+        "Aromatique Boisé"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Citrus Batikanga",
+      "brand": "Maison Crivelli",
+      "year": 2019,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Hespéridé Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Nathalie Feisthauer"
+      ],
+      "description": "L'expérience : la découverte de citronniers sauvages sur une île tropicale. Fraîcheur agrume et boisé.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Yuzu",
+          "Citron"
+        ],
+        "heart": [
+          "Petit grain",
+          "Néroli"
+        ],
+        "base": [
+          "Cèdre",
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 7,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 16,
+      "perfumer": "Nathalie Feisthauer",
+      "accords": [
+        "Hespéridé Boisé"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Lys Sølaberg",
+      "brand": "Maison Crivelli",
+      "year": 2021,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Floral Vert",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Stephanie Bakouche"
+      ],
+      "description": "L'expérience : la découverte de lys sauvages au lever du soleil en Scandinavie. Contraste lys/notes vertes fraîches.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Galbanum",
+          "Bergamote"
+        ],
+        "heart": [
+          "Lys",
+          "Jasmin",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Cèdre",
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 9,
+        "automne": 7,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 7
+      },
+      "id": 17,
+      "perfumer": "Stephanie Bakouche",
+      "accords": [
+        "Floral Vert"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Osmanthe Kōdoshān",
+      "brand": "Maison Crivelli",
+      "year": 2021,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Floral Fruité Cuir",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Paul Guerlain"
+      ],
+      "description": "L'expérience : découvrir des fleurs d'osmanthus sur une montagne tropicale enveloppée de brume. Contraste osmanthus cuiré et bois mystérieux.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Abricot",
+          "Prune"
+        ],
+        "heart": [
+          "Osmanthus",
+          "Cuir"
+        ],
+        "base": [
+          "Bois humides",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 8,
+        "automne": 9,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 9
+      },
+      "id": 18,
+      "perfumer": "Paul Guerlain",
+      "accords": [
+        "Floral Fruité Cuir"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Neroli Nasimba",
+      "brand": "Maison Crivelli",
+      "year": 2023,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Floral Hespéridé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Jordi Fernández"
+      ],
+      "description": "L'expérience : la découverte de néroliers en fleurs sous le soleil méditerranéen. Fraîcheur florale lumineuse.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Néroli",
+          "Bergamote",
+          "Petitgrain"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Jasmin"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc blanc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 19,
+      "perfumer": "Jordi Fernández",
+      "accords": [
+        "Floral Hespéridé"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Papyrus Moléculaire",
+      "brand": "Maison Crivelli",
+      "year": 2020,
+      "concentration": "EDP",
+      "collection": "Olfactory Experiences",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "description": "L'expérience : la découverte du papyrus au bord du Nil. Boisé sec et aromatique.",
+      "price": {
+        "50ml": 200,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre"
+        ],
+        "heart": [
+          "Papyrus",
+          "Cyprès"
+        ],
+        "base": [
+          "Cèdre",
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 9,
+        "automne": 7,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 9,
+        "nuit": 5
+      },
+      "id": 20,
+      "perfumer": "Quentin Bisch",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 350
+    },
+    {
+      "name": "Ingredients 07/2012",
+      "brand": "Maison Crivelli",
+      "year": 2022,
+      "concentration": "Extrait de Parfum",
+      "collection": "Olfactory Mysteries",
+      "olfactory_family": "Boisé Épicé",
+      "gender": "unisexe",
+      "status": "discontinued",
+      "perfumers": [
+        "Gaël Montero"
+      ],
+      "description": "Création exclusive qui a inspiré Safran Secret. Édition limitée.",
+      "price": {
+        "50ml": 215,
+        "100ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8
+      },
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Safran"
+        ],
+        "base": [
+          "Bois blonds",
+          "Cuir"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 21,
+      "perfumer": "Gaël Montero",
+      "accords": [
+        "Boisé Épicé"
+      ],
+      "retail_price_eur": 350
+    }
+  ],
+  "headquarters": "Paris, France"
+}

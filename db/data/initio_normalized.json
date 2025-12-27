@@ -1,0 +1,1783 @@
+{
+  "brand": "Initio Parfums Privés",
+  "description": "Maison de parfumerie niche française fondée en 2015 par le groupe Sprecher Berrier sous la direction de Julien Sprecher et Axel Berrier. Initio exploite le pouvoir invisible du parfum en hybridant connaissances ancestrales et avancées scientifiques. Chaque fragrance est une substance émotionnelle haute intensité, formulée avec des molécules avancées qui interagissent avec le cerveau pour déclencher et amplifier des émotions comme le bien-être, la confiance en soi et le désir. Marque sœur de Parfums de Marly.",
+  "founded": 2015,
+  "headquarters": "Paris, France",
+  "parent_company": "Sprecher Berrier Group (acquis par Advent International)",
+  "website": "https://initioparfums.com",
+  "perfumers": [
+    "Hamid Merati-Kashani",
+    "Maurice Roucel",
+    "Pierre-Constantin Guéros"
+  ],
+  "collections": [
+    {
+      "name": "The Absolutes",
+      "count": 5,
+      "description": "Collection The Absolutes"
+    },
+    {
+      "name": "Magnetic Blends",
+      "count": 3,
+      "description": "Collection Magnetic Blends"
+    },
+    {
+      "name": "The Carnal Blends",
+      "count": 3,
+      "description": "Collection The Carnal Blends"
+    },
+    {
+      "name": "The Hedonist",
+      "count": 9,
+      "description": "Collection The Hedonist"
+    },
+    {
+      "name": "Black Gold Project",
+      "count": 2,
+      "description": "Collection Black Gold Project"
+    },
+    {
+      "name": "Hair Perfumes",
+      "count": 3,
+      "description": "Collection Hair Perfumes"
+    }
+  ],
+  "perfumes": [
+    {
+      "name": "Absolute Aphrodisiac",
+      "brand": "Initio Parfums Privés",
+      "year": 2015,
+      "concentration": "EDP",
+      "collection": "The Absolutes",
+      "olfactory_family": "Oriental Vanillé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "La douceur de la vanille intimement entrelacée avec la puissance animale du musc et du castoreum. Un aphrodisiaque absolu qui éveille les instincts.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Animalique": 7,
+        "Crémeux": 6
+      },
+      "notes": {
+        "top": [
+          "Fleurs blanches"
+        ],
+        "heart": [
+          "Ambre",
+          "Vanille"
+        ],
+        "base": [
+          "Musc",
+          "Castoreum"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 8,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 1,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Vanillé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Blessed Baraka",
+      "brand": "Initio Parfums Privés",
+      "year": 2015,
+      "concentration": "EDP",
+      "collection": "The Absolutes",
+      "olfactory_family": "Oriental Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Hamid Merati-Kashani"
+      ],
+      "description": "Baraka signifie bénédiction en arabe. Un mélange captivant de musc, santal et ambre qui enveloppe le porteur d'une énergie sacrée.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Ambré": 7,
+        "Vanillé": 5
+      },
+      "notes": {
+        "top": [
+          "Fleurs blanches"
+        ],
+        "heart": [
+          "Ambre",
+          "Santal"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 2,
+      "perfumer": "Hamid Merati-Kashani",
+      "accords": [
+        "Oriental Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Mystic Experience",
+      "brand": "Initio Parfums Privés",
+      "year": 2015,
+      "concentration": "EDP",
+      "collection": "The Absolutes",
+      "olfactory_family": "Oriental Épicé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Hamid Merati-Kashani"
+      ],
+      "description": "Une expérience mystique où le café et le musc créent une transe intense. Le parfum amplifie le magnétisme et cultive le désir.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Café": 6,
+        "Ambré": 5
+      },
+      "notes": {
+        "top": [
+          "Café"
+        ],
+        "heart": [
+          "Musc"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 3,
+      "perfumer": "Hamid Merati-Kashani",
+      "accords": [
+        "Oriental Épicé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Divine Attraction",
+      "brand": "Initio Parfums Privés",
+      "year": 2015,
+      "concentration": "EDP",
+      "collection": "The Absolutes",
+      "olfactory_family": "Cuir Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Forces ambivalentes aux ondes surnaturelles. Le gingembre électrise, l'encens hypnotise. Une fusion de cuir et vétiver.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Fumé": 6,
+        "Animalique": 5
+      },
+      "notes": {
+        "top": [
+          "Gingembre"
+        ],
+        "heart": [
+          "Cuir",
+          "Encens"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 9
+      },
+      "id": 4,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Cuir Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Addictive Vibration",
+      "brand": "Initio Parfums Privés",
+      "year": 2016,
+      "concentration": "EDP",
+      "collection": "The Absolutes",
+      "olfactory_family": "Floral Oriental",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Pierre-Constantin Guéros",
+        "Maurice Roucel"
+      ],
+      "description": "Une vibration addictive où fleur de pommier et fleur d'oranger se mêlent au miel et à la vanille orchidée.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Miellé": 6,
+        "Floral": 5
+      },
+      "notes": {
+        "top": [
+          "Fleur de pommier",
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Miel",
+          "Fleurs blanches"
+        ],
+        "base": [
+          "Vanille orchidée",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 7,
+        "été": 6,
+        "automne": 8,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 10
+      },
+      "id": 5,
+      "perfumer": "Pierre-Constantin Guéros",
+      "accords": [
+        "Floral Oriental"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Magnetic Blend 1",
+      "brand": "Initio Parfums Privés",
+      "year": 2015,
+      "concentration": "EDP",
+      "collection": "Magnetic Blends",
+      "olfactory_family": "Ambré Musqué",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Magnétique, bestial, profondément érotique. Toute la puissance de l'ambre gris naturel dans une molécule aux effets phéromonaux.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Animalique": 8,
+        "Sensuel": 7
+      },
+      "notes": {
+        "top": [
+          "Notes aromatiques"
+        ],
+        "heart": [
+          "Ambre gris"
+        ],
+        "base": [
+          "Musc",
+          "Notes animales"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 5,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 9
+      },
+      "id": 6,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Ambré Musqué"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Magnetic Blend 7",
+      "brand": "Initio Parfums Privés",
+      "year": 2016,
+      "concentration": "EDP",
+      "collection": "Magnetic Blends",
+      "olfactory_family": "Musqué Oriental",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Magnetic 7 fusionne avec la peau, révélant sa nature intime. Comme le feu sous la glace, sa douce violence monte vers un crescendo dévastateur.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Sensuel": 7,
+        "Animalique": 6
+      },
+      "notes": {
+        "top": [
+          "Notes aromatiques"
+        ],
+        "heart": [
+          "Musc animal"
+        ],
+        "base": [
+          "Ambre",
+          "Notes boisées"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 8,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 9
+      },
+      "id": 7,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Musqué Oriental"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Magnetic Blend 8",
+      "brand": "Initio Parfums Privés",
+      "year": 2016,
+      "concentration": "EDP",
+      "collection": "Magnetic Blends",
+      "olfactory_family": "Oriental Résineux",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Un mélange de puissance charnelle et de vibrations surnaturelles. Le musc et l'encens créent une alchimie mystique.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Résineux": 7,
+        "Fumé": 5
+      },
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Encens"
+        ],
+        "base": [
+          "Musc",
+          "Résines"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 9,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 8,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Résineux"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Side Effect",
+      "brand": "Initio Parfums Privés",
+      "year": 2016,
+      "concentration": "EDP",
+      "collection": "The Carnal Blends",
+      "olfactory_family": "Oriental Épicé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Le pouvoir de plonger dans cet état altéré où rien n'est trop audacieux. Tabac, rhum, vanille et cannelle créent une harmonie addictive.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Boozy": 8,
+        "Épicé": 7
+      },
+      "notes": {
+        "top": [
+          "Safran",
+          "Cannelle"
+        ],
+        "heart": [
+          "Tabac",
+          "Rhum",
+          "Hedione"
+        ],
+        "base": [
+          "Vanille",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "After Effect",
+          "brand": "Fragrance World",
+          "year": 2021,
+          "concentration": "EDP",
+          "collection": "Inspired Collection",
+          "olfactory_family": "Oriental Épicé",
+          "gender": "unisexe",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de Side Effect avec un profil rhum-tabac-épices similaire mais plus audacieux et punchy.",
+          "price": {
+            "80ml": 35,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "notes": {
+            "top": [
+              "Safran",
+              "Cannelle"
+            ],
+            "heart": [
+              "Tabac",
+              "Rhum"
+            ],
+            "base": [
+              "Vanille",
+              "Santal",
+              "Musc"
+            ]
+          },
+          "similarity": 85,
+          "seasons": {
+            "printemps": 5,
+            "été": 5,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 9,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Épicé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Psychedelic Love",
+      "brand": "Initio Parfums Privés",
+      "year": 2017,
+      "concentration": "EDP",
+      "collection": "The Carnal Blends",
+      "olfactory_family": "Floral Oriental",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Hamid Merati-Kashani"
+      ],
+      "description": "Une bombe narcotique à trois ingrédients essentiels : rose, hedione et héliotropine. L'hedione active les régions cérébrales du plaisir et de la libido.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Poudré": 7,
+        "Crémeux": 6
+      },
+      "notes": {
+        "top": [
+          "Ylang-ylang",
+          "Bergamote"
+        ],
+        "heart": [
+          "Héliotrope",
+          "Hedione",
+          "Rose bulgare"
+        ],
+        "base": [
+          "Myrrhe",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Aphrodisiac",
+          "brand": "Dua Fragrances",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Initio Inspired",
+          "olfactory_family": "Floral Oriental",
+          "gender": "unisexe",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Dupe de Psychedelic Love avec les mêmes notes d'héliotrope et rose poudrée.",
+          "price": {
+            "34ml": 45,
+            "currency": "USD"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "notes": {
+            "top": [
+              "Bergamote",
+              "Ylang-ylang"
+            ],
+            "heart": [
+              "Héliotrope",
+              "Rose"
+            ],
+            "base": [
+              "Myrrhe",
+              "Santal"
+            ]
+          },
+          "similarity": 80,
+          "seasons": {
+            "printemps": 8,
+            "été": 7,
+            "automne": 9,
+            "hiver": 9
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 8
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 9,
+        "été": 7,
+        "automne": 9,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 8
+      },
+      "id": 10,
+      "perfumer": "Hamid Merati-Kashani",
+      "accords": [
+        "Floral Oriental"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "High Frequency",
+      "brand": "Initio Parfums Privés",
+      "year": 2016,
+      "concentration": "EDP",
+      "collection": "The Carnal Blends",
+      "olfactory_family": "Floral Gourmand",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "La combinaison de magnolia et d'amande, innocente en apparence mais véritablement sexy. Un overdose d'hedione déclenche l'explosion finale.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Amandé": 7,
+        "Floral": 6
+      },
+      "notes": {
+        "top": [
+          "Magnolia"
+        ],
+        "heart": [
+          "Jasmin",
+          "Amande",
+          "Hedione"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 6,
+        "automne": 7,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 7
+      },
+      "id": 11,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Floral Gourmand"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud for Greatness",
+      "brand": "Initio Parfums Privés",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "The Hedonist",
+      "olfactory_family": "Oriental Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Le pouvoir brut de l'oud naturel. Enveloppé de patchouli et de musc, illuminé de lavande et épicé de safran. Une création magistrale, magnétique et intemporelle.",
+      "price": {
+        "90ml": 340,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 10,
+        "Fumé": 7,
+        "Épicé": 6
+      },
+      "notes": {
+        "top": [
+          "Safran",
+          "Noix de muscade",
+          "Lavande"
+        ],
+        "heart": [
+          "Oud (Bois d'agar)"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Bade'e Al Oud Oud for Glory",
+          "brand": "Lattafa",
+          "year": 2020,
+          "concentration": "EDP",
+          "collection": "Bade'e Al Oud",
+          "olfactory_family": "Oriental Boisé",
+          "gender": "unisexe",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone très proche d'Oud for Greatness avec les mêmes notes safran-lavande-oud. 95% identique au drydown.",
+          "price": {
+            "100ml": 35,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 8
+          },
+          "notes": {
+            "top": [
+              "Safran",
+              "Noix de muscade",
+              "Lavande"
+            ],
+            "heart": [
+              "Oud",
+              "Patchouli"
+            ],
+            "base": [
+              "Oud",
+              "Patchouli",
+              "Musc"
+            ]
+          },
+          "similarity": 95,
+          "seasons": {
+            "printemps": 6,
+            "été": 5,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 7,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 10
+      },
+      "id": 12,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud for Happiness",
+      "brand": "Initio Parfums Privés",
+      "year": 2019,
+      "concentration": "EDP",
+      "collection": "The Hedonist",
+      "olfactory_family": "Oriental Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Un portail vers la modernité. L'oud indien amplifié par une bouffée d'herbe fraîchement coupée, énergisante et désinhibée.",
+      "price": {
+        "90ml": 340,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Vert": 5,
+        "Boisé": 7
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Gingembre"
+        ],
+        "heart": [
+          "Réglisse",
+          "Oud indien"
+        ],
+        "base": [
+          "Vanille",
+          "Bois de cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 13,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Rehab",
+      "brand": "Initio Parfums Privés",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "The Hedonist",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Hamid Merati-Kashani"
+      ],
+      "description": "Un parfum de réhabilitation des sens. Lavande et bergamote créent une ouverture lumineuse, le santal et le musc apportent confort et sérénité.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Aromatique": 7,
+        "Crémeux": 5
+      },
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote"
+        ],
+        "heart": [
+          "Cèdre",
+          "Vétiver",
+          "Patchouli"
+        ],
+        "base": [
+          "Santal",
+          "Bois de gaïac",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 10,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 9,
+        "nuit": 6
+      },
+      "id": 14,
+      "perfumer": "Hamid Merati-Kashani",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Atomic Rose",
+      "brand": "Initio Parfums Privés",
+      "year": 2019,
+      "concentration": "EDP",
+      "collection": "The Hedonist",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Une explosion de rose atomique. Les roses bulgare et turque, amplifiées par l'hedione et ancrées par l'ambrofix. Projection immense et longévité puissante.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 10,
+        "Épicé": 5,
+        "Vanillé": 4
+      },
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Bergamote",
+          "Hedione"
+        ],
+        "heart": [
+          "Rose bulgare",
+          "Rose turque",
+          "Jasmin d'Égypte"
+        ],
+        "base": [
+          "Vanille de Madagascar",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Bade'e Al Oud Amethyst",
+          "brand": "Lattafa",
+          "year": 2021,
+          "concentration": "EDP",
+          "collection": "Bade'e Al Oud",
+          "olfactory_family": "Oriental Floral",
+          "gender": "unisexe",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone d'Atomic Rose avec un profil rose-vanille-ambre similaire.",
+          "price": {
+            "100ml": 35,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "notes": {
+            "top": [
+              "Poivre rose",
+              "Bergamote"
+            ],
+            "heart": [
+              "Rose",
+              "Jasmin"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre",
+              "Musc"
+            ]
+          },
+          "similarity": 80,
+          "seasons": {
+            "printemps": 8,
+            "été": 7,
+            "automne": 8,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 7,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Infini Rose",
+          "brand": "Maison Alhambra",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Infini Collection",
+          "olfactory_family": "Oriental Floral",
+          "gender": "unisexe",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone d'Atomic Rose par Maison Alhambra avec une excellente fidélité.",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "notes": {
+            "top": [
+              "Poivre rose",
+              "Bergamote"
+            ],
+            "heart": [
+              "Rose",
+              "Jasmin"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": 85,
+          "seasons": {
+            "printemps": 8,
+            "été": 7,
+            "automne": 8,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 9,
+        "été": 7,
+        "automne": 8,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 10
+      },
+      "id": 15,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Musk Therapy",
+      "brand": "Initio Parfums Privés",
+      "year": 2021,
+      "concentration": "EDP",
+      "collection": "The Hedonist",
+      "olfactory_family": "Boisé Floral Musqué",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Fermez les yeux, sentez et ressentez. Le santal blanc naturel mélangé à un surdosage de musc blanc et rose crée un accord lacté et velouté ultra-addictif.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Crémeux": 8,
+        "Clean": 7
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Magnolia blanche",
+          "Cassis",
+          "Musc rose"
+        ],
+        "base": [
+          "Santal blanc",
+          "Musc blanc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Infini Musk",
+          "brand": "Maison Alhambra",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Infini Collection",
+          "olfactory_family": "Boisé Musqué",
+          "gender": "unisexe",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone le plus proche de Musk Therapy. 80-90% similaire sur la peau, presque impossible à distinguer dans l'air.",
+          "price": {
+            "100ml": 35,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "notes": {
+            "top": [
+              "Bergamote",
+              "Mandarine"
+            ],
+            "heart": [
+              "Musc",
+              "Cassis",
+              "Magnolia"
+            ],
+            "base": [
+              "Santal",
+              "Musc blanc"
+            ]
+          },
+          "similarity": 88,
+          "seasons": {
+            "printemps": 5,
+            "été": 5,
+            "automne": 8,
+            "hiver": 7
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 5
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Glorious Oud Royal Blanc",
+          "brand": "Fragrance World",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "French Avenue",
+          "olfactory_family": "Boisé Musqué",
+          "gender": "unisexe",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de Musk Therapy avec une bonne fidélité au profil crémeux et musqué.",
+          "price": {
+            "80ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "notes": {
+            "top": [
+              "Agrumes"
+            ],
+            "heart": [
+              "Musc",
+              "Fleurs blanches"
+            ],
+            "base": [
+              "Santal",
+              "Musc blanc"
+            ]
+          },
+          "similarity": 85,
+          "seasons": {
+            "printemps": 5,
+            "été": 5,
+            "automne": 9,
+            "hiver": 9
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 8,
+        "hiver": 7
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 5
+      },
+      "id": 16,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Boisé Floral Musqué"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Paragon",
+      "brand": "Initio Parfums Privés",
+      "year": 2022,
+      "concentration": "EDP",
+      "collection": "The Hedonist",
+      "olfactory_family": "Boisé Épicé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Un parfum propre, lumineux et profondément réconfortant. La lavande et la sauge créent une ouverture fraîche, le palo santo et le santal une base méditative.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Aromatique": 6,
+        "Crémeux": 5
+      },
+      "notes": {
+        "top": [
+          "Lavande",
+          "Sauge",
+          "Bergamote"
+        ],
+        "heart": [
+          "Palo Santo",
+          "Poivre noir"
+        ],
+        "base": [
+          "Santal",
+          "Oud"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Al Nashama",
+          "brand": "Lattafa",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Al Nashama Collection",
+          "olfactory_family": "Boisé Épicé",
+          "gender": "unisexe",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de Paragon avec des fruits confits et des notes de fraîcheur.",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 7
+          },
+          "notes": {
+            "top": [
+              "Lavande",
+              "Bergamote"
+            ],
+            "heart": [
+              "Épices",
+              "Notes fruitées"
+            ],
+            "base": [
+              "Santal",
+              "Bois"
+            ]
+          },
+          "similarity": 80,
+          "seasons": {
+            "printemps": 6,
+            "été": 5,
+            "automne": 10,
+            "hiver": 9
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 7
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 17,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Boisé Épicé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud for Greatness Neo",
+      "brand": "Initio Parfums Privés",
+      "year": 2024,
+      "concentration": "EDP",
+      "collection": "Black Gold Project",
+      "olfactory_family": "Aromatique Épicé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Exclusivité Harrods. Une version plus fraîche et sucrée d'Oud for Greatness avec lavande Orpur et baume de sapin.",
+      "price": {
+        "90ml": 360,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Frais": 6,
+        "Boisé": 7
+      },
+      "notes": {
+        "top": [
+          "Lavande Orpur",
+          "Bergamote"
+        ],
+        "heart": [
+          "Safran",
+          "Baume de sapin"
+        ],
+        "base": [
+          "Oud (Bois d'agar)"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 10
+      },
+      "id": 18,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Aromatique Épicé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Narcotic Delight",
+      "brand": "Initio Parfums Privés",
+      "year": 2024,
+      "concentration": "EDP",
+      "collection": "Black Gold Project",
+      "olfactory_family": "Oriental Vanillé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Un shot sensuel de provocation. La vanille érogène électrifiée par le poivre rose, trempée dans le cognac, avant de succomber aux volutes d'un cigare.",
+      "price": {
+        "90ml": 340,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Boozy": 8,
+        "Gourmand": 7
+      },
+      "notes": {
+        "top": [
+          "Cerise",
+          "Poivre rose",
+          "Poivre noir"
+        ],
+        "heart": [
+          "Cognac",
+          "Hedione",
+          "Rose"
+        ],
+        "base": [
+          "Tabac",
+          "Vanille",
+          "Tonka",
+          "Cèdre",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 7,
+        "été": 6,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 19,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Vanillé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Power Self",
+      "brand": "Initio Parfums Privés",
+      "year": 2024,
+      "concentration": "EDP",
+      "collection": "The Hedonist",
+      "olfactory_family": "Floral Musqué",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Un parfum qui renforce la confiance en soi. Poivre rose, fleurs blanches et musc créent une aura de puissance personnelle.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7,
+        "Épicé": 5,
+        "Floral": 6
+      },
+      "notes": {
+        "top": [
+          "Poivre rose"
+        ],
+        "heart": [
+          "Fleurs blanches"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 5,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 5
+      },
+      "id": 20,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Floral Musqué"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Can't Get Enough",
+      "brand": "Initio Parfums Privés",
+      "year": 2024,
+      "concentration": "EDP",
+      "collection": "The Hedonist",
+      "olfactory_family": "Oriental Gourmand",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Un parfum dont on ne peut jamais avoir assez. Notes gourmandes addictives qui créent une dépendance olfactive.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Gourmand": 7,
+        "Vanillé": 6
+      },
+      "notes": {
+        "top": [
+          "Notes fruitées"
+        ],
+        "heart": [
+          "Notes gourmandes"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 21,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Gourmand"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Lift Me Up",
+      "brand": "Initio Parfums Privés",
+      "year": 2024,
+      "concentration": "EDP",
+      "collection": "The Hedonist",
+      "olfactory_family": "Frais Aromatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Un parfum qui élève l'esprit et booste l'énergie. Notes fraîches et vivifiantes pour une expérience revigorante.",
+      "price": {
+        "90ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7,
+        "Frais": 7,
+        "Aromatique": 6
+      },
+      "notes": {
+        "top": [
+          "Notes fraîches",
+          "Agrumes"
+        ],
+        "heart": [
+          "Notes aromatiques"
+        ],
+        "base": [
+          "Musc",
+          "Notes boisées"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 10,
+        "automne": 6,
+        "hiver": 7
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 7
+      },
+      "id": 22,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Frais Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Atomic Rose Hair Perfume",
+      "brand": "Initio Parfums Privés",
+      "year": 2022,
+      "concentration": "Hair Mist",
+      "collection": "Hair Perfumes",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Version hair mist d'Atomic Rose pour parfumer les cheveux sans les abîmer.",
+      "price": {
+        "30ml": 75,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 6
+      },
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose bulgare",
+          "Rose turque",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 8,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 23,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Musk Therapy Hair Perfume",
+      "brand": "Initio Parfums Privés",
+      "year": 2022,
+      "concentration": "Hair Mist",
+      "collection": "Hair Perfumes",
+      "olfactory_family": "Boisé Musqué",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Version hair mist de Musk Therapy pour les cheveux.",
+      "price": {
+        "30ml": 75,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 6
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Magnolia",
+          "Cassis",
+          "Musc"
+        ],
+        "base": [
+          "Santal",
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 5,
+        "automne": 8,
+        "hiver": 7
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 5
+      },
+      "id": 24,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Boisé Musqué"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud for Greatness Hair Perfume",
+      "brand": "Initio Parfums Privés",
+      "year": 2022,
+      "concentration": "Hair Mist",
+      "collection": "Hair Perfumes",
+      "olfactory_family": "Oriental Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Non communiqué"
+      ],
+      "description": "Version hair mist d'Oud for Greatness pour les cheveux.",
+      "price": {
+        "30ml": 75,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 6
+      },
+      "notes": {
+        "top": [
+          "Safran",
+          "Lavande"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 10
+      },
+      "id": 25,
+      "perfumer": "Non communiqué",
+      "accords": [
+        "Oriental Boisé"
+      ],
+      "retail_price_eur": 0
+    }
+  ],
+  "country": "France"
+}

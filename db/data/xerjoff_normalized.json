@@ -1,0 +1,6814 @@
+{
+  "brand": "Xerjoff",
+  "country": "Italie",
+  "founded": 2003,
+  "founder": "Sergio Momo",
+  "headquarters": "Turin, Italie",
+  "type": "Niche de luxe",
+  "total_perfumes_fragrantica": 202,
+  "perfume_count": 202,
+  "signature_notes": [
+    "Vanille",
+    "Tabac",
+    "Agrumes",
+    "Miel",
+    "Oud",
+    "Musc Blanc",
+    "Lavande",
+    "Iris"
+  ],
+  "price_range": "150-600€+",
+  "perfumers": [
+    "Chris Maurice",
+    "Jacques Flori",
+    "Christian Carbonnel",
+    "Laura Santander",
+    "Sofia Bardelli",
+    "Miroslav Petkov",
+    "Angéline Leporini",
+    "Mathieu Nardin"
+  ],
+  "collections": [
+    "XJ 17/17 Stone Label",
+    "XJ 17/17 Murano Collection",
+    "XJ 1861 Collection",
+    "Casamorati 1888",
+    "Join the Club",
+    "Oud Stars",
+    "Shooting Stars",
+    "V Collection (Velvet)",
+    "Coffee Break",
+    "Sketchbook Collection",
+    "Torino ATP Finals",
+    "UAE Exclusive Collection",
+    "Kemi Collection",
+    "Kemi Blue Collection",
+    "Vibe Collection",
+    "White On White Collection",
+    "Xerjoff Blends",
+    "Xerjoff Sans",
+    "Amphorae",
+    "Art Collection",
+    "Mukhallat",
+    "Harrods Exclusive",
+    "Spotlight",
+    "Spray To Help"
+  ],
+  "perfumes": [
+    {
+      "name": "Erba Pura",
+      "year": 2019,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": "Christian Carbonnel, Laura Santander",
+      "notes": {
+        "top": [
+          "Orange de Sicile",
+          "Bergamote de Calabre",
+          "Citron de Sicile"
+        ],
+        "heart": [
+          "Fruits"
+        ],
+        "base": [
+          "Musc blanc",
+          "Vanille de Madagascar",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Ana Abiyedh",
+          "brand": "Lattafa",
+          "similarity": 85,
+          "price": 15,
+          "notes": "Clone fruité populaire, beast mode après macération",
+          "price_eur": 15,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Amber Oud Gold",
+          "brand": "Al Haramain",
+          "similarity": 85,
+          "price": 45,
+          "notes": "Clone premium très apprécié",
+          "price_eur": 45,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Pure Nectar",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price": 50,
+          "notes": "Clone extrait très fidèle",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Voux Turquoise",
+          "brand": "Paris Corner (Emir)",
+          "similarity": 82,
+          "price": 25,
+          "notes": "Clone budget très populaire",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Yara Candy",
+          "brand": "Lattafa",
+          "similarity": 75,
+          "price": 20,
+          "notes": "Plus sucré, version bonbon",
+          "price_eur": 20,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Erba Blue",
+          "brand": "Aristan",
+          "similarity": 90,
+          "price": 25,
+          "notes": "Clone allemand très proche",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Coeur de Jardin",
+          "brand": "Various",
+          "similarity": 78,
+          "price": 40,
+          "notes": "DNA similaire fruité/musqué",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Amore da Venezia",
+          "brand": "Fragrenza",
+          "similarity": 85,
+          "price": 35,
+          "notes": "Clone inspiré haute qualité",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 1,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Erba Gold",
+      "year": 2021,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Citron",
+          "Orange",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fruits tropicaux"
+        ],
+        "base": [
+          "Musc blanc",
+          "Ambre",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 2,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Starlight",
+      "year": 2010,
+      "collection": "Shooting Stars",
+      "gender": "Féminin",
+      "perfumer": "Chris Maurice",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poire"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Musc blanc",
+          "Oud"
+        ]
+      },
+      "dupes": [],
+      "id": 3,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Cruz del Sur I",
+      "year": 2007,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 4,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Cruz del Sur II",
+      "year": 2011,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Jasmin",
+          "Tubéreuse",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Musc blanc",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Desire II",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone floral/vanillé extrait",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Cruze Sure 2",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand excellent",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 5,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Dhajala",
+      "year": 2014,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Iris"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Spiritual Awakening",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone floral musqué extrait",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 6,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Ivory Route",
+      "year": 2011,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre"
+        ],
+        "heart": [
+          "Gingembre",
+          "Cardamome",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Ivory Route Inspired",
+          "brand": "Dua Fragrances",
+          "similarity": 82,
+          "price": 50,
+          "notes": "Clone épicé/oriental",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 7,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Wardasina",
+      "year": 2014,
+      "collection": "Shooting Stars",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Muguet"
+        ],
+        "base": [
+          "Musc",
+          "Santal",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Wardarose",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand rose/jasmin",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 8,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Apollonia",
+      "year": 2019,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Fleurs blanches"
+        ],
+        "heart": [
+          "Iris"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Apoloniah",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand musc blanc/iris",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 9,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Dolce Amalfi",
+      "year": 2019,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Citron d'Amalfi",
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Rose",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc blanc",
+          "Santal",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 10,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Coro",
+      "year": 2025,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Fruits tropicaux"
+        ],
+        "heart": [
+          "Mangue",
+          "Ananas",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre",
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 11,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Meteor",
+      "year": 2022,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 12,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Alexandria II",
+      "year": 2012,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": "Chris Maurice",
+      "notes": {
+        "top": [
+          "Bois de rose",
+          "Lavande",
+          "Cannelle",
+          "Pomme"
+        ],
+        "heart": [
+          "Rose",
+          "Cèdre",
+          "Muguet"
+        ],
+        "base": [
+          "Oud",
+          "Santal",
+          "Ambre",
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "The Conqueror",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price": 55,
+          "notes": "Clone extrait top seller Dua",
+          "price_eur": 55,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Alexander The Great",
+          "brand": "Alexandria Fragrances UK",
+          "similarity": 85,
+          "price": 55,
+          "notes": "Clone premium UK extrait",
+          "price_eur": 55,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Masterpiece",
+          "brand": "hkPerfumes",
+          "similarity": 80,
+          "price": 40,
+          "notes": "Clone abordable",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Oud of Empire",
+          "brand": "Yom & Layl",
+          "similarity": 80,
+          "price": 35,
+          "notes": "Clone budget moyen-oriental",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Arena",
+          "brand": "Somens",
+          "similarity": 75,
+          "price": 120,
+          "notes": "Même parfumeur Chris Maurice",
+          "price_eur": 120,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Alexandra Duo",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand excellent",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 13,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Alexandria III",
+      "year": 2013,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Lavande",
+          "Cannelle",
+          "Bois de rose"
+        ],
+        "heart": [
+          "Rose bulgare",
+          "Cèdre",
+          "Muguet"
+        ],
+        "base": [
+          "Oud du Laos",
+          "Oud de Thaïlande",
+          "Santal",
+          "Ambre",
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Alexandra Triple",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand oud/rose",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 14,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Alexandria II Anniversary",
+      "year": 2024,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Lavande",
+          "Rose bulgare",
+          "Cardamome",
+          "Cumin"
+        ],
+        "heart": [
+          "Oud",
+          "Ambre",
+          "Cypriol",
+          "Civette",
+          "Iris",
+          "Absinthe"
+        ],
+        "base": [
+          "Santal australien",
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 15,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Alexandria Orientale",
+      "year": 2018,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Encens",
+          "Cuir",
+          "Pomme verte",
+          "Basilic"
+        ],
+        "heart": [
+          "Rose bulgare",
+          "Iris",
+          "Coriandre",
+          "Cèdre"
+        ],
+        "base": [
+          "Santal",
+          "Ambre",
+          "Oud",
+          "Tabac",
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 16,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Al-Khatt",
+      "year": 2012,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran",
+          "Cannelle"
+        ],
+        "heart": [
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Santal",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 17,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Mamluk",
+      "year": 2012,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Encens",
+          "Poivre"
+        ],
+        "heart": [
+          "Oud",
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Bois"
+        ]
+      },
+      "dupes": [],
+      "id": 18,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Luxor",
+      "year": 2012,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Luxur",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand oud/safran",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 19,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Fars",
+      "year": 2012,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices",
+          "Cardamome"
+        ],
+        "heart": [
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Santal",
+          "Ambre",
+          "Cuir"
+        ]
+      },
+      "dupes": [],
+      "id": 20,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Zafar",
+      "year": 2012,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran",
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Santal",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 21,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "XJ 1861 Naxos",
+      "year": 2015,
+      "collection": "XJ 1861",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Miel",
+          "Cannelle",
+          "Cashmeran",
+          "Jasmin sambac"
+        ],
+        "base": [
+          "Tabac",
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Fortune",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price": 50,
+          "notes": "Clone tabac/miel très apprécié, extrait",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Muharib",
+          "brand": "Maison Asrar",
+          "similarity": 85,
+          "price": 30,
+          "notes": "Clone arabe excellent, très proche",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Voux Elegante",
+          "brand": "Paris Corner (Emir)",
+          "similarity": 82,
+          "price": 30,
+          "notes": "Clone DNA Naxos populaire",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "1981X",
+          "brand": "Alexandria Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone premium extrait",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Insurrection II Wild",
+          "brand": "Reyane Tradition",
+          "similarity": 70,
+          "price": 25,
+          "notes": "Alternative budget, DNA similaire",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Casino Royale's Fortune",
+          "brand": "Dua Fragrances",
+          "similarity": 80,
+          "price": 55,
+          "notes": "Hybride Naxos + BR540",
+          "price_eur": 55,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Naris",
+          "brand": "Aristan",
+          "similarity": 90,
+          "price": 25,
+          "notes": "Clone allemand très fidèle",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Night Seduction",
+          "brand": "Ainash",
+          "similarity": 80,
+          "price": 35,
+          "notes": "Clone arabe alternative",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Hani Nexus",
+          "brand": "Hani Perfumes",
+          "similarity": 82,
+          "price": 30,
+          "notes": "Clone populaire TikTok",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "22 Shades of Judea's Legendary Fortune",
+          "brand": "Dua Fragrances",
+          "similarity": 75,
+          "price": 60,
+          "notes": "Tribrid Herod+Naxos+Bergamote 22",
+          "price_eur": 60,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 22,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "XJ 1861 Renaissance",
+      "year": 2015,
+      "collection": "XJ 1861",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Citron d'Amalfi",
+          "Mandarine",
+          "Bergamote",
+          "Petitgrain"
+        ],
+        "heart": [
+          "Menthe",
+          "Muguet",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Cèdre de Virginie",
+          "Patchouli",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 23,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "XJ 1861 Zefiro",
+      "year": 2015,
+      "collection": "XJ 1861",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Santal",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 24,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "XJ 1861 Decas",
+      "year": 2021,
+      "collection": "XJ 1861",
+      "gender": "Unisex",
+      "perfumer": "Chris Maurice",
+      "notes": {
+        "top": [
+          "Mandarine de Calabre",
+          "Tubéreuse",
+          "Tabac"
+        ],
+        "heart": [
+          "Benjoin",
+          "Opoponax",
+          "Iris italien"
+        ],
+        "base": [
+          "Résine",
+          "Vanille Bourbon",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 25,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Lira",
+      "year": 2011,
+      "collection": "Casamorati 1888",
+      "gender": "Féminin",
+      "perfumer": "Chris Maurice",
+      "notes": {
+        "top": [
+          "Orange sanguine",
+          "Bergamote",
+          "Lavande"
+        ],
+        "heart": [
+          "Cannelle",
+          "Jasmin",
+          "Rose",
+          "Réglisse"
+        ],
+        "base": [
+          "Vanille",
+          "Caramel",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Chocolate Dream",
+          "brand": "Alexandria Fragrances",
+          "similarity": 90,
+          "price": 50,
+          "notes": "Clone très fidèle, parfois préféré à l'original",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Limone e Vaniglia",
+          "brand": "Fragrenza",
+          "similarity": 85,
+          "price": 35,
+          "notes": "Clone citrus/vanille populaire",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Dolce Vita",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone gourmand extrait",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Lyrah",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand très proche",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 26,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Dama Bianca",
+      "year": 2012,
+      "collection": "Casamorati 1888",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Kumquat",
+          "Lime"
+        ],
+        "heart": [
+          "Violette",
+          "Iris",
+          "Lilas",
+          "Jasmin",
+          "Muguet"
+        ],
+        "base": [
+          "Vanille",
+          "Malt",
+          "Musc blanc",
+          "Santal",
+          "Cèdre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Lady In White",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone floral/vanillé fidèle",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Fayora",
+          "brand": "Lattafa",
+          "similarity": 75,
+          "price": 25,
+          "notes": "DNA similaire abordable",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Jewel Avri",
+          "brand": "Sol de Janeiro",
+          "similarity": 70,
+          "price": 40,
+          "notes": "DNA proche brésilien",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "La Dama Blanche",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand très fidèle",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 27,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Mefisto",
+      "year": 2009,
+      "collection": "Casamorati 1888",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Poivre"
+        ],
+        "base": [
+          "Cuir",
+          "Santal",
+          "Mousse de chêne"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Devil's Advocate",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone cuir épicé extrait",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Mefistoles",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand très proche",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Angel Seduction",
+          "brand": "Fragrenza",
+          "similarity": 80,
+          "price": 35,
+          "notes": "Clone inspiré cuir/épices",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 28,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Mefisto Gentiluomo",
+      "year": 2017,
+      "collection": "Casamorati 1888",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Lavande",
+          "Poivre noir"
+        ],
+        "heart": [
+          "Géranium",
+          "Violette",
+          "Sauge"
+        ],
+        "base": [
+          "Cuir",
+          "Oud",
+          "Vétiver"
+        ]
+      },
+      "dupes": [],
+      "id": 29,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Italica",
+      "year": 2021,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Lavande",
+          "Gingembre"
+        ],
+        "heart": [
+          "Cannelle",
+          "Praline",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka",
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Italico",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone praline/vanille",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Italian Caramel",
+          "brand": "Alexandria Fragrances",
+          "similarity": 88,
+          "price": 50,
+          "notes": "Meilleur clone selon experts",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Italique",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand excellent",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Italica Inspired",
+          "brand": "Unleashed Perfumes",
+          "similarity": 82,
+          "price": 40,
+          "notes": "Clone US gourmand",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 30,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Bouquet Ideale",
+      "year": 2010,
+      "collection": "Casamorati 1888",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cassis"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Vanille",
+          "Cèdre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Ideale",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand floral/rose",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 31,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Gran Ballo",
+      "year": 2013,
+      "collection": "Casamorati 1888",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine",
+          "Magnolia"
+        ],
+        "base": [
+          "Musc",
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "M'Lady's Grand Ball",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Hybride Gran Ballo + M'Lady",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Grand Baron",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand floral/rose",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 32,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Fiero",
+      "year": 2009,
+      "collection": "Casamorati 1888",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Pamplemousse",
+          "Anis"
+        ],
+        "heart": [
+          "Lavande",
+          "Géranium",
+          "Sauge"
+        ],
+        "base": [
+          "Cèdre",
+          "Vétiver",
+          "Mousse de chêne"
+        ]
+      },
+      "dupes": [],
+      "id": 33,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Regio",
+      "year": 2009,
+      "collection": "Casamorati 1888",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Citron",
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cardamome",
+          "Iris"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 34,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "La Tosca",
+      "year": 2011,
+      "collection": "Casamorati 1888",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Framboise",
+          "Bergamote",
+          "Orange sanguine"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine",
+          "Géranium"
+        ],
+        "base": [
+          "Musc",
+          "Cèdre",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 35,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Fiore d'Ulivo",
+      "year": 2016,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Néroli",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleur d'olivier",
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "id": 36,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Quattro Pizzi",
+      "year": 2024,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": "Sofia Bardelli",
+      "notes": {
+        "top": [
+          "Davana",
+          "Rhum",
+          "Poivre rose",
+          "Coriandre"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Noix de coco"
+        ],
+        "base": [
+          "Fève tonka",
+          "Foin",
+          "Tabac"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Petra",
+          "brand": "Lattafa",
+          "similarity": 80,
+          "price": 25,
+          "notes": "DNA très proche, meilleure tenue",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 37,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "1888",
+      "year": 2010,
+      "collection": "Casamorati 1888",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Lavande"
+        ],
+        "heart": [
+          "Iris",
+          "Violette"
+        ],
+        "base": [
+          "Vétiver",
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 38,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Levar Del Sole",
+      "year": 2025,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Gourmands"
+        ]
+      },
+      "dupes": [],
+      "id": 39,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Nio",
+      "year": 2010,
+      "collection": "Join the Club",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron",
+          "Lavande"
+        ],
+        "heart": [
+          "Jasmin",
+          "Géranium",
+          "Galbanum"
+        ],
+        "base": [
+          "Cèdre",
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Matrix",
+          "brand": "Dua Fragrances",
+          "similarity": 90,
+          "price": 50,
+          "notes": "Clone très fidèle, très populaire",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Matrix Recoded Edition",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price": 50,
+          "notes": "+25% bergamote version",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Serious Nio",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand excellent",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 40,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Don",
+      "year": 2010,
+      "collection": "Join the Club",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cardamome",
+          "Romarin"
+        ],
+        "heart": [
+          "Cumin",
+          "Poivre",
+          "Coriandre"
+        ],
+        "base": [
+          "Oud",
+          "Santal",
+          "Cuir"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Reward For The Don",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone aromatique/oud extrait",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 41,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "JTC 400",
+      "year": 2010,
+      "collection": "Join the Club",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Iris"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 42,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "40 Knots",
+      "year": 2015,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Sel marin",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Vanille",
+          "Musc",
+          "Bois flotté"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Smooth Sailing",
+          "brand": "Alexandria Fragrances UK",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone extrait marin/vanille premium",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Bowline",
+          "brand": "Barrett Fragrances",
+          "similarity": 82,
+          "price": 45,
+          "notes": "Clone marin/boisé populaire TikTok",
+          "price_eur": 45,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Fourty Kn",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand excellent",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Zanzibar",
+          "brand": "Lattafa",
+          "similarity": 72,
+          "price": 25,
+          "notes": "DNA similaire vanille/marin budget",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Yacht Club",
+          "brand": "Gulf Orchid",
+          "similarity": 75,
+          "price": 30,
+          "notes": "Alternative marin",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 43,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Richwood",
+      "year": 2010,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Épices"
+        ],
+        "heart": [
+          "Bois de Santal",
+          "Cèdre"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Green Valley",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone santal de qualité extrait",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Luxurywood",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand santal/boisé",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 44,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Uden",
+      "year": 2014,
+      "collection": "Join the Club",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Orange",
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre",
+          "Vétiver"
+        ]
+      },
+      "dupes": [],
+      "id": 45,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Uden Overdose",
+      "year": 2020,
+      "collection": "Join the Club",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Orange",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc",
+          "Cèdre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Oden Overdoses",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand agrumes/musc",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 46,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "More Than Words",
+      "year": 2017,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Oud",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "More than a Word",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand très proche",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Maahir",
+          "brand": "Lattafa",
+          "similarity": 70,
+          "price": 25,
+          "notes": "Alternative oud florale (pas exacte)",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "More Than Words Inspired",
+          "brand": "Unleashed Perfumes",
+          "similarity": 85,
+          "price": 40,
+          "notes": "Clone US fidèle",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "More Than Words",
+          "brand": "Zoha Aroma",
+          "similarity": 82,
+          "price": 30,
+          "notes": "Huile parfumée inspirée",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 47,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Comandante",
+      "year": 2012,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes",
+          "Épices"
+        ],
+        "heart": [
+          "Floraux",
+          "Cuir"
+        ],
+        "base": [
+          "Boisé",
+          "Ambré"
+        ]
+      },
+      "dupes": [],
+      "id": 48,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Kind of Blue",
+      "year": 2016,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre"
+        ],
+        "heart": [
+          "Iris",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 49,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Accento",
+      "year": 2019,
+      "collection": "V Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Ananas",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Jasmin",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc",
+          "Patchouli",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Rabab Gems",
+          "brand": "Zimaya",
+          "similarity": 85,
+          "price": 30,
+          "notes": "Clone ananas/musc très proche",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Philos",
+          "brand": "Maison Alhambra",
+          "similarity": 75,
+          "price": 25,
+          "notes": "Alternative budget",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Accentus",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand excellent",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Milestone",
+          "brand": "Armaf",
+          "similarity": 70,
+          "price": 30,
+          "notes": "Alternative fruité/florale",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 50,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Accento Overdose",
+      "year": 2019,
+      "collection": "V Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Poire",
+          "Pamplemousse",
+          "Cassis"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Patchouli"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Violet Accentus",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand fruité/floral",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 51,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Homme",
+      "year": 2007,
+      "collection": "XJ 17/17",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Lavande",
+          "Jasmin"
+        ],
+        "base": [
+          "Santal",
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 52,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Homme Anniversary",
+      "year": 2024,
+      "collection": "XJ 17/17",
+      "gender": "Unisex",
+      "perfumer": "Sergio Momo",
+      "notes": {
+        "top": [
+          "Estragon",
+          "Citron",
+          "Bergamote"
+        ],
+        "heart": [
+          "Cuir",
+          "Fleur d'oranger",
+          "Clou de girofle",
+          "Fève tonka"
+        ],
+        "base": [
+          "Mousse",
+          "Styrax",
+          "Fruits confits",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 53,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Elle",
+      "year": 2007,
+      "collection": "XJ 17/17",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Musc",
+          "Santal",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 54,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Elle Anniversary",
+      "year": 2023,
+      "collection": "XJ 17/17",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Musqué"
+        ]
+      },
+      "dupes": [],
+      "id": 55,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Irisss",
+      "year": 2007,
+      "collection": "XJ 17/17",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Iris",
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 56,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Damarose",
+      "year": 2007,
+      "collection": "XJ 17/17",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poire"
+        ],
+        "heart": [
+          "Rose de Damas",
+          "Jasmin",
+          "Pivoine"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 57,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Pikovaya Dama",
+      "year": 2014,
+      "collection": "XJ 17/17",
+      "gender": "Unisex",
+      "perfumer": "Chris Maurice",
+      "notes": {
+        "top": [
+          "Aldéhydes",
+          "Néroli",
+          "Bergamote",
+          "Citron",
+          "Rose"
+        ],
+        "heart": [
+          "Iris",
+          "Encens",
+          "Cèdre",
+          "Muscade",
+          "Coriandre"
+        ],
+        "base": [
+          "Musc",
+          "Vanille",
+          "Santal",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "id": 58,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Ouverture",
+      "year": 2019,
+      "collection": "XJ 17/17",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Figue",
+          "Orange"
+        ],
+        "heart": [
+          "Magnolia",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Santal",
+          "Vanille"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Toscane",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand figue/vanille",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Ouverture Inspired",
+          "brand": "Various",
+          "similarity": 80,
+          "price": 35,
+          "notes": "Clone figue/fleur d'oranger",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 59,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Opera",
+      "year": 2019,
+      "collection": "XJ 17/17",
+      "gender": "Unisex",
+      "perfumer": "Chris Maurice",
+      "notes": {
+        "top": [
+          "Fruits",
+          "Rose turque"
+        ],
+        "heart": [
+          "Ylang-ylang",
+          "Muscade",
+          "Cuir",
+          "Ambre"
+        ],
+        "base": [
+          "Patchouli",
+          "Vanille",
+          "Musc",
+          "Cèdre de Virginie",
+          "Vétiver d'Haïti"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Opulent Opera",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand rose/cuir",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Opera Inspired",
+          "brand": "Unleashed Perfumes",
+          "similarity": 82,
+          "price": 40,
+          "notes": "Clone US fleuri/boisé",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 60,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Symphonium",
+      "year": 2019,
+      "collection": "XJ 17/17 Murano",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Praline",
+          "Caramel",
+          "Rose"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 61,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Nio Murano",
+      "year": 2019,
+      "collection": "XJ 17/17 Murano",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Géranium",
+          "Galbanum"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 62,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Golden Moka",
+      "year": 2020,
+      "collection": "Coffee Break",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Café",
+          "Bergamote"
+        ],
+        "heart": [
+          "Vanille",
+          "Caramel"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Golden Green",
+          "brand": "Dua Fragrances",
+          "similarity": 80,
+          "price": 50,
+          "notes": "Clone café/vanille",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 63,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Golden Dallah",
+      "year": 2018,
+      "collection": "Coffee Break",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Café arabe",
+          "Cardamome"
+        ],
+        "heart": [
+          "Safran",
+          "Rose"
+        ],
+        "base": [
+          "Oud",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Gold Dall",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand café arabe/cardamome",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 64,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Torino21",
+      "year": 2021,
+      "collection": "Torino ATP Finals",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron",
+          "Gingembre"
+        ],
+        "heart": [
+          "Jasmin",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Musc",
+          "Cèdre",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Turin 21",
+          "brand": "Alexandria Fragrances UK",
+          "similarity": 88,
+          "price": 50,
+          "notes": "Clone extrait premium menthe/citrus",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Turin 21",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand excellent",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Hawas Verde",
+          "brand": "Rasasi",
+          "similarity": 82,
+          "price": 45,
+          "notes": "Clone populaire très apprécié",
+          "price_eur": 45,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Platine Blanc",
+          "brand": "Aromatix",
+          "similarity": 80,
+          "price": 35,
+          "notes": "Alternative frais/aromatique",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Limonana",
+          "brand": "Bujairami",
+          "similarity": 85,
+          "price": 40,
+          "notes": "Clone populaire TikTok",
+          "price_eur": 40,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Voux Zingy",
+          "brand": "Paris Corner",
+          "similarity": 78,
+          "price": 25,
+          "notes": "Clone budget agrumes/menthe",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Demeter",
+          "brand": "Velixir",
+          "similarity": 80,
+          "price": 30,
+          "notes": "Clone indonésien viral",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 65,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Torino22",
+      "year": 2022,
+      "collection": "Torino ATP Finals",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Jasmin",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc",
+          "Santal",
+          "Vétiver"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Turin 22",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price": 50,
+          "notes": "Clone safran/eucalyptus extrait",
+          "price_eur": 50,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Turin 22",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand excellent",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Torino 2022",
+          "brand": "Montagne Parfums",
+          "similarity": 80,
+          "price": 35,
+          "notes": "Clone niche abordable",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 66,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Torino23",
+      "year": 2023,
+      "collection": "Torino ATP Finals",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Iris",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc blanc",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Turin 23",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand iris/jasmin",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 67,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Torino24",
+      "year": 2024,
+      "collection": "Torino ATP Finals",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Mangue",
+          "Bergamote",
+          "Mandarine",
+          "Prune"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Lotus rose",
+          "Styrax"
+        ],
+        "base": [
+          "Musc blanc",
+          "Mousse",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "id": 68,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Torino25",
+      "year": 2025,
+      "collection": "Torino ATP Finals",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Pamplemousse",
+          "Rhubarbe",
+          "Safran",
+          "Gingembre"
+        ],
+        "heart": [
+          "Daim",
+          "Genièvre",
+          "Cuir"
+        ],
+        "base": [
+          "Ambre",
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 69,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Kemi",
+      "year": 2014,
+      "collection": "Kemi Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Encens"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Oud"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 70,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Ilm",
+      "year": 2014,
+      "collection": "Kemi Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 71,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Shoukan",
+      "year": 2014,
+      "collection": "Kemi Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Oud",
+          "Safran"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 72,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Tempest",
+      "year": 2014,
+      "collection": "Kemi Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 73,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Aqua Mors",
+      "year": 2015,
+      "collection": "Kemi Blue",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Notes marines",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Bois flotté"
+        ]
+      },
+      "dupes": [],
+      "id": 74,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Warda",
+      "year": 2015,
+      "collection": "Kemi Blue",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Jasmin",
+          "Oud"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 75,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Hayati",
+      "year": 2015,
+      "collection": "Kemi Blue",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Oud",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 76,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "La Capitale",
+      "year": 2020,
+      "collection": "Sketchbook",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Prune",
+          "Abricot"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Iris"
+        ],
+        "base": [
+          "Vanille",
+          "Musc",
+          "Praline"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Kashaf",
+          "brand": "Lattafa",
+          "similarity": 85,
+          "price": 25,
+          "notes": "Clone très proche, excellent rapport qualité/prix",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Capital",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand excellent",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 77,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Newcleus",
+      "year": 2025,
+      "collection": "Sketchbook",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Caramel"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 78,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "P.70",
+      "year": 2025,
+      "collection": "Sketchbook",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Oriental"
+        ],
+        "heart": [
+          "Cuir"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 79,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "11:11",
+      "year": 2022,
+      "collection": "Vibe Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Notes ozoniques"
+        ],
+        "heart": [
+          "Floraux frais"
+        ],
+        "base": [
+          "Musc",
+          "Ambroxan"
+        ]
+      },
+      "dupes": [],
+      "id": 80,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Verde Accento",
+      "year": 2020,
+      "collection": "Vibe Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes verts"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Musc vert"
+        ]
+      },
+      "dupes": [],
+      "id": 81,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Tony Iommi Monkey Special",
+      "year": 2020,
+      "collection": "Xerjoff Blends",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Orange"
+        ],
+        "heart": [
+          "Safran",
+          "Cannelle"
+        ],
+        "base": [
+          "Oud",
+          "Santal",
+          "Vanille"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Rockstar Tonny",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand safran/oud",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 82,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Tony Iommi Deified",
+      "year": 2024,
+      "collection": "Xerjoff Blends",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Cuir",
+          "Épices"
+        ],
+        "heart": [
+          "Floraux sombres"
+        ],
+        "base": [
+          "Oud",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 83,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "GrooveXcape",
+      "year": 2023,
+      "collection": "Xerjoff Blends",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Épices"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 84,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "1 Parfum",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Lavande",
+          "Néroli",
+          "Basilic"
+        ],
+        "heart": [
+          "Poivre rose",
+          "Coriandre",
+          "Absinthe",
+          "Thym"
+        ],
+        "base": [
+          "Patchouli",
+          "Mousse de chêne",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 85,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "2 Parfum",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 86,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "3 Parfum",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Oriental"
+        ]
+      },
+      "dupes": [],
+      "id": 87,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "4 Parfum",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Oud"
+        ]
+      },
+      "dupes": [],
+      "id": 88,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "5 Parfum",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Coriandre",
+          "Bergamote",
+          "Safran",
+          "Fruits secs"
+        ],
+        "heart": [
+          "Caramel",
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Fève tonka",
+          "Ambre gris",
+          "Cèdre",
+          "Vanille",
+          "Mousse de chêne"
+        ]
+      },
+      "dupes": [],
+      "id": 89,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "6 Parfum",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 90,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "7 Parfum",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Pamplemousse rose",
+          "Noix de coco",
+          "Poire"
+        ],
+        "heart": [
+          "Cashmeran",
+          "Encens",
+          "Iris"
+        ],
+        "base": [
+          "Ambre gris",
+          "Vanille de Madagascar",
+          "Cèdre de Virginie"
+        ]
+      },
+      "dupes": [],
+      "id": 91,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Musk Overdose",
+      "year": 2017,
+      "collection": "White On White",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Musc blanc"
+        ],
+        "base": [
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 92,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Overdose",
+      "year": 2017,
+      "collection": "White On White",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 93,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Spotlight",
+      "year": 2019,
+      "collection": "Spotlight",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Musqué"
+        ]
+      },
+      "dupes": [],
+      "id": 94,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Harrods Amber",
+      "year": 2018,
+      "collection": "Harrods Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Ambre"
+        ],
+        "heart": [
+          "Épices"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 95,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Harrods Oud",
+      "year": 2018,
+      "collection": "Harrods Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 96,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Harrods Rose",
+      "year": 2018,
+      "collection": "Harrods Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 97,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Stars Al Khatt Mukhallat",
+      "year": 2015,
+      "collection": "Mukhallat",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 98,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Stars Luxor Mukhallat",
+      "year": 2015,
+      "collection": "Mukhallat",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 99,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Stars Mamluk Mukhallat",
+      "year": 2015,
+      "collection": "Mukhallat",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Encens"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 100,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Art Collection Rouge",
+      "year": 2020,
+      "collection": "Art Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Fruits rouges"
+        ],
+        "heart": [
+          "Rose"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 101,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Art Collection Bleu",
+      "year": 2020,
+      "collection": "Art Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Notes marines"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 102,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Spray to Help",
+      "year": 2020,
+      "collection": "Spray To Help",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 103,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sans",
+      "year": 2021,
+      "collection": "Xerjoff Sans",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Aldéhydes"
+        ],
+        "heart": [
+          "Musc"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 104,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Amphora",
+      "year": 2019,
+      "collection": "Amphorae",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Épices"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 105,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Erba Pura",
+      "year": 2017,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Fruits"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 106,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Accento",
+      "year": 2017,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Ananas"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 107,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Wardasina",
+      "year": 2017,
+      "collection": "Sospiro",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 108,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Via Cavour 1",
+      "year": 2016,
+      "collection": "XJ 17/17",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 109,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Naxos Limited Art Déco",
+      "year": 2022,
+      "collection": "XJ 1861",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote"
+        ],
+        "heart": [
+          "Miel",
+          "Cannelle"
+        ],
+        "base": [
+          "Tabac",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 110,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Jebel",
+      "year": 2010,
+      "collection": "XJ 17/17",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 111,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Ceylon",
+      "year": 2010,
+      "collection": "XJ 17/17",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices",
+          "Thé"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 112,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Holysm",
+      "year": 2017,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Encens"
+        ],
+        "heart": [
+          "Myrrhe"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 113,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Muse",
+      "year": 2019,
+      "collection": "Shooting Stars",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Floraux"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Sweet Muse",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand florale doux",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 114,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Laylati",
+      "year": 2015,
+      "collection": "Kemi Blue",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux orientaux"
+        ],
+        "base": [
+          "Oud"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Layla",
+          "brand": "Aristan",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Clone allemand oriental",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "id": 115,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Opera Grande",
+      "year": 2021,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Vanille",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "id": 116,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Fiori d'Amore",
+      "year": 2018,
+      "collection": "Art Collection",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Jasmin",
+          "Pivoine"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 117,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Ombre Nomade",
+      "year": 2020,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Cuir",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 118,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Amber Star",
+      "year": 2019,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Ambre"
+        ],
+        "heart": [
+          "Épices"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 119,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Ivory Rose",
+      "year": 2020,
+      "collection": "Shooting Stars",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Rose blanche"
+        ],
+        "heart": [
+          "Jasmin"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "id": 120,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Golden Night",
+      "year": 2021,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes dorés"
+        ],
+        "heart": [
+          "Épices"
+        ],
+        "base": [
+          "Ambre",
+          "Oud"
+        ]
+      },
+      "dupes": [],
+      "id": 121,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Renaissance Art Déco",
+      "year": 2022,
+      "collection": "XJ 1861",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Citron d'Amalfi",
+          "Bergamote"
+        ],
+        "heart": [
+          "Menthe",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "id": 122,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Zefiro Art Déco",
+      "year": 2022,
+      "collection": "XJ 1861",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 123,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Red Hype",
+      "year": 2022,
+      "collection": "Vibe Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Fruits rouges"
+        ],
+        "heart": [
+          "Épices"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 124,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Blue Hope",
+      "year": 2022,
+      "collection": "Vibe Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Notes aquatiques"
+        ],
+        "heart": [
+          "Floraux frais"
+        ],
+        "base": [
+          "Musc marin"
+        ]
+      },
+      "dupes": [],
+      "id": 125,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "1888 Uomo",
+      "year": 2011,
+      "collection": "Casamorati 1888",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Lavande"
+        ],
+        "heart": [
+          "Iris",
+          "Géranium"
+        ],
+        "base": [
+          "Vétiver",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "id": 126,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "1888 Donna",
+      "year": 2011,
+      "collection": "Casamorati 1888",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 127,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Shooting Stars Nio",
+      "year": 2013,
+      "collection": "Shooting Stars",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron vert"
+        ],
+        "heart": [
+          "Jasmin",
+          "Galbanum"
+        ],
+        "base": [
+          "Vétiver",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "id": 128,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Alexandria I",
+      "year": 2012,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Jasmin"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 129,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Casamorati Bouquet Nabucco",
+      "year": 2012,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Encens",
+          "Safran"
+        ],
+        "heart": [
+          "Rose",
+          "Iris"
+        ],
+        "base": [
+          "Oud",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 130,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Casamorati Axum",
+      "year": 2013,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Café",
+          "Bois"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 131,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Uomo",
+      "year": 2007,
+      "collection": "XJ 17/17",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Galbanum"
+        ],
+        "heart": [
+          "Jasmin",
+          "Cèdre"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 132,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Donna",
+      "year": 2007,
+      "collection": "XJ 17/17",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 133,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Nio Stone Label",
+      "year": 2011,
+      "collection": "XJ 17/17",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Galbanum",
+          "Géranium"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 134,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Dolce Amalfi Stone Label",
+      "year": 2019,
+      "collection": "XJ 17/17",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Citron d'Amalfi"
+        ],
+        "heart": [
+          "Iris",
+          "Rose"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "id": 135,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Richwood Stone Label",
+      "year": 2011,
+      "collection": "XJ 17/17",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Santal indien",
+          "Cèdre"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 136,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Lira Stone Label",
+      "year": 2011,
+      "collection": "XJ 17/17",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Orange sanguine"
+        ],
+        "heart": [
+          "Cannelle",
+          "Vanille"
+        ],
+        "base": [
+          "Caramel",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 137,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Join the Club Nio",
+      "year": 2010,
+      "collection": "Join the Club",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Jasmin",
+          "Géranium",
+          "Galbanum"
+        ],
+        "base": [
+          "Cèdre",
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 138,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Join the Club Don",
+      "year": 2010,
+      "collection": "Join the Club",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cardamome"
+        ],
+        "heart": [
+          "Poivre",
+          "Coriandre"
+        ],
+        "base": [
+          "Oud",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 139,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Kind of Blue",
+      "year": 2016,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Iris bleu",
+          "Violet"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 140,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Cruz del Sur Originale",
+      "year": 2007,
+      "collection": "Shooting Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 141,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Stars Gao",
+      "year": 2016,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Encens"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 142,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Stars Dubaï",
+      "year": 2015,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran",
+          "Épices"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 143,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Stars Ceylon",
+      "year": 2012,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Thé de Ceylan",
+          "Épices"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 144,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Stars Malesia",
+      "year": 2012,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices"
+        ],
+        "heart": [
+          "Oud de Malaisie"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 145,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Stars Baghdad",
+      "year": 2013,
+      "collection": "Oud Stars",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 146,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Espresso",
+      "year": 2019,
+      "collection": "Coffee Break",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Café espresso"
+        ],
+        "heart": [
+          "Cacao",
+          "Vanille"
+        ],
+        "base": [
+          "Bois torréfiés",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 147,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Cappuccino",
+      "year": 2019,
+      "collection": "Coffee Break",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Café",
+          "Lait"
+        ],
+        "heart": [
+          "Vanille",
+          "Caramel"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 148,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Ristretto",
+      "year": 2019,
+      "collection": "Coffee Break",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Café intense"
+        ],
+        "heart": [
+          "Amande",
+          "Cacao"
+        ],
+        "base": [
+          "Bois",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 149,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Vienna Coffee",
+      "year": 2020,
+      "collection": "Coffee Break",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Café viennois"
+        ],
+        "heart": [
+          "Crème",
+          "Vanille"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 150,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Anat",
+      "year": 2015,
+      "collection": "Kemi Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 151,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Hathor",
+      "year": 2015,
+      "collection": "Kemi Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Myrrhe"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Oud",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 152,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Osiris",
+      "year": 2015,
+      "collection": "Kemi Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Encens"
+        ],
+        "heart": [
+          "Oud",
+          "Safran"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 153,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Harrods For Him",
+      "year": 2017,
+      "collection": "Harrods Exclusive",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Épices",
+          "Bois"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 154,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Harrods For Her",
+      "year": 2017,
+      "collection": "Harrods Exclusive",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Jasmin",
+          "Iris"
+        ],
+        "base": [
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 155,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Harrods Aoud",
+      "year": 2019,
+      "collection": "Harrods Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 156,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Art Collection Nero",
+      "year": 2020,
+      "collection": "Art Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices sombres"
+        ],
+        "heart": [
+          "Cuir",
+          "Oud"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 157,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Art Collection Bianco",
+      "year": 2020,
+      "collection": "Art Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Musc blanc"
+        ],
+        "heart": [
+          "Floraux blancs"
+        ],
+        "base": [
+          "Santal",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 158,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Art Collection Oro",
+      "year": 2020,
+      "collection": "Art Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran doré"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 159,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Pink Vibes",
+      "year": 2021,
+      "collection": "Vibe Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Fruits roses"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine"
+        ],
+        "base": [
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 160,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Gold Vibes",
+      "year": 2021,
+      "collection": "Vibe Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes dorés"
+        ],
+        "heart": [
+          "Épices chaudes"
+        ],
+        "base": [
+          "Ambre",
+          "Oud"
+        ]
+      },
+      "dupes": [],
+      "id": 161,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Black Vibes",
+      "year": 2021,
+      "collection": "Vibe Collection",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices sombres"
+        ],
+        "heart": [
+          "Cuir",
+          "Oud"
+        ],
+        "base": [
+          "Musc noir"
+        ]
+      },
+      "dupes": [],
+      "id": 162,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Ouverture",
+      "year": 2018,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Figue",
+          "Orange"
+        ],
+        "heart": [
+          "Magnolia"
+        ],
+        "base": [
+          "Santal",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 163,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Dolce Vita",
+      "year": 2018,
+      "collection": "Sospiro",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 164,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Perfido",
+      "year": 2018,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Citron"
+        ],
+        "heart": [
+          "Rose",
+          "Iris"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 165,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Classica",
+      "year": 2017,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux classiques"
+        ],
+        "base": [
+          "Boisé",
+          "Musqué"
+        ]
+      },
+      "dupes": [],
+      "id": 166,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Intralace",
+      "year": 2017,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 167,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Diapason",
+      "year": 2017,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Notes vertes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 168,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Bel Canto",
+      "year": 2017,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 169,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Sospiro Laylati",
+      "year": 2018,
+      "collection": "Sospiro",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices orientales"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 170,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Save Me",
+      "year": 2021,
+      "collection": "Spray To Help",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé"
+        ]
+      },
+      "dupes": [],
+      "id": 171,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Scent of Dark",
+      "year": 2021,
+      "collection": "Xerjoff Blends",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Épices sombres"
+        ],
+        "heart": [
+          "Cuir",
+          "Encens"
+        ],
+        "base": [
+          "Oud",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 172,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Nio Anniversario",
+      "year": 2020,
+      "collection": "Join the Club",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Galbanum",
+          "Géranium"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 173,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Renaissance Gold",
+      "year": 2020,
+      "collection": "XJ 1861",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Citron d'Amalfi",
+          "Bergamote"
+        ],
+        "heart": [
+          "Menthe",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "id": 174,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Naxos Gold",
+      "year": 2020,
+      "collection": "XJ 1861",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote"
+        ],
+        "heart": [
+          "Miel",
+          "Cannelle"
+        ],
+        "base": [
+          "Tabac",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "id": 175,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Forty Knots Overdose",
+      "year": 2021,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Sel marin intensifié"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 176,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "More Than Words Overdose",
+      "year": 2020,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Rose",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Oud",
+          "Ambre intensifié"
+        ]
+      },
+      "dupes": [],
+      "id": 177,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Comandante Overdose",
+      "year": 2020,
+      "collection": "Join the Club",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes intensifiés"
+        ],
+        "heart": [
+          "Cuir",
+          "Épices"
+        ],
+        "base": [
+          "Boisé",
+          "Ambré"
+        ]
+      },
+      "dupes": [],
+      "id": 178,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Casamorati Poeta",
+      "year": 2015,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 179,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Casamorati Dolce Amalfi",
+      "year": 2018,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Citron d'Amalfi"
+        ],
+        "heart": [
+          "Iris",
+          "Rose"
+        ],
+        "base": [
+          "Musc blanc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "id": 180,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Casamorati Zafferano",
+      "year": 2016,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran"
+        ],
+        "heart": [
+          "Rose",
+          "Iris"
+        ],
+        "base": [
+          "Oud",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 181,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Casamorati Porto Cervo",
+      "year": 2017,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Notes marines",
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Bois flotté",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 182,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Homme Murano",
+      "year": 2019,
+      "collection": "XJ 17/17 Murano",
+      "gender": "Masculin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Lavande",
+          "Jasmin"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 183,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Elle Murano",
+      "year": 2019,
+      "collection": "XJ 17/17 Murano",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 184,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Lira Murano",
+      "year": 2019,
+      "collection": "XJ 17/17 Murano",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Orange sanguine"
+        ],
+        "heart": [
+          "Cannelle",
+          "Vanille"
+        ],
+        "base": [
+          "Caramel",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 185,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Irisss Murano",
+      "year": 2019,
+      "collection": "XJ 17/17 Murano",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 186,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Damarose Murano",
+      "year": 2019,
+      "collection": "XJ 17/17 Murano",
+      "gender": "Féminin",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poire"
+        ],
+        "heart": [
+          "Rose de Damas"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 187,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "XJ Oud Borneo",
+      "year": 2015,
+      "collection": "Attar Oil",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Oud de Bornéo"
+        ],
+        "heart": [
+          "Rose"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 188,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "XJ Oud India",
+      "year": 2015,
+      "collection": "Attar Oil",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Oud indien"
+        ],
+        "heart": [
+          "Safran"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 189,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "XJ Oud Laos",
+      "year": 2015,
+      "collection": "Attar Oil",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Oud du Laos"
+        ],
+        "heart": [
+          "Épices"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 190,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "XJ Oud Siam",
+      "year": 2015,
+      "collection": "Attar Oil",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Oud thaïlandais"
+        ],
+        "heart": [
+          "Rose"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 191,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "XJ Oud Cambodia",
+      "year": 2016,
+      "collection": "Attar Oil",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Oud cambodgien"
+        ],
+        "heart": [
+          "Safran"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 192,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Parfum II UAE",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes du Golfe"
+        ],
+        "heart": [
+          "Floraux orientaux"
+        ],
+        "base": [
+          "Oud",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 193,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Parfum III UAE",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran"
+        ],
+        "heart": [
+          "Rose du désert"
+        ],
+        "base": [
+          "Oud",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 194,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Parfum IV UAE",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Encens"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre gris"
+        ]
+      },
+      "dupes": [],
+      "id": 195,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Parfum VI UAE",
+      "year": 2025,
+      "collection": "UAE Exclusive",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Floraux blancs"
+        ],
+        "base": [
+          "Bois précieux"
+        ]
+      },
+      "dupes": [],
+      "id": 196,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Amber Blend",
+      "year": 2023,
+      "collection": "Xerjoff Blends",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Ambre"
+        ],
+        "heart": [
+          "Vanille",
+          "Épices"
+        ],
+        "base": [
+          "Bois",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 197,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Oud Blend Special",
+      "year": 2023,
+      "collection": "Xerjoff Blends",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Safran"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "id": 198,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Pizzi Fraiche",
+      "year": 2024,
+      "collection": "Casamorati 1888",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes frais"
+        ],
+        "heart": [
+          "Floraux verts"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "id": 199,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Duran Duran Collaboration",
+      "year": 2025,
+      "collection": "Xerjoff Blends",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Notes synthétiques modernes"
+        ],
+        "heart": [
+          "Floraux électroniques"
+        ],
+        "base": [
+          "Musc futuriste"
+        ]
+      },
+      "dupes": [],
+      "id": 200,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "White Musk Anniversary",
+      "year": 2024,
+      "collection": "White On White",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Musc blanc"
+        ],
+        "heart": [
+          "Aldehydes",
+          "Iris"
+        ],
+        "base": [
+          "Santal",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "id": 201,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    },
+    {
+      "name": "Torino ATP Collection Set",
+      "year": 2024,
+      "collection": "Torino ATP Finals",
+      "gender": "Unisex",
+      "perfumer": null,
+      "notes": {
+        "top": [
+          "Agrumes sportifs"
+        ],
+        "heart": [
+          "Floraux frais"
+        ],
+        "base": [
+          "Musc athlétique"
+        ]
+      },
+      "dupes": [],
+      "id": 202,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "concentration": "Eau de Parfum"
+    }
+  ],
+  "dupe_summary": {
+    "total_dupes_found": 94,
+    "perfumes_with_dupes": 36,
+    "dupe_difficulty": "MODÉRÉE - Compositions de qualité mais bestsellers très clonés",
+    "most_cloned": [
+      {
+        "perfume": "XJ 1861 Naxos",
+        "dupe_count": 10,
+        "collection": "XJ 1861",
+        "best_dupe": "Dua Fragrances Fortune (88%)"
+      },
+      {
+        "perfume": "Erba Pura",
+        "dupe_count": 8,
+        "collection": "Shooting Stars",
+        "best_dupe": "Lattafa Ana Abiyedh (85%)"
+      },
+      {
+        "perfume": "Torino21",
+        "dupe_count": 7,
+        "collection": "Torino ATP Finals",
+        "best_dupe": "Alexandria Fragrances UK Turin 21 (88%)"
+      },
+      {
+        "perfume": "Alexandria II",
+        "dupe_count": 6,
+        "collection": "Oud Stars",
+        "best_dupe": "Dua Fragrances The Conqueror (88%)"
+      },
+      {
+        "perfume": "40 Knots",
+        "dupe_count": 5,
+        "collection": "Join the Club",
+        "best_dupe": "Alexandria Fragrances UK Smooth Sailing (85%)"
+      },
+      {
+        "perfume": "Lira",
+        "dupe_count": 4,
+        "collection": "Casamorati 1888",
+        "best_dupe": "Alexandria Fragrances Chocolate Dream (90%)"
+      },
+      {
+        "perfume": "Dama Bianca",
+        "dupe_count": 4,
+        "collection": "Casamorati 1888",
+        "best_dupe": "Dua Fragrances Lady In White (85%)"
+      },
+      {
+        "perfume": "Italica",
+        "dupe_count": 4,
+        "collection": "Casamorati 1888",
+        "best_dupe": "Dua Fragrances Italico (85%)"
+      },
+      {
+        "perfume": "More Than Words",
+        "dupe_count": 4,
+        "collection": "Join the Club",
+        "best_dupe": "Aristan More than a Word (88%)"
+      },
+      {
+        "perfume": "Accento",
+        "dupe_count": 4,
+        "collection": "V Collection",
+        "best_dupe": "Zimaya Rabab Gems (85%)"
+      },
+      {
+        "perfume": "Mefisto",
+        "dupe_count": 3,
+        "collection": "Casamorati 1888",
+        "best_dupe": "Dua Fragrances Devil's Advocate (85%)"
+      },
+      {
+        "perfume": "Nio",
+        "dupe_count": 3,
+        "collection": "Join the Club",
+        "best_dupe": "Dua Fragrances Matrix (90%)"
+      },
+      {
+        "perfume": "Torino22",
+        "dupe_count": 3,
+        "collection": "Torino ATP Finals",
+        "best_dupe": "Dua Fragrances Turin 22 (85%)"
+      },
+      {
+        "perfume": "Cruz del Sur II",
+        "dupe_count": 2,
+        "collection": "Shooting Stars",
+        "best_dupe": "Dua Fragrances Desire II (85%)"
+      },
+      {
+        "perfume": "Gran Ballo",
+        "dupe_count": 2,
+        "collection": "Casamorati 1888",
+        "best_dupe": "Dua Fragrances M'Lady's Grand Ball (85%)"
+      },
+      {
+        "perfume": "Richwood",
+        "dupe_count": 2,
+        "collection": "Join the Club",
+        "best_dupe": "Dua Fragrances Green Valley (85%)"
+      },
+      {
+        "perfume": "Ouverture",
+        "dupe_count": 2,
+        "collection": "XJ 17/17",
+        "best_dupe": "Aristan Toscane (88%)"
+      },
+      {
+        "perfume": "Opera",
+        "dupe_count": 2,
+        "collection": "XJ 17/17",
+        "best_dupe": "Aristan Opulent Opera (88%)"
+      },
+      {
+        "perfume": "La Capitale",
+        "dupe_count": 2,
+        "collection": "Sketchbook",
+        "best_dupe": "Lattafa Kashaf (85%)"
+      },
+      {
+        "perfume": "Dhajala",
+        "dupe_count": 1,
+        "collection": "Shooting Stars",
+        "best_dupe": "Dua Fragrances Spiritual Awakening (85%)"
+      }
+    ],
+    "clone_houses": [
+      {
+        "brand": "Aristan",
+        "clones": [
+          "Erba Blue (Erba Pura)",
+          "Cruze Sure 2 (Cruz del Sur II)",
+          "Wardarose (Wardasina)",
+          "Apoloniah (Apollonia)",
+          "Alexandra Duo (Alexandria II)",
+          "Alexandra Triple (Alexandria III)",
+          "Luxur (Luxor)",
+          "Naris (XJ 1861 Naxos)",
+          "Lyrah (Lira)",
+          "La Dama Blanche (Dama Bianca)",
+          "Mefistoles (Mefisto)",
+          "Italique (Italica)",
+          "Ideale (Bouquet Ideale)",
+          "Grand Baron (Gran Ballo)",
+          "Serious Nio (Nio)",
+          "Fourty Kn (40 Knots)",
+          "Luxurywood (Richwood)",
+          "Oden Overdoses (Uden Overdose)",
+          "More than a Word (More Than Words)",
+          "Accentus (Accento)",
+          "Violet Accentus (Accento Overdose)",
+          "Toscane (Ouverture)",
+          "Opulent Opera (Opera)",
+          "Gold Dall (Golden Dallah)",
+          "Turin 21 (Torino21)",
+          "Turin 22 (Torino22)",
+          "Turin 23 (Torino23)",
+          "Capital (La Capitale)",
+          "Rockstar Tonny (Tony Iommi Monkey Special)",
+          "Sweet Muse (Muse)",
+          "Layla (Laylati)"
+        ],
+        "count": 31
+      },
+      {
+        "brand": "Dua Fragrances",
+        "clones": [
+          "Pure Nectar (Erba Pura)",
+          "Desire II (Cruz del Sur II)",
+          "Spiritual Awakening (Dhajala)",
+          "Ivory Route Inspired (Ivory Route)",
+          "The Conqueror (Alexandria II)",
+          "Fortune (XJ 1861 Naxos)",
+          "Casino Royale's Fortune (XJ 1861 Naxos)",
+          "22 Shades of Judea's Legendary Fortune (XJ 1861 Naxos)",
+          "Dolce Vita (Lira)",
+          "Lady In White (Dama Bianca)",
+          "Devil's Advocate (Mefisto)",
+          "Italico (Italica)",
+          "M'Lady's Grand Ball (Gran Ballo)",
+          "Matrix (Nio)",
+          "Matrix Recoded Edition (Nio)",
+          "Reward For The Don (Don)",
+          "Green Valley (Richwood)",
+          "Golden Green (Golden Moka)",
+          "Turin 22 (Torino22)"
+        ],
+        "count": 19
+      },
+      {
+        "brand": "Lattafa",
+        "clones": [
+          "Ana Abiyedh (Erba Pura)",
+          "Yara Candy (Erba Pura)",
+          "Fayora (Dama Bianca)",
+          "Petra (Quattro Pizzi)",
+          "Zanzibar (40 Knots)",
+          "Maahir (More Than Words)",
+          "Kashaf (La Capitale)"
+        ],
+        "count": 7
+      },
+      {
+        "brand": "Fragrenza",
+        "clones": [
+          "Amore da Venezia (Erba Pura)",
+          "Limone e Vaniglia (Lira)",
+          "Angel Seduction (Mefisto)"
+        ],
+        "count": 3
+      },
+      {
+        "brand": "Alexandria Fragrances UK",
+        "clones": [
+          "Alexander The Great (Alexandria II)",
+          "Smooth Sailing (40 Knots)",
+          "Turin 21 (Torino21)"
+        ],
+        "count": 3
+      },
+      {
+        "brand": "Alexandria Fragrances",
+        "clones": [
+          "1981X (XJ 1861 Naxos)",
+          "Chocolate Dream (Lira)",
+          "Italian Caramel (Italica)"
+        ],
+        "count": 3
+      },
+      {
+        "brand": "Unleashed Perfumes",
+        "clones": [
+          "Italica Inspired (Italica)",
+          "More Than Words Inspired (More Than Words)",
+          "Opera Inspired (Opera)"
+        ],
+        "count": 3
+      },
+      {
+        "brand": "Paris Corner (Emir)",
+        "clones": [
+          "Voux Turquoise (Erba Pura)",
+          "Voux Elegante (XJ 1861 Naxos)"
+        ],
+        "count": 2
+      },
+      {
+        "brand": "Various",
+        "clones": [
+          "Coeur de Jardin (Erba Pura)",
+          "Ouverture Inspired (Ouverture)"
+        ],
+        "count": 2
+      },
+      {
+        "brand": "Al Haramain",
+        "clones": [
+          "Amber Oud Gold (Erba Pura)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "hkPerfumes",
+        "clones": [
+          "Masterpiece (Alexandria II)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Yom & Layl",
+        "clones": [
+          "Oud of Empire (Alexandria II)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Somens",
+        "clones": [
+          "Arena (Alexandria II)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Maison Asrar",
+        "clones": [
+          "Muharib (XJ 1861 Naxos)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Reyane Tradition",
+        "clones": [
+          "Insurrection II Wild (XJ 1861 Naxos)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Ainash",
+        "clones": [
+          "Night Seduction (XJ 1861 Naxos)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Hani Perfumes",
+        "clones": [
+          "Hani Nexus (XJ 1861 Naxos)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Sol de Janeiro",
+        "clones": [
+          "Jewel Avri (Dama Bianca)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Barrett Fragrances",
+        "clones": [
+          "Bowline (40 Knots)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Gulf Orchid",
+        "clones": [
+          "Yacht Club (40 Knots)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Zoha Aroma",
+        "clones": [
+          "More Than Words (More Than Words)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Zimaya",
+        "clones": [
+          "Rabab Gems (Accento)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Maison Alhambra",
+        "clones": [
+          "Philos (Accento)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Armaf",
+        "clones": [
+          "Milestone (Accento)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Rasasi",
+        "clones": [
+          "Hawas Verde (Torino21)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Aromatix",
+        "clones": [
+          "Platine Blanc (Torino21)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Bujairami",
+        "clones": [
+          "Limonana (Torino21)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Paris Corner",
+        "clones": [
+          "Voux Zingy (Torino21)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Velixir",
+        "clones": [
+          "Demeter (Torino21)"
+        ],
+        "count": 1
+      },
+      {
+        "brand": "Montagne Parfums",
+        "clones": [
+          "Torino 2022 (Torino22)"
+        ],
+        "count": 1
+      }
+    ],
+    "best_clone_houses_for_xerjoff": [
+      "Aristan (Allemagne) - 30+ clones Xerjoff haute fidélité à prix imbattable (~25€)",
+      "Dua Fragrances - 20+ clones premium extrait concentration (~50-60€)",
+      "Alexandria Fragrances UK - Clones extrait haute qualité (~50€)",
+      "Lattafa - Ana Abiyedh, Kashaf, Petra, Fayora - budget excellent (~15-25€)",
+      "Paris Corner (Emir) - Voux Turquoise, Voux Elegante, Voux Zingy (~25-30€)",
+      "Fragrenza - Clones inspirés qualité (~35€)",
+      "Maison Asrar - Muharib excellent clone Naxos (~30€)",
+      "Rasasi - Hawas Verde clone Torino21 (~45€)",
+      "Zimaya - Rabab Gems clone Accento (~30€)",
+      "Alexandria Fragrances US - Italian Caramel, 1981X, Chocolate Dream (~50€)"
+    ],
+    "aristan_complete_catalog": [
+      "40 Knots → Fourty Kn",
+      "Accento → Accentus",
+      "Purple Accento → Violet Accentus",
+      "Alexandria II → Alexandra Duo",
+      "Alexandria III → Alexandra Triple",
+      "Apollonia → Apoloniah",
+      "Lira → Lyrah",
+      "Dama Bianca → La Dama Blanche",
+      "Erba Gold → Erba Yellow",
+      "Erba Pura → Erba Blue",
+      "Gran Ballo → Grand Baron",
+      "Bouquet Ideale → Ideale",
+      "Italica → Italique",
+      "La Capitale → Capital",
+      "La Tosca → Toscane",
+      "Laylati → Layla",
+      "Luxor → Luxur",
+      "Mefisto → Mefistoles",
+      "More than Words → More than a Word",
+      "Muse → Sweet Muse",
+      "Naxos → Naris",
+      "Nio → Serious Nio",
+      "Opera → Opulent Opera",
+      "Ouverture → Toscane",
+      "Renaissance → The Golden Age",
+      "Richwood → Luxurywood",
+      "Soprano → Sopran",
+      "Tony Iommi Monkey Special → Rockstar Tonny",
+      "Torino 21 → Turin 21",
+      "Torino 22 → Turin 22",
+      "Torino 23 → Turin 23",
+      "Uden Overdose → Oden Overdoses",
+      "Wardasina → Wardarose",
+      "Shooting Stars Oesel → Osel",
+      "Cruz del Sur II → Cruze Sure 2",
+      "White on White → White White",
+      "Golden Dallah → Gold Dall"
+    ]
+  },
+  "database_created": "2025-12-26T10:40:07.342362",
+  "database_updated": "2025-12-26T10:43:40.252536",
+  "website": "https://www.xerjoff.com",
+  "description": "Maison italienne de niche connue pour ses flacons artisanaux et parfums opulents."
+}

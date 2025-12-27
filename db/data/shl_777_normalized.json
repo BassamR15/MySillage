@@ -1,0 +1,1557 @@
+{
+  "brand": "Stéphane Humbert Lucas 777",
+  "brand_country": "France",
+  "brand_description": "Maison de parfumerie ultra-niche fondée en 2013 par Stéphane Humbert Lucas, ancien nez de SoOud et Nez à Nez. Le 777 symbolise spiritualité, protection et perfection (chiffre 7 sacré). Créations artistiques inspirées de l'Orient avec ingrédients naturels précieux.",
+  "collections": [
+    "La Collection 777",
+    "La Collection Serpent",
+    "Soleil de Jeddah Line"
+  ],
+  "price_range": "170-435€ (50ml EDP/Extrait)",
+  "total_perfumes": 33,
+  "total_dupes_found": 30,
+  "date_compiled": "2025-12-26",
+  "last_updated": "2025-12-26 - Recherche approfondie dupes complémentaires",
+  "perfumes": [
+    {
+      "id": 1,
+      "name": "Soleil de Jeddah L'Original",
+      "year": 2013,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Camomille",
+          "Osmanthus",
+          "Citron"
+        ],
+        "heart": [
+          "Ambergris",
+          "Iris",
+          "Notes terreuses"
+        ],
+        "base": [
+          "Cuir",
+          "Iris",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Cuir",
+        "Iris",
+        "Poudré",
+        "Ambré"
+      ],
+      "description": "Hommage à Jeddah, ville du soleil et porte des pèlerins vers La Mecque. Cuir solaire avec iris terreux et ambre lumineux.",
+      "retail_price_eur": 265,
+      "dupes": [
+        {
+          "brand": "Al Wataniah",
+          "name": "Special Oud",
+          "similarity": 90,
+          "price_eur": 20,
+          "notes": "Comparé directement à Soleil de Jeddah sur Fragrantica - très similaire mais SDJ plus puissant",
+          "source": "Fragrantica reviews"
+        },
+        {
+          "brand": "Rasasi",
+          "name": "Shuhrah Pour Homme",
+          "similarity": 80,
+          "price_eur": 30,
+          "notes": "DNA similaire (shay oud) - SDJ plus linéaire, Shuhrah plus évolutif",
+          "source": "Fragrantica/Basenotes"
+        },
+        {
+          "brand": "Dua Fragrances",
+          "name": "Sun of Jeddah",
+          "similarity": 88,
+          "price_eur": 55,
+          "notes": "Clone déclaré avec notes identiques",
+          "source": "Dua Brand website"
+        },
+        {
+          "brand": "Swiss Arabian",
+          "name": "Jannat al Firdaus Black",
+          "similarity": 75,
+          "price_eur": 25,
+          "notes": "DNA très similaire selon communauté",
+          "source": "Ouddict forum"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Soleil de Jeddah - Mango Kiss",
+      "year": 2022,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "Soleil de Jeddah Line",
+      "notes": {
+        "top": [
+          "Mangue",
+          "Camomille",
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Noix de coco",
+          "Ylang-ylang",
+          "Ambre",
+          "Figue"
+        ],
+        "base": [
+          "Beurre d'iris",
+          "Vanille",
+          "Benjoin de Siam",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Fruité tropical",
+        "Lactonique",
+        "Crémeux",
+        "Ambré"
+      ],
+      "description": "Version tropicale et fruitée de Soleil de Jeddah avec mangue juteuse et touches florales lactoniques.",
+      "retail_price_eur": 265,
+      "dupes": [
+        {
+          "brand": "Lattafa",
+          "name": "Ajayeb Dubai Portrait",
+          "similarity": 92,
+          "price_eur": 25,
+          "notes": "Clone quasi identique selon multiples reviews - mangue verte similaire, légèrement plus d'oud",
+          "source": "Fragrantica reviews"
+        },
+        {
+          "brand": "French Avenue (Fragrance World)",
+          "name": "Tropical Kiss",
+          "similarity": 95,
+          "price_eur": 30,
+          "notes": "Clone spot-on selon Fragrantica - différence minuscule au dry down, meilleure performance",
+          "source": "Fragrantica reviews"
+        },
+        {
+          "brand": "Dua Fragrances",
+          "name": "Sun Of Jeddah: Mango Passion",
+          "similarity": 88,
+          "price_eur": 55,
+          "notes": "Clone déclaré avec notes identiques",
+          "source": "Dua Brand website"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Soleil de Jeddah - Afterglow",
+      "year": 2022,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "Soleil de Jeddah Line",
+      "notes": {
+        "top": [
+          "Camomille",
+          "Encens",
+          "Bergamote"
+        ],
+        "heart": [
+          "Beurre d'iris",
+          "Myrrhe",
+          "Ambre",
+          "Orchidée"
+        ],
+        "base": [
+          "Vanille",
+          "Benjoin",
+          "Vétiver",
+          "Styrax"
+        ]
+      },
+      "accords": [
+        "Résineux",
+        "Encensé",
+        "Ambré",
+        "Balsamique"
+      ],
+      "description": "Version sensuelle et voluptueuse du Soleil de Jeddah original. Ouverture encensée qui se pose sur un cuir vanillé.",
+      "retail_price_eur": 265,
+      "dupes": []
+    },
+    {
+      "id": 4,
+      "name": "God of Fire",
+      "year": 2022,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Mangue",
+          "Gingembre",
+          "Citron",
+          "Baies rouges"
+        ],
+        "heart": [
+          "Coumarine",
+          "Jasmin",
+          "Cèdre"
+        ],
+        "base": [
+          "Musc",
+          "Oud",
+          "Ambre",
+          "Cypriol"
+        ]
+      },
+      "accords": [
+        "Fruité tropical",
+        "Mangue",
+        "Boisé oriental",
+        "Épicé"
+      ],
+      "description": "Parfum viral hyper-tropical. Mangue juteuse explosive avec gingembre piquant. LE PLUS CLONÉ de toute la parfumerie niche en 2024-2025.",
+      "retail_price_eur": 265,
+      "dupes": [
+        {
+          "brand": "Lattafa",
+          "name": "Opulent Dubai",
+          "similarity": 95,
+          "price_eur": 30,
+          "notes": "Clone le plus fidèle selon multiples reviews - MEILLEURE longévité que l'original! Lancé 2025.",
+          "source": "Fragrantica reviews 2025"
+        },
+        {
+          "brand": "French Avenue (Fragrance World)",
+          "name": "Vulcan Feu",
+          "similarity": 85,
+          "price_eur": 35,
+          "notes": "Clone hyper populaire 2025 - plus fumé/épicé au dry down, 6-8h tenue. 60% similitude selon Parfumo mais DNA identique",
+          "source": "Fragrantica/Parfumo/TikTok 2025"
+        },
+        {
+          "brand": "Gulf Orchid",
+          "name": "Mango Ice",
+          "similarity": 83,
+          "price_eur": 25,
+          "notes": "Clone rafraîchissant 2025 - plus citrique/frais, légèrement moins floral, excellente performance 8h+",
+          "source": "Fragrantica/TikTok 2025"
+        },
+        {
+          "brand": "Maison Alhambra (Lattafa)",
+          "name": "Sceptre Malachite",
+          "similarity": 80,
+          "price_eur": 30,
+          "notes": "Clone 2022 - moins sucré que l'original, plus citrus. Nécessite macération 3-6 mois",
+          "source": "Fragrantica/TikTok"
+        },
+        {
+          "brand": "Alexandria Fragrances",
+          "name": "Fire of God",
+          "similarity": 92,
+          "price_eur": 60,
+          "notes": "Clone premium haute qualité, ingrédients supérieurs, opening plus smooth",
+          "source": "Alexandria website/Amazon"
+        },
+        {
+          "brand": "Dua Fragrances",
+          "name": "Fire God",
+          "similarity": 90,
+          "price_eur": 55,
+          "notes": "Clone avec notes fidèles",
+          "source": "Dua Brand website"
+        },
+        {
+          "brand": "Zoha Aroma",
+          "name": "Mango Crush",
+          "similarity": 88,
+          "price_eur": 35,
+          "notes": "Clone huile avec bonne performance",
+          "source": "Zoha Aroma website"
+        },
+        {
+          "brand": "Montagne Parfums",
+          "name": "God of Fiery",
+          "similarity": 85,
+          "price_eur": 40,
+          "notes": "Clone inspiré",
+          "source": "Montagne website"
+        },
+        {
+          "brand": "HK Perfumes",
+          "name": "Scent Of the Day (God of Fire)",
+          "similarity": 85,
+          "price_eur": 30,
+          "notes": "Clone avec bonne projection",
+          "source": "HK Perfumes website"
+        },
+        {
+          "brand": "Paris Corner",
+          "name": "Ophidian Mango Bliss",
+          "similarity": 80,
+          "price_eur": 30,
+          "notes": "Clone - ouverture moins smooth, dry down similaire après 1-2h",
+          "source": "TikTok Clone Wars 2025"
+        },
+        {
+          "brand": "Amaran",
+          "name": "Turquoise Magic",
+          "similarity": 78,
+          "price_eur": 25,
+          "notes": "Clone budget mentionné dans comparatifs",
+          "source": "TikTok Clone Wars 2025"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "O Hira",
+      "year": 2014,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "Extrait",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Ambre fossilisé"
+        ],
+        "heart": [
+          "Ambre",
+          "Labdanum",
+          "Cuir"
+        ],
+        "base": [
+          "Styrax pyrogéné",
+          "Vanille torréfiée",
+          "Musc",
+          "Cannelle",
+          "Tonka"
+        ]
+      },
+      "accords": [
+        "Ambré",
+        "Labdanum",
+        "Cuir fumé",
+        "Résineux",
+        "Animalique"
+      ],
+      "description": "Le diamant de la collection. Soliflore ambré exceptionnel - 2 ans de développement avec techniques classiques. Prix justifié par ingrédients naturels rares et irremplaçables.",
+      "retail_price_eur": 435,
+      "dupes": [
+        {
+          "brand": "Rania J",
+          "name": "Ambre Loup",
+          "similarity": 70,
+          "price_eur": 175,
+          "notes": "Alternative citée sur Luckyscent - plus gourmand et meilleure projection",
+          "source": "Luckyscent reviews"
+        },
+        {
+          "brand": "ELDO",
+          "name": "Attaquer le Soleil Marquis de Sade",
+          "similarity": 65,
+          "price_eur": 120,
+          "notes": "Soliflore labdanum/cistus similaire, moins cher - recommandé par Temptalia",
+          "source": "Temptalia review"
+        }
+      ],
+      "note_special": "QUASI IMPOSSIBLE À DUPLIQUER - ingrédients naturels rares et techniques artisanales uniques"
+    },
+    {
+      "id": 6,
+      "name": "Black Gemstone",
+      "year": 2013,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "Extrait",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Citron",
+          "Cèdre"
+        ],
+        "heart": [
+          "Myrrhe",
+          "Résines"
+        ],
+        "base": [
+          "Teck",
+          "Oliban",
+          "Tonka"
+        ]
+      },
+      "accords": [
+        "Résineux sombre",
+        "Encensé",
+        "Boisé profond",
+        "Oriental mystique"
+      ],
+      "description": "Hommage à la Pierre Noire de La Mecque. Myrrhe distillée créant un goudron résineux unique. Beast mode projection.",
+      "retail_price_eur": 265,
+      "dupes": [
+        {
+          "brand": "Generic Perfumes",
+          "name": "Black Gemstone Impression",
+          "similarity": 75,
+          "price_eur": 15,
+          "notes": "Huile inspirée disponible en ligne",
+          "source": "GenericPerfumes.com"
+        }
+      ],
+      "note_special": "Comparé à Puredistance Black et Amouage Interlude Man - très unique"
+    },
+    {
+      "id": 7,
+      "name": "Mortal Skin",
+      "year": 2015,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection Serpent",
+      "notes": {
+        "top": [
+          "Encre",
+          "Mûre",
+          "Ciste"
+        ],
+        "heart": [
+          "Opoponax",
+          "Myrrhe",
+          "Floraux aromatiques",
+          "Épices"
+        ],
+        "base": [
+          "Labdanum",
+          "Styrax",
+          "Bouleau"
+        ]
+      },
+      "accords": [
+        "Encre unique",
+        "Fruité sombre",
+        "Résineux",
+        "Cuir fumé"
+      ],
+      "description": "Premier parfum de la Collection Serpent. Note d'encre unique avec mûre et résines sombres. Évoque la peau d'un serpent.",
+      "retail_price_eur": 290,
+      "dupes": [
+        {
+          "brand": "Levant Musk",
+          "name": "Alva",
+          "similarity": 99,
+          "price_eur": 35,
+          "notes": "Clone quasiment identique selon multiples reviews - 99% similaire",
+          "source": "Fragrantica reviews"
+        },
+        {
+          "brand": "Perfume Parlour",
+          "name": "Great Layer 1663",
+          "similarity": 90,
+          "price_eur": 15,
+          "notes": "Clone UK - fumé et légèrement sucré",
+          "source": "Perfume Parlour website"
+        },
+        {
+          "brand": "Zoha Aroma",
+          "name": "Stygian",
+          "similarity": 85,
+          "price_eur": 30,
+          "notes": "Alternative boisée longue durée",
+          "source": "Zoha Aroma website"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Taklamakan",
+      "year": 2016,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "Extrait",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Rose"
+        ],
+        "heart": [
+          "Patchouli cœur",
+          "Vanille noire"
+        ],
+        "base": [
+          "Tonka",
+          "Bouleau",
+          "Cade",
+          "Gaïac",
+          "Cèdre",
+          "Myrrhe",
+          "Iris",
+          "Tolu",
+          "Labdanum",
+          "Ambréine",
+          "Ambergris",
+          "Benjoin",
+          "Santal",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Sable chaud",
+        "Benjoin luxueux",
+        "Vanille fumée",
+        "Désert oriental"
+      ],
+      "description": "Évocation du désert Taklamakan en Chine. Benjoin + sable chaud + vanille épicée. Best benzoin selon la communauté.",
+      "retail_price_eur": 265,
+      "dupes": [
+        {
+          "brand": "Bentley",
+          "name": "For Men Intense",
+          "similarity": 75,
+          "price_eur": 35,
+          "notes": "Alternative citée sur Fragrantica - DNA similaire warm/resinous, MEILLEURE performance que l'original!",
+          "source": "Fragrantica reviews"
+        }
+      ],
+      "note_special": "Très difficile à dupliquer - composition ultra-complexe avec nombreux ingrédients naturels"
+    },
+    {
+      "id": 9,
+      "name": "Khôl de Bahreïn",
+      "year": 2013,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Résines",
+          "Notes sucrées",
+          "Violette"
+        ],
+        "heart": [
+          "Iris",
+          "Ambergris",
+          "Santal"
+        ],
+        "base": [
+          "Baume du Pérou",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Iris poudré",
+        "Gourmand cosmétique",
+        "Ambré sucré",
+        "Nougat"
+      ],
+      "description": "Hommage au Khôl, cosmétique égyptien de Cléopâtre. Iris florentin crémeux + ambre gourmand + nougat. Un des meilleurs iris du marché.",
+      "retail_price_eur": 265,
+      "dupes": [],
+      "note_special": "Comparé à Iris Poudre de Malle mais plus oriental et gourmand - très unique"
+    },
+    {
+      "id": 10,
+      "name": "Rose de Petra",
+      "year": 2013,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Rose",
+          "Litchi",
+          "Grenade"
+        ],
+        "heart": [
+          "Rose bulgare"
+        ],
+        "base": [
+          "Cardamome",
+          "Poivre",
+          "Cumin"
+        ]
+      },
+      "accords": [
+        "Rose épicée",
+        "Fruité oriental",
+        "Androgyne"
+      ],
+      "description": "Rose androgyne épicée inspirée de Petra. Rose fruitée/litchi avec épices orientales.",
+      "retail_price_eur": 265,
+      "dupes": [],
+      "note_special": "Comparée à Portrait of a Lady et Lyric Woman mais unique dans son approche"
+    },
+    {
+      "id": 11,
+      "name": "Oumma",
+      "year": 2013,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "Extrait",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Rose du Maroc",
+          "Rose bulgare",
+          "Rose de Grasse"
+        ],
+        "heart": [
+          "Oud birman"
+        ],
+        "base": [
+          "Bakhoor",
+          "Résines"
+        ]
+      },
+      "accords": [
+        "Triple rose",
+        "Oud réaliste",
+        "Bakhoor",
+        "Oriental luxueux"
+      ],
+      "description": "3 roses (Maroc/Bulgarie/Grasse) + oud birman authentique + bakhoor réaliste. Le plus oriental de la maison.",
+      "retail_price_eur": 435,
+      "dupes": [],
+      "note_special": "IMPOSSIBLE À DUPLIQUER - combinaison unique de 3 roses naturelles + oud birman authentique"
+    },
+    {
+      "id": 12,
+      "name": "Une Nuit à Doha",
+      "year": 2014,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "Extrait",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Fenouil",
+          "Mandarine confite",
+          "Néroli",
+          "Petitgrain"
+        ],
+        "heart": [
+          "Tabac",
+          "Immortelle de Corse"
+        ],
+        "base": [
+          "Vanille",
+          "Vétiver d'Haïti",
+          "Coumarine",
+          "Opoponax"
+        ]
+      },
+      "accords": [
+        "Immortelle gourmand",
+        "Tabac miellé",
+        "Mandarine confite",
+        "Oriental doux"
+      ],
+      "description": "Gourmand immortelle + tabac miellé + mandarine confite. Nuits de Doha aux cafés et marchés nocturnes.",
+      "retail_price_eur": 265,
+      "dupes": [],
+      "note_special": "Très unique - l'immortelle/tabac/fenouil est une combinaison rare. Aucun clone trouvé."
+    },
+    {
+      "id": 13,
+      "name": "Qom Chilom",
+      "year": 2014,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "Extrait",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Cerise"
+        ],
+        "heart": [
+          "Fumée",
+          "Cuir latex"
+        ],
+        "base": [
+          "Narguilé",
+          "Teck"
+        ]
+      },
+      "accords": [
+        "Cerise fumée",
+        "Cuir latex",
+        "Narguilé oriental"
+      ],
+      "description": "Cerise fumée + cuir latex + narguilé. Évocation d'une soirée hookah à Qom. DISCONTINUÉ.",
+      "retail_price_eur": 295,
+      "dupes": [],
+      "note_special": "DISCONTINUÉ - parfum culte très recherché. Luckyscent peut encore avoir du stock"
+    },
+    {
+      "id": 14,
+      "name": "Oud 777",
+      "year": 2014,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "Extrait",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Oud cambodgien"
+        ],
+        "heart": [
+          "Fumée",
+          "Cuir"
+        ],
+        "base": [
+          "Tabac"
+        ]
+      },
+      "accords": [
+        "Oud fumé",
+        "Cuir tabac",
+        "Oriental profond"
+      ],
+      "description": "Oud cambodgien fumé + cuir + tabac. L'oud signature de la maison. DISCONTINUÉ.",
+      "retail_price_eur": 395,
+      "dupes": [],
+      "note_special": "DISCONTINUÉ - oud cambodgien authentique très rare"
+    },
+    {
+      "id": 15,
+      "name": "2022 Generation Homme",
+      "year": 2013,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Homme",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Agrumes"
+        ],
+        "heart": [
+          "Épices"
+        ],
+        "base": [
+          "Bois",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Boisé épicé",
+        "Masculin moderne"
+      ],
+      "description": "Version masculine de la ligne 2022 Generation.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 16,
+      "name": "2022 Generation Femme",
+      "year": 2013,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Floraux"
+        ],
+        "heart": [
+          "Fruits"
+        ],
+        "base": [
+          "Gourmand",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral fruité gourmand",
+        "Féminin rétro"
+      ],
+      "description": "Version féminine de la ligne 2022 Generation. Décrit comme 'rétro' par certains.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 17,
+      "name": "Panthea",
+      "year": 2017,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Ylang-ylang"
+        ],
+        "heart": [
+          "Floraux blancs"
+        ],
+        "base": [
+          "Musc",
+          "Boisé"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Ylang dominant",
+        "Féminin sophistiqué"
+      ],
+      "description": "Floral sophistiqué centré sur le ylang-ylang. Beau mais pas révolutionnaire selon certains.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 18,
+      "name": "Panthea Iris",
+      "year": 2019,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Iris"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Poudré",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Iris poudré",
+        "Floral sophistiqué"
+      ],
+      "description": "Version iris de Panthea. Considéré comme l'un des meilleurs iris du marché.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 19,
+      "name": "Wish Come True",
+      "year": 2017,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Bergamote",
+          "Ylang-ylang"
+        ],
+        "heart": [
+          "Essence d'agrumes",
+          "Encens",
+          "Jasmin sambac",
+          "Feuille de laurier",
+          "Cardamome"
+        ],
+        "base": [
+          "Ambergris",
+          "Tubéreuse",
+          "Vanille",
+          "Héliotrope",
+          "Styrax",
+          "Santal de Mysore",
+          "Musc",
+          "Oud laotien"
+        ]
+      },
+      "accords": [
+        "Gourmand caramel",
+        "Ylang-ylang",
+        "Oriental sucré"
+      ],
+      "description": "Partage des éléments de Taklamakan. Gourmand au caramel/praline intense.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 20,
+      "name": "Isra & Miraj",
+      "year": 2019,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Encens"
+        ],
+        "heart": [
+          "Notes célestes"
+        ],
+        "base": [
+          "Résines",
+          "Musc blanc"
+        ]
+      },
+      "accords": [
+        "Spirituel",
+        "Encensé céleste",
+        "Mystique"
+      ],
+      "description": "Nommé d'après le voyage nocturne du Prophète Muhammad. Thème spirituel et céleste.",
+      "retail_price_eur": 265,
+      "dupes": []
+    },
+    {
+      "id": 21,
+      "name": "Lufu",
+      "year": 2018,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Notes fraîches"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Oriental moderne"
+      ],
+      "description": "Parfum de la collection principale. Réactions mitigées sur premiers tests.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 22,
+      "name": "Lady White Snake",
+      "year": 2022,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "La Collection Serpent",
+      "notes": {
+        "top": [
+          "Notes blanches"
+        ],
+        "heart": [
+          "Floraux blancs"
+        ],
+        "base": [
+          "Musc blanc",
+          "Boisé clair"
+        ]
+      },
+      "accords": [
+        "Serpent blanc",
+        "Floral lumineux",
+        "Mystique féminin"
+      ],
+      "description": "Collection Serpent - version blanche/lumineuse.",
+      "retail_price_eur": 345,
+      "dupes": []
+    },
+    {
+      "id": 23,
+      "name": "Ruby Naga",
+      "year": 2022,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection Serpent",
+      "notes": {
+        "top": [
+          "Notes épicées"
+        ],
+        "heart": [
+          "Notes rouges"
+        ],
+        "base": [
+          "Boisé",
+          "Résines"
+        ]
+      },
+      "accords": [
+        "Rouge profond",
+        "Oriental épicé",
+        "Serpent mythique"
+      ],
+      "description": "Collection Serpent - version rouge/ruby. Naga = serpent mythique hindou.",
+      "retail_price_eur": 345,
+      "dupes": []
+    },
+    {
+      "id": 24,
+      "name": "Pink Boa",
+      "year": 2022,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "La Collection Serpent",
+      "notes": {
+        "top": [
+          "Rose",
+          "Fruits roses"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Musc",
+          "Boisé doux"
+        ]
+      },
+      "accords": [
+        "Rose fruité",
+        "Féminin moderne"
+      ],
+      "description": "Version rose/pink de la Collection Serpent.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 25,
+      "name": "Le 8",
+      "year": 2019,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Notes fraîches"
+        ],
+        "heart": [
+          "Floraux"
+        ],
+        "base": [
+          "Boisé",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Oriental moderne"
+      ],
+      "description": "Le chiffre 8 symbolise l'infini. Création numérotée de la maison.",
+      "retail_price_eur": 265,
+      "dupes": []
+    },
+    {
+      "id": 26,
+      "name": "Manteuse",
+      "year": 2018,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Floraux"
+        ],
+        "heart": [
+          "Cuir léger"
+        ],
+        "base": [
+          "Musc",
+          "Boisé"
+        ]
+      },
+      "accords": [
+        "Floral cuir",
+        "Féminin sophistiqué"
+      ],
+      "description": "Parfum floral-cuiré décrit dans le style orientaliste de la maison.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 27,
+      "name": "In The Wood For Love",
+      "year": 2020,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Notes vertes"
+        ],
+        "heart": [
+          "Bois"
+        ],
+        "base": [
+          "Musc boisé"
+        ]
+      },
+      "accords": [
+        "Boisé vert",
+        "Nature romantique"
+      ],
+      "description": "Jeu de mots sur 'In The Mood For Love'. Boisé romantique.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 28,
+      "name": "Sand Dance",
+      "year": 2021,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Whiskey",
+          "Coriandre",
+          "Mandarine",
+          "Sésame",
+          "Anis"
+        ],
+        "heart": [
+          "Cacao",
+          "Santal",
+          "Cashmeran"
+        ],
+        "base": [
+          "Tonka",
+          "Benjoin",
+          "Styrax",
+          "Cèdre blanc",
+          "Patchouli",
+          "Vanille",
+          "Cashmere Wood"
+        ]
+      },
+      "accords": [
+        "Désert oriental",
+        "Sable doré",
+        "Chocolat whiskey"
+      ],
+      "description": "Évocation de la danse des dunes de sable dans le désert. Whiskey + chocolat + bois.",
+      "retail_price_eur": 265,
+      "dupes": [
+        {
+          "brand": "HK Perfumes",
+          "name": "Golden Cage",
+          "similarity": 85,
+          "price_eur": 30,
+          "notes": "Clone inspiré - rum chocolate + soft woods",
+          "source": "HK Perfumes website"
+        },
+        {
+          "brand": "French Avenue",
+          "name": "Vulcan Sable",
+          "similarity": 80,
+          "price_eur": 35,
+          "notes": "Clone collection Vulcan - moins whiskey, moins santal, plus sucré",
+          "source": "Fragrantica reviews"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Crying of Evil",
+      "year": 2021,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection Serpent",
+      "notes": {
+        "top": [
+          "Notes sombres"
+        ],
+        "heart": [
+          "Épices"
+        ],
+        "base": [
+          "Résines",
+          "Oud"
+        ]
+      },
+      "accords": [
+        "Sombre mystérieux",
+        "Oriental profond"
+      ],
+      "description": "Nom évocateur. Création sombre de la Collection Serpent. Décrit comme 'fine mais rien de spécial au prix'.",
+      "retail_price_eur": 265,
+      "dupes": []
+    },
+    {
+      "id": 30,
+      "name": "Sea My Love",
+      "year": 2024,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection Serpent",
+      "notes": {
+        "top": [
+          "Sel",
+          "Mandarine"
+        ],
+        "heart": [
+          "Notes marines",
+          "Cuir",
+          "Jasmin"
+        ],
+        "base": [
+          "Ambre",
+          "Benjoin",
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Marine cuir",
+        "Abyssal",
+        "Ambré salé"
+      ],
+      "description": "Premier aquatique de la maison. Profondeurs mystérieuses de l'océan avec cuir et ambre. Serpents de mer mythiques.",
+      "retail_price_eur": 265,
+      "dupes": []
+    },
+    {
+      "id": 31,
+      "name": "2022 Generation Black",
+      "year": 2022,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection 777",
+      "notes": {
+        "top": [
+          "Notes sombres"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Cuir",
+          "Résines"
+        ]
+      },
+      "accords": [
+        "Oud noir",
+        "Cuiré sombre"
+      ],
+      "description": "Version noire/dark de la ligne 2022 Generation.",
+      "retail_price_eur": 215,
+      "dupes": []
+    },
+    {
+      "id": 32,
+      "name": "Harrods Exclusive",
+      "year": 2015,
+      "perfumer": "Stéphane Humbert Lucas",
+      "gender": "Unisex",
+      "concentration": "Extrait",
+      "collection": "Exclusif",
+      "notes": {
+        "top": [
+          "Encre"
+        ],
+        "heart": [
+          "Notes aigres",
+          "Boisé"
+        ],
+        "base": [
+          "Notes sucrées"
+        ]
+      },
+      "accords": [
+        "Encre unique",
+        "Boisé aigre-doux"
+      ],
+      "description": "Exclusivité Harrods London. 2e favori de certains après O Hira. Non répertorié sur Fragrantica.",
+      "retail_price_eur": 350,
+      "dupes": []
+    },
+    {
+      "id": 33,
+      "name": "The Queen and the Viper",
+      "year": 2025,
+      "perfumer": "Stéphane Humbert Lucas & Karine Chevallier",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "La Collection Serpent",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Agrumes",
+          "Encens",
+          "Menthe verte",
+          "Cassis",
+          "Davana",
+          "Styrax"
+        ],
+        "heart": [
+          "Menthe",
+          "Osmanthus",
+          "Jasmin sambac",
+          "Sauge sclarée",
+          "Vétiver"
+        ],
+        "base": [
+          "Tabac",
+          "Dattes",
+          "Résine",
+          "Bouleau",
+          "Safran",
+          "Labdanum"
+        ]
+      },
+      "accords": [
+        "Menthe douce",
+        "Tabac raffiné",
+        "Oriental frais",
+        "Encensé sophistiqué"
+      ],
+      "description": "Nouveau 2025. Inspiration Cléopâtre - souffle mentholé sur papyrus. Triangle femme-géométrique-sensuelle. Collaboration avec Karine Chevallier.",
+      "retail_price_eur": 295,
+      "dupes": []
+    }
+  ],
+  "dupes_summary": {
+    "total_dupes_found": 30,
+    "most_duped_perfumes": [
+      {
+        "name": "God of Fire",
+        "dupe_count": 11,
+        "best_dupe": "Lattafa Opulent Dubai (95%)",
+        "note": "LE PLUS CLONÉ de la parfumerie niche 2024-2025"
+      },
+      {
+        "name": "Soleil de Jeddah L'Original",
+        "dupe_count": 4,
+        "best_dupe": "Al Wataniah Special Oud (90%)"
+      },
+      {
+        "name": "Soleil de Jeddah - Mango Kiss",
+        "dupe_count": 3,
+        "best_dupe": "French Avenue Tropical Kiss (95%)"
+      },
+      {
+        "name": "Mortal Skin",
+        "dupe_count": 3,
+        "best_dupe": "Levant Musk Alva (99%)"
+      },
+      {
+        "name": "Sand Dance",
+        "dupe_count": 2,
+        "best_dupe": "HK Perfumes Golden Cage (85%)"
+      },
+      {
+        "name": "O Hira",
+        "dupe_count": 2,
+        "best_dupe": "Rania J Ambre Loup (70%)"
+      }
+    ],
+    "best_clone_houses": [
+      {
+        "name": "Lattafa",
+        "clones": [
+          "Opulent Dubai (God of Fire 95%)",
+          "Ajayeb Dubai Portrait (Mango Kiss 92%)"
+        ],
+        "quality": "Excellent rapport qualité/prix - meilleure performance que originaux"
+      },
+      {
+        "name": "French Avenue (Fragrance World)",
+        "clones": [
+          "Vulcan Feu (God of Fire 85%)",
+          "Tropical Kiss (Mango Kiss 95%)",
+          "Vulcan Sable (Sand Dance 80%)"
+        ],
+        "quality": "Collection Vulcan inspirée SHL Collection Serpent"
+      },
+      {
+        "name": "Gulf Orchid",
+        "clones": [
+          "Mango Ice (God of Fire 83%)"
+        ],
+        "quality": "Clone tropical hyper rafraîchissant"
+      },
+      {
+        "name": "Maison Alhambra (Lattafa)",
+        "clones": [
+          "Sceptre Malachite (God of Fire 80%)"
+        ],
+        "quality": "Nécessite macération"
+      },
+      {
+        "name": "Alexandria Fragrances",
+        "clones": [
+          "Fire of God (God of Fire 92%)"
+        ],
+        "quality": "Premium - ingrédients haute qualité"
+      },
+      {
+        "name": "Dua Fragrances",
+        "clones": [
+          "Fire God",
+          "Sun of Jeddah",
+          "Sun Of Jeddah: Mango Passion"
+        ],
+        "quality": "Premium inspirés déclarés"
+      },
+      {
+        "name": "Levant Musk",
+        "clones": [
+          "Alva (Mortal Skin 99%)"
+        ],
+        "quality": "Clone quasi parfait"
+      }
+    ],
+    "uncloned_masterpieces": [
+      "Oumma (435€ - 3 roses naturelles + oud birman authentique - IMPOSSIBLE à dupliquer)",
+      "Khôl de Bahreïn (iris gourmand cosmétique unique)",
+      "Une Nuit à Doha (immortelle/tabac/fenouil - combinaison très rare)",
+      "Qom Chilom (DISCONTINUÉ - cerise/latex/narguilé culte)",
+      "Oud 777 (DISCONTINUÉ - oud cambodgien authentique)",
+      "Rose de Petra (rose épicée androgyne unique)",
+      "Isra & Miraj (spirituel céleste)",
+      "Afterglow (version encensée de SDJ)"
+    ],
+    "note": "SHL 777 reste une maison ultra-niche avec relativement peu de clones sur ses créations les plus complexes. Seul God of Fire a été massivement cloné car viral sur TikTok en 2024-2025."
+  },
+  "god_of_fire_clone_wars_2025": {
+    "description": "God of Fire est LE parfum le plus cloné de 2024-2025. Une guerre des clones fait rage sur TikTok.",
+    "ranking_by_similarity": [
+      {
+        "rank": 1,
+        "name": "Lattafa Opulent Dubai",
+        "similarity": 95,
+        "price_eur": 30,
+        "pros": "Plus fidèle + meilleure longévité",
+        "cons": "Notes plus sucrées"
+      },
+      {
+        "rank": 2,
+        "name": "Alexandria Fire of God",
+        "similarity": 92,
+        "price_eur": 60,
+        "pros": "Qualité premium, opening smooth",
+        "cons": "Prix plus élevé"
+      },
+      {
+        "rank": 3,
+        "name": "Dua Fire God",
+        "similarity": 90,
+        "price_eur": 55,
+        "pros": "Notes fidèles",
+        "cons": "Moins accessible"
+      },
+      {
+        "rank": 4,
+        "name": "Zoha Mango Crush",
+        "similarity": 88,
+        "price_eur": 35,
+        "pros": "Format huile longue durée",
+        "cons": "Huile pas spray"
+      },
+      {
+        "rank": 5,
+        "name": "French Avenue Vulcan Feu",
+        "similarity": 85,
+        "price_eur": 35,
+        "pros": "Plus fumé/sophistiqué au dry down",
+        "cons": "60% selon puristes"
+      },
+      {
+        "rank": 6,
+        "name": "HK Perfumes Scent Of Day",
+        "similarity": 85,
+        "price_eur": 30,
+        "pros": "Bon prix",
+        "cons": "Moins connu"
+      },
+      {
+        "rank": 7,
+        "name": "Gulf Orchid Mango Ice",
+        "similarity": 83,
+        "price_eur": 25,
+        "pros": "Le moins cher, très frais",
+        "cons": "Plus citrique, moins floral"
+      },
+      {
+        "rank": 8,
+        "name": "Maison Alhambra Sceptre Malachite",
+        "similarity": 80,
+        "price_eur": 30,
+        "pros": "Belle bouteille",
+        "cons": "Nécessite 3-6 mois macération"
+      },
+      {
+        "rank": 9,
+        "name": "Paris Corner Mango Bliss",
+        "similarity": 80,
+        "price_eur": 30,
+        "pros": "Dry down similaire",
+        "cons": "Opening moins smooth"
+      },
+      {
+        "rank": 10,
+        "name": "Amaran Turquoise Magic",
+        "similarity": 78,
+        "price_eur": 25,
+        "pros": "Budget",
+        "cons": "Moins fidèle"
+      }
+    ],
+    "best_value": "Lattafa Opulent Dubai (30€) ou Gulf Orchid Mango Ice (25€)",
+    "best_quality": "Alexandria Fire of God (60€)"
+  },
+  "price_comparison": {
+    "original_average_eur": 275,
+    "dupe_average_eur": 35,
+    "savings_percentage": 87,
+    "best_value_dupes": [
+      {
+        "dupe": "Levant Musk Alva",
+        "original": "Mortal Skin",
+        "price_eur": 35,
+        "similarity": 99,
+        "savings": 255
+      },
+      {
+        "dupe": "Lattafa Opulent Dubai",
+        "original": "God of Fire",
+        "price_eur": 30,
+        "similarity": 95,
+        "savings": 235
+      },
+      {
+        "dupe": "French Avenue Tropical Kiss",
+        "original": "Mango Kiss",
+        "price_eur": 30,
+        "similarity": 95,
+        "savings": 235
+      },
+      {
+        "dupe": "Gulf Orchid Mango Ice",
+        "original": "God of Fire",
+        "price_eur": 25,
+        "similarity": 83,
+        "savings": 240
+      },
+      {
+        "dupe": "Al Wataniah Special Oud",
+        "original": "Soleil de Jeddah",
+        "price_eur": 20,
+        "similarity": 90,
+        "savings": 245
+      }
+    ]
+  },
+  "country": "France",
+  "founded": 2003,
+  "headquarters": "Paris, France",
+  "website": "https://www.stephane-humbert-lucas.com",
+  "description": "Maison de parfumerie ultra-niche fondée en 2013 par Stéphane Humbert Lucas, ancien nez de SoOud et Nez à Nez. Le 777 symbolise spiritualité, protection et perfection (chiffre 7 sacré). Créations artistiques inspirées de l'Orient avec ingrédients naturels précieux."
+}
