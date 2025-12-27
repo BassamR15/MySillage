@@ -1,0 +1,2908 @@
+{
+  "brand": "Maison Margiela",
+  "description": "Maison Margiela, fondée en 1988 par le designer belge Martin Margiela, est connue pour son approche avant-gardiste de la mode de luxe. La collection de parfums Replica, lancée en 2012, capture des souvenirs olfactifs spécifiques - des moments nostalgiques qui évoquent des émotions partagées par tous.",
+  "founded": 1988,
+  "founder": "Martin Margiela",
+  "country": "France",
+  "parent_company": "L'Oréal",
+  "website": "https://www.maisonmargiela-fragrances.com",
+  "perfume_count": 31,
+  "collections": [
+    "Replica",
+    "Signature",
+    "Expressions"
+  ],
+  "signature_notes": [
+    "Vanille",
+    "Châtaigne",
+    "Bois fumé",
+    "Noix de coco",
+    "Café",
+    "Lavande",
+    "Musc blanc"
+  ],
+  "price_range": {
+    "min": 75,
+    "max": 190,
+    "currency": "EUR"
+  },
+  "perfumes": [
+    {
+      "name": "By the Fireplace",
+      "brand": "Maison Margiela",
+      "year": 2015,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Boisé Épicé Ambré",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Marie Salamagne"
+      ],
+      "description": "L'enveloppante sensation d'un feu de cheminée cosy en plein hiver. Brooklyn, New York, 2015.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Clou de girofle",
+          "Poivre rose",
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Châtaigne",
+          "Bois de gaïac",
+          "Genévrier"
+        ],
+        "base": [
+          "Vanille",
+          "Baume du Pérou",
+          "Cashmeran"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Ameer Al Oudh Intense Oud",
+          "brand": "Lattafa",
+          "year": 2019,
+          "concentration": "EDP",
+          "olfactory_family": "Boisé Ambré",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Safran",
+              "Épices"
+            ],
+            "heart": [
+              "Oud",
+              "Bois fumé"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Olfactory Bonfire",
+          "brand": "Fragrance World",
+          "year": 2022,
+          "concentration": "EDP",
+          "olfactory_family": "Boisé Épicé",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Poivre rose",
+              "Girofle"
+            ],
+            "heart": [
+              "Châtaigne",
+              "Bois de gaïac"
+            ],
+            "base": [
+              "Vanille",
+              "Cashmeran"
+            ]
+          },
+          "similarity": "88%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Wood Fire",
+          "brand": "Perfume Parlour",
+          "year": 2020,
+          "concentration": "EDP",
+          "olfactory_family": "Boisé Ambré",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Girofle",
+              "Poivre"
+            ],
+            "heart": [
+              "Châtaigne",
+              "Bois fumé"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Bohemian Oud",
+          "brand": "Zara",
+          "year": 2021,
+          "concentration": "EDT",
+          "olfactory_family": "Boisé Ambré",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Épices"
+            ],
+            "heart": [
+              "Oud",
+              "Bois"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "78%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Woody Chestnut",
+          "brand": "Dossier",
+          "year": 2021,
+          "concentration": "EDP",
+          "olfactory_family": "Boisé Gourmand",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Girofle",
+              "Poivre rose"
+            ],
+            "heart": [
+              "Châtaigne",
+              "Bois de gaïac"
+            ],
+            "base": [
+              "Vanille",
+              "Cashmeran"
+            ]
+          },
+          "similarity": "87%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Charmello",
+          "brand": "Joocier",
+          "year": 2022,
+          "concentration": "EDP",
+          "olfactory_family": "Boisé Vanillé",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Épices"
+            ],
+            "heart": [
+              "Châtaigne",
+              "Bois"
+            ],
+            "base": [
+              "Vanille",
+              "Musc"
+            ]
+          },
+          "similarity": "80%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 8,
+        "été": 6,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 1,
+      "perfumer": "Marie Salamagne",
+      "accords": [
+        "Boisé Épicé Ambré"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Jazz Club",
+      "brand": "Maison Margiela",
+      "year": 2013,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Cuir Épicé Ambré",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Alienor Massenet"
+      ],
+      "description": "L'atmosphère exaltante et intime d'un club de jazz confidentiel. Brooklyn, 2013.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Néroli",
+          "Citron"
+        ],
+        "heart": [
+          "Rhum",
+          "Vétiver de Java",
+          "Sauge sclarée"
+        ],
+        "base": [
+          "Feuille de tabac",
+          "Fève de vanille",
+          "Styrax"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Woody Tobacco",
+          "brand": "Dossier",
+          "year": 2020,
+          "concentration": "EDP",
+          "olfactory_family": "Cuir Tabac",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Citron",
+              "Poivre rose"
+            ],
+            "heart": [
+              "Rhum",
+              "Vétiver"
+            ],
+            "base": [
+              "Tabac",
+              "Vanille",
+              "Styrax"
+            ]
+          },
+          "similarity": "88%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Smooth Jazz",
+          "brand": "Chez Pierre",
+          "year": 2022,
+          "concentration": "EDP",
+          "olfactory_family": "Cuir Ambré",
+          "gender": "masculin",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Poivre rose",
+              "Citron",
+              "Petitgrain"
+            ],
+            "heart": [
+              "Cuir",
+              "Cannelle",
+              "Pomme"
+            ],
+            "base": [
+              "Cèdre",
+              "Santal",
+              "Ambre",
+              "Vétiver",
+              "Benjoin"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Club de Nuit Sillage",
+          "brand": "Armaf",
+          "year": 2020,
+          "concentration": "EDP",
+          "olfactory_family": "Épicé Ambré",
+          "gender": "masculin",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Poivre",
+              "Citron"
+            ],
+            "heart": [
+              "Épices",
+              "Bois"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "75%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 2,
+      "perfumer": "Alienor Massenet",
+      "accords": [
+        "Cuir Épicé Ambré"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Beach Walk",
+      "brand": "Maison Margiela",
+      "year": 2012,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Fruité Gourmand",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Jacques Cavallier Belletrud",
+        "Marie Salamagne"
+      ],
+      "description": "La sensation d'une promenade ensoleillée sur la plage. Calvi, 1972.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Ylang-ylang",
+          "Lait de coco",
+          "Héliotrope"
+        ],
+        "base": [
+          "Musc",
+          "Benjoin",
+          "Cèdre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Aquatic Coconut",
+          "brand": "Dossier",
+          "year": 2020,
+          "concentration": "EDP",
+          "olfactory_family": "Solaire Marin",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Citron",
+              "Poivre rose",
+              "Bergamote"
+            ],
+            "heart": [
+              "Noix de coco",
+              "Héliotrope",
+              "Fève tonka"
+            ],
+            "base": [
+              "Musc",
+              "Benjoin",
+              "Cèdre"
+            ]
+          },
+          "similarity": "88%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Beach Side",
+          "brand": "ALT Fragrances",
+          "year": 2021,
+          "concentration": "EDP",
+          "olfactory_family": "Solaire Marin",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Agrumes",
+              "Poivre rose"
+            ],
+            "heart": [
+              "Noix de coco",
+              "Ylang-ylang"
+            ],
+            "base": [
+              "Musc",
+              "Bois"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Rio Radiance 68",
+          "brand": "Sol de Janeiro",
+          "year": 2023,
+          "concentration": "EDP",
+          "olfactory_family": "Fruité Solaire",
+          "gender": "féminin",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Bergamote",
+              "Jasmin"
+            ],
+            "heart": [
+              "Noix de coco",
+              "Fleurs blanches"
+            ],
+            "base": [
+              "Musc",
+              "Ambre"
+            ]
+          },
+          "similarity": "80%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Romantic Summer",
+          "brand": "Fragrenza",
+          "year": 2022,
+          "concentration": "EDP",
+          "olfactory_family": "Solaire Floral",
+          "gender": "féminin",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Agrumes"
+            ],
+            "heart": [
+              "Fleurs blanches"
+            ],
+            "base": [
+              "Musc"
+            ]
+          },
+          "similarity": "78%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 9,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 8
+      },
+      "id": 3,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "accords": [
+        "Floral Fruité Gourmand"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Lazy Sunday Morning",
+      "brand": "Maison Margiela",
+      "year": 2012,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Musqué Frais",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Louise Turner"
+      ],
+      "description": "La douceur d'un dimanche matin paresseux entre les draps. Tuscany, 2003.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Aldéhydes",
+          "Muguet",
+          "Poire"
+        ],
+        "heart": [
+          "Rose",
+          "Iris",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc blanc",
+          "Ambrette",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Lazy Morning",
+          "brand": "Dossier",
+          "year": 2021,
+          "concentration": "EDP",
+          "olfactory_family": "Floral Musqué",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Aldéhydes",
+              "Muguet",
+              "Poire"
+            ],
+            "heart": [
+              "Rose",
+              "Iris"
+            ],
+            "base": [
+              "Musc blanc",
+              "Ambre"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Sunday Morning",
+          "brand": "Oil Perfumery",
+          "year": 2020,
+          "concentration": "Huile",
+          "olfactory_family": "Floral Propre",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Muguet",
+              "Poire"
+            ],
+            "heart": [
+              "Rose",
+              "Iris"
+            ],
+            "base": [
+              "Musc blanc"
+            ]
+          },
+          "similarity": "82%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 4,
+      "perfumer": "Louise Turner",
+      "accords": [
+        "Floral Musqué Frais"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Coffee Break",
+      "brand": "Maison Margiela",
+      "year": 2019,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Aromatique Gourmand",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Jacques Cavallier Belletrud"
+      ],
+      "description": "L'ambiance chaleureuse d'un café cosy un jour d'hiver. Stockholm, 2015.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Poivre",
+          "Fleur d'oranger",
+          "Patchouli"
+        ],
+        "heart": [
+          "Lavande",
+          "Café",
+          "Lait",
+          "Fève tonka",
+          "Benjoin",
+          "Cypriol"
+        ],
+        "base": [
+          "Vanille",
+          "Cèdre",
+          "Vétiver"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Cozy Coffee",
+          "brand": "Dossier",
+          "year": 2021,
+          "concentration": "EDP",
+          "olfactory_family": "Gourmand Café",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Poivre",
+              "Fleur d'oranger"
+            ],
+            "heart": [
+              "Café",
+              "Lavande",
+              "Lait"
+            ],
+            "base": [
+              "Vanille",
+              "Fève tonka"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Coffee Break",
+          "brand": "Oil Perfumery",
+          "year": 2020,
+          "concentration": "Huile",
+          "olfactory_family": "Gourmand",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Café",
+              "Lavande"
+            ],
+            "heart": [
+              "Lait",
+              "Fève tonka"
+            ],
+            "base": [
+              "Vanille"
+            ]
+          },
+          "similarity": "82%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 9,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 10
+      },
+      "id": 5,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "accords": [
+        "Aromatique Gourmand"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Bubble Bath",
+      "brand": "Maison Margiela",
+      "year": 2020,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Boisé Musqué",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Marie Salamagne"
+      ],
+      "description": "Le souvenir relaxant d'un bain moussant apaisant. Your Bathroom, 2004.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Savon",
+          "Bergamote"
+        ],
+        "heart": [
+          "Lavande",
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Noix de coco",
+          "Musc blanc",
+          "Patchouli"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Bubble Bath",
+          "brand": "Oil Perfumery",
+          "year": 2021,
+          "concentration": "Huile",
+          "olfactory_family": "Propre Savonneux",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Savon",
+              "Bergamote"
+            ],
+            "heart": [
+              "Lavande",
+              "Rose"
+            ],
+            "base": [
+              "Musc blanc",
+              "Noix de coco"
+            ]
+          },
+          "similarity": "85%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Bubbly Bath",
+          "brand": "Wicked Good",
+          "year": 2022,
+          "concentration": "EDT",
+          "olfactory_family": "Floral Propre",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Savon"
+            ],
+            "heart": [
+              "Rose",
+              "Lavande"
+            ],
+            "base": [
+              "Musc",
+              "Noix de coco"
+            ]
+          },
+          "similarity": "82%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 8,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 6,
+      "perfumer": "Marie Salamagne",
+      "accords": [
+        "Floral Boisé Musqué"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Autumn Vibes",
+      "brand": "Maison Margiela",
+      "year": 2021,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Olivier Cresp"
+      ],
+      "description": "Une promenade dans un parc de Nouvelle-Angleterre un jour d'automne frais. Bedford, NY, 2016.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Cardamome"
+        ],
+        "heart": [
+          "Bois de cèdre",
+          "Mousse"
+        ],
+        "base": [
+          "Styrax",
+          "Cashmeran",
+          "Ambroxan"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Autumn Walk",
+          "brand": "Dossier",
+          "year": 2022,
+          "concentration": "EDP",
+          "olfactory_family": "Boisé Mousse",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Poivre rose",
+              "Cardamome"
+            ],
+            "heart": [
+              "Cèdre",
+              "Mousse"
+            ],
+            "base": [
+              "Styrax",
+              "Cashmeran"
+            ]
+          },
+          "similarity": "83%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 10,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 5
+      },
+      "id": 7,
+      "perfumer": "Olivier Cresp",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Whispers in the Library",
+      "brand": "Maison Margiela",
+      "year": 2019,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Oriental Boisé Ambré",
+      "gender": "unisexe",
+      "status": "discontinued",
+      "perfumers": [
+        "Daniela Andrier"
+      ],
+      "description": "L'atmosphère enchanteresse d'une bibliothèque ancienne. Dublin, 1981.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Poivre",
+          "Fleur d'oranger",
+          "Patchouli"
+        ],
+        "heart": [
+          "Cypriol",
+          "Fève tonka",
+          "Benjoin"
+        ],
+        "base": [
+          "Vanille",
+          "Cèdre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Library Whispers",
+          "brand": "Dossier",
+          "year": 2021,
+          "concentration": "EDP",
+          "olfactory_family": "Boisé Vanillé",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Poivre"
+            ],
+            "heart": [
+              "Benjoin",
+              "Fève tonka"
+            ],
+            "base": [
+              "Vanille",
+              "Cèdre"
+            ]
+          },
+          "similarity": "83%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Whispers",
+          "brand": "Oil Perfumery",
+          "year": 2020,
+          "concentration": "Huile",
+          "olfactory_family": "Oriental Boisé",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Poivre"
+            ],
+            "heart": [
+              "Benjoin"
+            ],
+            "base": [
+              "Vanille",
+              "Cèdre"
+            ]
+          },
+          "similarity": "80%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 7,
+        "été": 6,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 8,
+      "perfumer": "Daniela Andrier",
+      "accords": [
+        "Oriental Boisé Ambré"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Flower Market",
+      "brand": "Maison Margiela",
+      "year": 2012,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Vert",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Jacques Cavallier Belletrud",
+        "Marie Salamagne"
+      ],
+      "description": "L'effervescence d'un marché aux fleurs printanier. London, 1992.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Freesia",
+          "Feuille verte"
+        ],
+        "heart": [
+          "Rose de Grasse",
+          "Jasmin sambac",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Musc blanc",
+          "Mousse de chêne"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Flower Market",
+          "brand": "Wicked Good",
+          "year": 2021,
+          "concentration": "EDT",
+          "olfactory_family": "Floral Vert",
+          "gender": "féminin",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Freesia",
+              "Feuille verte"
+            ],
+            "heart": [
+              "Rose",
+              "Jasmin",
+              "Tubéreuse"
+            ],
+            "base": [
+              "Musc"
+            ]
+          },
+          "similarity": "82%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 9,
+        "automne": 8,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 9,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "accords": [
+        "Floral Vert"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Sailing Day",
+      "brand": "Maison Margiela",
+      "year": 2019,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Aquatique Aromatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Fanny Bal"
+      ],
+      "description": "La sensation vivifiante d'une journée en mer. Boston, 1994.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Accord aquatique",
+          "Coriandre"
+        ],
+        "heart": [
+          "Iris",
+          "Genièvre"
+        ],
+        "base": [
+          "Algue rouge",
+          "Ambre gris",
+          "Cèdre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Sailing Day",
+          "brand": "Wicked Good",
+          "year": 2022,
+          "concentration": "EDT",
+          "olfactory_family": "Aquatique",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Accord aquatique",
+              "Coriandre"
+            ],
+            "heart": [
+              "Iris"
+            ],
+            "base": [
+              "Algue",
+              "Ambre"
+            ]
+          },
+          "similarity": "80%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 9,
+        "été": 10,
+        "automne": 6,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 10,
+      "perfumer": "Fanny Bal",
+      "accords": [
+        "Aquatique Aromatique"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Under the Lemon Trees",
+      "brand": "Maison Margiela",
+      "year": 2021,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Hespéridé Aromatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Fabrice Pellegrin"
+      ],
+      "description": "Une sieste sous les citronniers dans le jardin d'une vieille villa. Positano, 2001.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Calamansi",
+          "Citron de Sorrento"
+        ],
+        "heart": [
+          "Coriandre",
+          "Thé vert"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Lemon Trees",
+          "brand": "Wicked Good",
+          "year": 2022,
+          "concentration": "EDT",
+          "olfactory_family": "Hespéridé",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Citron",
+              "Calamansi"
+            ],
+            "heart": [
+              "Thé vert"
+            ],
+            "base": [
+              "Cèdre",
+              "Musc"
+            ]
+          },
+          "similarity": "80%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 11,
+      "perfumer": "Fabrice Pellegrin",
+      "accords": [
+        "Hespéridé Aromatique"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Springtime in a Park",
+      "brand": "Maison Margiela",
+      "year": 2021,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Fruité Frais",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Alexandra Carlin"
+      ],
+      "description": "L'essence délicate et lumineuse du printemps dans un parc. Shanghai, 2019.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Poire",
+          "Cassis vert"
+        ],
+        "heart": [
+          "Muguet",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Spring Park",
+          "brand": "Wicked Good",
+          "year": 2022,
+          "concentration": "EDT",
+          "olfactory_family": "Floral Frais",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Poire",
+              "Cassis"
+            ],
+            "heart": [
+              "Muguet",
+              "Jasmin"
+            ],
+            "base": [
+              "Musc"
+            ]
+          },
+          "similarity": "78%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 12,
+      "perfumer": "Alexandra Carlin",
+      "accords": [
+        "Floral Fruité Frais"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "When the Rain Stops",
+      "brand": "Maison Margiela",
+      "year": 2021,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Aquatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Meabh McCurtin"
+      ],
+      "description": "L'air frais après une pluie d'été. England, 2017.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Accord aquatique",
+          "Jacinthe"
+        ],
+        "heart": [
+          "Rose d'Isparta",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "After Rain",
+          "brand": "Dossier",
+          "year": 2022,
+          "concentration": "EDP",
+          "olfactory_family": "Floral Aquatique",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Accord aquatique"
+            ],
+            "heart": [
+              "Rose",
+              "Jasmin"
+            ],
+            "base": [
+              "Patchouli",
+              "Musc"
+            ]
+          },
+          "similarity": "80%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 9,
+        "automne": 8,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 13,
+      "perfumer": "Meabh McCurtin",
+      "accords": [
+        "Floral Aquatique"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "On A Date",
+      "brand": "Maison Margiela",
+      "year": 2022,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Fruité",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Carlos Benaïm"
+      ],
+      "description": "L'atmosphère d'un rendez-vous parfait. Provence, 2014.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Sirop de cassis",
+          "Poivre rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Géranium",
+          "Davana"
+        ],
+        "base": [
+          "Patchouli",
+          "Mousse",
+          "Musc",
+          "Vétiver"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 8,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 14,
+      "perfumer": "Carlos Benaïm",
+      "accords": [
+        "Floral Fruité"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Afternoon Delight",
+      "brand": "Maison Margiela",
+      "year": 2024,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Gourmand Vanillé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Christophe Raynaud"
+      ],
+      "description": "La douceur réconfortante d'un goûter. Paris, 2009.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Accord madeleine"
+        ],
+        "heart": [
+          "Vanille de Madagascar",
+          "Amande"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 7,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 9
+      },
+      "id": 15,
+      "perfumer": "Christophe Raynaud",
+      "accords": [
+        "Gourmand Vanillé"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Music Festival",
+      "brand": "Maison Margiela",
+      "year": 2021,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Alienor Massenet"
+      ],
+      "description": "L'énergie électrique d'un festival de musique. Coachella, 2009.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Cannabis",
+          "Agrumes"
+        ],
+        "heart": [
+          "Cuir",
+          "Encens"
+        ],
+        "base": [
+          "Patchouli",
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Music Festival",
+          "brand": "Wicked Good",
+          "year": 2022,
+          "concentration": "EDT",
+          "olfactory_family": "Boisé Aromatique",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Cannabis",
+              "Agrumes"
+            ],
+            "heart": [
+              "Cuir",
+              "Encens"
+            ],
+            "base": [
+              "Patchouli"
+            ]
+          },
+          "similarity": "78%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 8,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 7
+      },
+      "id": 16,
+      "perfumer": "Alienor Massenet",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Funfair Evening",
+      "brand": "Maison Margiela",
+      "year": 2012,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Gourmand Sucré",
+      "gender": "féminin",
+      "status": "discontinued",
+      "perfumers": [
+        "Jacques Cavallier Belletrud",
+        "Marie Salamagne"
+      ],
+      "description": "L'ambiance festive d'une fête foraine. Berlin, 1989.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Pomme",
+          "Anis étoilé"
+        ],
+        "heart": [
+          "Guimauve",
+          "Praline"
+        ],
+        "base": [
+          "Caramel",
+          "Fleur d'oranger"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Funfair",
+          "brand": "Wicked Good",
+          "year": 2021,
+          "concentration": "EDT",
+          "olfactory_family": "Gourmand",
+          "gender": "féminin",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Pomme",
+              "Anis"
+            ],
+            "heart": [
+              "Guimauve"
+            ],
+            "base": [
+              "Caramel"
+            ]
+          },
+          "similarity": "80%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 7,
+        "été": 6,
+        "automne": 7,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 7
+      },
+      "id": 17,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "accords": [
+        "Gourmand Sucré"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Flying",
+      "brand": "Maison Margiela",
+      "year": 2019,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Hespéridé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Fanny Bal"
+      ],
+      "description": "La sensation d'envol et de liberté. JFK Airport, 2016.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Fleur d'oranger",
+          "Bergamote",
+          "Petitgrain"
+        ],
+        "heart": [
+          "Néroli",
+          "Ylang-ylang",
+          "Fleur d'amandier"
+        ],
+        "base": [
+          "Notes ozoniques",
+          "Musc",
+          "Mousse"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 7,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 18,
+      "perfumer": "Fanny Bal",
+      "accords": [
+        "Floral Hespéridé"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Filter Glow",
+      "brand": "Maison Margiela",
+      "year": 2023,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Musqué Fruité",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Alienor Massenet"
+      ],
+      "description": "L'éclat d'un filtre beauté parfait.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Mangue"
+        ],
+        "heart": [
+          "Iris",
+          "Pivoine"
+        ],
+        "base": [
+          "Musc blanc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 7,
+        "automne": 6,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 9,
+        "nuit": 5
+      },
+      "id": 19,
+      "perfumer": "Alienor Massenet",
+      "accords": [
+        "Musqué Fruité"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Matcha Meditation",
+      "brand": "Maison Margiela",
+      "year": 2023,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Aromatique Vert",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "description": "La sérénité d'un moment de méditation. Kyoto, 2023.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Thé matcha",
+          "Bergamote"
+        ],
+        "heart": [
+          "Lait d'avoine",
+          "Iris"
+        ],
+        "base": [
+          "Bois de cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Matcha Meditation",
+          "brand": "Wicked Good",
+          "year": 2023,
+          "concentration": "EDT",
+          "olfactory_family": "Aromatique Vert",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Matcha",
+              "Bergamote"
+            ],
+            "heart": [
+              "Lait",
+              "Iris"
+            ],
+            "base": [
+              "Cèdre",
+              "Musc"
+            ]
+          },
+          "similarity": "78%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 20,
+      "perfumer": "Quentin Bisch",
+      "accords": [
+        "Aromatique Vert"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "From the Garden",
+      "brand": "Maison Margiela",
+      "year": 2023,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Aromatique Vert Frais",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Daniela Andrier"
+      ],
+      "description": "La fraîcheur d'un potager en été. Puglia, 1998.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Basilic",
+          "Feuille de tomate"
+        ],
+        "heart": [
+          "Feuille de violette",
+          "Géranium"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 21,
+      "perfumer": "Daniela Andrier",
+      "accords": [
+        "Aromatique Vert Frais"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Mutiny",
+      "brand": "Maison Margiela",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Signature",
+      "olfactory_family": "Floral Oriental",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Dominique Ropion"
+      ],
+      "description": "L'élégance rebelle et sensuelle conçue par John Galliano.",
+      "price": {
+        "30ml": 90,
+        "100ml": 180,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Prune"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Jasmin"
+        ],
+        "base": [
+          "Cuir",
+          "Oud, Bois de santal"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 6,
+        "automne": 9,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 8
+      },
+      "id": 22,
+      "perfumer": "Dominique Ropion",
+      "accords": [
+        "Floral Oriental"
+      ],
+      "retail_price_eur": 180
+    },
+    {
+      "name": "(Untitled)",
+      "brand": "Maison Margiela",
+      "year": 2010,
+      "concentration": "EDP",
+      "collection": "Signature",
+      "olfactory_family": "Floral Boisé",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Daniela Andrier"
+      ],
+      "description": "Un bouquet floral sophistiqué et intemporel.",
+      "price": {
+        "30ml": 90,
+        "100ml": 180,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Galbanum",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Bois de cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 7,
+        "automne": 9,
+        "hiver": 7
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 5
+      },
+      "id": 23,
+      "perfumer": "Daniela Andrier",
+      "accords": [
+        "Floral Boisé"
+      ],
+      "retail_price_eur": 180
+    },
+    {
+      "name": "(Untitled) L'Eau",
+      "brand": "Maison Margiela",
+      "year": 2012,
+      "concentration": "EDT",
+      "collection": "Signature",
+      "olfactory_family": "Floral Aquatique",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Daniela Andrier"
+      ],
+      "description": "Une version plus légère et aérienne d'Untitled.",
+      "price": {
+        "30ml": 75,
+        "100ml": 150,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 7,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 24,
+      "perfumer": "Daniela Andrier",
+      "accords": [
+        "Floral Aquatique"
+      ],
+      "retail_price_eur": 150
+    },
+    {
+      "name": "Soul of the Forest",
+      "brand": "Maison Margiela",
+      "year": 2023,
+      "concentration": "EDP",
+      "collection": "Expressions",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Marie Salamagne"
+      ],
+      "description": "L'essence mystique et apaisante de la forêt profonde.",
+      "price": {
+        "30ml": 95,
+        "100ml": 190,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Sapin",
+          "Cyprès"
+        ],
+        "heart": [
+          "Mousse",
+          "Cèdre"
+        ],
+        "base": [
+          "Vétiver",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 7,
+        "été": 7,
+        "automne": 10,
+        "hiver": 7
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 5
+      },
+      "id": 25,
+      "perfumer": "Marie Salamagne",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 190
+    },
+    {
+      "name": "Wicked Love",
+      "brand": "Maison Margiela",
+      "year": 2024,
+      "concentration": "EDP",
+      "collection": "Expressions",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Marie Salamagne"
+      ],
+      "description": "Un amour passionnel et interdit.",
+      "price": {
+        "30ml": 95,
+        "100ml": 190,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Poivre noir",
+          "Cardamome"
+        ],
+        "heart": [
+          "Rose",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Ambre",
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 6,
+        "automne": 9,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 10
+      },
+      "id": 26,
+      "perfumer": "Marie Salamagne",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 190
+    },
+    {
+      "name": "Tea Escape",
+      "brand": "Maison Margiela",
+      "year": 2016,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Aromatique Vert",
+      "gender": "unisexe",
+      "status": "discontinued",
+      "perfumers": [
+        "Louise Turner"
+      ],
+      "description": "L'atmosphère apaisante d'un salon de thé. Taipei, 2014.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Thé vert",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Lait"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 27,
+      "perfumer": "Louise Turner",
+      "accords": [
+        "Aromatique Vert"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Promenade in the Gardens",
+      "brand": "Maison Margiela",
+      "year": 2018,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Vert Frais",
+      "gender": "féminin",
+      "status": "discontinued",
+      "perfumers": [
+        "Daniela Andrier"
+      ],
+      "description": "Une balade paisible dans un jardin anglais. Sissinghurst, 2012.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Feuilles vertes",
+          "Concombre"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine",
+          "Iris"
+        ],
+        "base": [
+          "Musc blanc",
+          "Mousse"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Promenade in the Gardens",
+          "brand": "Wicked Good",
+          "year": 2022,
+          "concentration": "EDT",
+          "olfactory_family": "Floral Vert",
+          "gender": "féminin",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Feuilles vertes",
+              "Concombre"
+            ],
+            "heart": [
+              "Rose",
+              "Pivoine"
+            ],
+            "base": [
+              "Musc"
+            ]
+          },
+          "similarity": "78%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 8,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 28,
+      "perfumer": "Daniela Andrier",
+      "accords": [
+        "Floral Vert Frais"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "At the Barber's",
+      "brand": "Maison Margiela",
+      "year": 2013,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Aromatique Fougère",
+      "gender": "masculin",
+      "status": "discontinued",
+      "perfumers": [
+        "Alienor Massenet"
+      ],
+      "description": "L'ambiance classique d'un salon de barbier. Williamsburg, 2013.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Lavande",
+          "Poivre noir"
+        ],
+        "heart": [
+          "Géranium",
+          "Cèdre"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cuir"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 8,
+        "automne": 6,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 9,
+        "nuit": 5
+      },
+      "id": 29,
+      "perfumer": "Alienor Massenet",
+      "accords": [
+        "Aromatique Fougère"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Lipstick On",
+      "brand": "Maison Margiela",
+      "year": 2017,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Floral Poudré",
+      "gender": "féminin",
+      "status": "discontinued",
+      "perfumers": [
+        "Louise Turner"
+      ],
+      "description": "Le glamour d'une séance de maquillage. Los Angeles, 1952.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Violet",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Iris"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 8,
+        "automne": 7,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 7
+      },
+      "id": 30,
+      "perfumer": "Louise Turner",
+      "accords": [
+        "Floral Poudré"
+      ],
+      "retail_price_eur": 160
+    },
+    {
+      "name": "Winter Stroll",
+      "brand": "Maison Margiela",
+      "year": 2022,
+      "concentration": "EDT",
+      "collection": "Replica",
+      "olfactory_family": "Boisé Épicé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Olivier Cresp"
+      ],
+      "description": "Une promenade hivernale dans les rues enneigées.",
+      "price": {
+        "30ml": 78,
+        "100ml": 160,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7
+      },
+      "notes": {
+        "top": [
+          "Cannelle",
+          "Pomme cuite"
+        ],
+        "heart": [
+          "Bois de santal",
+          "Iris"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Winter Stroll",
+          "brand": "Wicked Good",
+          "year": 2022,
+          "concentration": "EDT",
+          "olfactory_family": "Boisé Épicé",
+          "gender": "unisexe",
+          "status": "current",
+          "notes": {
+            "top": [
+              "Cannelle",
+              "Pomme"
+            ],
+            "heart": [
+              "Santal",
+              "Iris"
+            ],
+            "base": [
+              "Vanille",
+              "Musc"
+            ]
+          },
+          "similarity": "80%",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone inspiré par Maison Margiela Replica",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Principal": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 9,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 9
+      },
+      "id": 31,
+      "perfumer": "Olivier Cresp",
+      "accords": [
+        "Boisé Épicé"
+      ],
+      "retail_price_eur": 160
+    }
+  ],
+  "headquarters": "Paris, France"
+}

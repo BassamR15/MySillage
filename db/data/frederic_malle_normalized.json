@@ -1,0 +1,2585 @@
+{
+  "brand": "Frederic Malle",
+  "total_perfumes": 51,
+  "country": "France",
+  "founded": 2000,
+  "parent_company": "Estée Lauder (since 2015)",
+  "concept": "Éditeur de parfums - liberté créative totale aux parfumeurs",
+  "price_range": "200-1600€+ (ultra-luxe niche)",
+  "generated_date": "2025-12-26T10:51:33.605230",
+  "source": "Fragrantica + extensive dupe research 2024-2025",
+  "notable_perfumers": [
+    "Dominique Ropion",
+    "Maurice Roucel",
+    "Jean-Claude Ellena",
+    "Pierre Bourdon",
+    "Ralf Schwieger",
+    "Bruno Jovanovic",
+    "Olivia Giacobetti",
+    "Edouard Flechier",
+    "Sophia Grojsman",
+    "Carlos Benaïm",
+    "Edmond Roudnitska",
+    "Michel Roudnitska",
+    "Anne Flipo",
+    "Julien Rasquinet",
+    "Suzy Le Helley",
+    "Fanny Bal"
+  ],
+  "perfumes": [
+    {
+      "name": "Musc Ravageur",
+      "year": 2000,
+      "perfumer": "Maurice Roucel",
+      "gender": "Unisex",
+      "family": "Oriental Spicy",
+      "top_notes": [
+        "Lavender",
+        "Tangerine",
+        "Bergamot",
+        "Coriander",
+        "Neroli"
+      ],
+      "heart_notes": [
+        "Cinnamon",
+        "Cloves",
+        "Orris",
+        "Rose",
+        "Osmanthus"
+      ],
+      "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Tonka Bean",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Cedar",
+        "Patchouli"
+      ],
+      "dupes": [
+        {
+          "name": "Naram's Elixir",
+          "brand": "Dua Fragrances",
+          "accuracy": 88,
+          "price_eur": 55,
+          "notes": "Inspired by original 2000 formulation",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Musc War",
+          "brand": "Yom & Layl",
+          "accuracy": 90,
+          "price_eur": 35,
+          "notes": "90%+ close, 8h+ longevity",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Desire",
+          "brand": "AromaPassions",
+          "accuracy": 82,
+          "price_eur": 25,
+          "notes": "Amazon available",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Velour Musk 204",
+          "brand": "MisterScent",
+          "accuracy": 80,
+          "price_eur": 15,
+          "notes": "Oil roll-on UK",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Elixir No. 64",
+          "brand": "Perfame",
+          "accuracy": 85,
+          "price_eur": 40,
+          "notes": "Swiss oils",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Potent Seed",
+          "brand": "Perfume Parlour",
+          "accuracy": 88,
+          "price_eur": 12,
+          "notes": "Close to OG formulation",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Meharees",
+          "brand": "L'Erbolario",
+          "accuracy": 75,
+          "price_eur": 35,
+          "notes": "Italian alternative, spicier",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 1,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Lavender",
+          "Tangerine",
+          "Bergamot",
+          "Coriander",
+          "Neroli"
+        ],
+        "heart": [
+          "Cinnamon",
+          "Cloves",
+          "Orris",
+          "Rose",
+          "Osmanthus"
+        ],
+        "base": [
+          "Musk",
+          "Vanilla",
+          "Tonka Bean",
+          "Amber",
+          "Sandalwood",
+          "Guaiac Wood",
+          "Cedar",
+          "Patchouli"
+        ]
+      }
+    },
+    {
+      "name": "Lipstick Rose",
+      "year": 2000,
+      "perfumer": "Ralf Schwieger",
+      "gender": "Women",
+      "family": "Floral",
+      "top_notes": [
+        "Raspberry",
+        "Lychee",
+        "Grapefruit",
+        "Bergamot",
+        "Galbanum"
+      ],
+      "heart_notes": [
+        "Iris",
+        "Violet",
+        "Rose",
+        "Heliotrope",
+        "Lily of the Valley"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Amber",
+        "White Musk",
+        "Patchouli",
+        "Cedar",
+        "Vetiver"
+      ],
+      "dupes": [
+        {
+          "name": "Luscious Rouge 1552",
+          "brand": "Perfume Parlour",
+          "accuracy": 85,
+          "price_eur": 12,
+          "notes": "Good longevity, powdery",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Lipstick Rose Inspired",
+          "brand": "Unleashed Perfumes",
+          "accuracy": 82,
+          "price_eur": 35,
+          "notes": "Powdery feminine",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Insolence",
+          "brand": "Guerlain",
+          "accuracy": 70,
+          "price_eur": 80,
+          "notes": "Similar vibe, violet-heavy",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Zara Morning Grasse",
+          "brand": "Zara",
+          "accuracy": 65,
+          "price_eur": 20,
+          "notes": "Budget alternative",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 2,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Raspberry",
+          "Lychee",
+          "Grapefruit",
+          "Bergamot",
+          "Galbanum"
+        ],
+        "heart": [
+          "Iris",
+          "Violet",
+          "Rose",
+          "Heliotrope",
+          "Lily of the Valley"
+        ],
+        "base": [
+          "Vanilla",
+          "Amber",
+          "White Musk",
+          "Patchouli",
+          "Cedar",
+          "Vetiver"
+        ]
+      }
+    },
+    {
+      "name": "Angéliques Sous la Pluie",
+      "year": 2000,
+      "perfumer": "Jean-Claude Ellena",
+      "gender": "Unisex",
+      "family": "Floral Woody",
+      "top_notes": [
+        "Juniper Berries",
+        "Coriander"
+      ],
+      "heart_notes": [
+        "Angelica"
+      ],
+      "base_notes": [
+        "Hawthorn",
+        "White Musk"
+      ],
+      "dupes": [],
+      "id": 3,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Juniper Berries",
+          "Coriander"
+        ],
+        "heart": [
+          "Angelica"
+        ],
+        "base": [
+          "Hawthorn",
+          "White Musk"
+        ]
+      }
+    },
+    {
+      "name": "L'Eau d'Hiver",
+      "year": 2000,
+      "perfumer": "Jean-Claude Ellena",
+      "gender": "Unisex",
+      "family": "Floral Woody Musk",
+      "top_notes": [
+        "Honey"
+      ],
+      "heart_notes": [
+        "Heliotrope",
+        "Iris"
+      ],
+      "base_notes": [
+        "White Musk"
+      ],
+      "dupes": [],
+      "id": 4,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Honey"
+        ],
+        "heart": [
+          "Heliotrope",
+          "Iris"
+        ],
+        "base": [
+          "White Musk"
+        ]
+      }
+    },
+    {
+      "name": "En Passant",
+      "year": 2000,
+      "perfumer": "Olivia Giacobetti",
+      "gender": "Women",
+      "family": "Floral",
+      "top_notes": [
+        "Cucumber",
+        "Wheat"
+      ],
+      "heart_notes": [
+        "Lilac",
+        "White Flowers"
+      ],
+      "base_notes": [
+        "White Musk",
+        "Cedar"
+      ],
+      "dupes": [],
+      "id": 5,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Cucumber",
+          "Wheat"
+        ],
+        "heart": [
+          "Lilac",
+          "White Flowers"
+        ],
+        "base": [
+          "White Musk",
+          "Cedar"
+        ]
+      }
+    },
+    {
+      "name": "Noir Epices",
+      "year": 2000,
+      "perfumer": "Michel Roudnitska",
+      "gender": "Unisex",
+      "family": "Oriental Spicy",
+      "top_notes": [
+        "Geranium",
+        "Caraway"
+      ],
+      "heart_notes": [
+        "Pink Pepper",
+        "Cloves",
+        "Cinnamon"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "dupes": [
+        {
+          "name": "Dark Spices",
+          "brand": "Perfume Parlour",
+          "accuracy": 80,
+          "price_eur": 12,
+          "notes": "Spicy oriental",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 6,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Geranium",
+          "Caraway"
+        ],
+        "heart": [
+          "Pink Pepper",
+          "Cloves",
+          "Cinnamon"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Le Parfum de Thérèse",
+      "year": 2000,
+      "perfumer": "Edmond Roudnitska",
+      "gender": "Women",
+      "family": "Chypre Fruity",
+      "top_notes": [
+        "Melon",
+        "Peach",
+        "Plum"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Cedar",
+        "Musk"
+      ],
+      "dupes": [],
+      "id": 7,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Melon",
+          "Peach",
+          "Plum"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine"
+        ],
+        "base": [
+          "Sandalwood",
+          "Cedar",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Iris Poudre",
+      "year": 2000,
+      "perfumer": "Pierre Bourdon",
+      "gender": "Women",
+      "family": "Floral Aldehyde",
+      "top_notes": [
+        "Ylang-Ylang",
+        "Carnation",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Iris",
+        "Violet",
+        "Rose"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Benzoin",
+        "White Musk"
+      ],
+      "dupes": [
+        {
+          "name": "Powdered Iris",
+          "brand": "Dua Fragrances",
+          "accuracy": 85,
+          "price_eur": 50,
+          "notes": "Floral powdery",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Iris Poudre Inspired",
+          "brand": "CA Perfume",
+          "accuracy": 80,
+          "price_eur": 30,
+          "notes": "Floral aldehyde",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 8,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Ylang-Ylang",
+          "Carnation",
+          "Bergamot"
+        ],
+        "heart": [
+          "Iris",
+          "Violet",
+          "Rose"
+        ],
+        "base": [
+          "Sandalwood",
+          "Benzoin",
+          "White Musk"
+        ]
+      }
+    },
+    {
+      "name": "Cologne Bigarade",
+      "year": 2000,
+      "perfumer": "Jean-Claude Ellena",
+      "gender": "Unisex",
+      "family": "Citrus Aromatic",
+      "top_notes": [
+        "Bitter Orange",
+        "Cardamom"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Orange Blossom"
+      ],
+      "base_notes": [
+        "Musk"
+      ],
+      "dupes": [],
+      "id": 9,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Bitter Orange",
+          "Cardamom"
+        ],
+        "heart": [
+          "Rose",
+          "Orange Blossom"
+        ],
+        "base": [
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Vetiver Extraordinaire",
+      "year": 2002,
+      "perfumer": "Dominique Ropion",
+      "gender": "Men",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Bitter Orange",
+        "Bergamot",
+        "Pepper",
+        "Cardamom"
+      ],
+      "heart_notes": [
+        "Vetiver",
+        "Pink Pepper",
+        "Cloves",
+        "Licorice",
+        "Incense"
+      ],
+      "base_notes": [
+        "Cedar",
+        "Oakmoss",
+        "Sandalwood",
+        "Musk"
+      ],
+      "dupes": [
+        {
+          "name": "Vetiver Extraordinaire Inspired",
+          "brand": "CA Perfume",
+          "accuracy": 82,
+          "price_eur": 30,
+          "notes": "Earthy vetiver",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 10,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Bitter Orange",
+          "Bergamot",
+          "Pepper",
+          "Cardamom"
+        ],
+        "heart": [
+          "Vetiver",
+          "Pink Pepper",
+          "Cloves",
+          "Licorice",
+          "Incense"
+        ],
+        "base": [
+          "Cedar",
+          "Oakmoss",
+          "Sandalwood",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Carnal Flower",
+      "year": 2005,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Floral",
+      "top_notes": [
+        "Eucalyptus",
+        "Melon",
+        "Bergamot",
+        "Galbanum"
+      ],
+      "heart_notes": [
+        "Coconut",
+        "Tuberose",
+        "Jasmine",
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "base_notes": [
+        "White Musk",
+        "Amber"
+      ],
+      "dupes": [
+        {
+          "name": "Carnal Desire",
+          "brand": "Dua Fragrances",
+          "accuracy": 90,
+          "price_eur": 55,
+          "notes": "Breathtaking accuracy, tuberose-forward",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Spiritual Rose 1109",
+          "brand": "Perfume Parlour",
+          "accuracy": 85,
+          "price_eur": 12,
+          "notes": "Missing some creaminess but close",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "No 26",
+          "brand": "Match Perfumes",
+          "accuracy": 88,
+          "price_eur": 40,
+          "notes": "More tuberose, warmer",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Carnal Flower Oil",
+          "brand": "Universal Perfumes Kuwait",
+          "accuracy": 92,
+          "price_eur": 30,
+          "notes": "Nuclear sillage, on steroids",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Elixir No. 76",
+          "brand": "Perfame",
+          "accuracy": 82,
+          "price_eur": 40,
+          "notes": "Fresh floral opening",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "W167",
+          "brand": "Palermo Perfumes",
+          "accuracy": 85,
+          "price_eur": 35,
+          "notes": "Australian, accurate",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Carnal Flowers 325",
+          "brand": "MisterScent",
+          "accuracy": 80,
+          "price_eur": 15,
+          "notes": "Oil roll-on UK",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 11,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Eucalyptus",
+          "Melon",
+          "Bergamot",
+          "Galbanum"
+        ],
+        "heart": [
+          "Coconut",
+          "Tuberose",
+          "Jasmine",
+          "Ylang-Ylang",
+          "Orange Blossom"
+        ],
+        "base": [
+          "White Musk",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "name": "French Lover",
+      "year": 2007,
+      "perfumer": "Pierre Bourdon",
+      "gender": "Men",
+      "family": "Woody Aromatic",
+      "top_notes": [
+        "Galbanum",
+        "Juniper",
+        "Pepper",
+        "Violet Leaf",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Angelica",
+        "Cedar",
+        "Incense",
+        "Orris"
+      ],
+      "base_notes": [
+        "Vetiver",
+        "Oakmoss",
+        "White Musk",
+        "Amber"
+      ],
+      "dupes": [
+        {
+          "name": "French Affair",
+          "brand": "Dua Fragrances",
+          "accuracy": 85,
+          "price_eur": 50,
+          "notes": "Warm salacity",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Bonjour Sweetheart 0935",
+          "brand": "Perfume Parlour",
+          "accuracy": 82,
+          "price_eur": 12,
+          "notes": "Woody aromatic",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "French Lover Inspired",
+          "brand": "CA Perfume",
+          "accuracy": 80,
+          "price_eur": 30,
+          "notes": "Effortless charm",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Majesty",
+          "brand": "Richouli",
+          "accuracy": 85,
+          "price_eur": 60,
+          "notes": "Better performance than original",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "0384S",
+          "brand": "KDJ Inspired",
+          "accuracy": 78,
+          "price_eur": 25,
+          "notes": "Unisex interpretation",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "BC Perfume 433",
+          "brand": "Biocura",
+          "accuracy": 75,
+          "price_eur": 25,
+          "notes": "Amazon available",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 12,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Galbanum",
+          "Juniper",
+          "Pepper",
+          "Violet Leaf",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Angelica",
+          "Cedar",
+          "Incense",
+          "Orris"
+        ],
+        "base": [
+          "Vetiver",
+          "Oakmoss",
+          "White Musk",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "name": "Une Rose",
+      "year": 2003,
+      "perfumer": "Edouard Flechier",
+      "gender": "Women",
+      "family": "Floral",
+      "top_notes": [
+        "Rose"
+      ],
+      "heart_notes": [
+        "Geranium",
+        "Wine"
+      ],
+      "base_notes": [
+        "Honey",
+        "Musk"
+      ],
+      "dupes": [],
+      "id": 13,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Geranium",
+          "Wine"
+        ],
+        "base": [
+          "Honey",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Une Fleur de Cassie",
+      "year": 2000,
+      "perfumer": "Dominique Ropion",
+      "gender": "Women",
+      "family": "Floral Aldehyde",
+      "top_notes": [
+        "Aldehydes",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Cassie",
+        "Rose",
+        "Jasmine",
+        "Violet"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "dupes": [],
+      "id": 14,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Aldehydes",
+          "Bergamot"
+        ],
+        "heart": [
+          "Cassie",
+          "Rose",
+          "Jasmine",
+          "Violet"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Portrait of a Lady",
+      "year": 2010,
+      "perfumer": "Dominique Ropion",
+      "gender": "Women",
+      "family": "Amber Floral",
+      "top_notes": [
+        "Clove",
+        "Black Currant",
+        "Rose",
+        "Cinnamon",
+        "Raspberry"
+      ],
+      "heart_notes": [
+        "Patchouli",
+        "Frankincense",
+        "Sandalwood"
+      ],
+      "base_notes": [
+        "Amber",
+        "Musk",
+        "Benzoin"
+      ],
+      "dupes": [
+        {
+          "name": "French Portrait",
+          "brand": "Fragrance World",
+          "accuracy": 92,
+          "price_eur": 25,
+          "notes": "Dead on dupe, divine, better performance than original",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Monaliza",
+          "brand": "Alexandria UK",
+          "accuracy": 88,
+          "price_eur": 50,
+          "notes": "Beguiling luxury clone",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Twilight",
+          "brand": "Zoha Aroma",
+          "accuracy": 95,
+          "price_eur": 20,
+          "notes": "95% match, oil-based, imperceptible from OG",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Portrait Inspired",
+          "brand": "Unleashed Perfumes",
+          "accuracy": 85,
+          "price_eur": 35,
+          "notes": "Warm spicy sweet perfection",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "No 1",
+          "brand": "Match Perfumes",
+          "accuracy": 88,
+          "price_eur": 40,
+          "notes": "Incredible match UK",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Lady Portrait",
+          "brand": "My Perfumes Dubai",
+          "accuracy": 85,
+          "price_eur": 25,
+          "notes": "Stunning Arabian version",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "1876",
+          "brand": "Histoires de Parfums",
+          "accuracy": 70,
+          "price_eur": 120,
+          "notes": "Similar vibe, not exact dupe",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 15,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Clove",
+          "Black Currant",
+          "Rose",
+          "Cinnamon",
+          "Raspberry"
+        ],
+        "heart": [
+          "Patchouli",
+          "Frankincense",
+          "Sandalwood"
+        ],
+        "base": [
+          "Amber",
+          "Musk",
+          "Benzoin"
+        ]
+      }
+    },
+    {
+      "name": "The Night",
+      "year": 2014,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Turkish Rose",
+        "Saffron"
+      ],
+      "heart_notes": [
+        "Indian Oud"
+      ],
+      "base_notes": [
+        "Amber",
+        "Incense",
+        "Sandalwood"
+      ],
+      "price_note": "~1600€ - Most expensive in collection",
+      "dupes": [
+        {
+          "name": "Dawn",
+          "brand": "Dua Fragrances",
+          "accuracy": 88,
+          "price_eur": 60,
+          "notes": "Natural oud and Turkish rose",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Night Dream 1879",
+          "brand": "Perfume Parlour",
+          "accuracy": 85,
+          "price_eur": 20,
+          "notes": "Animalic, heavy oud, impressive for price",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Strictly Oud",
+          "brand": "Paris Corner",
+          "accuracy": 88,
+          "price_eur": 30,
+          "notes": "Remarkable interpretation, French site recommended",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "The Night Inspired",
+          "brand": "Unleashed Perfumes",
+          "accuracy": 82,
+          "price_eur": 40,
+          "notes": "Compelling oud blend",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "The Oud Connoisseur",
+          "brand": "Champagne Socialist",
+          "accuracy": 80,
+          "price_eur": 18,
+          "notes": "Oil-based alternative",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 16,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Turkish Rose",
+          "Saffron"
+        ],
+        "heart": [
+          "Indian Oud"
+        ],
+        "base": [
+          "Amber",
+          "Incense",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "name": "The Moon",
+      "year": 2023,
+      "perfumer": "Julien Rasquinet",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Raspberry",
+        "Saffron",
+        "Lychee"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Oud"
+      ],
+      "base_notes": [
+        "Leather",
+        "Coffee",
+        "Patchouli"
+      ],
+      "dupes": [
+        {
+          "name": "Lunar Eclipse",
+          "brand": "Dua Fragrances",
+          "accuracy": 85,
+          "price_eur": 55,
+          "notes": "Agarwood, raspberry, rose",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 17,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Raspberry",
+          "Saffron",
+          "Lychee"
+        ],
+        "heart": [
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Leather",
+          "Coffee",
+          "Patchouli"
+        ]
+      }
+    },
+    {
+      "name": "Dawn",
+      "year": 2018,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Turkish Rose",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Olibanum",
+        "Oud"
+      ],
+      "base_notes": [
+        "Vetiver",
+        "Sandalwood"
+      ],
+      "dupes": [
+        {
+          "name": "Dawn Inspired",
+          "brand": "CA Perfume",
+          "accuracy": 82,
+          "price_eur": 30,
+          "notes": "Turkish rose, pink pepper, oud",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 18,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Turkish Rose",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Olibanum",
+          "Oud"
+        ],
+        "base": [
+          "Vetiver",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "name": "Promise",
+      "year": 2019,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Apple",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Oud",
+        "Rose"
+      ],
+      "base_notes": [
+        "Ambroxan",
+        "Sandalwood"
+      ],
+      "dupes": [
+        {
+          "name": "Eternal Promise",
+          "brand": "Dua Fragrances",
+          "accuracy": 85,
+          "price_eur": 55,
+          "notes": "Chypré hybrid",
+          "source": "Fragrantica",
+          "similarity": 85
+        },
+        {
+          "name": "Optimistic Faith",
+          "brand": "Dua Fragrances",
+          "accuracy": 82,
+          "price_eur": 50,
+          "notes": "Hope/Promise inspired",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 19,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Apple",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambroxan",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "name": "Hope",
+      "year": 2024,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Juniper",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Oud",
+        "Vetiver",
+        "Smoke"
+      ],
+      "base_notes": [
+        "Leather",
+        "Amber"
+      ],
+      "dupes": [],
+      "id": 20,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Juniper",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Oud",
+          "Vetiver",
+          "Smoke"
+        ],
+        "base": [
+          "Leather",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "name": "Superstitious",
+      "year": 2016,
+      "perfumer": "Dominique Ropion",
+      "gender": "Women",
+      "family": "Chypre Floral",
+      "top_notes": [
+        "Turkish Rose"
+      ],
+      "heart_notes": [
+        "Egyptian Jasmine",
+        "Ylang-Ylang"
+      ],
+      "base_notes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "dupes": [
+        {
+          "name": "Supernatural",
+          "brand": "Dua Fragrances",
+          "accuracy": 85,
+          "price_eur": 50,
+          "notes": "Exquisite raw materials recreation",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 21,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Turkish Rose"
+        ],
+        "heart": [
+          "Egyptian Jasmine",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Patchouli",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Dans Tes Bras",
+      "year": 2008,
+      "perfumer": "Maurice Roucel",
+      "gender": "Unisex",
+      "family": "Floral Woody Musk",
+      "top_notes": [
+        "Carrot Seeds"
+      ],
+      "heart_notes": [
+        "Jasmine",
+        "Beeswax",
+        "Immortelle"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Musks"
+      ],
+      "dupes": [
+        {
+          "name": "In Your Arms",
+          "brand": "Dua Fragrances",
+          "accuracy": 82,
+          "price_eur": 50,
+          "notes": "Warm romantic embrace",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 22,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Carrot Seeds"
+        ],
+        "heart": [
+          "Jasmine",
+          "Beeswax",
+          "Immortelle"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musks"
+        ]
+      }
+    },
+    {
+      "name": "Geranium Pour Monsieur",
+      "year": 2009,
+      "perfumer": "Dominique Ropion",
+      "gender": "Men",
+      "family": "Citrus Aromatic",
+      "top_notes": [
+        "Mint",
+        "Bergamot",
+        "Lemon"
+      ],
+      "heart_notes": [
+        "Geranium",
+        "Rose"
+      ],
+      "base_notes": [
+        "Vetiver",
+        "Patchouli",
+        "Musk"
+      ],
+      "dupes": [
+        {
+          "name": "Geranium Gentleman",
+          "brand": "Perfume Parlour",
+          "accuracy": 80,
+          "price_eur": 12,
+          "notes": "UK clone house",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 23,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Mint",
+          "Bergamot",
+          "Lemon"
+        ],
+        "heart": [
+          "Geranium",
+          "Rose"
+        ],
+        "base": [
+          "Vetiver",
+          "Patchouli",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Cologne Indélébile",
+      "year": 2015,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Floral White Musk",
+      "top_notes": [
+        "Orange Blossom",
+        "Neroli"
+      ],
+      "heart_notes": [
+        "White Flowers",
+        "Musk"
+      ],
+      "base_notes": [
+        "White Musk"
+      ],
+      "dupes": [
+        {
+          "name": "Indelible Cologne",
+          "brand": "Perfume Parlour",
+          "accuracy": 78,
+          "price_eur": 12,
+          "notes": "UK clone",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 24,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Orange Blossom",
+          "Neroli"
+        ],
+        "heart": [
+          "White Flowers",
+          "Musk"
+        ],
+        "base": [
+          "White Musk"
+        ]
+      }
+    },
+    {
+      "name": "Monsieur.",
+      "year": 2015,
+      "perfumer": "Bruno Jovanovic",
+      "gender": "Men",
+      "family": "Oriental Vanilla",
+      "top_notes": [
+        "Rum",
+        "Tangerine"
+      ],
+      "heart_notes": [
+        "Patchouli",
+        "Incense",
+        "Cedar",
+        "Amber"
+      ],
+      "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Suede",
+        "Labdanum"
+      ],
+      "dupes": [],
+      "id": 25,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Rum",
+          "Tangerine"
+        ],
+        "heart": [
+          "Patchouli",
+          "Incense",
+          "Cedar",
+          "Amber"
+        ],
+        "base": [
+          "Musk",
+          "Vanilla",
+          "Suede",
+          "Labdanum"
+        ]
+      }
+    },
+    {
+      "name": "Music for a While",
+      "year": 2014,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Amber Woody",
+      "top_notes": [
+        "Labdanum",
+        "Immortelle"
+      ],
+      "heart_notes": [
+        "Frankincense",
+        "Benzoin"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Civet"
+      ],
+      "dupes": [],
+      "id": 26,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Labdanum",
+          "Immortelle"
+        ],
+        "heart": [
+          "Frankincense",
+          "Benzoin"
+        ],
+        "base": [
+          "Vanilla",
+          "Civet"
+        ]
+      }
+    },
+    {
+      "name": "Dries Van Noten",
+      "year": 2013,
+      "perfumer": "Bruno Jovanovic",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Saffron",
+        "Rum"
+      ],
+      "heart_notes": [
+        "Sandalwood",
+        "Mastic"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "dupes": [],
+      "id": 27,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Rum"
+        ],
+        "heart": [
+          "Sandalwood",
+          "Mastic"
+        ],
+        "base": [
+          "Vanilla",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Outrageous",
+      "year": 2001,
+      "perfumer": "Sophia Grojsman",
+      "gender": "Women",
+      "family": "Floral Fruity",
+      "top_notes": [
+        "Mandarin",
+        "Rose"
+      ],
+      "heart_notes": [
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "dupes": [],
+      "id": 28,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Mandarin",
+          "Rose"
+        ],
+        "heart": [
+          "Ylang-Ylang",
+          "Jasmine"
+        ],
+        "base": [
+          "Musk",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "name": "Lys Méditerranée",
+      "year": 2000,
+      "perfumer": "Edouard Flechier",
+      "gender": "Unisex",
+      "family": "Floral Aquatic",
+      "top_notes": [
+        "Ginger",
+        "Sea Notes"
+      ],
+      "heart_notes": [
+        "Lily",
+        "Orange Blossom"
+      ],
+      "base_notes": [
+        "Musk",
+        "Amber"
+      ],
+      "dupes": [],
+      "id": 29,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Ginger",
+          "Sea Notes"
+        ],
+        "heart": [
+          "Lily",
+          "Orange Blossom"
+        ],
+        "base": [
+          "Musk",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "name": "Bigarade Concentrée",
+      "year": 2002,
+      "perfumer": "Jean-Claude Ellena",
+      "gender": "Unisex",
+      "family": "Citrus Aromatic",
+      "top_notes": [
+        "Bitter Orange",
+        "Cardamom"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Cedar"
+      ],
+      "base_notes": [
+        "Musk"
+      ],
+      "dupes": [],
+      "id": 30,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Bitter Orange",
+          "Cardamom"
+        ],
+        "heart": [
+          "Rose",
+          "Cedar"
+        ],
+        "base": [
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "En Passant Eau de Parfum",
+      "year": 2015,
+      "perfumer": "Olivia Giacobetti",
+      "gender": "Women",
+      "family": "Floral Woody",
+      "top_notes": [
+        "Cucumber"
+      ],
+      "heart_notes": [
+        "Lilac"
+      ],
+      "base_notes": [
+        "Musk",
+        "Cedar",
+        "Wheat"
+      ],
+      "dupes": [],
+      "id": 31,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Cucumber"
+        ],
+        "heart": [
+          "Lilac"
+        ],
+        "base": [
+          "Musk",
+          "Cedar",
+          "Wheat"
+        ]
+      }
+    },
+    {
+      "name": "Synthetic Jungle",
+      "year": 2021,
+      "perfumer": "Anne Flipo",
+      "gender": "Unisex",
+      "family": "Green Aromatic",
+      "top_notes": [
+        "Green Notes",
+        "Basil"
+      ],
+      "heart_notes": [
+        "Galbanum",
+        "Violet Leaf"
+      ],
+      "base_notes": [
+        "Vetiver",
+        "Musk"
+      ],
+      "dupes": [],
+      "id": 32,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Green Notes",
+          "Basil"
+        ],
+        "heart": [
+          "Galbanum",
+          "Violet Leaf"
+        ],
+        "base": [
+          "Vetiver",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Rose & Cuir",
+      "year": 2019,
+      "perfumer": "Jean-Claude Ellena",
+      "gender": "Unisex",
+      "family": "Floral Leather",
+      "top_notes": [
+        "Rose"
+      ],
+      "heart_notes": [
+        "Leather"
+      ],
+      "base_notes": [
+        "Musk"
+      ],
+      "dupes": [
+        {
+          "name": "Rose Leather Hybrid",
+          "brand": "Dua Fragrances",
+          "accuracy": 82,
+          "price_eur": 50,
+          "notes": "Rose and cuir blend",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 33,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Leather"
+        ],
+        "base": [
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Uncut Gem",
+      "year": 2020,
+      "perfumer": "Fanny Bal",
+      "gender": "Unisex",
+      "family": "Amber Woody",
+      "top_notes": [
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Angelica",
+        "Incense"
+      ],
+      "base_notes": [
+        "Amber",
+        "Musk"
+      ],
+      "dupes": [
+        {
+          "name": "Uncut Gem Inspired",
+          "brand": "Dua Fragrances",
+          "accuracy": 80,
+          "price_eur": 50,
+          "notes": "Virile musky force",
+          "source": "Fragrantica",
+          "similarity": 85
+        }
+      ],
+      "id": 34,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Angelica",
+          "Incense"
+        ],
+        "base": [
+          "Amber",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Eau de Magnolia",
+      "year": 2014,
+      "perfumer": "Carlos Benaïm",
+      "gender": "Women",
+      "family": "Floral",
+      "top_notes": [
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "heart_notes": [
+        "Magnolia",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "White Musk",
+        "Sandalwood"
+      ],
+      "dupes": [],
+      "id": 35,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Grapefruit"
+        ],
+        "heart": [
+          "Magnolia",
+          "Jasmine"
+        ],
+        "base": [
+          "White Musk",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "name": "Rubber Incense",
+      "year": 2022,
+      "perfumer": "Carlos Benaïm",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Pink Pepper",
+        "Elemi"
+      ],
+      "heart_notes": [
+        "Incense",
+        "Rubber"
+      ],
+      "base_notes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "dupes": [],
+      "id": 36,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Pink Pepper",
+          "Elemi"
+        ],
+        "heart": [
+          "Incense",
+          "Rubber"
+        ],
+        "base": [
+          "Benzoin",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Dans Mon Lit",
+      "year": 2022,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Floral",
+      "top_notes": [
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Violet"
+      ],
+      "base_notes": [
+        "Musk"
+      ],
+      "category": "Eau de Lit (linen spray)",
+      "dupes": [],
+      "id": 37,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Violet"
+        ],
+        "base": [
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Dans Ton Lit",
+      "year": 2022,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Floral Woody",
+      "top_notes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "heart_notes": [
+        "Lily of the Valley",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "category": "Eau de Lit (linen spray)",
+      "dupes": [],
+      "id": 38,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Lemon"
+        ],
+        "heart": [
+          "Lily of the Valley",
+          "Jasmine"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Acne Studios",
+      "year": 2024,
+      "perfumer": "Suzy Le Helley",
+      "gender": "Unisex",
+      "family": "Floral Aldehyde",
+      "top_notes": [
+        "Aldehydes",
+        "Mandarin",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Peach",
+        "Orange Blossom",
+        "Violet",
+        "Rose",
+        "Lily of the Valley",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Iso E Super",
+        "Incense",
+        "Vanilla",
+        "Heliotrope"
+      ],
+      "dupes": [],
+      "id": 39,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Aldehydes",
+          "Mandarin",
+          "Bergamot"
+        ],
+        "heart": [
+          "Peach",
+          "Orange Blossom",
+          "Violet",
+          "Rose",
+          "Lily of the Valley",
+          "Jasmine"
+        ],
+        "base": [
+          "Musk",
+          "Sandalwood",
+          "Iso E Super",
+          "Incense",
+          "Vanilla",
+          "Heliotrope"
+        ]
+      }
+    },
+    {
+      "name": "Portrait of a Lady Limited Edition 2018",
+      "year": 2018,
+      "perfumer": "Dominique Ropion",
+      "gender": "Women",
+      "family": "Amber Floral",
+      "top_notes": [
+        "Raspberry",
+        "Rose",
+        "Cinnamon",
+        "Cloves",
+        "Black Currant"
+      ],
+      "heart_notes": [
+        "Patchouli",
+        "Sandalwood",
+        "Frankincense"
+      ],
+      "base_notes": [
+        "Amber",
+        "Musk",
+        "Benzoin"
+      ],
+      "dupes": [],
+      "id": 40,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Raspberry",
+          "Rose",
+          "Cinnamon",
+          "Cloves",
+          "Black Currant"
+        ],
+        "heart": [
+          "Patchouli",
+          "Sandalwood",
+          "Frankincense"
+        ],
+        "base": [
+          "Amber",
+          "Musk",
+          "Benzoin"
+        ]
+      }
+    },
+    {
+      "name": "Bois d'Orage",
+      "year": 2008,
+      "perfumer": "Edouard Flechier",
+      "gender": "Unisex",
+      "family": "Woody Aromatic",
+      "top_notes": [
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Geranium",
+        "Cedar"
+      ],
+      "base_notes": [
+        "Vetiver",
+        "Musk"
+      ],
+      "dupes": [],
+      "id": 41,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Bergamot"
+        ],
+        "heart": [
+          "Geranium",
+          "Cedar"
+        ],
+        "base": [
+          "Vetiver",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Vetiver Extraordinaire Hair Mist",
+      "year": 2022,
+      "perfumer": "Dominique Ropion",
+      "gender": "Men",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Bitter Orange",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Vetiver",
+        "Pink Pepper"
+      ],
+      "base_notes": [
+        "Cedar",
+        "Sandalwood"
+      ],
+      "category": "Hair Mist",
+      "dupes": [],
+      "id": 42,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Bitter Orange",
+          "Bergamot"
+        ],
+        "heart": [
+          "Vetiver",
+          "Pink Pepper"
+        ],
+        "base": [
+          "Cedar",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "name": "Carnal Flower Hair Mist",
+      "year": 2022,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Floral",
+      "top_notes": [
+        "Eucalyptus",
+        "Melon"
+      ],
+      "heart_notes": [
+        "Tuberose",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "White Musk"
+      ],
+      "category": "Hair Mist",
+      "dupes": [],
+      "id": 43,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Eucalyptus",
+          "Melon"
+        ],
+        "heart": [
+          "Tuberose",
+          "Jasmine"
+        ],
+        "base": [
+          "White Musk"
+        ]
+      }
+    },
+    {
+      "name": "Portrait of a Lady Hair Mist",
+      "year": 2022,
+      "perfumer": "Dominique Ropion",
+      "gender": "Women",
+      "family": "Amber Floral",
+      "top_notes": [
+        "Rose",
+        "Raspberry"
+      ],
+      "heart_notes": [
+        "Patchouli",
+        "Frankincense"
+      ],
+      "base_notes": [
+        "Amber",
+        "Musk"
+      ],
+      "category": "Hair Mist",
+      "dupes": [],
+      "id": 44,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Rose",
+          "Raspberry"
+        ],
+        "heart": [
+          "Patchouli",
+          "Frankincense"
+        ],
+        "base": [
+          "Amber",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "name": "Musc Ravageur Hair Mist",
+      "year": 2022,
+      "perfumer": "Maurice Roucel",
+      "gender": "Unisex",
+      "family": "Oriental Spicy",
+      "top_notes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Cinnamon",
+        "Cloves"
+      ],
+      "base_notes": [
+        "Musk",
+        "Vanilla"
+      ],
+      "category": "Hair Mist",
+      "dupes": [],
+      "id": 45,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Lavender",
+          "Bergamot"
+        ],
+        "heart": [
+          "Cinnamon",
+          "Cloves"
+        ],
+        "base": [
+          "Musk",
+          "Vanilla"
+        ]
+      }
+    },
+    {
+      "name": "The Night Hair Mist",
+      "year": 2022,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Turkish Rose",
+        "Saffron"
+      ],
+      "heart_notes": [
+        "Oud"
+      ],
+      "base_notes": [
+        "Amber",
+        "Sandalwood"
+      ],
+      "category": "Hair Mist",
+      "dupes": [],
+      "id": 46,
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "notes": {
+        "top": [
+          "Turkish Rose",
+          "Saffron"
+        ],
+        "heart": [
+          "Oud"
+        ],
+        "base": [
+          "Amber",
+          "Sandalwood"
+        ]
+      }
+    }
+  ],
+  "clone_houses_ranking": [
+    {
+      "rank": 1,
+      "name": "Dua Fragrances",
+      "country": "USA",
+      "speciality": "Premium extraits Frederic Malle",
+      "avg_accuracy": 85,
+      "avg_price_eur": 50,
+      "fm_clones": 12,
+      "notes": "Best for Carnal Flower, Musc Ravageur, Desert Gems line"
+    },
+    {
+      "rank": 2,
+      "name": "Perfume Parlour",
+      "country": "UK",
+      "speciality": "Budget FM clones",
+      "avg_accuracy": 82,
+      "avg_price_eur": 12,
+      "fm_clones": 10,
+      "notes": "Excellent value, wide FM range"
+    },
+    {
+      "rank": 3,
+      "name": "Fragrance World",
+      "country": "UAE",
+      "speciality": "Portrait of a Lady clone specialist",
+      "avg_accuracy": 92,
+      "avg_price_eur": 25,
+      "fm_clones": 2,
+      "notes": "French Portrait is legendary dupe"
+    },
+    {
+      "rank": 4,
+      "name": "Zoha Aroma",
+      "country": "USA",
+      "speciality": "Oil-based FM dupes",
+      "avg_accuracy": 95,
+      "avg_price_eur": 20,
+      "fm_clones": 3,
+      "notes": "Twilight (POAL) is 95% match"
+    },
+    {
+      "rank": 5,
+      "name": "Match Perfumes",
+      "country": "UK",
+      "speciality": "High concentration FM dupes",
+      "avg_accuracy": 88,
+      "avg_price_eur": 40,
+      "fm_clones": 2,
+      "notes": "No 26 (Carnal Flower), No 1 (POAL)"
+    },
+    {
+      "rank": 6,
+      "name": "Paris Corner",
+      "country": "UAE",
+      "speciality": "Oud/Oriental FM dupes",
+      "avg_accuracy": 88,
+      "avg_price_eur": 30,
+      "fm_clones": 2,
+      "notes": "Strictly Oud (The Night) excellent"
+    },
+    {
+      "rank": 7,
+      "name": "Yom & Layl",
+      "country": "USA",
+      "speciality": "Oriental spicy clones",
+      "avg_accuracy": 90,
+      "avg_price_eur": 35,
+      "fm_clones": 1,
+      "notes": "Musc War - 90%+ match"
+    },
+    {
+      "rank": 8,
+      "name": "Alexandria UK",
+      "country": "UK",
+      "speciality": "Premium extrait dupes",
+      "avg_accuracy": 88,
+      "avg_price_eur": 50,
+      "fm_clones": 1,
+      "notes": "Monaliza (POAL)"
+    },
+    {
+      "rank": 9,
+      "name": "CA Perfume",
+      "country": "USA",
+      "speciality": "Affordable FM line",
+      "avg_accuracy": 80,
+      "avg_price_eur": 30,
+      "fm_clones": 5,
+      "notes": "Wide range including Dawn, Iris Poudre, French Lover"
+    },
+    {
+      "rank": 10,
+      "name": "Unleashed Perfumes",
+      "country": "USA",
+      "speciality": "Natural ingredients dupes",
+      "avg_accuracy": 82,
+      "avg_price_eur": 35,
+      "fm_clones": 4,
+      "notes": "Vegan, cruelty-free options"
+    }
+  ],
+  "statistics": {
+    "total_perfumes": 51,
+    "perfumes_with_dupes": 18,
+    "total_dupes": 50,
+    "year_range": "2000-2025",
+    "most_cloned": [
+      "Portrait of a Lady",
+      "Carnal Flower",
+      "Musc Ravageur",
+      "The Night"
+    ],
+    "perfumers_count": 16
+  },
+  "headquarters": "Paris, France",
+  "website": "https://www.fredericmalle.com",
+  "description": "Maison de parfumerie d'auteur où les parfumeurs signent leurs créations."
+}

@@ -1,0 +1,3847 @@
+{
+  "brand": "Gucci",
+  "brand_country": "Italy",
+  "brand_description": "Maison de luxe italienne fondée par Guccio Gucci en 1921. Premier parfum Gucci No. 1 lancé en 1974. Parfums créés par des nez prestigieux comme Alberto Morillas, Michel Almairac, Dominique Ropion. Lignes principales: Gucci Guilty, Gucci Bloom, Flora by Gucci, Gucci Bamboo, The Alchemist's Garden (niche).",
+  "collections": [
+    "Gucci Guilty",
+    "Gucci Bloom",
+    "Flora by Gucci",
+    "Flora Gorgeous Collection",
+    "Gucci Bamboo",
+    "Gucci Rush",
+    "Gucci by Gucci",
+    "Gucci Premiere",
+    "The Alchemist's Garden",
+    "Gucci Museo",
+    "Envy (Discontinued)"
+  ],
+  "price_range": "75-450€",
+  "total_perfumes": 100,
+  "total_dupes_found": 76,
+  "date_compiled": "2025-12-26",
+  "perfumes": [
+    {
+      "id": 1,
+      "name": "Gucci Guilty Pour Homme",
+      "year": 2011,
+      "perfumer": "Jacques Cavallier",
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Citron",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Néroli"
+        ],
+        "base": [
+          "Cèdre",
+          "Patchouli",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Fougère",
+        "Boisé"
+      ],
+      "description": "Fougère aromatique fraîche et masculine avec lavande et cèdre.",
+      "retail_price_eur": 95,
+      "dupes": [
+        {
+          "brand": "Zara",
+          "name": "Man Silver",
+          "similarity": 88,
+          "price_eur": 16,
+          "notes": "Clone très proche selon multiples reviews Fragrantica - mêmes accords lavande/citrus/boisé, longévité moindre",
+          "source": "Fragrantica reviews 2024"
+        },
+        {
+          "brand": "Lattafa",
+          "name": "Qaed Al Fursan",
+          "similarity": 80,
+          "price_eur": 25,
+          "notes": "DNA similaire avec notes aromatiques boisées, plus oriental",
+          "source": "TikTok/Fragrantica"
+        },
+        {
+          "brand": "Zara",
+          "name": "Rich Warm Addictive",
+          "similarity": 75,
+          "price_eur": 16,
+          "notes": "Vibe similaire selon comparatifs",
+          "source": "Alibaba fragrance guide"
+        },
+        {
+          "brand": "Dossier",
+          "name": "Fougere Pink Pepper",
+          "similarity": 85,
+          "price_eur": 29,
+          "notes": "Clone déclaré inspiré de Guilty Pour Homme EDT",
+          "source": "bestmenscolognes.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gucci Guilty Pour Homme EDP",
+      "year": 2020,
+      "perfumer": "Alberto Morillas",
+      "gender": "Homme",
+      "concentration": "EDP",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Géranium",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Patchouli",
+          "Bois de cèdre",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Boisé",
+        "Frais"
+      ],
+      "description": "Version plus intense et durable du Guilty original.",
+      "retail_price_eur": 115,
+      "dupes": []
+    },
+    {
+      "id": 3,
+      "name": "Gucci Guilty Elixir de Parfum pour Homme",
+      "year": 2023,
+      "perfumer": [
+        "Quentin Bisch",
+        "Nathalie Cetto"
+      ],
+      "gender": "Homme",
+      "concentration": "Elixir",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Fleur d'oranger absolue",
+          "Piment",
+          "Noix de muscade"
+        ],
+        "heart": [
+          "Beurre d'iris",
+          "Fleur d'oranger absolue",
+          "Osmanthus"
+        ],
+        "base": [
+          "Vanilline",
+          "Ambrofix",
+          "Benjoin",
+          "Patchouli"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Ambré",
+        "Cuir",
+        "Épicé"
+      ],
+      "description": "Version la plus intense de la ligne Guilty. Fleurs blanches opulentes, épices et ambre. Gagnant Fragrantica Awards 2024 Best White Floral.",
+      "retail_price_eur": 145,
+      "dupes": [
+        {
+          "brand": "Zara",
+          "name": "Vanilla Collection 01: Irresistible, Magnetic, Delicious",
+          "similarity": 95,
+          "price_eur": 18,
+          "notes": "Clone très fidèle lancé 2025 - 95% proche selon reviews. Orange blossom/vanilla identique, légèrement moins de profondeur ambrée. Beast mode performance!",
+          "source": "Fragrantica reviews 2025"
+        },
+        {
+          "brand": "Khadlaj",
+          "name": "Shiyaaka",
+          "similarity": 85,
+          "price_eur": 25,
+          "notes": "Comparé à Guilty Elixir sur TikTok - DNA similaire",
+          "source": "TikTok fragrance community"
+        },
+        {
+          "brand": "Rayhaan",
+          "name": "Lion",
+          "similarity": 80,
+          "price_eur": 30,
+          "notes": "Alternative mentionnée dans comparatifs JPG Le Male vs Gucci Guilty",
+          "source": "TikTok 2024"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Gucci Guilty Absolute Pour Homme",
+      "year": 2017,
+      "perfumer": "Alberto Morillas",
+      "gender": "Homme",
+      "concentration": "EDP",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Cuir",
+          "Bois de cyprès"
+        ],
+        "heart": [
+          "Vétiver",
+          "Bois de patchouli"
+        ],
+        "base": [
+          "Cuir",
+          "Bois de gaïac"
+        ]
+      },
+      "accords": [
+        "Cuir",
+        "Boisé",
+        "Terreux"
+      ],
+      "description": "Version cuir brut et sèche. Très polarisant - cuir fumé authentique.",
+      "retail_price_eur": 125,
+      "dupes": [
+        {
+          "brand": "Zara",
+          "name": "Endless Oud",
+          "similarity": 80,
+          "price_eur": 16,
+          "notes": "Dupe confirmé selon Penny Pincher Fashion blog",
+          "source": "pennypincherfashion.com 2024"
+        },
+        {
+          "brand": "Zara",
+          "name": "Vanilla Collection 01",
+          "similarity": 75,
+          "price_eur": 18,
+          "notes": "Comparé aussi à Guilty Absolute sur Fragrantica - cousin scent family",
+          "source": "Fragrantica reviews"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gucci Guilty Love Edition Pour Homme 2024",
+      "year": 2024,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": null
+      },
+      "accords": [
+        "Floral",
+        "Oriental",
+        "Savonneux"
+      ],
+      "description": "Édition limitée 2024. Comparé à JPG Fleur du Male et YSL MYSLF.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 6,
+      "name": "Gucci Guilty Essence Pour Homme",
+      "year": 2024,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Orange"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Fougère",
+        "Citrus",
+        "Boisé"
+      ],
+      "description": "Re-branding de Gucci Guilty Black Pour Homme. Même jus, nouveau nom.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 7,
+      "name": "Gucci Guilty Pour Femme",
+      "year": 2010,
+      "perfumer": "Aurélien Guichard",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Poivre rose",
+          "Lilas"
+        ],
+        "heart": [
+          "Géranium",
+          "Pêche",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Patchouli",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Oriental",
+        "Ambré"
+      ],
+      "description": "Féminin audacieux et sensuel. Mandarine pétillante et patchouli crémeux.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 8,
+      "name": "Gucci Guilty Elixir de Parfum pour Femme",
+      "year": 2023,
+      "perfumer": [
+        "Quentin Bisch",
+        "Nathalie Cetto"
+      ],
+      "gender": "Femme",
+      "concentration": "Elixir",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Mûre",
+          "Rose de Bulgarie"
+        ],
+        "heart": [
+          "Rose",
+          "Patchouli indien"
+        ],
+        "base": [
+          "Patchouli",
+          "Ambre",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Rose",
+        "Ambré",
+        "Patchouli"
+      ],
+      "description": "Version la plus intense pour femme. Rose bulgare et mûre opulentes.",
+      "retail_price_eur": 145,
+      "dupes": []
+    },
+    {
+      "id": 9,
+      "name": "Gucci Guilty Love Edition Pour Femme 2024",
+      "year": 2024,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Lilas",
+          "Muguet",
+          "Patchouli"
+        ],
+        "base": [
+          "Vanilline",
+          "Mousse de chêne",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Ambré",
+        "Poudré"
+      ],
+      "description": "Édition limitée 2024 avec lilas dominant. Comparé à Gucci Alchemist's Garden Tears of Iris.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 10,
+      "name": "Gucci Bloom",
+      "year": 2017,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Bloom",
+      "notes": {
+        "top": [
+          "Jasmin sambac"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Jasmin"
+        ],
+        "base": [
+          "Rangoon Creeper"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Poudré",
+        "Crémeux"
+      ],
+      "description": "Soliflore blanc opulent. Tubéreuse et jasmin enveloppants. Vision d'un jardin blanc en pleine floraison.",
+      "retail_price_eur": 95,
+      "dupes": [
+        {
+          "brand": "Zara",
+          "name": "Shanghai",
+          "similarity": 85,
+          "price_eur": 16,
+          "notes": "Dupe confirmé - notes florales blanches similaires",
+          "source": "pennypincherfashion.com"
+        },
+        {
+          "brand": "Zara",
+          "name": "Tubereuse Noir",
+          "similarity": 80,
+          "price_eur": 16,
+          "notes": "Autre dupe Gucci Bloom confirmé",
+          "source": "pennypincherfashion.com"
+        },
+        {
+          "brand": "Lattafa",
+          "name": "Fakhar Rose",
+          "similarity": 75,
+          "price_eur": 25,
+          "notes": "DNA similaire selon forums Fragrantica",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Kim Kardashian",
+          "name": "Kim Kardashian EDP",
+          "similarity": 82,
+          "price_eur": 35,
+          "notes": "Considéré meilleur dupe selon multiples sources",
+          "source": "melissajanelee.com"
+        },
+        {
+          "brand": "Geparlys",
+          "name": "Bloom",
+          "similarity": 80,
+          "price_eur": 20,
+          "notes": "Clone populaire",
+          "source": "melissajanelee.com"
+        },
+        {
+          "brand": "ALT. Fragrances",
+          "name": "Floret",
+          "similarity": 85,
+          "price_eur": 40,
+          "notes": "Clone déclaré avec notes identiques",
+          "source": "imixxperfumes.com"
+        },
+        {
+          "brand": "Avon",
+          "name": "A Marriage of Jasmine & Tuberose",
+          "similarity": 75,
+          "price_eur": 15,
+          "notes": "Option très abordable",
+          "source": "melissajanelee.com"
+        },
+        {
+          "brand": "Oakcha",
+          "name": "Garden Bloom",
+          "similarity": 80,
+          "price_eur": 30,
+          "notes": "Clone réputé",
+          "source": "melissajanelee.com"
+        },
+        {
+          "brand": "Oil Perfumery",
+          "name": "Gucci Bloom Impression",
+          "similarity": 85,
+          "price_eur": 12,
+          "notes": "Huile parfumée longue durée",
+          "source": "melissajanelee.com"
+        },
+        {
+          "brand": "Dossier",
+          "name": "Floral Guava",
+          "similarity": 78,
+          "price_eur": 29,
+          "notes": "Budget-friendly option",
+          "source": "imixxperfumes.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Gucci Bloom Eau de Toilette",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Bloom",
+      "notes": {
+        "top": [
+          "Bergamote sicilienne",
+          "Mandarine italienne",
+          "Poire"
+        ],
+        "heart": [
+          "Lys de Casablanca",
+          "Jasmin",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Musc blanc",
+          "Ambre gris",
+          "Vanille tahitienne",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Fruité",
+        "Frais"
+      ],
+      "description": "Version plus légère et fraîche du Bloom original.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 12,
+      "name": "Gucci Bloom Parfum",
+      "year": 2025,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "Parfum",
+      "collection": "Gucci Bloom",
+      "notes": {
+        "top": [
+          "Jasmin de nuit",
+          "Rangoon Creeper"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Jasmin sambac",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Baume du Pérou",
+          "Ambre",
+          "Vanille",
+          "Vanille absolue"
+        ]
+      },
+      "accords": [
+        "Floral oriental",
+        "Épicé",
+        "Vanillé"
+      ],
+      "description": "Version la plus intense - épicée avec cannelle et clou de girofle selon reviews. Flanker qui dévie de l'original.",
+      "retail_price_eur": 140,
+      "dupes": []
+    },
+    {
+      "id": 13,
+      "name": "Gucci Bloom Nettare di Fiori",
+      "year": 2018,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDP Intense",
+      "collection": "Gucci Bloom",
+      "notes": {
+        "top": [
+          "Gingembre"
+        ],
+        "heart": [
+          "Rose",
+          "Osmanthus",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Musc",
+          "Patchouli"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Épicé",
+        "Poudré"
+      ],
+      "description": "Version épicée avec gingembre et rose.",
+      "retail_price_eur": 115,
+      "dupes": []
+    },
+    {
+      "id": 14,
+      "name": "Gucci Bloom Acqua di Fiori",
+      "year": 2018,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Bloom",
+      "notes": {
+        "top": [
+          "Groseille verte",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin sambac",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois de cachemire"
+        ]
+      },
+      "accords": [
+        "Floral vert",
+        "Frais",
+        "Aquatique"
+      ],
+      "description": "Version fraîche et verte.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 15,
+      "name": "Gucci Bloom Ambrosia di Fiori",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDP Intense",
+      "collection": "Gucci Bloom",
+      "notes": {
+        "top": [
+          "Orris"
+        ],
+        "heart": [
+          "Jasmin sambac",
+          "Tubéreuse",
+          "Rose damascène"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Iris",
+        "Floral blanc",
+        "Poudré"
+      ],
+      "description": "Version iris et rose damascène.",
+      "retail_price_eur": 115,
+      "dupes": []
+    },
+    {
+      "id": 16,
+      "name": "Gucci Bloom Profumo di Fiori",
+      "year": 2020,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Bloom",
+      "notes": {
+        "top": [
+          "Feuille de figuier"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Jasmin sambac",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Figuier",
+        "Boisé"
+      ],
+      "description": "Version figuier méditerranéen.",
+      "retail_price_eur": 105,
+      "dupes": []
+    },
+    {
+      "id": 17,
+      "name": "Flora Gorgeous Gardenia",
+      "year": 2021,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Flora Gorgeous Collection",
+      "notes": {
+        "top": [
+          "Poire",
+          "Baies rouges"
+        ],
+        "heart": [
+          "Gardénia",
+          "Frangipane",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Sucre brun",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Gardénia",
+        "Fruité",
+        "Gourmand"
+      ],
+      "description": "Gardénia blanc sucré avec fruits rouges. Best-seller de la ligne Flora.",
+      "retail_price_eur": 95,
+      "dupes": [
+        {
+          "brand": "Zara",
+          "name": "Cashmere Rose",
+          "similarity": 80,
+          "price_eur": 16,
+          "notes": "Similaire à Gorgeous Gardenia selon forum Fragrantica",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Fragrenza",
+          "name": "Chloris Gardenia",
+          "similarity": 85,
+          "price_eur": 35,
+          "notes": "Clone déclaré de Flora Gorgeous Gardenia",
+          "source": "fragrenza.com"
+        },
+        {
+          "brand": "Viva la Juicy",
+          "name": "Juicy Couture",
+          "similarity": 75,
+          "price_eur": 50,
+          "notes": "DNA similaire selon comparatifs",
+          "source": "fragrenza.com"
+        },
+        {
+          "brand": "Marc Jacobs",
+          "name": "Daisy",
+          "similarity": 72,
+          "price_eur": 65,
+          "notes": "Même vibe florale joyeuse",
+          "source": "fragrenza.com"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Flora Gorgeous Jasmine",
+      "year": 2022,
+      "perfumer": "Marie Salamagne",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Flora Gorgeous Collection",
+      "notes": {
+        "top": [
+          "Mandarine italienne"
+        ],
+        "heart": [
+          "Magnolia",
+          "Rose damascène",
+          "Jasmin grandiflorum"
+        ],
+        "base": [
+          "Santal australien",
+          "Patchouli",
+          "Benjoin"
+        ]
+      },
+      "accords": [
+        "Jasmin",
+        "Floral",
+        "Boisé"
+      ],
+      "description": "Jasmin grandiflorum opulent avec santal.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 19,
+      "name": "Flora Gorgeous Magnolia",
+      "year": 2023,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Flora Gorgeous Collection",
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Magnolia",
+          "Pivoine",
+          "Jasmin sambac"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Magnolia",
+        "Floral",
+        "Poudré"
+      ],
+      "description": "Magnolia lumineux et frais.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 20,
+      "name": "Flora Gorgeous Orchid",
+      "year": 2024,
+      "perfumer": "Marie Salamagne",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Flora Gorgeous Collection",
+      "notes": {
+        "top": [
+          "Vanille"
+        ],
+        "heart": [
+          "Orchidée vanille"
+        ],
+        "base": [
+          "Notes ozoniques"
+        ]
+      },
+      "accords": [
+        "Vanille",
+        "Floral",
+        "Ozonique",
+        "Aquatique"
+      ],
+      "description": "Premier floral gourmand ozonique de Gucci. Vanille lumineuse avec fraîcheur aquatique.",
+      "retail_price_eur": 95,
+      "dupes": [
+        {
+          "brand": "Lattafa",
+          "name": "Atheeri",
+          "similarity": 90,
+          "price_eur": 26,
+          "notes": "Dupe viral 2025 - très proche selon multiples reviews TikTok/Fragrantica. Vanille crémeuse avec fraîcheur florale identique. Certains disent 'EXACTEMENT' pareil!",
+          "source": "Fragrantica/TikTok 2025"
+        },
+        {
+          "brand": "Burberry",
+          "name": "Goddess",
+          "similarity": 75,
+          "price_eur": 90,
+          "notes": "Comparé pour la vanille chaude similaire",
+          "source": "Fragrantica reviews"
+        },
+        {
+          "brand": "Lattafa",
+          "name": "Angham",
+          "similarity": 70,
+          "price_eur": 25,
+          "notes": "Également comparé mais moins proche",
+          "source": "Fragrantica reviews"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Flora by Gucci",
+      "year": 2009,
+      "perfumer": "Aurélien Guichard",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Flora by Gucci",
+      "notes": {
+        "top": [
+          "Agrumes",
+          "Mandarine",
+          "Pêche"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine",
+          "Osmanthus"
+        ],
+        "base": [
+          "Patchouli",
+          "Santal",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Fruité",
+        "Boisé"
+      ],
+      "description": "Original de la ligne Flora. Floral fruité classique.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 22,
+      "name": "Gucci Bamboo",
+      "year": 2015,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Bamboo",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Fleur d'oranger",
+          "Ylang-ylang"
+        ],
+        "heart": [
+          "Lys de Casablanca",
+          "Tubéreuse",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc blanc",
+          "Santal",
+          "Vanille tahitienne",
+          "Ambre gris"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Boisé",
+        "Élégant"
+      ],
+      "description": "Floral blanc lumineux et moderne. Force féminine.",
+      "retail_price_eur": 95,
+      "dupes": [
+        {
+          "brand": "Perfume Parlour",
+          "name": "Florence Stick #1269",
+          "similarity": 95,
+          "price_eur": 7,
+          "notes": "Clone très précis selon reviews - 'cannot smell any difference'",
+          "source": "Perfume Parlour UK reviews"
+        },
+        {
+          "brand": "Bvlgari",
+          "name": "Omnia Crystalline",
+          "similarity": 80,
+          "price_eur": 65,
+          "notes": "Note lily partagée, plus doux et musqué",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Lanvin",
+          "name": "Éclat d'Arpège",
+          "similarity": 85,
+          "price_eur": 45,
+          "notes": "Clone fruité floral 80-90% similaire selon osmoz.com",
+          "source": "osmoz.com"
+        },
+        {
+          "brand": "Guerlain",
+          "name": "Mon Guerlain",
+          "similarity": 80,
+          "price_eur": 85,
+          "notes": "DNA similaire selon experts",
+          "source": "osmoz.com"
+        },
+        {
+          "brand": "Oil Perfumery",
+          "name": "Gucci Bamboo Impression",
+          "similarity": 90,
+          "price_eur": 10,
+          "notes": "Roll-on oil très apprécié",
+          "source": "osmoz.com"
+        },
+        {
+          "brand": "Carolina Herrera",
+          "name": "212",
+          "similarity": 78,
+          "price_eur": 65,
+          "notes": "Clone charismatique selon 10fragrances.com",
+          "source": "10fragrances.com"
+        },
+        {
+          "brand": "Marks & Spencer",
+          "name": "Bloomin Lovely",
+          "similarity": 85,
+          "price_eur": 15,
+          "notes": "Edition limitée M&S - 'reminiscent of Gucci Bamboo'",
+          "source": "TikTok 2024"
+        },
+        {
+          "brand": "TikTok Shop",
+          "name": "Bamboo Silver",
+          "similarity": 82,
+          "price_eur": 15,
+          "notes": "Clone populaire sur TikTok Shop",
+          "source": "TikTok reviews"
+        },
+        {
+          "brand": "Milton Lloyd",
+          "name": "Bamboo Clone",
+          "similarity": 70,
+          "price_eur": 8,
+          "notes": "Cheapie, manque les top notes sparkly",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Yom & Layl",
+          "name": "Beverly Chic",
+          "similarity": 82,
+          "price_eur": 25,
+          "notes": "Clone déclaré abordable",
+          "source": "yomlayl.com"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Gucci Bamboo Eau de Toilette",
+      "year": 2016,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Bamboo",
+      "notes": {
+        "top": [
+          "Bergamote sicilienne",
+          "Fleur d'oranger",
+          "Poire"
+        ],
+        "heart": [
+          "Lys de Casablanca",
+          "Jasmin",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Musc blanc",
+          "Ambre gris",
+          "Vanille tahitienne",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Citrus",
+        "Frais"
+      ],
+      "description": "Version plus légère du Bamboo original.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 24,
+      "name": "Gucci Rush",
+      "year": 1999,
+      "perfumer": "Michel Almairac",
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Rush",
+      "notes": {
+        "top": [
+          "Gardénia",
+          "Coriandre",
+          "Freesia"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Pivoine"
+        ],
+        "base": [
+          "Vétiver",
+          "Patchouli",
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Poudré",
+        "Synthétique rétro"
+      ],
+      "description": "Classique culte des années 2000. Gardénia-patchouli synthétique addictif.",
+      "retail_price_eur": 80,
+      "dupes": [
+        {
+          "brand": "Zara",
+          "name": "Black Dart",
+          "similarity": 85,
+          "price_eur": 16,
+          "notes": "Dupe confirmé selon wicked-good.co et TikTok",
+          "source": "wicked-good.co/TikTok 2024"
+        },
+        {
+          "brand": "Al-Rehab",
+          "name": "Rasha (oil)",
+          "similarity": 88,
+          "price_eur": 5,
+          "notes": "Meilleur dupe selon Fragrantica forum - 'a thousand times yes!!!' Performance supérieure, version huile recommandée",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Tom Ford",
+          "name": "White Patchouli",
+          "similarity": 75,
+          "price_eur": 180,
+          "notes": "Version modernisée et nucléaire selon experts",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Burberry",
+          "name": "Body",
+          "similarity": 70,
+          "price_eur": 60,
+          "notes": "Même parfumeur, note pêche similaire",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Pal Zileri",
+          "name": "Sartoriale",
+          "similarity": 82,
+          "price_eur": 45,
+          "notes": "Clone très proche selon parfumo.com",
+          "source": "parfumo.com forum"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Gucci Rush 2",
+      "year": 2001,
+      "perfumer": "Michel Almairac",
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Rush",
+      "notes": {
+        "top": [
+          "Narcisse",
+          "Pivoine"
+        ],
+        "heart": [
+          "Jasmin",
+          "Muguet",
+          "Gardénia"
+        ],
+        "base": [
+          "Musc",
+          "Bois de santal"
+        ]
+      },
+      "accords": [
+        "Floral vert",
+        "Frais",
+        "Narcisse"
+      ],
+      "description": "Suite plus légère et verte du Rush original.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 26,
+      "name": "Gucci Pour Homme",
+      "year": 2003,
+      "perfumer": "Tom Ford / Michel Almairac",
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Discontinued",
+      "notes": {
+        "top": [
+          "Cyprès",
+          "Menthe poivrée",
+          "Orange"
+        ],
+        "heart": [
+          "Tabac",
+          "Cuir",
+          "Encens"
+        ],
+        "base": [
+          "Cèdre",
+          "Ambre",
+          "Mousse de chêne"
+        ]
+      },
+      "accords": [
+        "Chypre boisé",
+        "Cuir",
+        "Tabac"
+      ],
+      "description": "DISCONTINUÉ. Légende Tom Ford era. Très recherché.",
+      "retail_price_eur": 200,
+      "dupes": [
+        {
+          "brand": "Bentley",
+          "name": "Bentley For Men Absolute",
+          "similarity": 88,
+          "price_eur": 35,
+          "notes": "Même parfumeur! Très similaire mais un peu moins complexe, plus moderne",
+          "source": "Fragrantica forum/Basenotes"
+        },
+        {
+          "brand": "Comme des Garçons",
+          "name": "2 Man",
+          "similarity": 80,
+          "price_eur": 80,
+          "notes": "Dans la même veine mais plus fort/smoky",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Iksir Parfumes",
+          "name": "Clone numéroté",
+          "similarity": 92,
+          "price_eur": 45,
+          "notes": "Maison française qui aurait 'nailed it'",
+          "source": "Fragrantica forum"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Gucci Pour Homme II",
+      "year": 2007,
+      "perfumer": "Karine Dubreuil",
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Feuille de violette"
+        ],
+        "heart": [
+          "Thé noir",
+          "Cannelle",
+          "Piment"
+        ],
+        "base": [
+          "Feuille de tabac",
+          "Myrrhe",
+          "Musc",
+          "Olivier"
+        ]
+      },
+      "accords": [
+        "Thé",
+        "Épicé",
+        "Tabac",
+        "Boisé"
+      ],
+      "description": "DISCONTINUÉ mais très recherché. Thé noir signature unique. Prix aftermarket 500-850€!",
+      "retail_price_eur": 500,
+      "dupes": [
+        {
+          "brand": "Hanae Mori",
+          "name": "HiM",
+          "similarity": 88,
+          "price_eur": 50,
+          "notes": "Le plus proche selon consensus - plus cannelle, moins encens. 'Casual GPH II'",
+          "source": "Fragrantica/Basenotes"
+        },
+        {
+          "brand": "L'Artisan Parfumeur",
+          "name": "Tea for Two",
+          "similarity": 85,
+          "price_eur": 100,
+          "notes": "Alternative thé similaire mais différente, 'much better' selon certains",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Dua Fragrances",
+          "name": "Man Card VIP",
+          "similarity": 90,
+          "price_eur": 55,
+          "notes": "Clone déclaré avec Extrait concentration pour meilleure performance",
+          "source": "theduabrand.com"
+        },
+        {
+          "brand": "Alexandria UK",
+          "name": "The Pour Homme II",
+          "similarity": 88,
+          "price_eur": 45,
+          "notes": "Clone déclaré Extrait de Parfum, 'masterful resurrection'",
+          "source": "alexandriauk.com"
+        },
+        {
+          "brand": "Floris",
+          "name": "Santal",
+          "similarity": 78,
+          "price_eur": 80,
+          "notes": "Version plus fraîche et raffinée, qualité niche",
+          "source": "Basenotes forum"
+        },
+        {
+          "brand": "Carven",
+          "name": "Carven Homme (original)",
+          "similarity": 82,
+          "price_eur": 60,
+          "notes": "Plus vanillé, moins encens. Chercher version ORIGINALE pas reformulée",
+          "source": "Basenotes forum"
+        },
+        {
+          "brand": "Goodfellow & Co",
+          "name": "Juniper & Sandalwood",
+          "similarity": 75,
+          "price_eur": 15,
+          "notes": "Target cheapie, notes similaires selon découvreur",
+          "source": "Basenotes forum"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Gucci by Gucci Pour Homme",
+      "year": 2008,
+      "perfumer": "Aurélien Guichard",
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci by Gucci",
+      "notes": {
+        "top": [
+          "Cyprès",
+          "Violette",
+          "Bergamote"
+        ],
+        "heart": [
+          "Tabac",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Ambre",
+          "Cuir",
+          "Résine d'élémi",
+          "Oliban"
+        ]
+      },
+      "accords": [
+        "Chypre boisé",
+        "Tabac",
+        "Cuir"
+      ],
+      "description": "Chypre boisé masculin sophistiqué. Renommé simplement 'Gucci Pour Homme' après.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 29,
+      "name": "Gucci by Gucci Pour Femme",
+      "year": 2007,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci by Gucci",
+      "notes": {
+        "top": [
+          "Poire",
+          "Goyave",
+          "Fleur de frangipanier"
+        ],
+        "heart": [
+          "Jasmin",
+          "Pivoine",
+          "Orchidée"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc",
+          "Miel"
+        ]
+      },
+      "accords": [
+        "Floral fruité",
+        "Tropical",
+        "Patchouli"
+      ],
+      "description": "Floral fruité tropical avec patchouli crémeux.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 30,
+      "name": "Gucci Envy",
+      "year": 1997,
+      "perfumer": "Daniela (Roche) Andrier",
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Envy (Discontinued)",
+      "notes": {
+        "top": [
+          "Jacinthe",
+          "Magnolia",
+          "Muguet"
+        ],
+        "heart": [
+          "Jasmin",
+          "Violette",
+          "Iris"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral vert",
+        "Frais",
+        "Hyacinthe"
+      ],
+      "description": "DISCONTINUÉ. Classique vert floral des 90s. Très recherché.",
+      "retail_price_eur": 150,
+      "dupes": [
+        {
+          "brand": "Dior",
+          "name": "Diorissimo",
+          "similarity": 75,
+          "price_eur": 90,
+          "notes": "DNA similaire floral vert",
+          "source": "Mumsnet forum"
+        },
+        {
+          "brand": "Calvin Klein",
+          "name": "Eternity",
+          "similarity": 70,
+          "price_eur": 55,
+          "notes": "Alternative mentionnée",
+          "source": "Mumsnet forum"
+        },
+        {
+          "brand": "Elizabeth Arden",
+          "name": "Fifth Avenue",
+          "similarity": 72,
+          "price_eur": 40,
+          "notes": "Alternative florale similaire",
+          "source": "Mumsnet forum"
+        },
+        {
+          "brand": "Jo Loves",
+          "name": "The Flower Shop 42",
+          "similarity": 90,
+          "price_eur": 95,
+          "notes": "Recommandé comme 'nigh on identical'",
+          "source": "Mumsnet forum"
+        },
+        {
+          "brand": "Eden Perfumes",
+          "name": "Envy Clone",
+          "similarity": 85,
+          "price_eur": 25,
+          "notes": "Clone UK réputé",
+          "source": "Mumsnet forum"
+        },
+        {
+          "brand": "Perfume Parlour",
+          "name": "Envy Clone",
+          "similarity": 85,
+          "price_eur": 10,
+          "notes": "DH wears the men's one selon review",
+          "source": "Mumsnet forum"
+        },
+        {
+          "brand": "Opulent Alchemy (Etsy)",
+          "name": "Gucci Envy Type Oil",
+          "similarity": 85,
+          "price_eur": 15,
+          "notes": "Huile parfumée vegan/cruelty-free",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "The Dupe Spot AU",
+          "name": "#146 Envy Duplication",
+          "similarity": 88,
+          "price_eur": 20,
+          "notes": "'Same scent as original. So happy to have found this'",
+          "source": "thedupespot.com.au reviews"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Gucci Envy for Men",
+      "year": 1998,
+      "perfumer": "Daniela (Roche) Andrier",
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Envy (Discontinued)",
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Cardamome",
+          "Lavande",
+          "Poivre",
+          "Acajou",
+          "Coriandre",
+          "Mandarine"
+        ],
+        "heart": [
+          "Santal",
+          "Cèdre",
+          "Oeillet",
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Encens",
+          "Vanille",
+          "Tabac",
+          "Ambre",
+          "Vétiver",
+          "Cuir",
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Épicé",
+        "Boisé oriental",
+        "Gingembre"
+      ],
+      "description": "DISCONTINUÉ. Masculin épicé gingembre signature. Très unique.",
+      "retail_price_eur": 180,
+      "dupes": [
+        {
+          "brand": "Floris",
+          "name": "Eau de Santal",
+          "similarity": 95,
+          "price_eur": 70,
+          "notes": "'95% Gucci Envy' selon expert. 'Better than the Gucci' pour certains!",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Tabac",
+          "name": "Man Fire Power",
+          "similarity": 90,
+          "price_eur": 15,
+          "notes": "'Carbon copy' cheapie - 'positively shocked when I tried it!'",
+          "source": "Basenotes forum"
+        },
+        {
+          "brand": "Carven",
+          "name": "Carven Homme (original)",
+          "similarity": 88,
+          "price_eur": 60,
+          "notes": "Très similaire selon consensus",
+          "source": "Basenotes forum"
+        },
+        {
+          "brand": "Parfums Vintage",
+          "name": "Pour Homme Intense",
+          "similarity": 90,
+          "price_eur": 65,
+          "notes": "'Smells better than the Gucci' selon expert",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Covalent",
+          "name": "Athena",
+          "similarity": 88,
+          "price_eur": 35,
+          "notes": "Clone égyptien 'bang on good'",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Larise (Austria)",
+          "name": "Clone numéroté",
+          "similarity": 85,
+          "price_eur": 20,
+          "notes": "Clone autrichien mais qualité variable par batch",
+          "source": "Fragrantica forum"
+        },
+        {
+          "brand": "Jubilee Scents",
+          "name": "GU14 Gucci Envy",
+          "similarity": 90,
+          "price_eur": 25,
+          "notes": "'Spot on' selon reviewer - clone UK",
+          "source": "jubileescents.co.uk reviews"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Gucci Envy Me",
+      "year": 2004,
+      "perfumer": "Maurice Roucel",
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Envy (Discontinued)",
+      "notes": {
+        "top": [
+          "Pivoine",
+          "Poivre rose",
+          "Ananas",
+          "Jasmin",
+          "Mangue",
+          "Feuille de cassis",
+          "Pêche"
+        ],
+        "heart": [
+          "Pivoine",
+          "Litchi",
+          "Grenade",
+          "Musc",
+          "Thé blanc",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Tabac",
+          "Bois de teck",
+          "Santal",
+          "Fève tonka"
+        ]
+      },
+      "accords": [
+        "Fruité",
+        "Floral",
+        "Pivoine"
+      ],
+      "description": "DISCONTINUÉ. Fruité juteux pivoine/grenade très addictif.",
+      "retail_price_eur": 120,
+      "dupes": [
+        {
+          "brand": "Blossom Perfumery",
+          "name": "#174 Envy Me Inspired",
+          "similarity": 92,
+          "price_eur": 18,
+          "notes": "'Identical' selon multiples reviews - 'exactly like the original' 'WOW finally found it!'",
+          "source": "blossomperfumery.co.uk reviews"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Mémoire d'une Odeur",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": null,
+      "notes": {
+        "top": [
+          "Camomille romaine",
+          "Amande amère"
+        ],
+        "heart": [
+          "Musc",
+          "Jasmin indien",
+          "Jasmin"
+        ],
+        "base": [
+          "Santal",
+          "Cèdre",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Minéral aromatique",
+        "Camomille",
+        "Musky"
+      ],
+      "description": "DISCONTINUÉ. Parfum unisex unique à la camomille. Établit nouvelle famille olfactive 'Minéral Aromatique'.",
+      "retail_price_eur": 90,
+      "dupes": [
+        {
+          "brand": "Oil Perfumery",
+          "name": "Gucci Memoire Impression",
+          "similarity": 88,
+          "price_eur": 10,
+          "notes": "'Best dupe I have found' selon Fragrantica review - huile longue durée",
+          "source": "Fragrantica reviews"
+        },
+        {
+          "brand": "Demeter Fragrance",
+          "name": "Chamomile Tea",
+          "similarity": 80,
+          "price_eur": 25,
+          "notes": "Clone le plus simple et proche - note camomille identique",
+          "source": "10fragrances.com"
+        },
+        {
+          "brand": "Calvin Klein",
+          "name": "Contradiction",
+          "similarity": 75,
+          "price_eur": 45,
+          "notes": "Vibe similaire confortable",
+          "source": "heyscent.com"
+        },
+        {
+          "brand": "Marc Jacobs",
+          "name": "Daisy",
+          "similarity": 70,
+          "price_eur": 65,
+          "notes": "Même parfumeur, nostalgie similaire",
+          "source": "heyscent.com"
+        },
+        {
+          "brand": "Kenzo",
+          "name": "Kenzo Amour",
+          "similarity": 72,
+          "price_eur": 60,
+          "notes": "Feel similaire cozy",
+          "source": "heyscent.com"
+        },
+        {
+          "brand": "Montale",
+          "name": "Sunset Flowers",
+          "similarity": 78,
+          "price_eur": 90,
+          "notes": "Alternative verte douce avec camomille",
+          "source": "10fragrances.com"
+        },
+        {
+          "brand": "Comme des Garçons",
+          "name": "Odeur 53",
+          "similarity": 82,
+          "price_eur": 85,
+          "notes": "Alternative la plus appréciée - notes minérales similaires",
+          "source": "10fragrances.com"
+        },
+        {
+          "brand": "Divain",
+          "name": "DIVAIN-642",
+          "similarity": 85,
+          "price_eur": 30,
+          "notes": "Clone espagnol déclaré",
+          "source": "divainparfums.co"
+        },
+        {
+          "brand": "Perfume Scan",
+          "name": "#1308",
+          "similarity": 82,
+          "price_eur": 10,
+          "notes": "Clone Moyen-Orient",
+          "source": "perfumescan.com"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Gucci Premiere",
+      "year": 2012,
+      "perfumer": "Aurelien Guichard",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Premiere",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Musc blanc",
+          "Rose bulgare",
+          "Feuille de framboise",
+          "Fleur d'oranger",
+          "Jasmin"
+        ],
+        "base": [
+          "Notes boisées",
+          "Cuir"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Cuir doux",
+        "Musky"
+      ],
+      "description": "Hollywood glamour. Musc blanc et cuir sophistiqué.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 35,
+      "name": "Gucci Premiere Eau de Toilette",
+      "year": 2014,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Premiere",
+      "notes": {
+        "top": [
+          "Herbe",
+          "Mandarine italienne",
+          "Boysenberry"
+        ],
+        "heart": [
+          "Iris",
+          "Jasmin",
+          "Thé noir",
+          "Prune"
+        ],
+        "base": [
+          "Santal",
+          "Cèdre",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral vert",
+        "Fruité",
+        "Boisé"
+      ],
+      "description": "Version plus fraîche et verte du Premiere original.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 36,
+      "name": "The Alchemist's Garden A Chant for the Nymph",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Tubéreuse",
+          "Jasmin sambac",
+          "Absolu de beurre d'iris"
+        ],
+        "base": [
+          "Santal",
+          "Vanille",
+          "Musc",
+          "Bois de gaïac"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Crémeux",
+        "Iris"
+      ],
+      "description": "Ligne haute couture de Gucci. Tubéreuse et iris opulents.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 37,
+      "name": "The Alchemist's Garden Tears of Iris",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Iris",
+          "Pétales de violette"
+        ],
+        "base": [
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Iris",
+        "Poudré",
+        "Floral"
+      ],
+      "description": "Soliflore iris poudré délicat.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 38,
+      "name": "The Alchemist's Garden The Virgin Violet",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Violette",
+          "Pétales d'iris"
+        ],
+        "base": [
+          "Musc",
+          "Vanille audacieuse"
+        ]
+      },
+      "accords": [
+        "Violette",
+        "Poudré",
+        "Vanillé"
+      ],
+      "description": "Soliflore violette poudré avec vanille audacieuse.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 39,
+      "name": "The Alchemist's Garden A Midnight Stroll",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Musc",
+          "Fève tonka",
+          "Vanille"
+        ],
+        "base": [
+          "Bois d'acajou"
+        ]
+      },
+      "accords": [
+        "Musky",
+        "Boisé",
+        "Vanillé"
+      ],
+      "description": "Musc crémeux nocturne.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 40,
+      "name": "The Alchemist's Garden A Gloaming Night",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Absolu de café de chicorée",
+          "Notes de beurre d'iris"
+        ],
+        "base": [
+          "Ambrette"
+        ]
+      },
+      "accords": [
+        "Café",
+        "Iris",
+        "Oriental"
+      ],
+      "description": "Café et iris profonds.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 41,
+      "name": "The Alchemist's Garden The Voice of the Snake",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Rose de Damas",
+          "Oliban"
+        ],
+        "base": [
+          "Ambrette",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Rose",
+        "Encens",
+        "Mystique"
+      ],
+      "description": "Rose damascène et encens mystérieux.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 42,
+      "name": "The Alchemist's Garden The Eyes of the Tiger",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Résine d'oliban",
+          "Santal d'Australie"
+        ],
+        "base": [
+          "Ambre",
+          "Résines chaudes"
+        ]
+      },
+      "accords": [
+        "Encens",
+        "Ambré",
+        "Résineux"
+      ],
+      "description": "Encens impérial et santal luxueux.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 43,
+      "name": "Gucci No. 1",
+      "year": 1974,
+      "perfumer": "Guy Robert",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Aldéhydes",
+          "Galbanum",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Ylang-ylang",
+          "Iris"
+        ],
+        "base": [
+          "Vétiver",
+          "Santal",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Aldéhydé",
+        "Floral classique",
+        "Poudré"
+      ],
+      "description": "DISCONTINUÉ. Premier parfum Gucci historique. Style chypre aldéhydé classique.",
+      "retail_price_eur": 300,
+      "dupes": []
+    },
+    {
+      "id": 44,
+      "name": "Gucci No. 3",
+      "year": 1985,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Aldéhydes",
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Muguet"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Aldéhydé",
+        "Floral",
+        "Boisé ambré"
+      ],
+      "description": "DISCONTINUÉ. Classique 80s élégant.",
+      "retail_price_eur": 250,
+      "dupes": []
+    },
+    {
+      "id": 45,
+      "name": "Gucci Accenti",
+      "year": 1995,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine",
+          "Cassis"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Pivoine"
+        ],
+        "base": [
+          "Santal",
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Floral fruité",
+        "Boisé"
+      ],
+      "description": "DISCONTINUÉ. Floral fruité années 90.",
+      "retail_price_eur": 120,
+      "dupes": []
+    },
+    {
+      "id": 46,
+      "name": "L'Arte di Gucci",
+      "year": 1991,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Néroli",
+          "Petit grain"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Iris",
+          "Ylang"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc",
+          "Mousse de chêne",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Chypre floral",
+        "Élégant",
+        "Classique"
+      ],
+      "description": "DISCONTINUÉ. Collector très recherché des années 90.",
+      "retail_price_eur": 350,
+      "dupes": []
+    },
+    {
+      "id": 47,
+      "name": "Gucci EDP (2002)",
+      "year": 2002,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Bois précieux"
+        ],
+        "base": [
+          "Vétiver",
+          "Encens"
+        ]
+      },
+      "accords": [
+        "Rose",
+        "Boisé",
+        "Encensé"
+      ],
+      "description": "DISCONTINUÉ. Rose boisé sophistiqué.",
+      "retail_price_eur": 150,
+      "dupes": []
+    },
+    {
+      "id": 48,
+      "name": "Gucci Rush for Men",
+      "year": 2000,
+      "perfumer": "Michel Almairac",
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Rush",
+      "notes": {
+        "top": [
+          "Menthe",
+          "Bergamote",
+          "Cardamome"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Pivoine"
+        ],
+        "base": [
+          "Vétiver",
+          "Santal",
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Boisé",
+        "Frais"
+      ],
+      "description": "Version masculine du Rush. Menthe et bois.",
+      "retail_price_eur": 80,
+      "dupes": []
+    },
+    {
+      "id": 49,
+      "name": "Flora Emerald Gardenia",
+      "year": 2019,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Flora by Gucci Garden Collection",
+      "notes": {
+        "top": [
+          "Poire",
+          "Pétale de pivoine"
+        ],
+        "heart": [
+          "Gardénia",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Gardénia",
+        "Floral",
+        "Léger"
+      ],
+      "description": "Version légère et aérée du gardénia. Parfaite pour été.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 50,
+      "name": "Flora Gracious Tuberose",
+      "year": 2012,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Flora by Gucci Garden Collection",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Pomme verte"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Pivoine"
+        ],
+        "base": [
+          "Bois de santal",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Tubéreuse",
+        "Floral blanc",
+        "Fruité"
+      ],
+      "description": "Tubéreuse gracieuse et accessible.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 51,
+      "name": "Flora Generous Violet",
+      "year": 2012,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Flora by Gucci Garden Collection",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cassis"
+        ],
+        "heart": [
+          "Violette",
+          "Rose"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Violette",
+        "Fruité",
+        "Poudré"
+      ],
+      "description": "Soliflore violette classique.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 52,
+      "name": "Flora Glamorous Magnolia",
+      "year": 2012,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Flora by Gucci Garden Collection",
+      "notes": {
+        "top": [
+          "Poire",
+          "Mandarine rose"
+        ],
+        "heart": [
+          "Magnolia",
+          "Freesia"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Magnolia",
+        "Fruité",
+        "Élégant"
+      ],
+      "description": "Magnolia glamour.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 53,
+      "name": "Flora Glorious Mandarin",
+      "year": 2012,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Flora by Gucci Garden Collection",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Citrus",
+        "Floral",
+        "Frais"
+      ],
+      "description": "Mandarine pétillante et lumineuse.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 54,
+      "name": "Gucci Museo Forever Now",
+      "year": 2013,
+      "perfumer": null,
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "Gucci Museo",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Gingembre"
+        ],
+        "heart": [
+          "Iris",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Santal",
+          "Benjoin",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Boisé ambré",
+        "Épicé"
+      ],
+      "description": "Exclusif au Museo Gucci à Florence.",
+      "retail_price_eur": 180,
+      "dupes": []
+    },
+    {
+      "id": 55,
+      "name": "Gucci Made to Measure",
+      "year": 2013,
+      "perfumer": "Honorine Blanc",
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Lavande",
+          "Anis étoilé"
+        ],
+        "heart": [
+          "Géranium africain",
+          "Iris"
+        ],
+        "base": [
+          "Cuir",
+          "Patchouli",
+          "Ciste"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Cuir",
+        "Fougère"
+      ],
+      "description": "Masculin sur-mesure sophistiqué.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 56,
+      "name": "Gucci Guilty Black Pour Homme",
+      "year": 2013,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Coriandre"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Néroli"
+        ],
+        "base": [
+          "Patchouli",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Boisé",
+        "Frais"
+      ],
+      "description": "Version plus sombre du Guilty. Rebrandé en Guilty Essence 2024.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 57,
+      "name": "Gucci Guilty Black Pour Femme",
+      "year": 2013,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Framboise"
+        ],
+        "heart": [
+          "Violette",
+          "Pêche"
+        ],
+        "base": [
+          "Patchouli",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Fruité",
+        "Floral sombre",
+        "Patchouli"
+      ],
+      "description": "Version sombre et audacieuse du Guilty femme.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 58,
+      "name": "Gucci Guilty Intense Pour Homme",
+      "year": 2011,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Citron"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Cèdre",
+          "Ambre",
+          "Patchouli"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Ambré",
+        "Boisé"
+      ],
+      "description": "DISCONTINUÉ. Version plus intense du Guilty homme.",
+      "retail_price_eur": 100,
+      "dupes": []
+    },
+    {
+      "id": 59,
+      "name": "Gucci Guilty Intense Pour Femme",
+      "year": 2011,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Mandarine"
+        ],
+        "heart": [
+          "Lilas",
+          "Violette"
+        ],
+        "base": [
+          "Patchouli",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral intense",
+        "Oriental"
+      ],
+      "description": "DISCONTINUÉ. Version EDP plus riche.",
+      "retail_price_eur": 100,
+      "dupes": []
+    },
+    {
+      "id": 60,
+      "name": "Gucci Oud",
+      "year": 2014,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP Intense",
+      "collection": null,
+      "notes": {
+        "top": [
+          "Poire",
+          "Framboise"
+        ],
+        "heart": [
+          "Rose bulgare",
+          "Oud",
+          "Safran"
+        ],
+        "base": [
+          "Musc",
+          "Ambre gris"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Rose",
+        "Oriental"
+      ],
+      "description": "Oud opulent avec rose bulgare.",
+      "retail_price_eur": 175,
+      "dupes": []
+    },
+    {
+      "id": 61,
+      "name": "Gucci Intense Oud",
+      "year": 2016,
+      "perfumer": null,
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": null,
+      "notes": {
+        "top": [
+          "Safran",
+          "Ambre"
+        ],
+        "heart": [
+          "Oud",
+          "Rose damascène",
+          "Encens"
+        ],
+        "base": [
+          "Benjoin",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Rose",
+        "Encens"
+      ],
+      "description": "Version plus intense de l'Oud avec encens.",
+      "retail_price_eur": 185,
+      "dupes": []
+    },
+    {
+      "id": 62,
+      "name": "The Alchemist's Garden A Kiss from Violet",
+      "year": 2021,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Violette",
+          "Iris"
+        ],
+        "base": [
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Violette",
+        "Poudré",
+        "Doux"
+      ],
+      "description": "Baiser de violette délicat.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 63,
+      "name": "The Alchemist's Garden 1921 Signature",
+      "year": 2021,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Violette",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Santal",
+          "Benjoin"
+        ]
+      },
+      "accords": [
+        "Floral classique",
+        "Iris",
+        "Élégant"
+      ],
+      "description": "Hommage au centenaire de Gucci. Signature intemporelle.",
+      "retail_price_eur": 350,
+      "dupes": []
+    },
+    {
+      "id": 64,
+      "name": "The Alchemist's Garden Winter's Spring",
+      "year": 2022,
+      "perfumer": null,
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": [
+          "Notes vertes",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleurs blanches",
+          "Muguet"
+        ],
+        "base": [
+          "Musc",
+          "Notes boisées"
+        ]
+      },
+      "accords": [
+        "Floral vert",
+        "Frais",
+        "Muguet"
+      ],
+      "description": "Printemps en hiver - fraîcheur florale.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 65,
+      "name": "The Alchemist's Garden Love at Your Darkest",
+      "year": 2021,
+      "perfumer": null,
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Rose sombre",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Résines"
+        ]
+      },
+      "accords": [
+        "Rose sombre",
+        "Mystérieux",
+        "Ambré"
+      ],
+      "description": "Amour dans l'obscurité - romantique sombre.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 66,
+      "name": "The Alchemist's Garden Oud Perfume Oil",
+      "year": 2019,
+      "perfumer": "Alberto Morillas",
+      "gender": "Unisex",
+      "concentration": "Perfume Oil",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Oud véritable"
+        ],
+        "base": [
+          "Résines"
+        ]
+      },
+      "accords": [
+        "Oud pur",
+        "Résineux"
+      ],
+      "description": "Huile d'oud pure. 20ml pour 415€!",
+      "retail_price_eur": 415,
+      "dupes": []
+    },
+    {
+      "id": 67,
+      "name": "Envy Me 2",
+      "year": 2006,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Envy (Discontinued)",
+      "notes": {
+        "top": [
+          "Grenade",
+          "Litchi"
+        ],
+        "heart": [
+          "Pivoine",
+          "Magnolia"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Fruité",
+        "Floral",
+        "Frais"
+      ],
+      "description": "DISCONTINUÉ. Suite du Envy Me avec plus de fraîcheur.",
+      "retail_price_eur": 100,
+      "dupes": []
+    },
+    {
+      "id": 68,
+      "name": "Gucci Pour Homme Sport",
+      "year": 2010,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": null,
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine",
+          "Cyprès"
+        ],
+        "heart": [
+          "Cardamome",
+          "Genévrier"
+        ],
+        "base": [
+          "Patchouli",
+          "Ambre",
+          "Mousse"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Aquatique",
+        "Sportif"
+      ],
+      "description": "Version sport fraîche et dynamique.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 69,
+      "name": "Gucci Pour Homme (2016)",
+      "year": 2016,
+      "perfumer": "Aurélien Guichard",
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": null,
+      "notes": {
+        "top": [
+          "Cyprès",
+          "Violette",
+          "Bergamote"
+        ],
+        "heart": [
+          "Tabac",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Ambre",
+          "Cuir"
+        ]
+      },
+      "accords": [
+        "Chypre boisé",
+        "Tabac"
+      ],
+      "description": "Relancement/renommage de Gucci by Gucci Pour Homme. Même jus.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 70,
+      "name": "Gucci Guilty Absolute Pour Femme",
+      "year": 2018,
+      "perfumer": "Alberto Morillas",
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Mûre",
+          "Poivre noir"
+        ],
+        "heart": [
+          "Bois de gaïac",
+          "Goldenwood"
+        ],
+        "base": [
+          "Patchouli",
+          "Cyprès"
+        ]
+      },
+      "accords": [
+        "Boisé",
+        "Fruité sombre",
+        "Minimaliste"
+      ],
+      "description": "Version féminine du Guilty Absolute. Boisé minimaliste.",
+      "retail_price_eur": 125,
+      "dupes": []
+    },
+    {
+      "id": 71,
+      "name": "Gucci Guilty Cologne Pour Homme",
+      "year": 2019,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Romarin"
+        ],
+        "heart": [
+          "Fougère",
+          "Géranium"
+        ],
+        "base": [
+          "Patchouli",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Frais",
+        "Fougère"
+      ],
+      "description": "Version cologne légère du Guilty.",
+      "retail_price_eur": 80,
+      "dupes": []
+    },
+    {
+      "id": 72,
+      "name": "Gucci Guilty Cologne Pour Femme",
+      "year": 2019,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Romarin"
+        ],
+        "heart": [
+          "Lilas",
+          "Rose"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Frais",
+        "Citrus"
+      ],
+      "description": "Version cologne légère féminine.",
+      "retail_price_eur": 80,
+      "dupes": []
+    },
+    {
+      "id": 73,
+      "name": "Flora by Gucci Eau Fraiche",
+      "year": 2011,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Flora by Gucci",
+      "notes": {
+        "top": [
+          "Citrus",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine"
+        ],
+        "base": [
+          "Santal",
+          "Musc blanc"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Frais",
+        "Citrus"
+      ],
+      "description": "Version fraîche du Flora original.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 74,
+      "name": "Gucci by Gucci Sport Pour Homme",
+      "year": 2010,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci by Gucci",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Cyprès",
+          "Cardamome"
+        ],
+        "heart": [
+          "Genévrier",
+          "Violette"
+        ],
+        "base": [
+          "Patchouli",
+          "Vétiver"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Boisé",
+        "Frais"
+      ],
+      "description": "Version sportive du Gucci by Gucci.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 75,
+      "name": "Gucci Guilty Pour Homme Parfum",
+      "year": 2022,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "Parfum",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Citron vert"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Sauge sclarée"
+        ],
+        "base": [
+          "Chêne",
+          "Mousse",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Boisé",
+        "Mousse de chêne"
+      ],
+      "description": "Version la plus concentrée masculine.",
+      "retail_price_eur": 130,
+      "dupes": []
+    },
+    {
+      "id": 76,
+      "name": "Gucci Guilty Pour Femme Parfum",
+      "year": 2022,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "Parfum",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Rose de Damas"
+        ],
+        "heart": [
+          "Ylang-ylang",
+          "Lilas"
+        ],
+        "base": [
+          "Patchouli",
+          "Ambre",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Oriental",
+        "Ambre"
+      ],
+      "description": "Version la plus concentrée féminine.",
+      "retail_price_eur": 130,
+      "dupes": []
+    },
+    {
+      "id": 77,
+      "name": "Gucci Nobile",
+      "year": 1988,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote",
+          "Romarin"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Géranium"
+        ],
+        "base": [
+          "Santal",
+          "Vétiver",
+          "Mousse de chêne"
+        ]
+      },
+      "accords": [
+        "Fougère",
+        "Aromatique",
+        "Classique"
+      ],
+      "description": "DISCONTINUÉ. Classique fougère des années 80.",
+      "retail_price_eur": 200,
+      "dupes": []
+    },
+    {
+      "id": 78,
+      "name": "Gucci II",
+      "year": 1983,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Aldéhydes",
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Santal",
+          "Musc",
+          "Ambre",
+          "Mousse de chêne"
+        ]
+      },
+      "accords": [
+        "Aldéhydé",
+        "Floral",
+        "Chypre"
+      ],
+      "description": "DISCONTINUÉ. Classique 80s aldéhydé élégant.",
+      "retail_price_eur": 250,
+      "dupes": []
+    },
+    {
+      "id": 79,
+      "name": "Gucci Eau de Gucci",
+      "year": 1982,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron",
+          "Orange"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Muguet"
+        ],
+        "base": [
+          "Santal",
+          "Cèdre",
+          "Mousse"
+        ]
+      },
+      "accords": [
+        "Floral frais",
+        "Citrus"
+      ],
+      "description": "DISCONTINUÉ. Eau de toilette vintage légère.",
+      "retail_price_eur": 180,
+      "dupes": []
+    },
+    {
+      "id": 80,
+      "name": "Gucci Pour Homme Intense",
+      "year": 2003,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Cyprès",
+          "Menthe"
+        ],
+        "heart": [
+          "Tabac",
+          "Cuir"
+        ],
+        "base": [
+          "Ambre",
+          "Mousse de chêne"
+        ]
+      },
+      "accords": [
+        "Chypre",
+        "Tabac",
+        "Cuir"
+      ],
+      "description": "DISCONTINUÉ. Version intense du Pour Homme 2003.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 81,
+      "name": "L'Arte di Gucci",
+      "year": 1991,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Néroli",
+          "Petit grain"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Iris",
+          "Ylang"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc",
+          "Mousse de chêne",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Chypre floral",
+        "Élégant",
+        "Classique"
+      ],
+      "description": "DISCONTINUÉ. Collector très recherché des années 90.",
+      "retail_price_eur": 350,
+      "dupes": []
+    },
+    {
+      "id": 82,
+      "name": "Gucci Accenti",
+      "year": 1995,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Vintage Discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine",
+          "Cassis"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Pivoine"
+        ],
+        "base": [
+          "Santal",
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Floral fruité",
+        "Boisé"
+      ],
+      "description": "DISCONTINUÉ. Floral fruité années 90.",
+      "retail_price_eur": 120,
+      "dupes": []
+    },
+    {
+      "id": 83,
+      "name": "Gucci Rush for Men",
+      "year": 2000,
+      "perfumer": "Michel Almairac",
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Rush",
+      "notes": {
+        "top": [
+          "Menthe",
+          "Bergamote",
+          "Cardamome"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Pivoine"
+        ],
+        "base": [
+          "Vétiver",
+          "Santal",
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Boisé",
+        "Frais"
+      ],
+      "description": "Version masculine du Rush. Menthe et bois.",
+      "retail_price_eur": 80,
+      "dupes": []
+    },
+    {
+      "id": 84,
+      "name": "Gucci Rush Summer",
+      "year": 2003,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Rush",
+      "notes": {
+        "top": [
+          "Citron",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Gardénia",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Floral frais",
+        "Citrus",
+        "Estival"
+      ],
+      "description": "DISCONTINUÉ. Edition été du Rush.",
+      "retail_price_eur": 100,
+      "dupes": []
+    },
+    {
+      "id": 85,
+      "name": "Gucci by Gucci Eau de Toilette Femme",
+      "year": 2008,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci by Gucci",
+      "notes": {
+        "top": [
+          "Poire",
+          "Goyave"
+        ],
+        "heart": [
+          "Jasmin",
+          "Pivoine"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral fruité",
+        "Patchouli"
+      ],
+      "description": "Version EDT plus légère du Gucci by Gucci femme.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 86,
+      "name": "Gucci Guilty Eau Pour Homme",
+      "year": 2015,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Citron",
+          "Lavande"
+        ],
+        "heart": [
+          "Notes aquatiques",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Frais",
+        "Aquatique",
+        "Aromatique"
+      ],
+      "description": "Version fraîche aquatique du Guilty.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 87,
+      "name": "Gucci Guilty Eau Pour Femme",
+      "year": 2015,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Pêche"
+        ],
+        "heart": [
+          "Lilas",
+          "Rose"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc blanc"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Frais",
+        "Fruité"
+      ],
+      "description": "Version fraîche du Guilty femme.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 88,
+      "name": "Flora Emerald Gardenia",
+      "year": 2019,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Flora by Gucci Garden Collection",
+      "notes": {
+        "top": [
+          "Poire",
+          "Pétale de pivoine"
+        ],
+        "heart": [
+          "Gardénia",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Gardénia",
+        "Floral",
+        "Léger"
+      ],
+      "description": "Version légère et aérée du gardénia. Parfaite pour été.",
+      "retail_price_eur": 75,
+      "dupes": []
+    },
+    {
+      "id": 89,
+      "name": "Gucci Guilty Love Edition Pour Homme 2020",
+      "year": 2020,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Cèdre",
+          "Patchouli"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Floral"
+      ],
+      "description": "Edition Saint-Valentin 2020.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 90,
+      "name": "Gucci Guilty Love Edition Pour Femme 2020",
+      "year": 2020,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Rose",
+          "Framboise"
+        ],
+        "heart": [
+          "Violette",
+          "Lilas"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Rose",
+        "Fruité",
+        "Romantique"
+      ],
+      "description": "Edition Saint-Valentin 2020 féminine.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 91,
+      "name": "Gucci Guilty Love Edition Pour Homme 2021",
+      "year": 2021,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDT",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Citron"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Cèdre",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Floral"
+      ],
+      "description": "Edition Saint-Valentin 2021.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 92,
+      "name": "Gucci Guilty Love Edition Pour Femme 2021",
+      "year": 2021,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Violette",
+          "Rose"
+        ],
+        "heart": [
+          "Lilas",
+          "Pivoine"
+        ],
+        "base": [
+          "Patchouli",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Romantique"
+      ],
+      "description": "Edition Saint-Valentin 2021 féminine.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 93,
+      "name": "Flora Anniversary Edition",
+      "year": 2016,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Flora by Gucci",
+      "notes": {
+        "top": [
+          "Agrumes",
+          "Mandarine",
+          "Pêche"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine",
+          "Osmanthus"
+        ],
+        "base": [
+          "Patchouli",
+          "Santal",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Fruité"
+      ],
+      "description": "Edition anniversaire packaging spécial.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 94,
+      "name": "Gucci Premiere Eau de Toilette",
+      "year": 2014,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Gucci Premiere",
+      "notes": {
+        "top": [
+          "Herbe",
+          "Mandarine italienne",
+          "Boysenberry"
+        ],
+        "heart": [
+          "Iris",
+          "Jasmin",
+          "Thé noir",
+          "Prune"
+        ],
+        "base": [
+          "Santal",
+          "Cèdre",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral vert",
+        "Fruité",
+        "Boisé"
+      ],
+      "description": "Version plus fraîche et verte du Premiere original.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 95,
+      "name": "Flora Gorgeous Gardenia EDT",
+      "year": 2023,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDT",
+      "collection": "Flora Gorgeous Collection",
+      "notes": {
+        "top": [
+          "Poire",
+          "Baies rouges"
+        ],
+        "heart": [
+          "Gardénia",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Sucre brun"
+        ]
+      },
+      "accords": [
+        "Gardénia",
+        "Fruité",
+        "Frais"
+      ],
+      "description": "Version EDT plus légère du Gorgeous Gardenia.",
+      "retail_price_eur": 85,
+      "dupes": []
+    },
+    {
+      "id": 96,
+      "name": "Flora Gorgeous Jasmine Elixir",
+      "year": 2024,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "Elixir",
+      "collection": "Flora Gorgeous Collection",
+      "notes": {
+        "top": [
+          "Mandarine"
+        ],
+        "heart": [
+          "Jasmin grandiflorum",
+          "Rose"
+        ],
+        "base": [
+          "Santal",
+          "Benjoin",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Jasmin intense",
+        "Oriental",
+        "Crémeux"
+      ],
+      "description": "Version Elixir la plus intense du Gorgeous Jasmine.",
+      "retail_price_eur": 135,
+      "dupes": []
+    },
+    {
+      "id": 97,
+      "name": "The Alchemist's Garden A Forgotten Rose",
+      "year": 2023,
+      "perfumer": null,
+      "gender": "Unisex",
+      "concentration": "EDP",
+      "collection": "The Alchemist's Garden",
+      "notes": {
+        "top": null,
+        "heart": [
+          "Rose de Damas",
+          "Rose turque"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Bois"
+        ]
+      },
+      "accords": [
+        "Rose",
+        "Oriental",
+        "Musky"
+      ],
+      "description": "Rose romantique oubliée.",
+      "retail_price_eur": 310,
+      "dupes": []
+    },
+    {
+      "id": 98,
+      "name": "Gucci Pour Homme Oud EDP",
+      "year": 2014,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "EDP",
+      "collection": null,
+      "notes": {
+        "top": [
+          "Safran",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Oud",
+          "Rose bulgare"
+        ],
+        "base": [
+          "Cuir",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Rose",
+        "Oriental"
+      ],
+      "description": "Version oud masculine orientale.",
+      "retail_price_eur": 165,
+      "dupes": []
+    },
+    {
+      "id": 99,
+      "name": "Flora by Gucci 1966",
+      "year": 2020,
+      "perfumer": null,
+      "gender": "Femme",
+      "concentration": "EDP",
+      "collection": "Flora by Gucci",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Osmanthus"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral vintage",
+        "Élégant"
+      ],
+      "description": "Hommage au motif Flora créé en 1966 pour Grace Kelly.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 100,
+      "name": "Gucci Guilty Absolu de Parfum Pour Homme",
+      "year": 2022,
+      "perfumer": null,
+      "gender": "Homme",
+      "concentration": "Absolu",
+      "collection": "Gucci Guilty",
+      "notes": {
+        "top": [
+          "Cumin",
+          "Cypriol"
+        ],
+        "heart": [
+          "Vétiver",
+          "Patchouli"
+        ],
+        "base": [
+          "Cuir",
+          "Mousse de chêne"
+        ]
+      },
+      "accords": [
+        "Cuir",
+        "Boisé sombre",
+        "Animal"
+      ],
+      "description": "Version Absolu ultra-concentrée.",
+      "retail_price_eur": 145,
+      "dupes": []
+    }
+  ],
+  "country": "Italie",
+  "founded": 1921,
+  "headquarters": "Florence, Italie",
+  "website": "https://www.gucci.com",
+  "description": "Maison de luxe italienne fondée par Guccio Gucci en 1921. Premier parfum Gucci No. 1 lancé en 1974. Parfums créés par des nez prestigieux comme Alberto Morillas, Michel Almairac, Dominique Ropion. Lignes principales: Gucci Guilty, Gucci Bloom, Flora by Gucci, Gucci Bamboo, The Alchemist's Garden (niche)."
+}

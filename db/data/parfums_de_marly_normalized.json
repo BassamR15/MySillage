@@ -1,0 +1,2830 @@
+{
+  "brand": {
+    "name": "Parfums de Marly",
+    "country": "France",
+    "founded": 2009,
+    "founder": "Julien Sprecher",
+    "inspiration": "Château de Marly, résidence de Louis XV, grandeur de Versailles",
+    "style": "Opulence du 18ème siècle français + modernité",
+    "price_range": "200-400€+",
+    "total_perfumes": 45,
+    "perfumers": [
+      "Hamid Merati-Kashani",
+      "Olivier Pescheux",
+      "Quentin Bisch",
+      "Nathalie Lorson",
+      "Fabrice Pellegrin",
+      "Olivier Cresp",
+      "Sidonie Lancesseur",
+      "Nathalie Templer",
+      "Celine Ripert",
+      "Ilias Ermenidis",
+      "Francis Deleamont",
+      "Michèle Saramito",
+      "Jacques Flori"
+    ]
+  },
+  "collections": {
+    "main_collection": "Parfums iconiques (Layton, Delina, Pegasus, Herod, etc.)",
+    "arabian_breed": "Oajan, Nisean, Habdan, Kuhuyan, Hamdani",
+    "delina_line": "Delina, Delina Exclusif, Delina La Rosée",
+    "les_exclusifs": "Haltane, Athalia, etc.",
+    "les_extraits_2025": "Carios, Eragon",
+    "freshies": "Sedley, Percival, Greenley, Galloway, Castley, Perseus"
+  },
+  "perfumes": [
+    {
+      "id": 1,
+      "name": "Layton",
+      "year": 2016,
+      "perfumer": "Hamid Merati-Kashani",
+      "gender": "Unisex",
+      "family": "Oriental Floral",
+      "top_notes": [
+        "Apple",
+        "Lavender",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Violet",
+        "Jasmine",
+        "Geranium"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Cardamom",
+        "Sandalwood",
+        "Pepper",
+        "Guaiac Wood",
+        "Patchouli"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Détour Noir",
+          "brand": "Al Haramain",
+          "similarity": 90,
+          "price_eur": 25,
+          "notes": "Le meilleur clone Layton - 99% identique selon nombreux testeurs, performance excellente 8h+",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Herb Garden 1598",
+          "brand": "Perfume Parlour",
+          "similarity": 85,
+          "price_eur": 15,
+          "notes": "Clone UK budget très populaire, bon rapport qualité/prix",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Royal Chariot Attar",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price_eur": 55,
+          "notes": "Clone extrait premium, excellente fidélité",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Amber Oud Exclusif Bleu",
+          "brand": "Al Haramain",
+          "similarity": 85,
+          "price_eur": 80,
+          "notes": "Excellent copycat, performance similaire à l'original",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Dusk",
+          "brand": "Armaf",
+          "similarity": 82,
+          "price_eur": 30,
+          "notes": "Clone parfait de Layton, compliment magnet",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Royal Equestrian",
+          "brand": "English Laundry",
+          "similarity": 80,
+          "price_eur": 50,
+          "notes": "Ouverture pomme légèrement plus douce, drydown similaire",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "In The Box",
+          "brand": "Maison Alhambra",
+          "similarity": 80,
+          "price_eur": 25,
+          "notes": "Clone très similaire ouverture, performance 4-5h",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Erba Speziata",
+          "brand": "Fragrenza",
+          "similarity": 78,
+          "price_eur": 35,
+          "notes": "Bonne qualité pour le prix",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Apple",
+          "Lavender",
+          "Mandarin Orange",
+          "Bergamot"
+        ],
+        "heart": [
+          "Violet",
+          "Jasmine",
+          "Geranium"
+        ],
+        "base": [
+          "Vanilla",
+          "Cardamom",
+          "Sandalwood",
+          "Pepper",
+          "Guaiac Wood",
+          "Patchouli"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Layton Exclusif",
+      "year": 2019,
+      "perfumer": "Hamid Merati-Kashani",
+      "gender": "Men",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Almond"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Geranium",
+        "Lily",
+        "Gardenia"
+      ],
+      "base_notes": [
+        "Oud",
+        "Guaiac Wood",
+        "Vanilla",
+        "Sandalwood",
+        "Amber",
+        "Oakmoss"
+      ],
+      "concentration": "Extrait",
+      "dupes": [
+        {
+          "name": "Detour Noir Exclusif",
+          "brand": "Al Haramain",
+          "similarity": 88,
+          "price_eur": 35,
+          "notes": "Clone Layton Exclusif 2024 - 88% similaire, animalic oud très proche",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Mandarin Orange",
+          "Bergamot",
+          "Almond"
+        ],
+        "heart": [
+          "Rose",
+          "Geranium",
+          "Lily",
+          "Gardenia"
+        ],
+        "base": [
+          "Oud",
+          "Guaiac Wood",
+          "Vanilla",
+          "Sandalwood",
+          "Amber",
+          "Oakmoss"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Delina",
+      "year": 2017,
+      "perfumer": "Quentin Bisch",
+      "gender": "Women",
+      "family": "Floral",
+      "top_notes": [
+        "Litchi",
+        "Rhubarb",
+        "Bergamot",
+        "Nutmeg"
+      ],
+      "heart_notes": [
+        "Turkish Rose",
+        "Peony",
+        "Musk",
+        "Vanilla"
+      ],
+      "base_notes": [
+        "Cashmeran",
+        "Incense",
+        "Cedar",
+        "Haitian Vetiver"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Delilah",
+          "brand": "Maison Alhambra",
+          "similarity": 90,
+          "price_eur": 25,
+          "notes": "Excellent dupe - ouverture identique, drydown très similaire. 1/10 du prix!",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Duchess",
+          "brand": "ALT. Fragrances",
+          "similarity": 88,
+          "price_eur": 55,
+          "notes": "Clone vegan cruelty-free, mêmes notes exactes",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Inner Beauty",
+          "brand": "Julianna's Perfumes",
+          "similarity": 85,
+          "price_eur": 40,
+          "notes": "Dupe recommandé, bonne performance",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "DIVAIN-607",
+          "brand": "DIVAIN",
+          "similarity": 95,
+          "price_eur": 35,
+          "notes": "95% identique - testés côte à côte indistinguables",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Souvenir Floral Bouquet",
+          "brand": "Afnan",
+          "similarity": 82,
+          "price_eur": 30,
+          "notes": "Alternative parfumée florale similaire",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Pink Rose",
+          "brand": "Montagne Parfums",
+          "similarity": 88,
+          "price_eur": 30,
+          "notes": "Un des meilleurs dupes Delina",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Litchi",
+          "Rhubarb",
+          "Bergamot",
+          "Nutmeg"
+        ],
+        "heart": [
+          "Turkish Rose",
+          "Peony",
+          "Musk",
+          "Vanilla"
+        ],
+        "base": [
+          "Cashmeran",
+          "Incense",
+          "Cedar",
+          "Haitian Vetiver"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Delina Exclusif",
+      "year": 2018,
+      "perfumer": "Quentin Bisch",
+      "gender": "Women",
+      "family": "Floral Woody",
+      "top_notes": [
+        "Litchi",
+        "Pear",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Peony",
+        "Incense"
+      ],
+      "base_notes": [
+        "Oud",
+        "Musk",
+        "Vanilla",
+        "Amber",
+        "Cashmeran",
+        "Evernyl"
+      ],
+      "concentration": "Extrait",
+      "dupes": [
+        {
+          "name": "Miss Congeniality",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price_eur": 55,
+          "notes": "Top seller Dua - très fidèle à Delina Exclusif",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Inner Beauty Exclusif",
+          "brand": "Julianna's Perfumes",
+          "similarity": 85,
+          "price_eur": 45,
+          "notes": "Version Exclusif du dupe Inner Beauty",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Be Layered dupe",
+          "brand": "Be Layered",
+          "similarity": 85,
+          "price_eur": 40,
+          "notes": "Très bon clone selon communauté",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Club de Nuit White Imperiale",
+          "brand": "Armaf",
+          "similarity": 85,
+          "price_eur": 35,
+          "notes": "Presque identique à Delina Exclusif",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Litchi",
+          "Pear",
+          "Bergamot",
+          "Grapefruit"
+        ],
+        "heart": [
+          "Rose",
+          "Peony",
+          "Incense"
+        ],
+        "base": [
+          "Oud",
+          "Musk",
+          "Vanilla",
+          "Amber",
+          "Cashmeran",
+          "Evernyl"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Delina La Rosée",
+      "year": 2020,
+      "perfumer": "Quentin Bisch",
+      "gender": "Women",
+      "family": "Floral Aquatic",
+      "top_notes": [
+        "Litchi",
+        "Pear",
+        "Grapefruit",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Peony",
+        "Rose",
+        "White Flowers"
+      ],
+      "base_notes": [
+        "White Musk",
+        "Cashmeran"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Litchi",
+          "Pear",
+          "Grapefruit",
+          "Bergamot"
+        ],
+        "heart": [
+          "Peony",
+          "Rose",
+          "White Flowers"
+        ],
+        "base": [
+          "White Musk",
+          "Cashmeran"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Pegasus",
+      "year": 2011,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Oriental Fougère",
+      "top_notes": [
+        "Bergamot",
+        "Heliotrope",
+        "Cumin"
+      ],
+      "heart_notes": [
+        "Jasmine",
+        "Bitter Almond",
+        "Lavender"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Craze",
+          "brand": "Armaf",
+          "similarity": 88,
+          "price_eur": 25,
+          "notes": "LE clone Pegasus - consensus 90% similaire, performance 10-12h",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Mythical Horse",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price_eur": 50,
+          "notes": "Clone extrait fidèle",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Zoha Pegasus dupe",
+          "brand": "Zoha Aroma",
+          "similarity": 85,
+          "price_eur": 25,
+          "notes": "Clone oil-based excellent",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Heliotrope",
+          "Cumin"
+        ],
+        "heart": [
+          "Jasmine",
+          "Bitter Almond",
+          "Lavender"
+        ],
+        "base": [
+          "Vanilla",
+          "Amber",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Pegasus Exclusif",
+      "year": 2020,
+      "perfumer": "Hamid Merati-Kashani",
+      "gender": "Men",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Cardamom",
+        "Heliotrope",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Bitter Almond",
+        "Lavender",
+        "Geranium"
+      ],
+      "base_notes": [
+        "Oud",
+        "Vanilla",
+        "Amber",
+        "Guaiac Wood",
+        "Sandalwood"
+      ],
+      "concentration": "Extrait",
+      "dupes": [
+        {
+          "name": "Detour Noir Intense",
+          "brand": "Al Haramain",
+          "similarity": 82,
+          "price_eur": 35,
+          "notes": "Clone Pegasus Exclusif 2024 - plus portable, performance 8-10h",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Cardamom",
+          "Heliotrope",
+          "Pink Pepper",
+          "Bergamot"
+        ],
+        "heart": [
+          "Bitter Almond",
+          "Lavender",
+          "Geranium"
+        ],
+        "base": [
+          "Oud",
+          "Vanilla",
+          "Amber",
+          "Guaiac Wood",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Herod",
+      "year": 2012,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Woody Spicy",
+      "top_notes": [
+        "Cinnamon",
+        "Pepper",
+        "Iso E Super"
+      ],
+      "heart_notes": [
+        "Osmanthus",
+        "Tobacco",
+        "Labdanum",
+        "Incense"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Hercules",
+          "brand": "Maison Alhambra",
+          "similarity": 90,
+          "price_eur": 20,
+          "notes": "80-90% similaire, cherry tobacco forward, meilleure longévité que nouveaux batches Herod",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "King of Judea Attar",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price_eur": 55,
+          "notes": "Top seller Dua pour Herod",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Divine Vanille",
+          "brand": "Essential Parfums",
+          "similarity": 85,
+          "price_eur": 50,
+          "notes": "Même parfumeur (Quentin Bisch), profil similaire, 1/3 du prix",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Armaf Radical Brown",
+          "brand": "Armaf",
+          "similarity": 82,
+          "price_eur": 30,
+          "notes": "Clone tobacco vanille très proche",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Generic Perfumes Herod A+",
+          "brand": "Generic Perfumes",
+          "similarity": 85,
+          "price_eur": 25,
+          "notes": "Version proche batches actuels Herod vanillic cherry tobacco",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Cinnamon",
+          "Pepper",
+          "Iso E Super"
+        ],
+        "heart": [
+          "Osmanthus",
+          "Tobacco",
+          "Labdanum",
+          "Incense"
+        ],
+        "base": [
+          "Vanilla",
+          "Musk",
+          "Cedar",
+          "Vetiver"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "name": "Oriana",
+      "year": 2021,
+      "perfumer": "Hamid Merati-Kashani",
+      "gender": "Women",
+      "family": "Floral Fruity Gourmand",
+      "top_notes": [
+        "Mandarin",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "heart_notes": [
+        "Orange Blossom",
+        "Blackcurrant",
+        "Raspberry"
+      ],
+      "base_notes": [
+        "Marshmallow",
+        "Musk",
+        "Vanilla",
+        "Chantilly Cream"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Ansaam Gold",
+          "brand": "Lattafa",
+          "similarity": 95,
+          "price_eur": 25,
+          "notes": "95% identique - viral TikTok, performance SUPÉRIEURE à l'original 12h+!",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Lou",
+          "brand": "Yom & Layl",
+          "similarity": 88,
+          "price_eur": 35,
+          "notes": "Clone fidèle à fraction du coût",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Hey Sweetie!",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price_eur": 55,
+          "notes": "Top seller Dua inspiré d'Oriana",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Mandarin",
+          "Bergamot",
+          "Grapefruit"
+        ],
+        "heart": [
+          "Orange Blossom",
+          "Blackcurrant",
+          "Raspberry"
+        ],
+        "base": [
+          "Marshmallow",
+          "Musk",
+          "Vanilla",
+          "Chantilly Cream"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "Sedley",
+      "year": 2019,
+      "perfumer": "Olivier Cresp & Hamid Merati-Kashani",
+      "gender": "Unisex",
+      "family": "Woody Aromatic",
+      "top_notes": [
+        "Lemon",
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "heart_notes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "base_notes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Cedar",
+        "Cashmeran",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Sedley dupe",
+          "brand": "Perfume Parlour",
+          "similarity": 82,
+          "price_eur": 12,
+          "notes": "Clone UK budget décent",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Zoha Sedley interpretation",
+          "brand": "Zoha Aroma",
+          "similarity": 85,
+          "price_eur": 20,
+          "notes": "Fresh clean avec épices ajoutées",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Lemon",
+          "Mint",
+          "Bergamot",
+          "Grapefruit",
+          "Mandarin"
+        ],
+        "heart": [
+          "Lavender",
+          "Rosemary",
+          "Geranium",
+          "Olibanum"
+        ],
+        "base": [
+          "Ambroxan",
+          "Sandalwood",
+          "Cedar",
+          "Cashmeran",
+          "Vetiver",
+          "Patchouli"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "Percival",
+      "year": 2018,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Citrus Aromatic",
+      "top_notes": [
+        "Green Apple",
+        "Bergamot",
+        "Mandarin"
+      ],
+      "heart_notes": [
+        "Lavender",
+        "Geranium",
+        "Rosemary"
+      ],
+      "base_notes": [
+        "Musk",
+        "Amber",
+        "Ambroxan",
+        "Cedar",
+        "Fir Resin"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Legendary Knight",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price_eur": 50,
+          "notes": "Clone office-appropriate, frais et crisp",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Percival dupe",
+          "brand": "Perfume Parlour",
+          "similarity": 82,
+          "price_eur": 12,
+          "notes": "Clone UK budget",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Green Apple",
+          "Bergamot",
+          "Mandarin"
+        ],
+        "heart": [
+          "Lavender",
+          "Geranium",
+          "Rosemary"
+        ],
+        "base": [
+          "Musk",
+          "Amber",
+          "Ambroxan",
+          "Cedar",
+          "Fir Resin"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "Greenley",
+      "year": 2020,
+      "perfumer": "Nathalie Lorson",
+      "gender": "Unisex",
+      "family": "Citrus Aromatic",
+      "top_notes": [
+        "Green Apple",
+        "Mandarin",
+        "Cashmere Wood"
+      ],
+      "heart_notes": [
+        "Cedar",
+        "Violet",
+        "Pomarose",
+        "Petitgrain"
+      ],
+      "base_notes": [
+        "Oakmoss",
+        "Amberwood",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Verdant 0533",
+          "brand": "Perfume Parlour",
+          "similarity": 85,
+          "price_eur": 12,
+          "notes": "Clone UK fidèle, fresh apple green",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Dua Ocean Mist Formula 003",
+          "brand": "Dua Fragrances",
+          "similarity": 82,
+          "price_eur": 50,
+          "notes": "Hybrid Voyage + Greenley",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Green Apple",
+          "Mandarin",
+          "Cashmere Wood"
+        ],
+        "heart": [
+          "Cedar",
+          "Violet",
+          "Pomarose",
+          "Petitgrain"
+        ],
+        "base": [
+          "Oakmoss",
+          "Amberwood",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "Godolphin",
+      "year": 2010,
+      "perfumer": "Michèle Saramito",
+      "gender": "Men",
+      "family": "Leather",
+      "top_notes": [
+        "Saffron",
+        "Thyme",
+        "Cypress",
+        "Fruity Notes",
+        "Mate"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Orris",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "Leather",
+        "Amber",
+        "Virginia Cedar",
+        "Vetiver",
+        "Musk",
+        "Vanilla"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Thyme",
+          "Cypress",
+          "Fruity Notes",
+          "Mate"
+        ],
+        "heart": [
+          "Rose",
+          "Orris",
+          "Jasmine"
+        ],
+        "base": [
+          "Leather",
+          "Amber",
+          "Virginia Cedar",
+          "Vetiver",
+          "Musk",
+          "Vanilla"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "name": "Oajan",
+      "year": 2013,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Oriental",
+      "top_notes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus"
+      ],
+      "heart_notes": [
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Arjan",
+          "brand": "Yom & Layl",
+          "similarity": 88,
+          "price_eur": 35,
+          "notes": "Clone fidèle honey cinnamon vanilla",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Spicy Gourmand Delight",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price_eur": 55,
+          "notes": "Clone parfait pour automne/hiver",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Paris Corner Oajan clone",
+          "brand": "Paris Corner",
+          "similarity": 85,
+          "price_eur": 30,
+          "notes": "Clone UAE disponible",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Cinnamon",
+          "Honey",
+          "Osmanthus"
+        ],
+        "heart": [
+          "Benzoin",
+          "Labdanum",
+          "Ambergris",
+          "Artemisia"
+        ],
+        "base": [
+          "Vanilla",
+          "Tonka Bean",
+          "Musk",
+          "Patchouli"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "name": "Carlisle",
+      "year": 2015,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Floral Fruity",
+      "top_notes": [
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "heart_notes": [
+        "Violet",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Amber",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Cumbria",
+          "brand": "Dua Fragrances",
+          "similarity": 85,
+          "price_eur": 50,
+          "notes": "Clone inspiré des paysages similaires à Carlisle",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Mandarin Orange"
+        ],
+        "heart": [
+          "Violet",
+          "Jasmine"
+        ],
+        "base": [
+          "Vanilla",
+          "Tonka Bean",
+          "Amber",
+          "Patchouli",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "name": "Haltane",
+      "year": 2021,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Woody Aromatic",
+      "top_notes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Saffron",
+        "Praline"
+      ],
+      "base_notes": [
+        "Oud",
+        "Cedar"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Detour Eco",
+          "brand": "Al Haramain",
+          "similarity": 88,
+          "price_eur": 30,
+          "notes": "Clone Haltane - praline saffron oud très proche",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Sweet Exclusivity",
+          "brand": "Dua Fragrances",
+          "similarity": 88,
+          "price_eur": 55,
+          "notes": "Clone aussi proche que possible sans dépenser des centaines",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Sultane",
+          "brand": "Alexandria UK",
+          "similarity": 85,
+          "price_eur": 50,
+          "notes": "Extrait concentration, présence souveraine",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "The Lions Club Feroce",
+          "brand": "Armaf",
+          "similarity": 82,
+          "price_eur": 35,
+          "notes": "Nouveau clone PDM Haltane par Armaf",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Lavender",
+          "Clary Sage",
+          "Bergamot"
+        ],
+        "heart": [
+          "Saffron",
+          "Praline"
+        ],
+        "base": [
+          "Oud",
+          "Cedar"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "name": "Althair",
+      "year": 2021,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Amber Vanilla",
+      "top_notes": [
+        "Cinnamon",
+        "Apple",
+        "Mandarin"
+      ],
+      "heart_notes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Praline"
+      ],
+      "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Amber"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Cinnamon",
+          "Apple",
+          "Mandarin"
+        ],
+        "heart": [
+          "Tonka Bean",
+          "Vanilla",
+          "Praline"
+        ],
+        "base": [
+          "Musk",
+          "Sandalwood",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "name": "Galloway",
+      "year": 2014,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Citrus Aromatic",
+      "top_notes": [
+        "Grapefruit",
+        "Orange",
+        "Lemon",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Juniper",
+        "Geranium",
+        "Ginger"
+      ],
+      "base_notes": [
+        "Amber",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Grapefruit",
+          "Orange",
+          "Lemon",
+          "Bergamot"
+        ],
+        "heart": [
+          "Juniper",
+          "Geranium",
+          "Ginger"
+        ],
+        "base": [
+          "Amber",
+          "Musk",
+          "Cedar",
+          "Vetiver"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "name": "Kalan",
+      "year": 2019,
+      "perfumer": "Celine Ripert",
+      "gender": "Unisex",
+      "family": "Oriental Spicy",
+      "top_notes": [
+        "Spices",
+        "Blood Orange",
+        "Black Pepper"
+      ],
+      "heart_notes": [
+        "Cardamom",
+        "Clove",
+        "Coffee"
+      ],
+      "base_notes": [
+        "Labdanum",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Benzoin",
+        "Tonka Bean"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Spices",
+          "Blood Orange",
+          "Black Pepper"
+        ],
+        "heart": [
+          "Cardamom",
+          "Clove",
+          "Coffee"
+        ],
+        "base": [
+          "Labdanum",
+          "Sandalwood",
+          "Guaiac Wood",
+          "Benzoin",
+          "Tonka Bean"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "name": "Valaya",
+      "year": 2022,
+      "perfumer": "Hamid Merati-Kashani",
+      "gender": "Women",
+      "family": "Floral Woody Musk",
+      "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Magnolia",
+        "Orange Blossom",
+        "Rose"
+      ],
+      "base_notes": [
+        "White Musk",
+        "Sandalwood",
+        "Cashmeran"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Mystique Bouquet",
+          "brand": "Afnan",
+          "similarity": 78,
+          "price_eur": 35,
+          "notes": "Supposé dupe mais pas vraiment Valaya selon testeurs",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Valaya dupe (extrait)",
+          "brand": "Perfume Parlour",
+          "similarity": 80,
+          "price_eur": 15,
+          "notes": "Seul extrait considéré bon",
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Fleur de Orientica",
+          "brand": "Orientica",
+          "similarity": 82,
+          "price_eur": 35,
+          "notes": "Clone Valaya viral TikTok",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Lemon",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Magnolia",
+          "Orange Blossom",
+          "Rose"
+        ],
+        "base": [
+          "White Musk",
+          "Sandalwood",
+          "Cashmeran"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "name": "Cassili",
+      "year": 2017,
+      "perfumer": "Fabrice Pellegrin",
+      "gender": "Women",
+      "family": "Floral Fruity",
+      "top_notes": [
+        "Cassis",
+        "Peach",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Jasmine",
+        "Peony",
+        "Rose"
+      ],
+      "base_notes": [
+        "White Musk",
+        "Sandalwood",
+        "Amber"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Cassis",
+          "Peach",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Jasmine",
+          "Peony",
+          "Rose"
+        ],
+        "base": [
+          "White Musk",
+          "Sandalwood",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "name": "Meliora",
+      "year": 2016,
+      "perfumer": "Not disclosed",
+      "gender": "Women",
+      "family": "Floral Fruity",
+      "top_notes": [
+        "Egyptian Jasmine",
+        "Honeysuckle"
+      ],
+      "heart_notes": [
+        "Turkish Rose",
+        "Orchid"
+      ],
+      "base_notes": [
+        "Plum",
+        "Musk",
+        "Sandalwood"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Egyptian Jasmine",
+          "Honeysuckle"
+        ],
+        "heart": [
+          "Turkish Rose",
+          "Orchid"
+        ],
+        "base": [
+          "Plum",
+          "Musk",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "name": "Safanad",
+      "year": 2014,
+      "perfumer": "Fabrice Pellegrin",
+      "gender": "Women",
+      "family": "Floral Fruity",
+      "top_notes": [
+        "Pear",
+        "Orange",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Jasmine",
+        "Iris"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Musk",
+        "Cedar"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Pear",
+          "Orange",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Iris"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Cedar"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "name": "Darcy",
+      "year": 2013,
+      "perfumer": "Not disclosed",
+      "gender": "Women",
+      "family": "Floral Woody Musk",
+      "top_notes": [
+        "Neroli",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Jasmine",
+        "Iris"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Musk",
+        "Cashmere Wood"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Neroli",
+          "Pink Pepper",
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Iris"
+        ],
+        "base": [
+          "Sandalwood",
+          "Musk",
+          "Cashmere Wood"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "name": "Athalia",
+      "year": 2018,
+      "perfumer": "Not disclosed",
+      "gender": "Women",
+      "family": "Floral Oriental",
+      "top_notes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Tangerine"
+      ],
+      "heart_notes": [
+        "Bulgarian Rose",
+        "Jasmine",
+        "Peony"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper",
+          "Tangerine"
+        ],
+        "heart": [
+          "Bulgarian Rose",
+          "Jasmine",
+          "Peony"
+        ],
+        "base": [
+          "Vanilla",
+          "Sandalwood",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "name": "Shagya",
+      "year": 2009,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Woody Aromatic",
+      "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Violet",
+        "Geranium",
+        "Lavender"
+      ],
+      "base_notes": [
+        "Cedar",
+        "Vetiver",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [
+        {
+          "name": "Black Beauty",
+          "brand": "Dua Fragrances",
+          "similarity": 82,
+          "price_eur": 50,
+          "notes": "Expression inspirée Amber Woody genre",
+          "source": "Fragrantica"
+        }
+      ],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Grapefruit",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Violet",
+          "Geranium",
+          "Lavender"
+        ],
+        "base": [
+          "Cedar",
+          "Vetiver",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "name": "Ispazon",
+      "year": 2009,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Woody Spicy",
+      "top_notes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Cardamom"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Geranium",
+        "Clary Sage"
+      ],
+      "base_notes": [
+        "Cedar",
+        "Amber",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pink Pepper",
+          "Cardamom"
+        ],
+        "heart": [
+          "Rose",
+          "Geranium",
+          "Clary Sage"
+        ],
+        "base": [
+          "Cedar",
+          "Amber",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "name": "Byerley",
+      "year": 2012,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Leather Woody",
+      "top_notes": [
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Geranium",
+        "Clary Sage"
+      ],
+      "base_notes": [
+        "Leather",
+        "Oud",
+        "Amber",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Pink Pepper",
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Geranium",
+          "Clary Sage"
+        ],
+        "base": [
+          "Leather",
+          "Oud",
+          "Amber",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "name": "Kuhuyan",
+      "year": 2014,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Saffron",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Oud"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Vanilla",
+          "Amber",
+          "Sandalwood",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "name": "Habdan",
+      "year": 2014,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Oriental Spicy",
+      "top_notes": [
+        "Saffron",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "heart_notes": [
+        "Oud",
+        "Rose",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Bergamot",
+          "Grapefruit"
+        ],
+        "heart": [
+          "Oud",
+          "Rose",
+          "Jasmine"
+        ],
+        "base": [
+          "Amber",
+          "Vanilla",
+          "Sandalwood",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "name": "Hamdani",
+      "year": 2014,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Jasmine",
+        "Oud"
+      ],
+      "base_notes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Jasmine",
+          "Oud"
+        ],
+        "base": [
+          "Amber",
+          "Vanilla",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "name": "Nisean",
+      "year": 2014,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Oriental Spicy",
+      "top_notes": [
+        "Saffron",
+        "Bergamot",
+        "Cinnamon"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Oud",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Bergamot",
+          "Cinnamon"
+        ],
+        "heart": [
+          "Rose",
+          "Oud",
+          "Jasmine"
+        ],
+        "base": [
+          "Vanilla",
+          "Amber",
+          "Sandalwood",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "name": "Akaster",
+      "year": 2013,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Amber Woody",
+      "top_notes": [
+        "Cinnamon",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Jasmine",
+        "Olibanum"
+      ],
+      "base_notes": [
+        "Oud",
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Cinnamon",
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Olibanum"
+        ],
+        "base": [
+          "Oud",
+          "Amber",
+          "Vanilla",
+          "Sandalwood"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "name": "Palatine",
+      "year": 2023,
+      "perfumer": "Not disclosed",
+      "gender": "Women",
+      "family": "Floral Fruity",
+      "top_notes": [
+        "Pear",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Jasmine",
+        "Ylang-Ylang"
+      ],
+      "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Amber"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Pear",
+          "Pink Pepper",
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Musk",
+          "Sandalwood",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "name": "Castley",
+      "year": 2025,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Citrus Aromatic",
+      "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Black Pepper"
+      ],
+      "heart_notes": [
+        "Petitgrain",
+        "Timut Pepper",
+        "Neroli"
+      ],
+      "base_notes": [
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Ginger",
+          "Black Pepper"
+        ],
+        "heart": [
+          "Petitgrain",
+          "Timut Pepper",
+          "Neroli"
+        ],
+        "base": [
+          "Akigalawood",
+          "Labdanum",
+          "Benzoin"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "name": "Perseus",
+      "year": 2024,
+      "perfumer": "Nathalie Templer",
+      "gender": "Men",
+      "family": "Woody Aromatic",
+      "top_notes": [
+        "Grapefruit",
+        "Bergamot",
+        "Black Currant"
+      ],
+      "heart_notes": [
+        "Vetiver",
+        "Green Mandarin",
+        "Geranium"
+      ],
+      "base_notes": [
+        "Dry Wood",
+        "Cashmere Wood",
+        "Ambergris",
+        "Balsam Fir",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Grapefruit",
+          "Bergamot",
+          "Black Currant"
+        ],
+        "heart": [
+          "Vetiver",
+          "Green Mandarin",
+          "Geranium"
+        ],
+        "base": [
+          "Dry Wood",
+          "Cashmere Wood",
+          "Ambergris",
+          "Balsam Fir",
+          "Cedar",
+          "Tonka Bean"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "name": "Carios",
+      "year": 2025,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Woody Spicy",
+      "top_notes": [
+        "Saffron",
+        "Mandarin Orange",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Black Pepper",
+        "Geranium",
+        "Red Thyme"
+      ],
+      "base_notes": [
+        "Ambroxan",
+        "Tonka Bean",
+        "Vetiver",
+        "Cedarwood"
+      ],
+      "concentration": "Extrait",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Mandarin Orange",
+          "Pink Pepper",
+          "Bergamot"
+        ],
+        "heart": [
+          "Black Pepper",
+          "Geranium",
+          "Red Thyme"
+        ],
+        "base": [
+          "Ambroxan",
+          "Tonka Bean",
+          "Vetiver",
+          "Cedarwood"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "name": "Eragon",
+      "year": 2025,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Cardamom",
+        "Mandarin",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Cinnamon",
+        "Cypriol",
+        "Davana"
+      ],
+      "base_notes": [
+        "Vanilla Bean",
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ],
+      "concentration": "Extrait",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Cardamom",
+          "Mandarin",
+          "Bergamot"
+        ],
+        "heart": [
+          "Cinnamon",
+          "Cypriol",
+          "Davana"
+        ],
+        "base": [
+          "Vanilla Bean",
+          "Tonka Bean",
+          "Leather",
+          "Patchouli"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "name": "Lipizzan",
+      "year": 2010,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Fougère",
+      "top_notes": [
+        "Lavender",
+        "Bergamot",
+        "Orange"
+      ],
+      "heart_notes": [
+        "Clary Sage",
+        "Geranium"
+      ],
+      "base_notes": [
+        "Oakmoss",
+        "Amber",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Lavender",
+          "Bergamot",
+          "Orange"
+        ],
+        "heart": [
+          "Clary Sage",
+          "Geranium"
+        ],
+        "base": [
+          "Oakmoss",
+          "Amber",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "name": "Darley",
+      "year": 2010,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Woody Aromatic",
+      "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Apple"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Lavender",
+        "Geranium"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Cedar",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Grapefruit",
+          "Apple"
+        ],
+        "heart": [
+          "Rose",
+          "Lavender",
+          "Geranium"
+        ],
+        "base": [
+          "Sandalwood",
+          "Cedar",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "name": "Monsieur",
+      "year": 2015,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Aromatic",
+      "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Mandarin"
+      ],
+      "heart_notes": [
+        "Geranium",
+        "Cardamom",
+        "Clary Sage"
+      ],
+      "base_notes": [
+        "Cedar",
+        "Amber",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Lavender",
+          "Mandarin"
+        ],
+        "heart": [
+          "Geranium",
+          "Cardamom",
+          "Clary Sage"
+        ],
+        "base": [
+          "Cedar",
+          "Amber",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "name": "Scottie",
+      "year": 2013,
+      "perfumer": "Not disclosed",
+      "gender": "Men",
+      "family": "Woody Aromatic",
+      "top_notes": [
+        "Bergamot",
+        "Pepper",
+        "Galbanum"
+      ],
+      "heart_notes": [
+        "Iris",
+        "Violet",
+        "Geranium"
+      ],
+      "base_notes": [
+        "Cedar",
+        "Vetiver",
+        "Musk"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pepper",
+          "Galbanum"
+        ],
+        "heart": [
+          "Iris",
+          "Violet",
+          "Geranium"
+        ],
+        "base": [
+          "Cedar",
+          "Vetiver",
+          "Musk"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "name": "Parfait de Roses",
+      "year": 2016,
+      "perfumer": "Not disclosed",
+      "gender": "Women",
+      "family": "Floral",
+      "top_notes": [
+        "Rose",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Bulgarian Rose",
+        "Turkish Rose",
+        "Jasmine"
+      ],
+      "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Amber"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Rose",
+          "Bergamot",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Bulgarian Rose",
+          "Turkish Rose",
+          "Jasmine"
+        ],
+        "base": [
+          "Musk",
+          "Sandalwood",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "name": "Mariella",
+      "year": 2015,
+      "perfumer": "Not disclosed",
+      "gender": "Women",
+      "family": "Floral Fruity",
+      "top_notes": [
+        "Bergamot",
+        "Pear",
+        "Pink Pepper"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Jasmine",
+        "Lily of the Valley"
+      ],
+      "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Amber"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Pear",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine",
+          "Lily of the Valley"
+        ],
+        "base": [
+          "Musk",
+          "Sandalwood",
+          "Amber"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "name": "Kholasat Al Oud",
+      "year": 2020,
+      "perfumer": "Not disclosed",
+      "gender": "Unisex",
+      "family": "Oriental Woody",
+      "top_notes": [
+        "Saffron",
+        "Bergamot"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Oud"
+      ],
+      "base_notes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "concentration": "EDP",
+      "dupes": [],
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": "",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Bergamot"
+        ],
+        "heart": [
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Amber",
+          "Vanilla",
+          "Sandalwood"
+        ]
+      }
+    }
+  ],
+  "clone_houses_ranking": [
+    {
+      "rank": 1,
+      "brand": "Al Haramain",
+      "country": "UAE",
+      "speciality": "Detour line - meilleurs clones PDM",
+      "avg_similarity": 90,
+      "avg_price_eur": 30,
+      "notable_clones": [
+        "Detour Noir (Layton)",
+        "Detour Noir Exclusif (Layton Exclusif)",
+        "Detour Eco (Haltane)",
+        "Detour Noir Intense (Pegasus Exclusif)"
+      ],
+      "notes": "La ligne Detour = gold standard pour clones PDM. Detour Noir 99% identique Layton selon experts"
+    },
+    {
+      "rank": 2,
+      "brand": "Maison Alhambra / Lattafa",
+      "country": "UAE",
+      "speciality": "Clones abordables PDM féminins",
+      "avg_similarity": 88,
+      "avg_price_eur": 25,
+      "notable_clones": [
+        "Delilah (Delina)",
+        "Hercules (Herod)",
+        "Ansaam Gold (Oriana)",
+        "In The Box (Layton)"
+      ],
+      "notes": "Ansaam Gold = 95% identique Oriana, viral TikTok. Hercules 90% proche Herod"
+    },
+    {
+      "rank": 3,
+      "brand": "Dua Fragrances",
+      "country": "USA",
+      "speciality": "Clones extraits premium + hybrides",
+      "avg_similarity": 86,
+      "avg_price_eur": 55,
+      "notable_clones": [
+        "Royal Chariot Attar (Layton)",
+        "Miss Congeniality (Delina Exclusif)",
+        "King of Judea Attar (Herod)",
+        "Mythical Horse (Pegasus)",
+        "Hey Sweetie (Oriana)"
+      ],
+      "notes": "50+ clones PDM, collection best-performing year-round"
+    },
+    {
+      "rank": 4,
+      "brand": "Armaf",
+      "country": "UAE",
+      "speciality": "Clones designer-level abordables",
+      "avg_similarity": 85,
+      "avg_price_eur": 30,
+      "notable_clones": [
+        "Craze (Pegasus)",
+        "Dusk (Layton)",
+        "Radical Brown (Herod)",
+        "The Lions Club Feroce (Haltane)"
+      ],
+      "notes": "Craze = LE clone Pegasus consensus, packaging basique mais jus excellent"
+    },
+    {
+      "rank": 5,
+      "brand": "Perfume Parlour",
+      "country": "UK",
+      "speciality": "Clones budget UK",
+      "avg_similarity": 82,
+      "avg_price_eur": 12,
+      "notable_clones": [
+        "Herb Garden 1598 (Layton)",
+        "Verdant 0533 (Greenley)",
+        "Sedley dupe",
+        "Percival dupe"
+      ],
+      "notes": "Meilleur rapport qualité/prix UK, extraits recommandés"
+    },
+    {
+      "rank": 6,
+      "brand": "Yom & Layl",
+      "country": "USA",
+      "speciality": "Clones féminins PDM",
+      "avg_similarity": 85,
+      "avg_price_eur": 35,
+      "notable_clones": [
+        "Lou (Oriana)",
+        "Arjan (Oajan)"
+      ],
+      "notes": "Spécialiste fragrances orientales féminines"
+    },
+    {
+      "rank": 7,
+      "brand": "Zoha Aroma",
+      "country": "USA",
+      "speciality": "Clones oil-based",
+      "avg_similarity": 85,
+      "avg_price_eur": 25,
+      "notable_clones": [
+        "Pegasus oil",
+        "Sedley interpretation"
+      ],
+      "notes": "Excellents clones roll-on oil"
+    },
+    {
+      "rank": 8,
+      "brand": "ALT. Fragrances",
+      "country": "USA",
+      "speciality": "Clones longue tenue",
+      "avg_similarity": 85,
+      "avg_price_eur": 55,
+      "notable_clones": [
+        "Duchess (Delina)"
+      ],
+      "notes": "Tenue supérieure aux originaux selon avis"
+    },
+    {
+      "rank": 9,
+      "brand": "Alexandria UK",
+      "country": "UK",
+      "speciality": "Extraits luxe",
+      "avg_similarity": 85,
+      "avg_price_eur": 50,
+      "notable_clones": [
+        "Sultane (Haltane)"
+      ],
+      "notes": "Concentration extrait, présence souveraine"
+    },
+    {
+      "rank": 10,
+      "brand": "DIVAIN",
+      "country": "Spain",
+      "speciality": "Clones Europe",
+      "avg_similarity": 95,
+      "avg_price_eur": 35,
+      "notable_clones": [
+        "DIVAIN-607 (Delina)"
+      ],
+      "notes": "95% identique Delina - testés côte à côte indistinguables"
+    }
+  ],
+  "statistics": {
+    "total_perfumes": 45,
+    "perfumes_with_dupes": 17,
+    "total_verified_dupes": 56,
+    "most_cloned": [
+      {
+        "name": "Layton",
+        "dupe_count": 8
+      },
+      {
+        "name": "Delina",
+        "dupe_count": 6
+      },
+      {
+        "name": "Herod",
+        "dupe_count": 5
+      },
+      {
+        "name": "Delina Exclusif",
+        "dupe_count": 4
+      },
+      {
+        "name": "Haltane",
+        "dupe_count": 4
+      },
+      {
+        "name": "Oriana",
+        "dupe_count": 3
+      },
+      {
+        "name": "Pegasus",
+        "dupe_count": 3
+      },
+      {
+        "name": "Oajan",
+        "dupe_count": 3
+      },
+      {
+        "name": "Valaya",
+        "dupe_count": 3
+      }
+    ],
+    "legendary_dupes": [
+      {
+        "clone": "Detour Noir",
+        "original": "Layton",
+        "brand": "Al Haramain",
+        "similarity": 90,
+        "verdict": "Le dupe définitif - 99% identique selon nombreux testeurs, $20 vs $300+"
+      },
+      {
+        "clone": "Ansaam Gold",
+        "original": "Oriana",
+        "brand": "Lattafa",
+        "similarity": 95,
+        "verdict": "95% identique - performance SUPÉRIEURE à l'original, viral TikTok"
+      },
+      {
+        "clone": "Craze",
+        "original": "Pegasus",
+        "brand": "Armaf",
+        "similarity": 88,
+        "verdict": "Consensus clone Pegasus, performance similaire, 1/10 du prix"
+      },
+      {
+        "clone": "Hercules",
+        "original": "Herod",
+        "brand": "Maison Alhambra",
+        "similarity": 90,
+        "verdict": "90% proche, meilleure longévité que nouveaux batches Herod"
+      },
+      {
+        "clone": "Delilah",
+        "original": "Delina",
+        "brand": "Maison Alhambra",
+        "similarity": 90,
+        "verdict": "1/10 du prix, drydown très similaire"
+      },
+      {
+        "clone": "DIVAIN-607",
+        "original": "Delina",
+        "brand": "DIVAIN",
+        "similarity": 95,
+        "verdict": "95% identique - indistinguable côte à côte"
+      }
+    ]
+  },
+  "metadata": {
+    "source": "Fragrantica + multi-source research",
+    "last_updated": "2025-12-26",
+    "notes": "PDM = une des marques les plus clonées. Al Haramain Detour line = gold standard. Lattafa/Alhambra dominent clones féminins."
+  },
+  "country": "France",
+  "founded": 2009,
+  "headquarters": "Paris, France",
+  "website": "https://www.parfums-de-marly.com",
+  "description": "Maison française inspirée par le XVIIIème siècle et la cour de Versailles."
+}

@@ -1,0 +1,5463 @@
+{
+  "brand": "Maison Francis Kurkdjian",
+  "description": "Maison de parfumerie de luxe fondée en 2009 par le parfumeur Francis Kurkdjian et Marc Chaya. Connue pour son approche innovante combinant traditions françaises et modernité. Célèbre pour Baccarat Rouge 540, devenu un phénomène mondial. Rachetée par LVMH en 2017.",
+  "founded": 2009,
+  "headquarters": "Paris, France",
+  "parent_company": "LVMH",
+  "website": "https://www.franciskurkdjian.com",
+  "perfumers": [
+    "Francis Kurkdjian"
+  ],
+  "collections": [
+    "Baccarat Rouge 540",
+    "Aqua Collection",
+    "Cologne Forte Collection",
+    "Gentle Fluidity",
+    "Oud Mood Collection",
+    "À la rose Collection",
+    "Pluriel Collection",
+    "724",
+    "APOM",
+    "My Very Intimate Perfumes",
+    "Les Voyages Olfactifs",
+    "L'Homme & Femme",
+    "Discontinued"
+  ],
+  "perfumes": [
+    {
+      "name": "Baccarat Rouge 540",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2015,
+      "concentration": "EDP",
+      "collection": "Baccarat Rouge 540",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Le parfum iconique créé pour la maison de cristal Baccarat. Ambre, safran et jasmin dans un sillage cristallin et addictif. Phénomène mondial.",
+      "price": {
+        "35ml": 185,
+        "70ml": 310,
+        "200ml": 620,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 9,
+        "Floral": 7,
+        "Boisé": 7,
+        "Ambré": 9,
+        "Sucré": 6
+      },
+      "notes": {
+        "top": [
+          "Safran",
+          "Jasmin"
+        ],
+        "heart": [
+          "Bois ambré",
+          "Ambre gris",
+          "Hédione"
+        ],
+        "base": [
+          "Résine de sapin",
+          "Cèdre",
+          "Ambroxan",
+          "Mousse de chêne"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Cloud",
+          "brand": "Ariana Grande",
+          "year": 2018,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Oriental Floral",
+          "gender": "feminine",
+          "status": "current",
+          "perfumers": [
+            "Clement Gavarry"
+          ],
+          "description": "Alternative populaire avec notes similaires d'ambroxan.",
+          "price": {
+            "100ml": 45,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 7,
+            "Floral": 7,
+            "Gourmand": 6,
+            "Ambré": 7
+          },
+          "notes": {
+            "top": [
+              "Lavande",
+              "Poire"
+            ],
+            "heart": [
+              "Noix de coco",
+              "Praline"
+            ],
+            "base": [
+              "Musc crémeaux",
+              "Bois de cachemire"
+            ]
+          },
+          "similarity": "75%",
+          "seasons": {
+            "printemps": 6,
+            "été": 3,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 5,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Baccarat Rouge 540 Impression",
+          "brand": "Lattafa",
+          "year": 2021,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Oriental Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone direct de BR540.",
+          "price": {
+            "100ml": 35,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Floral": 7,
+            "Boisé": 7,
+            "Ambré": 8
+          },
+          "notes": {
+            "top": [
+              "Safran",
+              "Jasmin"
+            ],
+            "heart": [
+              "Bois ambré",
+              "Ambre gris"
+            ],
+            "base": [
+              "Résine de sapin",
+              "Cèdre"
+            ]
+          },
+          "similarity": "88%",
+          "seasons": {
+            "printemps": 6,
+            "été": 3,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 5,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Burberry Her",
+          "brand": "Burberry",
+          "year": 2018,
+          "concentration": "EDP",
+          "collection": "Her",
+          "olfactory_family": "Fruité Gourmand",
+          "gender": "feminine",
+          "status": "current",
+          "perfumers": [
+            "Francis Kurkdjian"
+          ],
+          "description": "Par le même nez, avec des notes ambrées similaires.",
+          "price": {
+            "100ml": 115,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Fruité": 8,
+            "Gourmand": 7,
+            "Ambré": 6,
+            "Floral": 5
+          },
+          "notes": {
+            "top": [
+              "Fruits rouges"
+            ],
+            "heart": [
+              "Jasmin",
+              "Violette"
+            ],
+            "base": [
+              "Ambre",
+              "Musc"
+            ]
+          },
+          "similarity": "65%",
+          "seasons": {
+            "printemps": 6,
+            "été": 4,
+            "automne": 8,
+            "hiver": 9
+          },
+          "mood": {
+            "jour": 5,
+            "nuit": 8
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Not a Perfume",
+          "brand": "Juliette Has a Gun",
+          "year": 2010,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Ambré Musqué",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Romano Ricci"
+          ],
+          "description": "Mono-note d'Ambroxan similaire à la base de BR540.",
+          "price": {
+            "100ml": 115,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Ambré": 10,
+            "Musqué": 8,
+            "Boisé": 5
+          },
+          "notes": {
+            "top": [],
+            "heart": [
+              "Ambroxan"
+            ],
+            "base": [
+              "Ambroxan"
+            ]
+          },
+          "similarity": "60%",
+          "seasons": {
+            "printemps": 6,
+            "été": 3,
+            "automne": 8,
+            "hiver": 9
+          },
+          "mood": {
+            "jour": 5,
+            "nuit": 9
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 1,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Baccarat Rouge 540 Extrait de Parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2017,
+      "concentration": "Extrait",
+      "collection": "Baccarat Rouge 540",
+      "olfactory_family": "Oriental Boisé",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version extrait plus intense et profonde. Notes de sapin et de caramel brûlé renforcées.",
+      "price": {
+        "35ml": 255,
+        "70ml": 465,
+        "200ml": 930,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 10,
+        "Boisé": 8,
+        "Ambré": 10,
+        "Balsamique": 7,
+        "Sucré": 7
+      },
+      "notes": {
+        "top": [
+          "Safran",
+          "Amande amère"
+        ],
+        "heart": [
+          "Bois ambré",
+          "Cèdre",
+          "Hédione"
+        ],
+        "base": [
+          "Résine de sapin",
+          "Benjoin",
+          "Ambroxan",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Rouge 540 Extrait",
+          "brand": "Fragrance World",
+          "year": 2022,
+          "concentration": "Extrait",
+          "collection": "Signature",
+          "olfactory_family": "Oriental Boisé",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de l'Extrait.",
+          "price": {
+            "100ml": 38,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Boisé": 8,
+            "Ambré": 9,
+            "Balsamique": 6
+          },
+          "notes": {
+            "top": [
+              "Safran",
+              "Amande amère"
+            ],
+            "heart": [
+              "Bois ambré",
+              "Cèdre"
+            ],
+            "base": [
+              "Résine de sapin",
+              "Benjoin"
+            ]
+          },
+          "similarity": "85%",
+          "seasons": {
+            "printemps": 4,
+            "été": 2,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 3,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Hayaati Gold Elixir",
+          "brand": "Lattafa",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Hayaati",
+          "olfactory_family": "Oriental Boisé",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Alternative à BR540 Extrait.",
+          "price": {
+            "100ml": 32,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Boisé": 8,
+            "Ambré": 9,
+            "Sucré": 7
+          },
+          "notes": {
+            "top": [
+              "Safran"
+            ],
+            "heart": [
+              "Ambre",
+              "Cèdre"
+            ],
+            "base": [
+              "Résine",
+              "Musc"
+            ]
+          },
+          "similarity": "82%",
+          "seasons": {
+            "printemps": 4,
+            "été": 2,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "B Rouge 540 Extrait",
+          "brand": "Fragrance World",
+          "year": 2022,
+          "concentration": "Extrait",
+          "collection": "Signature",
+          "olfactory_family": "Oriental Boisé",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone direct de l'Extrait.",
+          "price": {
+            "100ml": 35,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Boisé": 8,
+            "Ambré": 9,
+            "Balsamique": 7
+          },
+          "notes": {
+            "top": [
+              "Safran",
+              "Amande"
+            ],
+            "heart": [
+              "Bois ambré",
+              "Cèdre"
+            ],
+            "base": [
+              "Résine",
+              "Benjoin",
+              "Musc"
+            ]
+          },
+          "similarity": "87%",
+          "seasons": {
+            "printemps": 4,
+            "été": 2,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 3,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 4,
+        "été": 2,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 3,
+        "nuit": 10
+      },
+      "id": 2,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Universalis",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2009,
+      "concentration": "EDT",
+      "collection": "Aqua Collection",
+      "olfactory_family": "Hespéridé Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Le premier parfum de la maison. Frais et lumineux comme du linge propre au soleil. Citron, bergamote et fleurs blanches.",
+      "price": {
+        "35ml": 115,
+        "70ml": 195,
+        "200ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 9,
+        "Floral": 7,
+        "Musqué": 6,
+        "Frais": 9,
+        "Vert": 5
+      },
+      "notes": {
+        "top": [
+          "Citron de Sicile",
+          "Bergamote de Calabre"
+        ],
+        "heart": [
+          "Muguet",
+          "Jasmin",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois blond"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Clean Reserve Skin",
+          "brand": "Clean",
+          "year": 2016,
+          "concentration": "EDP",
+          "collection": "Reserve",
+          "olfactory_family": "Musqué Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Parfum propre similaire.",
+          "price": {
+            "100ml": 85,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Musqué": 8,
+            "Floral": 6,
+            "Frais": 8,
+            "Boisé": 4
+          },
+          "notes": {
+            "top": [
+              "Bergamote"
+            ],
+            "heart": [
+              "Musc"
+            ],
+            "base": [
+              "Bois"
+            ]
+          },
+          "similarity": "70%",
+          "seasons": {
+            "printemps": 9,
+            "été": 8,
+            "automne": 5,
+            "hiver": 3
+          },
+          "mood": {
+            "jour": 8,
+            "nuit": 4
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Aqua Fresh",
+          "brand": "Fragrance World",
+          "year": 2022,
+          "concentration": "EDT",
+          "collection": "Signature",
+          "olfactory_family": "Hespéridé Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone d'Aqua Universalis.",
+          "price": {
+            "100ml": 20,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Hespéridé": 8,
+            "Floral": 7,
+            "Musqué": 6,
+            "Frais": 9
+          },
+          "notes": {
+            "top": [
+              "Citron",
+              "Bergamote"
+            ],
+            "heart": [
+              "Muguet",
+              "Jasmin"
+            ],
+            "base": [
+              "Musc blanc"
+            ]
+          },
+          "similarity": "78%",
+          "seasons": {
+            "printemps": 10,
+            "été": 10,
+            "automne": 5,
+            "hiver": 1
+          },
+          "mood": {
+            "jour": 10,
+            "nuit": 4
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 1
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 3,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Universalis Forte",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2011,
+      "concentration": "EDP",
+      "collection": "Aqua Collection",
+      "olfactory_family": "Hespéridé Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version plus intense d'Aqua Universalis avec tenue renforcée.",
+      "price": {
+        "35ml": 135,
+        "70ml": 225,
+        "200ml": 415,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 8,
+        "Floral": 8,
+        "Musqué": 7,
+        "Frais": 8,
+        "Boisé": 5
+      },
+      "notes": {
+        "top": [
+          "Citron de Sicile",
+          "Bergamote de Calabre"
+        ],
+        "heart": [
+          "Muguet",
+          "Jasmin",
+          "Fleur d'oranger",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois blond",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 1
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 4,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Vitae",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2013,
+      "concentration": "EDT",
+      "collection": "Aqua Collection",
+      "olfactory_family": "Hespéridé Aromatique",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Soleil liquide. Mandarine et citron sur fond de bois secs.",
+      "price": {
+        "35ml": 115,
+        "70ml": 195,
+        "200ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 10,
+        "Aromatique": 6,
+        "Boisé": 5,
+        "Épicé": 4,
+        "Frais": 8
+      },
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Citron de Sicile",
+          "Citron jaune"
+        ],
+        "heart": [
+          "Poivre rose",
+          "Cardamome",
+          "Gingembre"
+        ],
+        "base": [
+          "Bois secs",
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 7,
+        "hiver": 3
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 6
+      },
+      "id": 5,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Vitae Forte",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2015,
+      "concentration": "EDP",
+      "collection": "Aqua Collection",
+      "olfactory_family": "Hespéridé Aromatique",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version intensifiée d'Aqua Vitae avec plus de profondeur.",
+      "price": {
+        "35ml": 135,
+        "70ml": 225,
+        "200ml": 415,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 9,
+        "Aromatique": 7,
+        "Boisé": 6,
+        "Épicé": 5,
+        "Ambré": 5
+      },
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Citron de Sicile"
+        ],
+        "heart": [
+          "Poivre rose",
+          "Cardamome",
+          "Gingembre",
+          "Thym"
+        ],
+        "base": [
+          "Bois secs",
+          "Musc blanc",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 7,
+        "hiver": 3
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 6
+      },
+      "id": 6,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Celestia",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2017,
+      "concentration": "EDT",
+      "collection": "Aqua Collection",
+      "olfactory_family": "Floral Frais",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Ciel bleu en parfum. Mimosa, cassis et musc blanc.",
+      "price": {
+        "35ml": 115,
+        "70ml": 195,
+        "200ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 8,
+        "Frais": 9,
+        "Musqué": 7,
+        "Hespéridé": 6,
+        "Vert": 5
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Cassis",
+          "Menthe"
+        ],
+        "heart": [
+          "Mimosa",
+          "Fleur de lys"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois blond"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 2
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 7,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Frais"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Celestia Forte",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Aqua Collection",
+      "olfactory_family": "Floral Frais",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version Forte d'Aqua Celestia.",
+      "price": {
+        "35ml": 135,
+        "70ml": 225,
+        "200ml": 415,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 8,
+        "Frais": 8,
+        "Musqué": 8,
+        "Hespéridé": 6,
+        "Boisé": 5
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Cassis",
+          "Menthe"
+        ],
+        "heart": [
+          "Mimosa",
+          "Fleur de lys",
+          "Pivoine"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois blond",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 2
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 8,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Frais"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Media",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2023,
+      "concentration": "EDT",
+      "collection": "Aqua Collection",
+      "olfactory_family": "Hespéridé Aromatique",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Inspiré par la Méditerranée. Basilic et citron.",
+      "price": {
+        "35ml": 115,
+        "70ml": 195,
+        "200ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 9,
+        "Aromatique": 8,
+        "Frais": 8,
+        "Vert": 6,
+        "Musqué": 5
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Basilic",
+          "Menthe",
+          "Géranium"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 1
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 9,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Media Cologne Forte",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2023,
+      "concentration": "EDP",
+      "collection": "Cologne Forte Collection",
+      "olfactory_family": "Hespéridé Aromatique",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version Cologne Forte d'Aqua Media.",
+      "price": {
+        "35ml": 135,
+        "70ml": 225,
+        "200ml": 415,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 8,
+        "Aromatique": 8,
+        "Frais": 7,
+        "Vert": 6,
+        "Boisé": 5
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Basilic",
+          "Menthe",
+          "Géranium",
+          "Thym"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 1
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 10,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2012,
+      "concentration": "EDP",
+      "collection": "Oud Mood Collection",
+      "olfactory_family": "Oriental Boisé",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Oud rêvé aux abords d'un palais de marbre et d'or. Oud du Laos et safran.",
+      "price": {
+        "70ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 10,
+        "Boisé": 9,
+        "Épicé": 7,
+        "Fumé": 6,
+        "Ambré": 6
+      },
+      "notes": {
+        "top": [
+          "Safran",
+          "Elemi"
+        ],
+        "heart": [
+          "Oud du Laos",
+          "Cèdre"
+        ],
+        "base": [
+          "Ambre",
+          "Santal",
+          "Gaïac"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Oud Wood",
+          "brand": "Fragrance World",
+          "year": 2020,
+          "concentration": "EDP",
+          "collection": "Oriental",
+          "olfactory_family": "Oriental Boisé",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Alternative accessible.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Boisé": 8,
+            "Épicé": 6,
+            "Fumé": 5
+          },
+          "notes": {
+            "top": [
+              "Safran"
+            ],
+            "heart": [
+              "Oud",
+              "Cèdre"
+            ],
+            "base": [
+              "Ambre",
+              "Santal"
+            ]
+          },
+          "similarity": "75%",
+          "seasons": {
+            "printemps": 4,
+            "été": 2,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Oud Prestige",
+          "brand": "Lattafa",
+          "year": 2021,
+          "concentration": "EDP",
+          "collection": "Oriental",
+          "olfactory_family": "Oriental Boisé",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de MFK Oud.",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Boisé": 9,
+            "Épicé": 7,
+            "Fumé": 6
+          },
+          "notes": {
+            "top": [
+              "Safran",
+              "Élemi"
+            ],
+            "heart": [
+              "Oud",
+              "Cèdre"
+            ],
+            "base": [
+              "Ambre",
+              "Santal"
+            ]
+          },
+          "similarity": "78%",
+          "seasons": {
+            "printemps": 4,
+            "été": 2,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Royal Oud",
+          "brand": "Fragrance World",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Oriental",
+          "olfactory_family": "Oriental Boisé",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de MFK Oud.",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Boisé": 8,
+            "Épicé": 6,
+            "Ambré": 6
+          },
+          "notes": {
+            "top": [
+              "Safran"
+            ],
+            "heart": [
+              "Oud du Laos",
+              "Cèdre"
+            ],
+            "base": [
+              "Ambre",
+              "Gaïac"
+            ]
+          },
+          "similarity": "75%",
+          "seasons": {
+            "printemps": 4,
+            "été": 2,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 4,
+        "été": 2,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 11,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud Satin Mood",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2015,
+      "concentration": "EDP",
+      "collection": "Oud Mood Collection",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Oud soyeux comme une pièce de satin fluide. Rose de Bulgarie et violette.",
+      "price": {
+        "70ml": 310,
+        "200ml": 620,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 9,
+        "Floral": 8,
+        "Boisé": 7,
+        "Poudré": 6,
+        "Ambré": 6
+      },
+      "notes": {
+        "top": [
+          "Rose absolue de Bulgarie",
+          "Violette"
+        ],
+        "heart": [
+          "Oud du Laos",
+          "Benjoin"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Oud Satin",
+          "brand": "Lattafa",
+          "year": 2021,
+          "concentration": "EDP",
+          "collection": "Oriental",
+          "olfactory_family": "Oriental Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de Oud Satin Mood.",
+          "price": {
+            "100ml": 32,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Floral": 8,
+            "Boisé": 7,
+            "Poudré": 6
+          },
+          "notes": {
+            "top": [
+              "Rose",
+              "Violette"
+            ],
+            "heart": [
+              "Oud"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "85%",
+          "seasons": {
+            "printemps": 6,
+            "été": 3,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 5,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Khamrah",
+          "brand": "Lattafa",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Oriental Gourmand",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Parfum dans un esprit similaire.",
+          "price": {
+            "100ml": 35,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Gourmand": 8,
+            "Épicé": 7,
+            "Boisé": 6
+          },
+          "notes": {
+            "top": [
+              "Cannelle",
+              "Bergamote"
+            ],
+            "heart": [
+              "Praline",
+              "Datte"
+            ],
+            "base": [
+              "Vanille",
+              "Benjoin"
+            ]
+          },
+          "similarity": "70%",
+          "seasons": {
+            "printemps": 5,
+            "été": 2,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Baroque Satin Oud",
+          "brand": "Maison Alhambra",
+          "year": 2024,
+          "concentration": "EDP",
+          "collection": "Baroque",
+          "olfactory_family": "Oriental Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone populaire. Rose poudrée et oud soyeux.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Floral": 8,
+            "Boisé": 7,
+            "Poudré": 7
+          },
+          "notes": {
+            "top": [
+              "Safran",
+              "Cannelle",
+              "Cardamome"
+            ],
+            "heart": [
+              "Rose",
+              "Iris"
+            ],
+            "base": [
+              "Oud",
+              "Vanille",
+              "Patchouli"
+            ]
+          },
+          "similarity": "85%",
+          "seasons": {
+            "printemps": 6,
+            "été": 3,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 5,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Barakkat Satin Oud",
+          "brand": "Fragrance World",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Barakkat",
+          "olfactory_family": "Oriental Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone populaire sur TikTok.",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 8,
+            "Floral": 8,
+            "Boisé": 7,
+            "Vanillé": 6
+          },
+          "notes": {
+            "top": [
+              "Rose",
+              "Violette"
+            ],
+            "heart": [
+              "Oud",
+              "Benjoin"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "83%",
+          "seasons": {
+            "printemps": 6,
+            "été": 3,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 5,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 12,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud Satin Mood Extrait de Parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2018,
+      "concentration": "Extrait",
+      "collection": "Oud Mood Collection",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version extrait plus opulente et riche.",
+      "price": {
+        "70ml": 465,
+        "200ml": 930,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 10,
+        "Floral": 9,
+        "Boisé": 8,
+        "Poudré": 7,
+        "Ambré": 7
+      },
+      "notes": {
+        "top": [
+          "Rose absolue de Bulgarie",
+          "Violette"
+        ],
+        "heart": [
+          "Oud du Laos",
+          "Benjoin",
+          "Vanille"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Satin Oud Extrait",
+          "brand": "Paris Corner",
+          "year": 2023,
+          "concentration": "Extrait",
+          "collection": "Pendora",
+          "olfactory_family": "Oriental Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de l'Extrait.",
+          "price": {
+            "100ml": 40,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Floral": 8,
+            "Boisé": 7,
+            "Poudré": 6
+          },
+          "notes": {
+            "top": [
+              "Rose",
+              "Violette"
+            ],
+            "heart": [
+              "Oud",
+              "Benjoin"
+            ],
+            "base": [
+              "Ambre",
+              "Vanille"
+            ]
+          },
+          "similarity": "82%",
+          "seasons": {
+            "printemps": 6,
+            "été": 3,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Oud Satin Extrait",
+          "brand": "Paris Corner",
+          "year": 2023,
+          "concentration": "Extrait",
+          "collection": "Ministry of Oud",
+          "olfactory_family": "Oriental Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de l'Extrait.",
+          "price": {
+            "100ml": 38,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 10,
+            "Floral": 9,
+            "Boisé": 8,
+            "Vanillé": 7
+          },
+          "notes": {
+            "top": [
+              "Rose absolue"
+            ],
+            "heart": [
+              "Oud",
+              "Benjoin",
+              "Vanille"
+            ],
+            "base": [
+              "Ambre",
+              "Musc"
+            ]
+          },
+          "similarity": "85%",
+          "seasons": {
+            "printemps": 6,
+            "été": 3,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 13,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud Silk Mood",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2013,
+      "concentration": "EDP",
+      "collection": "Oud Mood Collection",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Oud aérien et voluptueux. Rose damascena et notes orientales.",
+      "price": {
+        "70ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 9,
+        "Floral": 8,
+        "Boisé": 7,
+        "Épicé": 5,
+        "Ambré": 6
+      },
+      "notes": {
+        "top": [
+          "Rose damascena",
+          "Notes fruitées"
+        ],
+        "heart": [
+          "Oud du Laos",
+          "Cannelle"
+        ],
+        "base": [
+          "Ambre",
+          "Benjoin"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 14,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud Silk Mood Extrait de Parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2018,
+      "concentration": "Extrait",
+      "collection": "Oud Mood Collection",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version extrait intensifiée.",
+      "price": {
+        "70ml": 465,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 10,
+        "Floral": 9,
+        "Boisé": 8,
+        "Épicé": 6,
+        "Ambré": 7
+      },
+      "notes": {
+        "top": [
+          "Rose damascena",
+          "Notes fruitées"
+        ],
+        "heart": [
+          "Oud du Laos",
+          "Cannelle",
+          "Encens"
+        ],
+        "base": [
+          "Ambre",
+          "Benjoin",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 2,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 15,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud Velvet Mood",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2013,
+      "concentration": "EDP",
+      "collection": "Oud Mood Collection",
+      "olfactory_family": "Oriental Boisé",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Oud précieux et velouté. Iris et benjoin.",
+      "price": {
+        "70ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 9,
+        "Boisé": 8,
+        "Poudré": 7,
+        "Iris": 6,
+        "Ambré": 6
+      },
+      "notes": {
+        "top": [
+          "Iris",
+          "Safran"
+        ],
+        "heart": [
+          "Oud du Laos",
+          "Cèdre"
+        ],
+        "base": [
+          "Benjoin",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 4,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 16,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud Cashmere Mood",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2013,
+      "concentration": "EDP",
+      "collection": "Oud Mood Collection",
+      "olfactory_family": "Oriental Épicé",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Oud épicé et chaleureux. Cannelle et paprika.",
+      "price": {
+        "70ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 9,
+        "Épicé": 9,
+        "Boisé": 7,
+        "Fumé": 5,
+        "Ambré": 6
+      },
+      "notes": {
+        "top": [
+          "Paprika",
+          "Baies roses"
+        ],
+        "heart": [
+          "Cannelle",
+          "Oud du Laos"
+        ],
+        "base": [
+          "Cèdre",
+          "Ambre",
+          "Benjoin"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 4,
+        "été": 1,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 17,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Épicé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Gentle Fluidity Gold",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2019,
+      "concentration": "EDP",
+      "collection": "Gentle Fluidity",
+      "olfactory_family": "Oriental Ambré",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Douceur enveloppante. Vanille, musc et bois ambrés. Chaleur dorée.",
+      "price": {
+        "35ml": 145,
+        "70ml": 245,
+        "200ml": 455,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 8,
+        "Ambré": 9,
+        "Vanillé": 8,
+        "Musqué": 7,
+        "Épicé": 5
+      },
+      "notes": {
+        "top": [
+          "Baies de genièvre",
+          "Muscade",
+          "Coriandre"
+        ],
+        "heart": [
+          "Musc",
+          "Bois ambrés"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Gentle Fluidity Gold Clone",
+          "brand": "Maison Alhambra",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Oriental Ambré",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de GF Gold.",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 8,
+            "Ambré": 8,
+            "Vanillé": 8,
+            "Musqué": 6
+          },
+          "notes": {
+            "top": [
+              "Baies de genièvre",
+              "Muscade"
+            ],
+            "heart": [
+              "Musc",
+              "Bois ambrés"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "83%",
+          "seasons": {
+            "printemps": 4,
+            "été": 1,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Velvet Gold",
+          "brand": "Maison Alhambra",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Oriental Ambré",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de GF Gold.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 8,
+            "Ambré": 8,
+            "Vanillé": 8,
+            "Musqué": 7
+          },
+          "notes": {
+            "top": [
+              "Genièvre",
+              "Muscade"
+            ],
+            "heart": [
+              "Musc",
+              "Bois ambrés"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "82%",
+          "seasons": {
+            "printemps": 4,
+            "été": 1,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Fluidity Gold",
+          "brand": "Fragrance World",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Oriental Ambré",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de Gentle Fluidity Gold.",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 8,
+            "Ambré": 8,
+            "Vanillé": 8,
+            "Épicé": 5
+          },
+          "notes": {
+            "top": [
+              "Genièvre",
+              "Coriandre"
+            ],
+            "heart": [
+              "Musc"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre",
+              "Santal"
+            ]
+          },
+          "similarity": "80%",
+          "seasons": {
+            "printemps": 4,
+            "été": 1,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 4,
+        "été": 1,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 18,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Ambré"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Gentle Fluidity Silver",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2019,
+      "concentration": "EDP",
+      "collection": "Gentle Fluidity",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Fraîcheur pétillante. Genièvre, bois et muscs. Clarté argentée.",
+      "price": {
+        "35ml": 145,
+        "70ml": 245,
+        "200ml": 455,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Boisé": 8,
+        "Aromatique": 7,
+        "Musqué": 7,
+        "Épicé": 6,
+        "Frais": 7
+      },
+      "notes": {
+        "top": [
+          "Baies de genièvre",
+          "Muscade",
+          "Coriandre"
+        ],
+        "heart": [
+          "Musc",
+          "Bois ambrés"
+        ],
+        "base": [
+          "Vanille légère",
+          "Bois blonds"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Silver Fluid",
+          "brand": "Fragrance World",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Boisé Aromatique",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de GF Silver.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Boisé": 7,
+            "Aromatique": 7,
+            "Musqué": 6,
+            "Épicé": 5
+          },
+          "notes": {
+            "top": [
+              "Genièvre",
+              "Muscade"
+            ],
+            "heart": [
+              "Musc",
+              "Bois"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "80%",
+          "seasons": {
+            "printemps": 7,
+            "été": 7,
+            "automne": 8,
+            "hiver": 6
+          },
+          "mood": {
+            "jour": 7,
+            "nuit": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Velvet Silver",
+          "brand": "Maison Alhambra",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Boisé Aromatique",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de GF Silver.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Boisé": 8,
+            "Aromatique": 7,
+            "Musqué": 7,
+            "Épicé": 6
+          },
+          "notes": {
+            "top": [
+              "Genièvre",
+              "Muscade"
+            ],
+            "heart": [
+              "Musc"
+            ],
+            "base": [
+              "Bois blonds",
+              "Vanille légère"
+            ]
+          },
+          "similarity": "80%",
+          "seasons": {
+            "printemps": 7,
+            "été": 7,
+            "automne": 8,
+            "hiver": 6
+          },
+          "mood": {
+            "jour": 7,
+            "nuit": 6
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 7,
+        "été": 7,
+        "automne": 8,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 6
+      },
+      "id": 19,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "À la rose",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2014,
+      "concentration": "EDP",
+      "collection": "À la rose Collection",
+      "olfactory_family": "Floral",
+      "gender": "feminine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Ode à la féminité. 250 roses de Grasse par flacon. Rose absolue et violette.",
+      "price": {
+        "70ml": 245,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 10,
+        "Poudré": 5,
+        "Vert": 4,
+        "Musqué": 5,
+        "Fruité": 3
+      },
+      "notes": {
+        "top": [
+          "Pois de senteur"
+        ],
+        "heart": [
+          "Rose damascena de Bulgarie",
+          "Rose centifolia de Grasse",
+          "Violette",
+          "Magnolia"
+        ],
+        "base": [
+          "Muscs"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Rosa Rosa",
+          "brand": "Maison Alhambra",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Floral",
+          "olfactory_family": "Floral",
+          "gender": "feminine",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de À la rose.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Floral": 9,
+            "Poudré": 5,
+            "Vert": 4,
+            "Musqué": 5
+          },
+          "notes": {
+            "top": [
+              "Pois de senteur"
+            ],
+            "heart": [
+              "Rose damascena",
+              "Rose centifolia"
+            ],
+            "base": [
+              "Musc"
+            ]
+          },
+          "similarity": "82%",
+          "seasons": {
+            "printemps": 8,
+            "été": 7,
+            "automne": 5,
+            "hiver": 5
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 5
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Rose Velvet",
+          "brand": "Maison Alhambra",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Floral",
+          "olfactory_family": "Floral",
+          "gender": "feminine",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de À la rose.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Floral": 10,
+            "Poudré": 5,
+            "Vert": 4,
+            "Musqué": 5
+          },
+          "notes": {
+            "top": [
+              "Pois de senteur"
+            ],
+            "heart": [
+              "Rose damascena",
+              "Rose centifolia",
+              "Magnolia"
+            ],
+            "base": [
+              "Musc"
+            ]
+          },
+          "similarity": "82%",
+          "seasons": {
+            "printemps": 8,
+            "été": 7,
+            "automne": 5,
+            "hiver": 5
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 5
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "La Rosa",
+          "brand": "Fragrance World",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Floral",
+          "gender": "feminine",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de À la rose.",
+          "price": {
+            "100ml": 22,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Floral": 9,
+            "Poudré": 5,
+            "Vert": 4,
+            "Musqué": 5
+          },
+          "notes": {
+            "top": [
+              "Pois de senteur"
+            ],
+            "heart": [
+              "Rose de Bulgarie",
+              "Rose de Grasse"
+            ],
+            "base": [
+              "Musc blanc"
+            ]
+          },
+          "similarity": "78%",
+          "seasons": {
+            "printemps": 8,
+            "été": 7,
+            "automne": 5,
+            "hiver": 5
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 5
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 5,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 5
+      },
+      "id": 20,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "L'Homme À la rose",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2020,
+      "concentration": "EDP",
+      "collection": "À la rose Collection",
+      "olfactory_family": "Floral Boisé",
+      "gender": "masculine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Rose masculine avec pamplemousse et bois de gaïac.",
+      "price": {
+        "70ml": 245,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 8,
+        "Boisé": 7,
+        "Hespéridé": 6,
+        "Épicé": 5,
+        "Musqué": 5
+      },
+      "notes": {
+        "top": [
+          "Pamplemousse",
+          "Sauge"
+        ],
+        "heart": [
+          "Rose damascena",
+          "Géranium"
+        ],
+        "base": [
+          "Bois de gaïac",
+          "Cèdre",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 8,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 8
+      },
+      "id": 21,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Féminin Pluriel",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2014,
+      "concentration": "EDP",
+      "collection": "Pluriel Collection",
+      "olfactory_family": "Floral Chypré",
+      "gender": "feminine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Féminité aux multiples facettes. Iris, rose et patchouli. Chypre floral classique.",
+      "price": {
+        "70ml": 245,
+        "200ml": 455,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 9,
+        "Chypré": 7,
+        "Poudré": 6,
+        "Boisé": 6,
+        "Vert": 5
+      },
+      "notes": {
+        "top": [
+          "Iris de Florence",
+          "Violette"
+        ],
+        "heart": [
+          "Rose de Grasse",
+          "Jasmin d'Égypte",
+          "Muguet",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vétiver",
+          "Patchouli d'Indonésie"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 5,
+        "automne": 7,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 6
+      },
+      "id": 22,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Chypré"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Masculin Pluriel",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2014,
+      "concentration": "EDT",
+      "collection": "Pluriel Collection",
+      "olfactory_family": "Fougère Aromatique",
+      "gender": "masculine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Masculinité intemporelle. Lavande, cuir et bois. Fougère sophistiqué.",
+      "price": {
+        "70ml": 195,
+        "200ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Fougère": 8,
+        "Aromatique": 8,
+        "Cuir": 6,
+        "Boisé": 6,
+        "Épicé": 5
+      },
+      "notes": {
+        "top": [
+          "Lavande",
+          "Cyprès"
+        ],
+        "heart": [
+          "Cuir",
+          "Sauge sclarée"
+        ],
+        "base": [
+          "Cèdre",
+          "Mousse de chêne"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 7,
+        "automne": 8,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 23,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Fougère Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "724",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2022,
+      "concentration": "EDP",
+      "collection": "724",
+      "olfactory_family": "Floral Musqué",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Parfum urbain et élégant. 7 jours sur 7, 24h sur 24. Jasmin, aldéhydes et musc blanc.",
+      "price": {
+        "35ml": 145,
+        "70ml": 245,
+        "200ml": 455,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 8,
+        "Musqué": 8,
+        "Aldéhydé": 6,
+        "Hespéridé": 5,
+        "Poudré": 4
+      },
+      "notes": {
+        "top": [
+          "Aldéhydes",
+          "Bergamote de Calabre"
+        ],
+        "heart": [
+          "Jasmin absolu d'Égypte",
+          "Seringa",
+          "Pois de senteur"
+        ],
+        "base": [
+          "Musc blanc",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "727 Impression",
+          "brand": "Fragrance World",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Floral Musqué",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de 724.",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Floral": 8,
+            "Musqué": 7,
+            "Aldéhydé": 5,
+            "Hespéridé": 5
+          },
+          "notes": {
+            "top": [
+              "Aldéhydes",
+              "Bergamote"
+            ],
+            "heart": [
+              "Jasmin",
+              "Pois de senteur"
+            ],
+            "base": [
+              "Musc blanc",
+              "Santal"
+            ]
+          },
+          "similarity": "83%",
+          "seasons": {
+            "printemps": 8,
+            "été": 7,
+            "automne": 5,
+            "hiver": 5
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 5
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "724 Impression",
+          "brand": "Fragrance World",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Floral Musqué",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de 724.",
+          "price": {
+            "100ml": 25,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Floral": 8,
+            "Musqué": 8,
+            "Aldéhydé": 5,
+            "Hespéridé": 5
+          },
+          "notes": {
+            "top": [
+              "Aldéhydes",
+              "Bergamote"
+            ],
+            "heart": [
+              "Jasmin",
+              "Pois de senteur"
+            ],
+            "base": [
+              "Musc blanc",
+              "Santal"
+            ]
+          },
+          "similarity": "83%",
+          "seasons": {
+            "printemps": 8,
+            "été": 7,
+            "automne": 5,
+            "hiver": 5
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 5
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "724 Clone",
+          "brand": "Maison Alhambra",
+          "year": 2024,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Floral Musqué",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de 724.",
+          "price": {
+            "100ml": 30,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Floral": 8,
+            "Musqué": 7,
+            "Aldéhydé": 6,
+            "Poudré": 4
+          },
+          "notes": {
+            "top": [
+              "Aldéhydes",
+              "Bergamote"
+            ],
+            "heart": [
+              "Jasmin absolu",
+              "Pois de senteur"
+            ],
+            "base": [
+              "Musc blanc"
+            ]
+          },
+          "similarity": "80%",
+          "seasons": {
+            "printemps": 8,
+            "été": 7,
+            "automne": 5,
+            "hiver": 5
+          },
+          "mood": {
+            "jour": 6,
+            "nuit": 5
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 5,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 5
+      },
+      "id": 24,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Musqué"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Grand Soir",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2016,
+      "concentration": "EDP",
+      "collection": "Les Voyages Olfactifs",
+      "olfactory_family": "Oriental Ambré",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Soirée orientale glamour. Ambre, benjoin et vanille. Chaleur enveloppante.",
+      "price": {
+        "70ml": 245,
+        "200ml": 455,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 10,
+        "Ambré": 10,
+        "Vanillé": 8,
+        "Balsamique": 7,
+        "Épicé": 5
+      },
+      "notes": {
+        "top": [
+          "Cannelle",
+          "Badiane"
+        ],
+        "heart": [
+          "Benjoin du Laos",
+          "Labdanum"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre",
+          "Bois"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Grand Soir Clone",
+          "brand": "Lattafa",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Oriental",
+          "olfactory_family": "Oriental Ambré",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de Grand Soir.",
+          "price": {
+            "100ml": 32,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 9,
+            "Ambré": 9,
+            "Vanillé": 8,
+            "Balsamique": 6
+          },
+          "notes": {
+            "top": [
+              "Cannelle",
+              "Badiane"
+            ],
+            "heart": [
+              "Benjoin",
+              "Labdanum"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "84%",
+          "seasons": {
+            "printemps": 4,
+            "été": 1,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Spicebomb Extreme",
+          "brand": "Viktor & Rolf",
+          "year": 2015,
+          "concentration": "EDP",
+          "collection": "Spicebomb",
+          "olfactory_family": "Oriental Épicé",
+          "gender": "masculine",
+          "status": "current",
+          "perfumers": [
+            "Olivier Polge"
+          ],
+          "description": "Parfum épicé similaire.",
+          "price": {
+            "90ml": 120,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 8,
+            "Épicé": 9,
+            "Vanillé": 7,
+            "Ambré": 6
+          },
+          "notes": {
+            "top": [
+              "Cannelle",
+              "Poivre noir"
+            ],
+            "heart": [
+              "Lavande"
+            ],
+            "base": [
+              "Vanille",
+              "Tabac"
+            ]
+          },
+          "similarity": "68%",
+          "seasons": {
+            "printemps": 4,
+            "été": 2,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Eternal Oud",
+          "brand": "Lattafa",
+          "year": 2022,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Oriental",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone très populaire de Grand Soir. 90% similaire.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 10,
+            "Ambré": 10,
+            "Vanillé": 8,
+            "Balsamique": 7
+          },
+          "notes": {
+            "top": [
+              "Prune",
+              "Pamplemousse"
+            ],
+            "heart": [
+              "Héliotrope",
+              "Orchidée"
+            ],
+            "base": [
+              "Benjoin",
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "90%",
+          "seasons": {
+            "printemps": 4,
+            "été": 2,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Crater",
+          "brand": "The Dua Brand",
+          "year": 2020,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Oriental Ambré",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone direct de Grand Soir.",
+          "price": {
+            "30ml": 55,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Oriental": 10,
+            "Ambré": 10,
+            "Vanillé": 9,
+            "Balsamique": 8
+          },
+          "notes": {
+            "top": [
+              "Cannelle",
+              "Badiane"
+            ],
+            "heart": [
+              "Benjoin",
+              "Labdanum"
+            ],
+            "base": [
+              "Vanille",
+              "Ambre"
+            ]
+          },
+          "similarity": "88%",
+          "seasons": {
+            "printemps": 4,
+            "été": 1,
+            "automne": 10,
+            "hiver": 10
+          },
+          "mood": {
+            "jour": 4,
+            "nuit": 10
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 4,
+        "été": 1,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 25,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Ambré"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Petit Matin",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2016,
+      "concentration": "EDP",
+      "collection": "Les Voyages Olfactifs",
+      "olfactory_family": "Hespéridé Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Aube fraîche et lumineuse. Citron, litchi et musc blanc.",
+      "price": {
+        "70ml": 245,
+        "200ml": 455,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 9,
+        "Floral": 6,
+        "Musqué": 7,
+        "Frais": 8,
+        "Fruité": 5
+      },
+      "notes": {
+        "top": [
+          "Citron de Sicile",
+          "Litchi"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin sambac"
+        ],
+        "base": [
+          "Musc blanc",
+          "Ambre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Petit Matin Impression",
+          "brand": "Maison Alhambra",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Hespéridé Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de Petit Matin.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Hespéridé": 8,
+            "Floral": 6,
+            "Musqué": 6,
+            "Frais": 7
+          },
+          "notes": {
+            "top": [
+              "Citron",
+              "Litchi"
+            ],
+            "heart": [
+              "Rose",
+              "Jasmin"
+            ],
+            "base": [
+              "Musc blanc"
+            ]
+          },
+          "similarity": "82%",
+          "seasons": {
+            "printemps": 10,
+            "été": 10,
+            "automne": 5,
+            "hiver": 3
+          },
+          "mood": {
+            "jour": 10,
+            "nuit": 4
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Morning Fresh",
+          "brand": "Fragrance World",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Hespéridé Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de Petit Matin.",
+          "price": {
+            "100ml": 22,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Hespéridé": 8,
+            "Floral": 6,
+            "Musqué": 6,
+            "Frais": 8
+          },
+          "notes": {
+            "top": [
+              "Citron",
+              "Litchi"
+            ],
+            "heart": [
+              "Rose",
+              "Jasmin"
+            ],
+            "base": [
+              "Musc blanc"
+            ]
+          },
+          "similarity": "80%",
+          "seasons": {
+            "printemps": 10,
+            "été": 10,
+            "automne": 5,
+            "hiver": 3
+          },
+          "mood": {
+            "jour": 10,
+            "nuit": 4
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Petit Matin Clone",
+          "brand": "Maison Alhambra",
+          "year": 2023,
+          "concentration": "EDP",
+          "collection": "Signature",
+          "olfactory_family": "Hespéridé Floral",
+          "gender": "unisex",
+          "status": "current",
+          "perfumers": [
+            "Non communiqué"
+          ],
+          "description": "Clone de Petit Matin.",
+          "price": {
+            "100ml": 28,
+            "currency": "EUR"
+          },
+          "olfactory_family_intensity": {
+            "Hespéridé": 9,
+            "Floral": 6,
+            "Musqué": 7,
+            "Fruité": 5
+          },
+          "notes": {
+            "top": [
+              "Citron de Sicile",
+              "Litchi"
+            ],
+            "heart": [
+              "Rose",
+              "Jasmin sambac"
+            ],
+            "base": [
+              "Musc blanc",
+              "Ambre"
+            ]
+          },
+          "similarity": "82%",
+          "seasons": {
+            "printemps": 10,
+            "été": 10,
+            "automne": 5,
+            "hiver": 3
+          },
+          "mood": {
+            "jour": 10,
+            "nuit": 4
+          },
+          "price_eur": 0,
+          "source": "Fragrantica"
+        }
+      ],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 3
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 26,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Amyris Femme",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2012,
+      "concentration": "EDT",
+      "collection": "Amyris Collection",
+      "olfactory_family": "Floral Boisé",
+      "gender": "feminine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Amyris de Jamaïque et iris de Florence. Élégance joyeuse.",
+      "price": {
+        "70ml": 195,
+        "200ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 8,
+        "Boisé": 7,
+        "Musqué": 6,
+        "Fruité": 5,
+        "Poudré": 5
+      },
+      "notes": {
+        "top": [
+          "Fleur de citronnier",
+          "Poire"
+        ],
+        "heart": [
+          "Iris de Florence",
+          "Pois de senteur"
+        ],
+        "base": [
+          "Amyris de Jamaïque",
+          "Musc ambré"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 7,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 6
+      },
+      "id": 27,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Amyris Femme Extrait de Parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2019,
+      "concentration": "Extrait",
+      "collection": "Amyris Collection",
+      "olfactory_family": "Floral Boisé",
+      "gender": "feminine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version extrait intensifiée.",
+      "price": {
+        "70ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 9,
+        "Boisé": 8,
+        "Musqué": 7,
+        "Fruité": 5,
+        "Poudré": 6
+      },
+      "notes": {
+        "top": [
+          "Fleur de citronnier",
+          "Poire"
+        ],
+        "heart": [
+          "Iris de Florence",
+          "Rose",
+          "Pois de senteur"
+        ],
+        "base": [
+          "Amyris de Jamaïque",
+          "Musc ambré",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 9,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 28,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Amyris Homme",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2012,
+      "concentration": "EDT",
+      "collection": "Amyris Collection",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "masculine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Bois lumineux et élégant pour homme.",
+      "price": {
+        "70ml": 195,
+        "200ml": 350,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Boisé": 8,
+        "Aromatique": 7,
+        "Hespéridé": 6,
+        "Musqué": 5,
+        "Épicé": 4
+      },
+      "notes": {
+        "top": [
+          "Bergamote de Calabre",
+          "Orange d'Italie"
+        ],
+        "heart": [
+          "Iris",
+          "Romarin"
+        ],
+        "base": [
+          "Amyris de Jamaïque",
+          "Vétiver de Haïti",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 7,
+        "été": 7,
+        "automne": 8,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 6
+      },
+      "id": 29,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Amyris Homme Extrait de Parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2019,
+      "concentration": "Extrait",
+      "collection": "Amyris Collection",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "masculine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version extrait renforcée.",
+      "price": {
+        "70ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Boisé": 9,
+        "Aromatique": 7,
+        "Hespéridé": 5,
+        "Musqué": 6,
+        "Épicé": 5
+      },
+      "notes": {
+        "top": [
+          "Bergamote de Calabre"
+        ],
+        "heart": [
+          "Iris",
+          "Romarin",
+          "Poivre noir"
+        ],
+        "base": [
+          "Amyris de Jamaïque",
+          "Vétiver",
+          "Musc ambré"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 7,
+        "été": 7,
+        "automne": 10,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 30,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "APOM",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2024,
+      "concentration": "EDP",
+      "collection": "APOM",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "A Piece Of Me. Fusion des versions homme et femme. Fleur d'oranger, lavande et vanille.",
+      "price": {
+        "70ml": 245,
+        "200ml": 455,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 8,
+        "Floral": 8,
+        "Ambré": 7,
+        "Vanillé": 6,
+        "Aromatique": 5
+      },
+      "notes": {
+        "top": [
+          "Fleur d'oranger",
+          "Lavande"
+        ],
+        "heart": [
+          "Ylang-ylang",
+          "Ambre gris"
+        ],
+        "base": [
+          "Vanille",
+          "Bois ambrés"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 9,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 9
+      },
+      "id": 31,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "APOM pour Femme",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2009,
+      "concentration": "EDP",
+      "collection": "APOM",
+      "olfactory_family": "Oriental Floral",
+      "gender": "feminine",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version féminine originale. Fleur d'oranger et vanille.",
+      "price": {
+        "70ml": 225,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 8,
+        "Floral": 9,
+        "Vanillé": 7,
+        "Ambré": 6,
+        "Musqué": 5
+      },
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Ylang-ylang",
+          "Jasmin sambac"
+        ],
+        "base": [
+          "Vanille",
+          "Musc ambré"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 9,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 9
+      },
+      "id": 32,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "APOM pour Homme",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2009,
+      "concentration": "EDT",
+      "collection": "APOM",
+      "olfactory_family": "Oriental Aromatique",
+      "gender": "masculine",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version masculine originale. Lavande et vanille.",
+      "price": {
+        "70ml": 195,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 7,
+        "Aromatique": 8,
+        "Vanillé": 6,
+        "Boisé": 5,
+        "Épicé": 5
+      },
+      "notes": {
+        "top": [
+          "Lavande",
+          "Cardamome"
+        ],
+        "heart": [
+          "Géranium",
+          "Bois de oud"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 10
+      },
+      "id": 33,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Lumière Noire pour Femme",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2009,
+      "concentration": "EDP",
+      "collection": "Lumière Noire",
+      "olfactory_family": "Oriental Floral",
+      "gender": "feminine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Lumière obscure. Rose et encens.",
+      "price": {
+        "70ml": 245,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 8,
+        "Floral": 8,
+        "Épicé": 6,
+        "Fumé": 5,
+        "Ambré": 6
+      },
+      "notes": {
+        "top": [
+          "Aldéhydes",
+          "Rose"
+        ],
+        "heart": [
+          "Rose absolue de Turquie",
+          "Encens"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 34,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Lumière Noire pour Homme",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2009,
+      "concentration": "EDT",
+      "collection": "Lumière Noire",
+      "olfactory_family": "Oriental Épicé",
+      "gender": "masculine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Lumière obscure masculine. Encens et bois.",
+      "price": {
+        "70ml": 195,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 8,
+        "Épicé": 8,
+        "Boisé": 7,
+        "Fumé": 6,
+        "Ambré": 5
+      },
+      "notes": {
+        "top": [
+          "Poivre noir",
+          "Baie rose"
+        ],
+        "heart": [
+          "Encens",
+          "Coriandre"
+        ],
+        "base": [
+          "Benjoin",
+          "Cèdre",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 4,
+        "été": 1,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 35,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Épicé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Cologne pour le Matin",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2009,
+      "concentration": "EDC",
+      "collection": "Les Voyages Olfactifs",
+      "olfactory_family": "Hespéridé",
+      "gender": "unisex",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Cologne matinale fraîche.",
+      "price": {
+        "70ml": 145,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 9,
+        "Aromatique": 6,
+        "Floral": 4,
+        "Frais": 9,
+        "Musqué": 3
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote",
+          "Néroli"
+        ],
+        "heart": [
+          "Romarin",
+          "Lavande"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 3
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 3
+      },
+      "id": 36,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Cologne pour le Soir",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2009,
+      "concentration": "EDC",
+      "collection": "Les Voyages Olfactifs",
+      "olfactory_family": "Hespéridé Épicé",
+      "gender": "unisex",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Cologne du soir épicée.",
+      "price": {
+        "70ml": 145,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 7,
+        "Épicé": 7,
+        "Aromatique": 6,
+        "Frais": 6,
+        "Boisé": 5
+      },
+      "notes": {
+        "top": [
+          "Orange amère",
+          "Bergamote"
+        ],
+        "heart": [
+          "Cardamome",
+          "Cannelle"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 8,
+        "hiver": 7
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 7
+      },
+      "id": 37,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Épicé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Absolue pour le Matin",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2010,
+      "concentration": "EDP",
+      "collection": "Les Voyages Olfactifs",
+      "olfactory_family": "Hespéridé Boisé",
+      "gender": "unisex",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version intense du matin.",
+      "price": {
+        "70ml": 195,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 8,
+        "Boisé": 7,
+        "Aromatique": 6,
+        "Frais": 7,
+        "Musqué": 5
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote"
+        ],
+        "heart": [
+          "Romarin",
+          "Jasmin"
+        ],
+        "base": [
+          "Vétiver",
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 10,
+        "automne": 8,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 9,
+        "nuit": 7
+      },
+      "id": 38,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Absolue pour le Soir",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2010,
+      "concentration": "EDP",
+      "collection": "Les Voyages Olfactifs",
+      "olfactory_family": "Oriental Épicé",
+      "gender": "unisex",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version intense du soir.",
+      "price": {
+        "70ml": 195,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 8,
+        "Épicé": 8,
+        "Boisé": 6,
+        "Ambré": 7,
+        "Fumé": 5
+      },
+      "notes": {
+        "top": [
+          "Encens",
+          "Cardamome"
+        ],
+        "heart": [
+          "Cannelle",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Benjoin",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 4,
+        "été": 1,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 39,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Épicé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Le Beau Parfum 2025",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2025,
+      "concentration": "Parfum",
+      "collection": "My Very Intimate Perfumes",
+      "olfactory_family": "Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Floral blanc lumineux. Ylang-ylang, jasmin, tubéreuse et fleur d'oranger.",
+      "price": {
+        "70ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 10,
+        "Poudré": 5,
+        "Crémeux": 6,
+        "Musqué": 5,
+        "Boisé": 4
+      },
+      "notes": {
+        "top": [
+          "Ylang-ylang"
+        ],
+        "heart": [
+          "Jasmin grandiflorum",
+          "Fleur d'oranger",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Musc",
+          "Bois"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 8,
+        "automne": 6,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 7
+      },
+      "id": 40,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Ciel de Gum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2010,
+      "concentration": "EDT",
+      "collection": "My Very Intimate Perfumes",
+      "olfactory_family": "Gourmand Fruité",
+      "gender": "unisex",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Nostalgie du chewing-gum. Fraise et menthe.",
+      "price": {
+        "70ml": 195,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Gourmand": 9,
+        "Fruité": 8,
+        "Frais": 7,
+        "Sucré": 8,
+        "Musqué": 4
+      },
+      "notes": {
+        "top": [
+          "Menthe",
+          "Fraise"
+        ],
+        "heart": [
+          "Bubblegum",
+          "Rose"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 4,
+        "automne": 7,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 7
+      },
+      "id": 41,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Gourmand Fruité"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Kurky",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2025,
+      "concentration": "EDP",
+      "collection": "My Very Intimate Perfumes",
+      "olfactory_family": "Fruité Gourmand",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Tutti frutti et musc blanc. Surnom affectueux de Francis Kurkdjian.",
+      "price": {
+        "70ml": 245,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Fruité": 9,
+        "Gourmand": 8,
+        "Musqué": 7,
+        "Vanillé": 6,
+        "Sucré": 7
+      },
+      "notes": {
+        "top": [
+          "Pêche",
+          "Framboise"
+        ],
+        "heart": [
+          "Notes de bonbon",
+          "Notes fruitées"
+        ],
+        "base": [
+          "Musc blanc",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 4,
+        "automne": 7,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 7
+      },
+      "id": 42,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Fruité Gourmand"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "754",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2012,
+      "concentration": "EDP",
+      "collection": "Exclusifs",
+      "olfactory_family": "Oriental Boisé",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Créé exclusivement pour Bergdorf Goodman.",
+      "price": {
+        "70ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 8,
+        "Boisé": 8,
+        "Ambré": 7,
+        "Épicé": 6,
+        "Musqué": 5
+      },
+      "notes": {
+        "top": [
+          "Cardamome",
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Vanille",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 4,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 43,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Boisé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Globe Trotter Zinc",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2018,
+      "concentration": "EDT",
+      "collection": "Globe Trotter",
+      "olfactory_family": "Hespéridé Aromatique",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Parfum de voyage format métal.",
+      "price": {
+        "11ml": 75,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 8,
+        "Aromatique": 7,
+        "Frais": 8,
+        "Boisé": 4,
+        "Musqué": 4
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote"
+        ],
+        "heart": [
+          "Thé vert",
+          "Géranium"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 3
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 44,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "L'Eau À la Rose",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2019,
+      "concentration": "EDT",
+      "collection": "À la rose Collection",
+      "olfactory_family": "Floral Fruité",
+      "gender": "feminine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version légère et pétillante.",
+      "price": {
+        "70ml": 195,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 8,
+        "Fruité": 7,
+        "Frais": 7,
+        "Musqué": 5,
+        "Vert": 5
+      },
+      "notes": {
+        "top": [
+          "Litchi",
+          "Poire"
+        ],
+        "heart": [
+          "Rose centifolia",
+          "Rose damascena"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 8,
+        "automne": 5,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 5
+      },
+      "id": 45,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Fruité"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Universalis Cologne Forte",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2021,
+      "concentration": "EDP",
+      "collection": "Cologne Forte Collection",
+      "olfactory_family": "Hespéridé Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version Cologne Forte longue tenue.",
+      "price": {
+        "35ml": 135,
+        "70ml": 225,
+        "200ml": 415,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 8,
+        "Floral": 8,
+        "Musqué": 7,
+        "Frais": 7,
+        "Boisé": 5
+      },
+      "notes": {
+        "top": [
+          "Citron de Sicile",
+          "Bergamote"
+        ],
+        "heart": [
+          "Muguet",
+          "Jasmin",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 1
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 46,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Vitae Cologne Forte",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2021,
+      "concentration": "EDP",
+      "collection": "Cologne Forte Collection",
+      "olfactory_family": "Hespéridé Aromatique",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version Cologne Forte.",
+      "price": {
+        "35ml": 135,
+        "70ml": 225,
+        "200ml": 415,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 8,
+        "Aromatique": 7,
+        "Boisé": 6,
+        "Épicé": 5,
+        "Ambré": 5
+      },
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Citron"
+        ],
+        "heart": [
+          "Gingembre",
+          "Thym"
+        ],
+        "base": [
+          "Bois",
+          "Musc ambré"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 1
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 47,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Celestia Cologne Forte",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2021,
+      "concentration": "EDP",
+      "collection": "Cologne Forte Collection",
+      "olfactory_family": "Floral Frais",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version Cologne Forte.",
+      "price": {
+        "35ml": 135,
+        "70ml": 225,
+        "200ml": 415,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 8,
+        "Frais": 8,
+        "Musqué": 7,
+        "Hespéridé": 5,
+        "Boisé": 5
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Cassis"
+        ],
+        "heart": [
+          "Mimosa",
+          "Pivoine"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois blond",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 2
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 48,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Frais"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Oud Satin Mood Body Oil",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2020,
+      "concentration": "Body Oil",
+      "collection": "Oud Mood Collection",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Huile parfumée pour le corps.",
+      "price": {
+        "70ml": 85,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 8,
+        "Floral": 7,
+        "Boisé": 6,
+        "Ambré": 6,
+        "Vanillé": 5
+      },
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Benjoin"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 49,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Baccarat Rouge 540 Body Oil",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2020,
+      "concentration": "Body Oil",
+      "collection": "Baccarat Rouge 540",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Huile parfumée pour le corps.",
+      "price": {
+        "70ml": 85,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 8,
+        "Floral": 6,
+        "Boisé": 6,
+        "Ambré": 8,
+        "Sucré": 5
+      },
+      "notes": {
+        "top": [
+          "Safran"
+        ],
+        "heart": [
+          "Bois ambré",
+          "Ambre gris"
+        ],
+        "base": [
+          "Résine de sapin",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 50,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Baccarat Rouge 540 Scented Hair Mist",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2019,
+      "concentration": "Hair Mist",
+      "collection": "Baccarat Rouge 540",
+      "olfactory_family": "Oriental Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Brume pour les cheveux.",
+      "price": {
+        "70ml": 70,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 7,
+        "Floral": 6,
+        "Boisé": 5,
+        "Ambré": 7,
+        "Sucré": 5
+      },
+      "notes": {
+        "top": [
+          "Safran"
+        ],
+        "heart": [
+          "Bois ambré"
+        ],
+        "base": [
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 3,
+        "automne": 8,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 8
+      },
+      "id": 51,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Aqua Universalis Scented Hair Mist",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2019,
+      "concentration": "Hair Mist",
+      "collection": "Aqua Collection",
+      "olfactory_family": "Hespéridé Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Brume pour les cheveux.",
+      "price": {
+        "70ml": 55,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 8,
+        "Floral": 6,
+        "Musqué": 5,
+        "Frais": 8
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote"
+        ],
+        "heart": [
+          "Muguet",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 1
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 52,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Gentle Fluidity Gold Hair Mist",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2021,
+      "concentration": "Hair Mist",
+      "collection": "Gentle Fluidity",
+      "olfactory_family": "Oriental Ambré",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Brume pour les cheveux.",
+      "price": {
+        "70ml": 60,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 7,
+        "Ambré": 8,
+        "Vanillé": 7,
+        "Musqué": 5
+      },
+      "notes": {
+        "top": [
+          "Genièvre",
+          "Muscade"
+        ],
+        "heart": [
+          "Musc"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 4,
+        "été": 1,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 53,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Ambré"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Gentle Fluidity Silver Hair Mist",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2021,
+      "concentration": "Hair Mist",
+      "collection": "Gentle Fluidity",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Brume pour les cheveux.",
+      "price": {
+        "70ml": 60,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Boisé": 7,
+        "Aromatique": 6,
+        "Musqué": 6,
+        "Épicé": 5
+      },
+      "notes": {
+        "top": [
+          "Genièvre",
+          "Muscade"
+        ],
+        "heart": [
+          "Musc"
+        ],
+        "base": [
+          "Bois blonds"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 7,
+        "été": 7,
+        "automne": 8,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 6
+      },
+      "id": 54,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "À la rose Scented Candle",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2016,
+      "concentration": "Candle",
+      "collection": "À la rose Collection",
+      "olfactory_family": "Floral",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Bougie parfumée à la rose.",
+      "price": {
+        "280g": 75,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 10,
+        "Poudré": 5,
+        "Vert": 4,
+        "Musqué": 4
+      },
+      "notes": {
+        "top": [
+          "Rose"
+        ],
+        "heart": [
+          "Rose damascena",
+          "Rose centifolia"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 5,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 5
+      },
+      "id": 55,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Sparkling Tamarind",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2024,
+      "concentration": "EDP",
+      "collection": "Les Voyages Olfactifs",
+      "olfactory_family": "Hespéridé Épicé",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Tamarin pétillant. Notes de cola et lime.",
+      "price": {
+        "70ml": 245,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Hespéridé": 8,
+        "Épicé": 7,
+        "Fruité": 7,
+        "Boisé": 5,
+        "Sucré": 5
+      },
+      "notes": {
+        "top": [
+          "Tamarin",
+          "Lime",
+          "Cola"
+        ],
+        "heart": [
+          "Baobab",
+          "Sapin"
+        ],
+        "base": [
+          "Bois",
+          "Épices"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 8,
+        "automne": 7,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 6
+      },
+      "id": 56,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Hespéridé Épicé"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Tropylang",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2024,
+      "concentration": "EDP",
+      "collection": "Les Voyages Olfactifs",
+      "olfactory_family": "Floral Tropical",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Ylang-ylang tropical et lumineux.",
+      "price": {
+        "70ml": 245,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 9,
+        "Tropical": 8,
+        "Crémeux": 6,
+        "Musqué": 5,
+        "Boisé": 4
+      },
+      "notes": {
+        "top": [
+          "Ylang-ylang",
+          "Noix de coco"
+        ],
+        "heart": [
+          "Fleur de frangipanier",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 5,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 5
+      },
+      "id": 57,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Tropical"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Les Bulles d'Agathe",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2010,
+      "concentration": "EDT",
+      "collection": "Discontinued",
+      "olfactory_family": "Floral Fruité",
+      "gender": "feminine",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Parfum pour enfants. Bulles de savon.",
+      "price": {
+        "50ml": 85,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 6,
+        "Fruité": 7,
+        "Frais": 8,
+        "Sucré": 5,
+        "Musqué": 4
+      },
+      "notes": {
+        "top": [
+          "Pomme",
+          "Poire"
+        ],
+        "heart": [
+          "Rose",
+          "Muguet"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 7,
+        "automne": 5,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 5
+      },
+      "id": 58,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Fruité"
+      ],
+      "retail_price_eur": 85
+    },
+    {
+      "name": "Petit Garçon",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2010,
+      "concentration": "EDT",
+      "collection": "Discontinued",
+      "olfactory_family": "Aromatique Frais",
+      "gender": "masculine",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Parfum pour enfants garçons.",
+      "price": {
+        "50ml": 85,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Aromatique": 6,
+        "Frais": 8,
+        "Hespéridé": 7,
+        "Musqué": 4,
+        "Boisé": 3
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote"
+        ],
+        "heart": [
+          "Lavande",
+          "Menthe"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 6,
+        "hiver": 4
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 5
+      },
+      "id": 59,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Aromatique Frais"
+      ],
+      "retail_price_eur": 85
+    },
+    {
+      "name": "Le Beau Parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2017,
+      "concentration": "EDP",
+      "collection": "Discontinued",
+      "olfactory_family": "Floral",
+      "gender": "unisex",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version originale discontinuée.",
+      "price": {
+        "70ml": 265,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 10,
+        "Poudré": 5,
+        "Crémeux": 6,
+        "Musqué": 5,
+        "Boisé": 4
+      },
+      "notes": {
+        "top": [
+          "Ylang-ylang"
+        ],
+        "heart": [
+          "Jasmin",
+          "Tubéreuse",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc",
+          "Bois"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 8,
+        "automne": 5,
+        "hiver": 5
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 5
+      },
+      "id": 60,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "724 Extrait de Parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2024,
+      "concentration": "Extrait",
+      "collection": "724",
+      "olfactory_family": "Floral Musqué",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version extrait plus intense de 724.",
+      "price": {
+        "35ml": 225,
+        "70ml": 385,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 9,
+        "Musqué": 9,
+        "Aldéhydé": 6,
+        "Hespéridé": 5,
+        "Boisé": 5
+      },
+      "notes": {
+        "top": [
+          "Aldéhydes",
+          "Bergamote de Calabre"
+        ],
+        "heart": [
+          "Jasmin absolu d'Égypte",
+          "Seringa",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc blanc",
+          "Santal",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 7,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 9
+      },
+      "id": 61,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral Musqué"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "À la rose Extrait de Parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2019,
+      "concentration": "Extrait",
+      "collection": "À la rose Collection",
+      "olfactory_family": "Floral",
+      "gender": "feminine",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version extrait opulente.",
+      "price": {
+        "70ml": 365,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Floral": 10,
+        "Poudré": 6,
+        "Vert": 4,
+        "Musqué": 6,
+        "Boisé": 4
+      },
+      "notes": {
+        "top": [
+          "Pois de senteur"
+        ],
+        "heart": [
+          "Rose damascena absolue",
+          "Rose centifolia absolue",
+          "Violette",
+          "Magnolia"
+        ],
+        "base": [
+          "Muscs",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 7,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 9
+      },
+      "id": 62,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Floral"
+      ],
+      "retail_price_eur": 0
+    },
+    {
+      "name": "Grand Soir Extrait de Parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "year": 2023,
+      "concentration": "Extrait",
+      "collection": "Les Voyages Olfactifs",
+      "olfactory_family": "Oriental Ambré",
+      "gender": "unisex",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "description": "Version extrait ultra-riche.",
+      "price": {
+        "70ml": 385,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Oriental": 10,
+        "Ambré": 10,
+        "Vanillé": 9,
+        "Balsamique": 8,
+        "Épicé": 6
+      },
+      "notes": {
+        "top": [
+          "Cannelle",
+          "Badiane",
+          "Cardamome"
+        ],
+        "heart": [
+          "Benjoin du Laos",
+          "Labdanum",
+          "Encens"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre",
+          "Oud"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 4,
+        "été": 1,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 3,
+        "nuit": 10
+      },
+      "id": 63,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [
+        "Oriental Ambré"
+      ],
+      "retail_price_eur": 0
+    }
+  ],
+  "country": "France"
+}

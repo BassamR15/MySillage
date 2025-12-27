@@ -1,0 +1,854 @@
+{
+  "brand": "Ormaie",
+  "description": "Maison de parfumerie niche française fondée en 2018 par le duo mère-fils Marie-Lise Jonak (ancienne directrice créative chez Givaudan puis Takasago) et Baptiste Bouygues. Ormaie se distingue par son engagement radical : 100% des parfums sont composés exclusivement d'ingrédients naturels, sans aucune molécule synthétique. Les flacons sont en verre recyclé (Saverglass), les bouchons sculptés à la main en bois recyclé de forêts françaises gérées durablement. Chaque fragrance raconte une histoire personnelle liée à la famille des fondateurs. Le nom 'Ormaie' signifie 'ormaie' (bosquet d'ormes) en français, reflétant le lien profond avec la nature.",
+  "founded": 2018,
+  "headquarters": "Paris, France",
+  "website": "https://ormaie.paris",
+  "philosophy": "100% naturel, durabilité, artisanat français, storytelling familial",
+  "perfumers": [
+    "Serge de Oliveira (Parfumeur principal)"
+  ],
+  "price_range": {
+    "edp_100ml": "260-310 EUR",
+    "extrait_100ml": "350-400 EUR",
+    "currency": "EUR"
+  },
+  "collections": [
+    {
+      "name": "Les Eaux de Parfum",
+      "count": 10,
+      "description": "Collection principale de parfums 100% naturels"
+    },
+    {
+      "name": "Les Extraits de Parfum",
+      "count": 4,
+      "description": "Versions haute concentration, plus opulentes et mystérieuses"
+    }
+  ],
+  "perfumes": [
+    {
+      "name": "Le Passant",
+      "brand": "Ormaie",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Fougère",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Hommage au père du fondateur qui portait un fougère classique. Lavande charismatique adoucie par la vanille et le papier d'Arménie. Un fougère moderne et élégant.",
+      "price": {
+        "100ml": 260,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Lavande": 9,
+        "Vanillé": 6
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Tagète"
+        ],
+        "heart": [
+          "Lavande de Provence",
+          "Lavande"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka",
+          "Santal",
+          "Ambrette"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 7,
+        "automne": 8,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 9,
+        "nuit": 7
+      },
+      "id": 1,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Fougère"
+      ],
+      "retail_price_eur": 260
+    },
+    {
+      "name": "L'Ivrée Bleue",
+      "brand": "Ormaie",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Oriental Vanillé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Parfum narcotique inspiré par l'exotisme de Gauguin et les jungles de Rousseau. Vanille noire, rhum et cacao créent une sensualité obscure et addictive.",
+      "price": {
+        "100ml": 260,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Vanille": 9,
+        "Rhum": 7
+      },
+      "notes": {
+        "top": [
+          "Rhum",
+          "Mandarine",
+          "Lys"
+        ],
+        "heart": [
+          "Iris",
+          "Violette"
+        ],
+        "base": [
+          "Vanille noire",
+          "Cacao",
+          "Benjoin",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 4,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 2,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Oriental Vanillé"
+      ],
+      "retail_price_eur": 260
+    },
+    {
+      "name": "Yvonne",
+      "brand": "Ormaie",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Chypré Fruité",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Hommage à la grand-mère du fondateur. Chypré rose fruité dans un style très années 70. Rose Centifolia délicate portée par le cassis et le patchouli.",
+      "price": {
+        "100ml": 260,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Rose": 8,
+        "Fruité": 7
+      },
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cassis",
+          "Poivre rose",
+          "Pêche"
+        ],
+        "heart": [
+          "Rose Centifolia",
+          "Jasmin Sambac"
+        ],
+        "base": [
+          "Patchouli",
+          "Vanille",
+          "Santal",
+          "Benjoin"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 7,
+        "automne": 8,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 8
+      },
+      "id": 3,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Chypré Fruité"
+      ],
+      "retail_price_eur": 260
+    },
+    {
+      "name": "28°",
+      "brand": "Ormaie",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Floral Oriental",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "28° est la température parfaite pour sortir une nuit d'été. Parfum solaire où la fleur d'oranger absolue domine un bouquet de fleurs blanches et de vanille.",
+      "price": {
+        "100ml": 260,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Fleur d'oranger": 9,
+        "Solaire": 8
+      },
+      "notes": {
+        "top": [
+          "Citron",
+          "Mandarine",
+          "Bergamote",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Jasmin Sambac",
+          "Tubéreuse",
+          "Rose"
+        ],
+        "base": [
+          "Vanille",
+          "Immortelle",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 10,
+        "automne": 6,
+        "hiver": 4
+      },
+      "mood": {
+        "jour": 8,
+        "nuit": 9
+      },
+      "id": 4,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Floral Oriental"
+      ],
+      "retail_price_eur": 260
+    },
+    {
+      "name": "Papier Carbone",
+      "brand": "Ormaie",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Oriental Épicé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Souvenir d'enfance évoquant l'école, la bibliothèque et les bonbons à la réglisse. Anis étoilé, café et notes boisées créent un parfum réconfortant et nostalgique.",
+      "price": {
+        "100ml": 260,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7,
+        "Anis": 8,
+        "Boisé": 6
+      },
+      "notes": {
+        "top": [
+          "Anis étoilé",
+          "Café",
+          "Bergamote",
+          "Cardamome"
+        ],
+        "heart": [
+          "Sauge sclarée",
+          "Noix de muscade",
+          "Coriandre",
+          "Lavande"
+        ],
+        "base": [
+          "Ambrette",
+          "Patchouli",
+          "Gaïac",
+          "Vétiver d'Haïti"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 9,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 8
+      },
+      "id": 5,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Oriental Épicé"
+      ],
+      "retail_price_eur": 260
+    },
+    {
+      "name": "Les Brumes",
+      "brand": "Ormaie",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Citrus Boisé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Matin brumeux dans un champ d'agrumes en Italie. Fraîcheur citrus complétée par l'élégance du santal et une note unique de maté. Cologne sophistiquée.",
+      "price": {
+        "100ml": 260,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7,
+        "Citrus": 9,
+        "Boisé": 6
+      },
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Citron",
+          "Mandarine",
+          "Bergamote"
+        ],
+        "heart": [
+          "Sauge",
+          "Cardamome",
+          "Tubéreuse",
+          "Jasmin"
+        ],
+        "base": [
+          "Maté",
+          "Cèdre",
+          "Vétiver",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 10,
+        "été": 10,
+        "automne": 5,
+        "hiver": 4
+      },
+      "mood": {
+        "jour": 10,
+        "nuit": 4
+      },
+      "id": 6,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Citrus Boisé"
+      ],
+      "retail_price_eur": 260
+    },
+    {
+      "name": "Toï Toï Toï",
+      "brand": "Ormaie",
+      "year": 2018,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Boisé Aromatique",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Expression allemande utilisée par les danseurs de ballet pour se souhaiter bonne chance. Évoque le bois ciré de la scène et les chaussons de danse. Santal, encens et épices.",
+      "price": {
+        "100ml": 260,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7,
+        "Santal": 8,
+        "Encens": 7
+      },
+      "notes": {
+        "top": [
+          "Encens",
+          "Poivre noir"
+        ],
+        "heart": [
+          "Santal",
+          "Patchouli",
+          "Cèdre"
+        ],
+        "base": [
+          "Vanille",
+          "Cypriol",
+          "Vétiver"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 5,
+        "automne": 9,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 7,
+        "nuit": 8
+      },
+      "id": 7,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Boisé Aromatique"
+      ],
+      "retail_price_eur": 260
+    },
+    {
+      "name": "Marque-page",
+      "brand": "Ormaie",
+      "year": 2021,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Oriental Cuir",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Inspiré du marque-page en cuir que le père du fondateur emportait en voyage. Oriental puissant avec cuir, oud, encens et épices, sublimé par l'iris.",
+      "price": {
+        "100ml": 310,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Cuir": 8,
+        "Oud": 7
+      },
+      "notes": {
+        "top": [
+          "Encens",
+          "Davana",
+          "Armoise"
+        ],
+        "heart": [
+          "Cuir",
+          "Iris",
+          "Fleur d'oranger",
+          "Jasmin",
+          "Géranium"
+        ],
+        "base": [
+          "Cypriol",
+          "Oud",
+          "Ambre",
+          "Patchouli",
+          "Santal",
+          "Cèdre",
+          "Vétiver"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 8,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Oriental Cuir"
+      ],
+      "retail_price_eur": 310
+    },
+    {
+      "name": "Tableau Parisien",
+      "brand": "Ormaie",
+      "year": 2022,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Floral Épicé",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Premiers moments parisiens du fondateur. Tubéreuse sensuelle épicée de gingembre et tabac. Élégance parisienne avec une touche de nonchalance. Le flacon est un hommage à l'Art Déco.",
+      "price": {
+        "100ml": 290,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Tubéreuse": 9,
+        "Épicé": 7
+      },
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Mandarine"
+        ],
+        "heart": [
+          "Tubéreuse rouge",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Tabac",
+          "Fève tonka",
+          "Ambre",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 7,
+        "été": 5,
+        "automne": 9,
+        "hiver": 8
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 9
+      },
+      "id": 9,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Floral Épicé"
+      ],
+      "retail_price_eur": 290
+    },
+    {
+      "name": "18-12",
+      "brand": "Ormaie",
+      "year": 2023,
+      "concentration": "EDP",
+      "collection": "Les Eaux de Parfum",
+      "olfactory_family": "Floral Fruité",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Cadeau de Baptiste Bouygues à sa mère pour le 18 décembre. Rose élégante et joyeuse rehaussée par la cerise et l'amande. Léger, aérien, parfaitement 'soft girl era'.",
+      "price": {
+        "100ml": 290,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 7,
+        "Rose": 8,
+        "Cerise": 7
+      },
+      "notes": {
+        "top": [
+          "Litchi",
+          "Pétales de rose",
+          "Mandarine",
+          "Bergamote"
+        ],
+        "heart": [
+          "Cerise",
+          "Amande",
+          "Rose",
+          "Violette",
+          "Héliotrope"
+        ],
+        "base": [
+          "Sucre",
+          "Vanille",
+          "Santal",
+          "Sauge"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 9,
+        "été": 8,
+        "automne": 7,
+        "hiver": 6
+      },
+      "mood": {
+        "jour": 9,
+        "nuit": 7
+      },
+      "id": 10,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Floral Fruité"
+      ],
+      "retail_price_eur": 290
+    },
+    {
+      "name": "Toï Toï Toï Extrait",
+      "brand": "Ormaie",
+      "year": 2024,
+      "concentration": "Extrait",
+      "collection": "Les Extraits de Parfum",
+      "olfactory_family": "Boisé Oriental",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Version extrait plus dense et gourmande. Osmanthus fruité-cuiré, davana et framboise-bois ajoutent de l'opulence. Santal et encens renforcés.",
+      "price": {
+        "100ml": 360,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Santal": 9,
+        "Gourmand": 7
+      },
+      "notes": {
+        "top": [
+          "Encens",
+          "Poivre noir",
+          "Osmanthus"
+        ],
+        "heart": [
+          "Santal",
+          "Patchouli",
+          "Davana",
+          "Framboise"
+        ],
+        "base": [
+          "Vanille",
+          "Cypriol",
+          "Vétiver",
+          "Cuir"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 3,
+        "automne": 10,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 5,
+        "nuit": 10
+      },
+      "id": 11,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Boisé Oriental"
+      ],
+      "retail_price_eur": 360
+    },
+    {
+      "name": "Yvonne Extrait",
+      "brand": "Ormaie",
+      "year": 2024,
+      "concentration": "Extrait",
+      "collection": "Les Extraits de Parfum",
+      "olfactory_family": "Oriental Floral",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Chypré plus affirmé et mature. Prune de Damas et patchouli plus présents, néroli ajoute de la fraîcheur. Trail boisé-ambré qui devient presque cuiré.",
+      "price": {
+        "100ml": 360,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 9,
+        "Patchouli": 9,
+        "Fruité": 8
+      },
+      "notes": {
+        "top": [
+          "Prune de Damas",
+          "Rose turque",
+          "Bergamote",
+          "Néroli"
+        ],
+        "heart": [
+          "Jasmin Sambac indien",
+          "Pêche",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Patchouli indonésien",
+          "Fève tonka",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 6,
+        "été": 4,
+        "automne": 9,
+        "hiver": 9
+      },
+      "mood": {
+        "jour": 6,
+        "nuit": 10
+      },
+      "id": 12,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Oriental Floral"
+      ],
+      "retail_price_eur": 360
+    },
+    {
+      "name": "32° Extrait",
+      "brand": "Ormaie",
+      "year": 2025,
+      "concentration": "Extrait",
+      "collection": "Les Extraits de Parfum",
+      "olfactory_family": "Floral Musqué",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Fleurs blanches sur sable chaud. Tubéreuse, chèvrefeuille et ylang-ylang portés par le musc blanc et le palo santo. Été méditerranéen distillé.",
+      "price": {
+        "100ml": 360,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 8,
+        "Floral blanc": 9,
+        "Musqué": 7
+      },
+      "notes": {
+        "top": [
+          "Poire",
+          "Freesia",
+          "Néroli"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Chèvrefeuille",
+          "Ylang-ylang",
+          "Noix de coco",
+          "Bois de cachemire"
+        ],
+        "base": [
+          "Daim",
+          "Palo santo",
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 8,
+        "été": 10,
+        "automne": 6,
+        "hiver": 4
+      },
+      "mood": {
+        "jour": 9,
+        "nuit": 7
+      },
+      "id": 13,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Floral Musqué"
+      ],
+      "retail_price_eur": 360
+    },
+    {
+      "name": "L'Ivrée Nuit Extrait",
+      "brand": "Ormaie",
+      "year": 2025,
+      "concentration": "Extrait",
+      "collection": "Les Extraits de Parfum",
+      "olfactory_family": "Oriental Vanillé",
+      "gender": "unisexe",
+      "status": "current",
+      "perfumers": [
+        "Serge de Oliveira"
+      ],
+      "description": "Réinterprétation nocturne de L'Ivrée Bleue. Vanille lactée, mangue et bois de cachemire créent une nuit tropicale suspendue entre rêve et réalité.",
+      "price": {
+        "100ml": 360,
+        "currency": "EUR"
+      },
+      "olfactory_family_intensity": {
+        "Principal": 10,
+        "Vanille": 10,
+        "Tropical": 8
+      },
+      "notes": {
+        "top": [
+          "Mangue",
+          "Lait",
+          "Vanille",
+          "Fruit de la passion",
+          "Nectarine",
+          "Encens"
+        ],
+        "heart": [
+          "Bois de cachemire",
+          "Vanille"
+        ],
+        "base": [
+          "Musc",
+          "Amberwood",
+          "Absolue de vanille"
+        ]
+      },
+      "dupes": [],
+      "seasons": {
+        "printemps": 5,
+        "été": 4,
+        "automne": 9,
+        "hiver": 10
+      },
+      "mood": {
+        "jour": 4,
+        "nuit": 10
+      },
+      "id": 14,
+      "perfumer": "Serge de Oliveira",
+      "accords": [
+        "Oriental Vanillé"
+      ],
+      "retail_price_eur": 360
+    }
+  ],
+  "dupe_note": "Ormaie est une maison niche confidentielle dont les parfums sont composés à 100% d'ingrédients naturels. Cette spécificité rend la reproduction par des maisons de clones (Lattafa, Maison Alhambra, etc.) techniquement difficile et économiquement non viable. À ce jour, aucun dupe vérifié n'existe pour les parfums Ormaie.",
+  "country": "France"
+}

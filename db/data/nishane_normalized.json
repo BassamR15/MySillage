@@ -1,0 +1,2304 @@
+{
+  "brand": "Nishane",
+  "country": "Turquie",
+  "founded": 2012,
+  "founders": [
+    "Mert Güzel",
+    "Murat Katran"
+  ],
+  "headquarters": "Istanbul",
+  "website": "https://nishane.com",
+  "description": "Première marque de parfumerie de niche d'Istanbul, célèbre pour ses créations artistiques et ses extraits de parfum puissants.",
+  "perfumes": [
+    {
+      "id": 1,
+      "name": "Hacivat",
+      "year": 2017,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Shadow Play",
+      "notes": {
+        "top": [
+          "Ananas",
+          "Pamplemousse",
+          "Bergamote"
+        ],
+        "heart": [
+          "Cèdre",
+          "Patchouli",
+          "Jasmin"
+        ],
+        "base": [
+          "Mousse de chêne",
+          "Notes boisées"
+        ]
+      },
+      "accords": [
+        "Chypré",
+        "Boisé",
+        "Fruité"
+      ],
+      "description": "Chypré moderne fruité-boisé. Hommage au personnage élégant du théâtre d'ombres turc. Best-seller mondial.",
+      "retail_price_eur": 195,
+      "dupes": [
+        {
+          "brand": "Alexandria Fragrances",
+          "name": "Hacivaz",
+          "similarity": 92,
+          "price_eur": 58,
+          "notes": "Clone direct très fidèle, extrait concentré",
+          "source": "Alexandria UK"
+        },
+        {
+          "brand": "Afnan",
+          "name": "Supremacy Not Only Intense",
+          "similarity": 85,
+          "price_eur": 35,
+          "notes": "Dry-down mousse similaire, plus fumé",
+          "source": "Fragrantica"
+        },
+        {
+          "brand": "Rasasi",
+          "name": "Hawas Black",
+          "similarity": 88,
+          "price_eur": 30,
+          "notes": "Clone 2024 très proche, excellent rapport qualité-prix",
+          "source": "Aroma Authority"
+        },
+        {
+          "brand": "Lattafa",
+          "name": "Pride Shaheen Silver",
+          "similarity": 82,
+          "price_eur": 25,
+          "notes": "Clone Aventus/Hacivat, bonne longévité",
+          "source": "TikTok"
+        },
+        {
+          "brand": "Mancera",
+          "name": "Cedrat Boise",
+          "similarity": 78,
+          "price_eur": 90,
+          "notes": "ADN similaire, plus citronné",
+          "source": "Fragrantica"
+        },
+        {
+          "brand": "AromaPassions",
+          "name": "Kindness",
+          "similarity": 85,
+          "price_eur": 25,
+          "notes": "Clone extrait avec phéromones",
+          "source": "Amazon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Karagöz",
+      "year": 2017,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Shadow Play",
+      "notes": {
+        "top": [
+          "Safran",
+          "Cannelle",
+          "Cardamome"
+        ],
+        "heart": [
+          "Rose",
+          "Oud",
+          "Cuir"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Oriental",
+        "Épicé",
+        "Cuiré"
+      ],
+      "description": "Oriental épicé profond. Hommage au personnage rusé du théâtre d'ombres turc.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 3,
+      "name": "Zenne",
+      "year": 2017,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Shadow Play",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Rose turque",
+          "Jasmin",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Bois de santal"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Oriental",
+        "Épicé"
+      ],
+      "description": "Floral oriental séduisant. Représente les personnages féminins du théâtre d'ombres.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 4,
+      "name": "Hacivat X",
+      "year": 2023,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "X Collection",
+      "notes": {
+        "top": [
+          "Ananas",
+          "Bergamote",
+          "Pamplemousse",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Cèdre",
+          "Patchouli",
+          "Jasmin",
+          "Encens"
+        ],
+        "base": [
+          "Mousse de chêne",
+          "Oud",
+          "Vétiver"
+        ]
+      },
+      "accords": [
+        "Chypré",
+        "Boisé",
+        "Oud"
+      ],
+      "description": "Version intensifiée avec oud. Célèbre le 10ème anniversaire de Nishane.",
+      "retail_price_eur": 250,
+      "dupes": [
+        {
+          "brand": "Alexandria Fragrances",
+          "name": "Hacivaz Oud",
+          "similarity": 88,
+          "price_eur": 65,
+          "notes": "Clone version oud",
+          "source": "Alexandria UK"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ani X",
+      "year": 2023,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "X Collection",
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote",
+          "Gingembre",
+          "Melon",
+          "Cardamome"
+        ],
+        "heart": [
+          "Pomme verte",
+          "Cassis",
+          "Lavande",
+          "Sauge",
+          "Rose"
+        ],
+        "base": [
+          "Vanille",
+          "Santal",
+          "Cèdre",
+          "Ambre gris",
+          "Musc blanc"
+        ]
+      },
+      "accords": [
+        "Gourmand",
+        "Épicé",
+        "Frais"
+      ],
+      "description": "Version plus fraîche et citronnée d'Ani. Gingembre et vanille crémeuse.",
+      "retail_price_eur": 250,
+      "dupes": []
+    },
+    {
+      "id": 6,
+      "name": "Hundred Silent Ways X",
+      "year": 2023,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "X Collection",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Pêche"
+        ],
+        "heart": [
+          "Gardénia",
+          "Iris",
+          "Jasmin",
+          "Héliotrope"
+        ],
+        "base": [
+          "Vanille",
+          "Cuir",
+          "Patchouli"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Gourmand",
+        "Cuiré"
+      ],
+      "description": "Version plus sombre et sexy avec ajout de cuir. Gardénia crémeux et vanille.",
+      "retail_price_eur": 250,
+      "dupes": []
+    },
+    {
+      "id": 7,
+      "name": "Fan Your Flames X",
+      "year": 2023,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "X Collection",
+      "notes": {
+        "top": [
+          "Noix de coco",
+          "Rhum",
+          "Épices"
+        ],
+        "heart": [
+          "Tabac",
+          "Fève tonka",
+          "Fleurs blanches"
+        ],
+        "base": [
+          "Cèdre",
+          "Mousse de chêne",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Gourmand",
+        "Tabac",
+        "Boisé"
+      ],
+      "description": "Version intensifiée du tabac-coco emblématique.",
+      "retail_price_eur": 250,
+      "dupes": []
+    },
+    {
+      "id": 8,
+      "name": "Wulóng Chá X",
+      "year": 2023,
+      "perfumer": "Julien Rasquinet",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "X Collection",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Yuzu",
+          "Litsea cubeba",
+          "Mandarine"
+        ],
+        "heart": [
+          "Thé vert",
+          "Magnolia",
+          "Thym"
+        ],
+        "base": [
+          "Musc",
+          "Figue"
+        ]
+      },
+      "accords": [
+        "Thé",
+        "Citrus",
+        "Floral"
+      ],
+      "description": "Version plus florale avec magnolia. Plus douce et crémeuse.",
+      "retail_price_eur": 250,
+      "dupes": []
+    },
+    {
+      "id": 9,
+      "name": "Ani",
+      "year": 2019,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "No Boundaries",
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Bergamote",
+          "Poivre rose",
+          "Notes vertes"
+        ],
+        "heart": [
+          "Cardamome",
+          "Cassis",
+          "Rose turque"
+        ],
+        "base": [
+          "Vanille",
+          "Benjoin",
+          "Santal",
+          "Cèdre",
+          "Patchouli",
+          "Ambre gris",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Gourmand",
+        "Vanille",
+        "Épicé"
+      ],
+      "description": "Vanille épicée légendaire. Souvent citée comme la meilleure vanille du marché. Nommée d'après l'ancienne cité d'Ani.",
+      "retail_price_eur": 195,
+      "dupes": [
+        {
+          "brand": "Alexandria Fragrances",
+          "name": "H'Ani",
+          "similarity": 90,
+          "price_eur": 51,
+          "notes": "Clone très fidèle, vanille crémeuse",
+          "source": "Alexandria UK"
+        },
+        {
+          "brand": "Lattafa",
+          "name": "Nasheet",
+          "similarity": 80,
+          "price_eur": 25,
+          "notes": "Ani lite, moins de projection mais proche",
+          "source": "Fragrantica Forum"
+        },
+        {
+          "brand": "Fragrance World",
+          "name": "Spectre Ghost",
+          "similarity": 82,
+          "price_eur": 28,
+          "notes": "Alternative populaire moins chère",
+          "source": "TikTok"
+        },
+        {
+          "brand": "HK Perfumes",
+          "name": "Powerful-X",
+          "similarity": 88,
+          "price_eur": 40,
+          "notes": "Clone haute qualité",
+          "source": "HK Perfumes"
+        },
+        {
+          "brand": "Dua Fragrances",
+          "name": "Ani Inspired",
+          "similarity": 90,
+          "price_eur": 45,
+          "notes": "Clone DUA très fidèle",
+          "source": "Dua Brand"
+        },
+        {
+          "brand": "Monac Attar",
+          "name": "Anie",
+          "similarity": 85,
+          "price_eur": 30,
+          "notes": "Clone artisanal longue tenue",
+          "source": "House of Monac"
+        },
+        {
+          "brand": "Be Layered",
+          "name": "Linae",
+          "similarity": 82,
+          "price_eur": 35,
+          "notes": "Dupe accessible",
+          "source": "Be Layered"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Wulóng Chá",
+      "year": 2015,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Orange",
+          "Mandarine",
+          "Litsea cubeba"
+        ],
+        "heart": [
+          "Thé oolong",
+          "Muscade"
+        ],
+        "base": [
+          "Figue",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Thé",
+        "Aromatique",
+        "Vert"
+      ],
+      "description": "Thé oolong rafraîchissant. Un des premiers parfums Nishane, devenu culte. Évoque les jardins de thé d'Extrême-Orient.",
+      "retail_price_eur": 175,
+      "dupes": [
+        {
+          "brand": "Atelier Cologne",
+          "name": "Oolang Infini",
+          "similarity": 80,
+          "price_eur": 100,
+          "notes": "Thé similaire, plus cuiré",
+          "source": "Beautinow"
+        },
+        {
+          "brand": "Dua Fragrances",
+          "name": "Oolong Tea",
+          "similarity": 85,
+          "price_eur": 45,
+          "notes": "Clone direct thé-citrus",
+          "source": "TikTok"
+        },
+        {
+          "brand": "Elizabeth Arden",
+          "name": "Green Tea",
+          "similarity": 70,
+          "price_eur": 25,
+          "notes": "Alternative budget, moins complexe",
+          "source": "Fragrantica"
+        },
+        {
+          "brand": "Tocca",
+          "name": "Bianca",
+          "similarity": 75,
+          "price_eur": 70,
+          "notes": "Thé similaire pour débutants",
+          "source": "TikTok"
+        },
+        {
+          "brand": "Miller Harris",
+          "name": "Tea Tonique",
+          "similarity": 78,
+          "price_eur": 95,
+          "notes": "Thé Earl Grey britannique",
+          "source": "Beautinow"
+        },
+        {
+          "brand": "The Dupe Spot AU",
+          "name": "#215",
+          "similarity": 88,
+          "price_eur": 35,
+          "notes": "Clone australien fidèle",
+          "source": "The Dupe Spot"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Hundred Silent Ways",
+      "year": 2016,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Tubéreuse",
+          "Pêche",
+          "Mandarine"
+        ],
+        "heart": [
+          "Gardénia",
+          "Jasmin",
+          "Iris"
+        ],
+        "base": [
+          "Vanille",
+          "Santal",
+          "Vétiver"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Gourmand",
+        "Crémeux"
+      ],
+      "description": "Floral blanc vanillé inspiré par la poésie de Rumi. Tubéreuse crémeuse et gardénia.",
+      "retail_price_eur": 195,
+      "dupes": [
+        {
+          "brand": "YSL",
+          "name": "Black Opium",
+          "similarity": 75,
+          "price_eur": 90,
+          "notes": "ADN similaire selon certains, moins cher",
+          "source": "Fragrantica"
+        },
+        {
+          "brand": "Julianna's Perfume",
+          "name": "HSW Dupe",
+          "similarity": 78,
+          "price_eur": 30,
+          "notes": "Clone moins puissant",
+          "source": "Fragrantica"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Fan Your Flames",
+      "year": 2016,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Noix de coco",
+          "Rhum"
+        ],
+        "heart": [
+          "Tabac",
+          "Fève tonka"
+        ],
+        "base": [
+          "Cèdre de Chine",
+          "Mousse de chêne"
+        ]
+      },
+      "accords": [
+        "Gourmand",
+        "Tabac",
+        "Tropical"
+      ],
+      "description": "Tabac-coco addictif. Mélange unique de notes tropicales et tabac fumé.",
+      "retail_price_eur": 195,
+      "dupes": [
+        {
+          "brand": "Dua Fragrances",
+          "name": "Fan Your Flames Inspired",
+          "similarity": 88,
+          "price_eur": 45,
+          "notes": "Clone coco-tabac",
+          "source": "Dua Brand"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Suede et Safran",
+      "year": 2014,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Rumi",
+      "notes": {
+        "top": [
+          "Safran",
+          "Cardamome"
+        ],
+        "heart": [
+          "Daim",
+          "Rose"
+        ],
+        "base": [
+          "Bois de santal",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Suédé",
+        "Épicé",
+        "Oriental"
+      ],
+      "description": "Daim et safran opulent. Inspiré par la poésie soufie de Rumi.",
+      "retail_price_eur": 185,
+      "dupes": []
+    },
+    {
+      "id": 14,
+      "name": "Duftbluten",
+      "year": 2013,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Rumi",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Cèdre",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Agrumes",
+        "Musc"
+      ],
+      "description": "Floral lumineux. Premier parfum de la collection Rumi.",
+      "retail_price_eur": 185,
+      "dupes": []
+    },
+    {
+      "id": 15,
+      "name": "Colognise",
+      "year": 2018,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Cologne",
+      "collection": "Extrait de Cologne",
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Néroli",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Ambre gris"
+        ]
+      },
+      "accords": [
+        "Hespéridé",
+        "Frais",
+        "Musc"
+      ],
+      "description": "Cologne moderne longue tenue. Réinterprétation turque de la tradition colonya.",
+      "retail_price_eur": 165,
+      "dupes": []
+    },
+    {
+      "id": 16,
+      "name": "Safran Colognise",
+      "year": 2018,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Cologne",
+      "collection": "Extrait de Cologne",
+      "notes": {
+        "top": [
+          "Citron",
+          "Bergamote"
+        ],
+        "heart": [
+          "Safran",
+          "Cuir"
+        ],
+        "base": [
+          "Ambre gris",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Hespéridé",
+        "Épicé",
+        "Cuiré"
+      ],
+      "description": "Cologne au safran et cuir. Pont entre tradition cologne turque et parfumerie niche.",
+      "retail_price_eur": 165,
+      "dupes": []
+    },
+    {
+      "id": 17,
+      "name": "Hesperide Colognise",
+      "year": 2018,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Cologne",
+      "collection": "Extrait de Cologne",
+      "notes": {
+        "top": [
+          "Orange",
+          "Citron",
+          "Bergamote"
+        ],
+        "heart": [
+          "Néroli",
+          "Petit-grain"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Hespéridé",
+        "Aromatique",
+        "Frais"
+      ],
+      "description": "Cologne hespéridée classique. Fraîcheur méditerranéenne longue tenue.",
+      "retail_price_eur": 165,
+      "dupes": []
+    },
+    {
+      "id": 18,
+      "name": "Ege / Ailaio",
+      "year": 2021,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Time Capsule",
+      "notes": {
+        "top": [
+          "Citron",
+          "Néroli",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Bois flotté"
+        ]
+      },
+      "accords": [
+        "Aquatique",
+        "Floral",
+        "Boisé"
+      ],
+      "description": "Représente 'Place'. Inspiré par la mer Égée et les côtes turques.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 19,
+      "name": "Nanshe",
+      "year": 2021,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Time Capsule",
+      "notes": {
+        "top": [
+          "Poire",
+          "Bergamote"
+        ],
+        "heart": [
+          "Pivoine",
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Musc",
+          "Bois de cachemire"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Fruité",
+        "Musc"
+      ],
+      "description": "Représente 'Belief'. Déesse sumérienne des rêves et de la fertilité.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 20,
+      "name": "Tempfluo",
+      "year": 2021,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Time Capsule",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre noir"
+        ],
+        "heart": [
+          "Oud",
+          "Iris"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Cuir"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Iris",
+        "Oriental"
+      ],
+      "description": "Représente 'Time'. Fusion moderne d'oud et d'iris poudré.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 21,
+      "name": "Vain & Naïve",
+      "year": 2021,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Time Capsule",
+      "notes": {
+        "top": [
+          "Fleur d'oranger",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Héliotrope"
+        ],
+        "base": [
+          "Vanille",
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Poudré",
+        "Gourmand"
+      ],
+      "description": "Représente 'Action'. Floral poudré romantique.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 22,
+      "name": "Tuberóza",
+      "year": 2018,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Tubéreuse",
+          "Bergamote"
+        ],
+        "heart": [
+          "Tubéreuse absolue",
+          "Jasmin",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Musc",
+          "Santal",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Narcotique",
+        "Crémeux"
+      ],
+      "description": "Tubéreuse pure et envoûtante. Un des floraux blancs les plus purs de la niche.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 23,
+      "name": "Tuberóza X",
+      "year": 2024,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "X Collection",
+      "notes": {
+        "top": [
+          "Tubéreuse",
+          "Violette"
+        ],
+        "heart": [
+          "Tubéreuse absolue indienne",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Musc",
+          "Notes vertes"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Vert",
+        "Narcotique"
+      ],
+      "description": "Version plus verte et végétale de Tuberóza. Tubéreuse absolue indienne de LMR.",
+      "retail_price_eur": 280,
+      "dupes": []
+    },
+    {
+      "id": 24,
+      "name": "Sultan Vetiver",
+      "year": 2018,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Vétiver de Java",
+          "Anis",
+          "Bergamote",
+          "Poivre"
+        ],
+        "heart": [
+          "Vétiver bourbon",
+          "Vétiver haïtien",
+          "Néroli",
+          "Fève tonka"
+        ],
+        "base": [
+          "Vétiver",
+          "Cuir",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Vétiver",
+        "Épicé",
+        "Cuiré"
+      ],
+      "description": "Triple vétiver luxueux. Trois origines de vétiver pour une composition complexe.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 25,
+      "name": "Ambra Calabria",
+      "year": 2019,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Bergamote de Calabre",
+          "Citron"
+        ],
+        "heart": [
+          "Néroli",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Ambre",
+          "Labdanum",
+          "Benjoin"
+        ]
+      },
+      "accords": [
+        "Ambré",
+        "Citrus",
+        "Oriental"
+      ],
+      "description": "Ambre méditerranéen. Bergamote de Calabre et ambre chaud.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 26,
+      "name": "Boszporansen",
+      "year": 2020,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Blossom",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jacinthe",
+          "Muguet",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Santal",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Floral vert",
+        "Frais",
+        "Musc"
+      ],
+      "description": "Floral printanier. Inspiré par les rives du Bosphore au printemps.",
+      "retail_price_eur": 175,
+      "dupes": []
+    },
+    {
+      "id": 27,
+      "name": "Spice Bazaar",
+      "year": 2020,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Blossom",
+      "notes": {
+        "top": [
+          "Safran",
+          "Cannelle",
+          "Cardamome"
+        ],
+        "heart": [
+          "Rose",
+          "Œillet"
+        ],
+        "base": [
+          "Vanille",
+          "Benjoin",
+          "Bois de santal"
+        ]
+      },
+      "accords": [
+        "Épicé",
+        "Oriental",
+        "Floral"
+      ],
+      "description": "Bazar aux épices d'Istanbul. Voyage olfactif dans le grand bazar.",
+      "retail_price_eur": 175,
+      "dupes": []
+    },
+    {
+      "id": 28,
+      "name": "Unutamam",
+      "year": 2019,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Experimental",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote",
+          "Armoise"
+        ],
+        "heart": [
+          "Géranium",
+          "Violette",
+          "Iris"
+        ],
+        "base": [
+          "Mousse de chêne",
+          "Fève tonka",
+          "Coumarine"
+        ]
+      },
+      "accords": [
+        "Fougère",
+        "Aromatique",
+        "Mousse"
+      ],
+      "description": "Fougère provocatrice. Signifie 'Je ne peux pas oublier' en turc.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 29,
+      "name": "Shinanay",
+      "year": 2024,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Experimental",
+      "notes": {
+        "top": [
+          "Galbanum",
+          "Élémi",
+          "Orange sanguine"
+        ],
+        "heart": [
+          "Cèpe",
+          "Gardénia",
+          "Tubéreuse",
+          "Mastic",
+          "Magnolia",
+          "Muguet"
+        ],
+        "base": [
+          "Civette",
+          "Mousse de chêne",
+          "Opoponax",
+          "Santal",
+          "Benjoin",
+          "Cèdre"
+        ]
+      },
+      "accords": [
+        "Chypré floral",
+        "Animalique",
+        "Boisé"
+      ],
+      "description": "Chypré animalique vintage. Nommé d'après une chanson turque de 1989.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 30,
+      "name": "B-612",
+      "year": 2017,
+      "perfumer": "Anne Flipo",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Imaginative - Le Petit Prince",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Rose",
+          "Géranium",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Boisé",
+        "Épicé"
+      ],
+      "description": "Inspiré par Le Petit Prince. L'astéroïde B-612 où vit le petit prince et sa rose.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 31,
+      "name": "Nefs",
+      "year": 2019,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "No Boundaries",
+      "notes": {
+        "top": [
+          "Safran",
+          "Cannelle"
+        ],
+        "heart": [
+          "Rose",
+          "Oud"
+        ],
+        "base": [
+          "Ambre",
+          "Cuir",
+          "Benjoin"
+        ]
+      },
+      "accords": [
+        "Oriental",
+        "Oud",
+        "Épicé"
+      ],
+      "description": "Oud rose épicé. Signifie 'souffle' ou 'esprit' en arabe/turc.",
+      "retail_price_eur": 195,
+      "dupes": [
+        {
+          "brand": "Dua Fragrances",
+          "name": "Nefs Inspired",
+          "similarity": 85,
+          "price_eur": 45,
+          "notes": "Clone oud-rose",
+          "source": "Dua Brand"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Papilefiko",
+      "year": 2022,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Figue",
+          "Bergamote"
+        ],
+        "heart": [
+          "Feuille de figuier",
+          "Noix de coco"
+        ],
+        "base": [
+          "Bois de cèdre",
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Figuier",
+        "Gourmand",
+        "Boisé"
+      ],
+      "description": "Figuier méditerranéen. Figue crémeuse et feuilles vertes.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 33,
+      "name": "Hacivat Oud",
+      "year": 2022,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Shadow Play",
+      "notes": {
+        "top": [
+          "Ananas",
+          "Bergamote",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Oud",
+          "Encens",
+          "Jasmin"
+        ],
+        "base": [
+          "Vétiver",
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Chypré",
+        "Fumé"
+      ],
+      "description": "Hacivat enrichi à l'oud. Version plus sombre et orientale.",
+      "retail_price_eur": 280,
+      "dupes": [
+        {
+          "brand": "Alexandria Fragrances",
+          "name": "Hacivaz Oud",
+          "similarity": 88,
+          "price_eur": 65,
+          "notes": "Clone oud",
+          "source": "Alexandria UK"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Afrika Olifant",
+      "year": 2020,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Miniature Art",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cardamome"
+        ],
+        "heart": [
+          "Géranium",
+          "Oud"
+        ],
+        "base": [
+          "Cuir",
+          "Ambre",
+          "Benjoin"
+        ]
+      },
+      "accords": [
+        "Cuiré",
+        "Oud",
+        "Épicé"
+      ],
+      "description": "Safari africain. Inspiré par les éléphants d'Afrique.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 35,
+      "name": "Crazy Rich",
+      "year": 2021,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Miniature Art",
+      "notes": {
+        "top": [
+          "Poire",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Héliotrope"
+        ],
+        "base": [
+          "Vanille",
+          "Musc",
+          "Patchouli"
+        ]
+      },
+      "accords": [
+        "Gourmand",
+        "Floral",
+        "Vanille"
+      ],
+      "description": "Luxe décadent. Vanille riche et florale.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 36,
+      "name": "Rich Berry",
+      "year": 2024,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Abundance",
+      "notes": {
+        "top": [
+          "Fruits rouges",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Musc",
+          "Bois"
+        ]
+      },
+      "accords": [
+        "Fruité",
+        "Floral",
+        "Gourmand"
+      ],
+      "description": "Baies luxueuses. Nouvelle collection 2024.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 37,
+      "name": "Salty Flower",
+      "year": 2024,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Abundance",
+      "notes": {
+        "top": [
+          "Notes salines",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleurs blanches",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc",
+          "Ambre gris"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Marin",
+        "Musc"
+      ],
+      "description": "Floral marin. Fleurs et sel marin.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 38,
+      "name": "Mana",
+      "year": 2022,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Harrods Exclusive",
+      "notes": {
+        "top": [
+          "Safran",
+          "Rose"
+        ],
+        "heart": [
+          "Oud",
+          "Ambre"
+        ],
+        "base": [
+          "Musc",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Oriental",
+        "Épicé"
+      ],
+      "description": "Exclusif Harrods. Oud rose luxueux.",
+      "retail_price_eur": 320,
+      "dupes": []
+    },
+    {
+      "id": 39,
+      "name": "Favonius",
+      "year": 2022,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Selfridges Exclusive",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Fleurs blanches",
+          "Iris"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Frais",
+        "Musc"
+      ],
+      "description": "Exclusif Selfridges. Brise printanière.",
+      "retail_price_eur": 320,
+      "dupes": []
+    },
+    {
+      "id": 40,
+      "name": "Meant To Be Seen",
+      "year": 2025,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Violette",
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Moxalone",
+          "Civettone"
+        ],
+        "base": [
+          "Akigalawood",
+          "Sésame",
+          "Ambrettolide",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Boisé floral",
+        "Musc",
+        "Poudré"
+      ],
+      "description": "Nouveau 2025. Musc moderne et iris lumineux.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 41,
+      "name": "Musiqa Oud",
+      "year": 2016,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Rose",
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Bois de santal"
+        ],
+        "base": [
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Rose",
+        "Oriental"
+      ],
+      "description": "Musique de l'oud. Harmonie entre rose et oud.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 42,
+      "name": "Muzaffer",
+      "year": 2019,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "No Boundaries",
+      "notes": {
+        "top": [
+          "Encens",
+          "Bergamote"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Bois"
+        ]
+      },
+      "accords": [
+        "Encens",
+        "Oud",
+        "Boisé"
+      ],
+      "description": "Victorieux. Encens et oud triomphants.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 43,
+      "name": "Pasión Choco",
+      "year": 2020,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Miniature Art",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Orange"
+        ],
+        "heart": [
+          "Cacao",
+          "Café"
+        ],
+        "base": [
+          "Vanille",
+          "Musc",
+          "Benjoin"
+        ]
+      },
+      "accords": [
+        "Gourmand",
+        "Chocolat",
+        "Café"
+      ],
+      "description": "Passion chocolatée. Gourmand cacao-café.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 44,
+      "name": "Tero",
+      "year": 2019,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "No Boundaries",
+      "notes": {
+        "top": [
+          "Thé",
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Violette"
+        ],
+        "base": [
+          "Vétiver",
+          "Cuir",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Thé",
+        "Iris",
+        "Cuiré"
+      ],
+      "description": "Terre et thé. Terreux et sophistiqué.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 45,
+      "name": "Waquar",
+      "year": 2022,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Épices",
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Épicé",
+        "Oriental"
+      ],
+      "description": "Dignité. Oud noble et épices royales.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 46,
+      "name": "Fikir",
+      "year": 2022,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Miniature Art",
+      "notes": {
+        "top": [
+          "Encens",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Oud",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Encens",
+        "Floral",
+        "Oud"
+      ],
+      "description": "Pensée. Méditation olfactive.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 47,
+      "name": "Discovery Set Shadow Play",
+      "year": 2017,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Sets",
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": []
+      },
+      "accords": [
+        "Coffret"
+      ],
+      "description": "Coffret découverte Hacivat, Karagöz, Zenne.",
+      "retail_price_eur": 95,
+      "dupes": []
+    },
+    {
+      "id": 48,
+      "name": "James",
+      "year": 2020,
+      "perfumer": "Sylvain Cara",
+      "gender": "Homme",
+      "concentration": "Extrait de Parfum",
+      "collection": "Miniature Art",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cardamome"
+        ],
+        "heart": [
+          "Lavande",
+          "Géranium"
+        ],
+        "base": [
+          "Cuir",
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Aromatique",
+        "Cuiré",
+        "Fougère"
+      ],
+      "description": "Gentleman britannique. Lavande et cuir classique.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 49,
+      "name": "Rosa Turca",
+      "year": 2024,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Rose turque",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose de Damas",
+          "Géranium"
+        ],
+        "base": [
+          "Musc",
+          "Santal",
+          "Patchouli"
+        ]
+      },
+      "accords": [
+        "Rose",
+        "Floral",
+        "Musc"
+      ],
+      "description": "Hommage à la rose turque d'Isparta.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 50,
+      "name": "Shem",
+      "year": 2023,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Encens",
+          "Myrrhe"
+        ],
+        "heart": [
+          "Rose",
+          "Santal"
+        ],
+        "base": [
+          "Ambre",
+          "Benjoin",
+          "Musc"
+        ]
+      },
+      "accords": [
+        "Encens",
+        "Oriental",
+        "Résineux"
+      ],
+      "description": "Le Nom. Spirituel et méditatif.",
+      "retail_price_eur": 220,
+      "dupes": []
+    },
+    {
+      "id": 51,
+      "name": "Ege Çileksi",
+      "year": 2024,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Abundance",
+      "notes": {
+        "top": [
+          "Fraise",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleurs blanches",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "accords": [
+        "Fruité",
+        "Floral",
+        "Gourmand"
+      ],
+      "description": "Fraise de la mer Égée. Fruité estival.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 52,
+      "name": "No Boundaries Set",
+      "year": 2019,
+      "perfumer": "Various",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Sets",
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": []
+      },
+      "accords": [
+        "Coffret"
+      ],
+      "description": "Coffret découverte collection No Boundaries.",
+      "retail_price_eur": 125,
+      "dupes": []
+    },
+    {
+      "id": 53,
+      "name": "Hundred Silent Ways Parfum",
+      "year": 2023,
+      "perfumer": "Dominique Ropion",
+      "gender": "Unisexe",
+      "concentration": "Parfum",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Tubéreuse",
+          "Pêche",
+          "Mandarine"
+        ],
+        "heart": [
+          "Gardénia",
+          "Jasmin",
+          "Iris"
+        ],
+        "base": [
+          "Vanille",
+          "Santal",
+          "Vétiver"
+        ]
+      },
+      "accords": [
+        "Floral blanc",
+        "Gourmand",
+        "Crémeux"
+      ],
+      "description": "Version Parfum concentration maximale.",
+      "retail_price_eur": 250,
+      "dupes": []
+    },
+    {
+      "id": 54,
+      "name": "Multi Collection Set",
+      "year": 2023,
+      "perfumer": "Various",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Sets",
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": []
+      },
+      "accords": [
+        "Coffret"
+      ],
+      "description": "Coffret multi-collections best-sellers.",
+      "retail_price_eur": 150,
+      "dupes": []
+    },
+    {
+      "id": 55,
+      "name": "Floralizza",
+      "year": 2020,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Femme",
+      "concentration": "Extrait de Parfum",
+      "collection": "Blossom",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cassis"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Pivoine"
+        ],
+        "base": [
+          "Musc blanc",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Floral",
+        "Fruité",
+        "Musc"
+      ],
+      "description": "Bouquet floral joyeux et lumineux.",
+      "retail_price_eur": 175,
+      "dupes": []
+    },
+    {
+      "id": 56,
+      "name": "Taif Aoud",
+      "year": 2016,
+      "perfumer": "Jorge Lee",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Rose de Taif",
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Rose",
+        "Oud",
+        "Oriental"
+      ],
+      "description": "Rose de Taif et oud précieux. Rose saoudienne rare.",
+      "retail_price_eur": 280,
+      "dupes": []
+    },
+    {
+      "id": 57,
+      "name": "Île Flottante",
+      "year": 2024,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Abundance",
+      "notes": {
+        "top": [
+          "Meringue",
+          "Vanille"
+        ],
+        "heart": [
+          "Caramel",
+          "Crème"
+        ],
+        "base": [
+          "Musc",
+          "Bois blond"
+        ]
+      },
+      "accords": [
+        "Gourmand",
+        "Vanille",
+        "Lacté"
+      ],
+      "description": "Dessert français iconique. Gourmand crémeux.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 58,
+      "name": "Kredo",
+      "year": 2024,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre"
+        ],
+        "heart": [
+          "Iris",
+          "Encens"
+        ],
+        "base": [
+          "Cuir",
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Cuiré",
+        "Iris",
+        "Encens"
+      ],
+      "description": "Croyance. Cuir noble et encens sacré.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 59,
+      "name": "Lavenderize",
+      "year": 2023,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Blossom",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote"
+        ],
+        "heart": [
+          "Lavande absolue",
+          "Iris"
+        ],
+        "base": [
+          "Vanille",
+          "Musc",
+          "Tonka"
+        ]
+      },
+      "accords": [
+        "Lavande",
+        "Aromatique",
+        "Gourmand"
+      ],
+      "description": "Triple lavande luxueuse. Lavande de Provence et absolue.",
+      "retail_price_eur": 175,
+      "dupes": []
+    },
+    {
+      "id": 60,
+      "name": "Vjola",
+      "year": 2023,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Blossom",
+      "notes": {
+        "top": [
+          "Violette",
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Violette feuille"
+        ],
+        "base": [
+          "Musc",
+          "Bois de cèdre"
+        ]
+      },
+      "accords": [
+        "Violette",
+        "Iris",
+        "Poudré"
+      ],
+      "description": "Violette sophistiquée. Hommage à la violette de Parme.",
+      "retail_price_eur": 175,
+      "dupes": []
+    },
+    {
+      "id": 61,
+      "name": "Oud for Souls",
+      "year": 2022,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Safran",
+          "Cardamome"
+        ],
+        "heart": [
+          "Oud",
+          "Rose de Damas"
+        ],
+        "base": [
+          "Santal",
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Rose",
+        "Oriental"
+      ],
+      "description": "Oud pour les âmes. Oud contemplatif et rose.",
+      "retail_price_eur": 280,
+      "dupes": []
+    },
+    {
+      "id": 62,
+      "name": "Valkyre",
+      "year": 2024,
+      "perfumer": "Angelos Balamis",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Rose"
+        ],
+        "base": [
+          "Cuir",
+          "Musc",
+          "Ambre gris"
+        ]
+      },
+      "accords": [
+        "Cuiré",
+        "Floral",
+        "Épicé"
+      ],
+      "description": "Guerrière nordique. Force et féminité.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 63,
+      "name": "Silencio",
+      "year": 2021,
+      "perfumer": "Cécile Zarokian",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Signature",
+      "notes": {
+        "top": [
+          "Encens",
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Benjoin"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Encens",
+        "Iris",
+        "Méditatif"
+      ],
+      "description": "Le silence. Parfum de méditation.",
+      "retail_price_eur": 195,
+      "dupes": []
+    },
+    {
+      "id": 64,
+      "name": "Oud Soul",
+      "year": 2024,
+      "perfumer": "Jordi Fernández",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Prestige",
+      "notes": {
+        "top": [
+          "Encens",
+          "Safran"
+        ],
+        "heart": [
+          "Oud",
+          "Rose"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "accords": [
+        "Oud",
+        "Encens",
+        "Oriental"
+      ],
+      "description": "Âme de l'oud. Version plus spirituelle.",
+      "retail_price_eur": 280,
+      "dupes": []
+    },
+    {
+      "id": 65,
+      "name": "Discovery Set X Collection",
+      "year": 2023,
+      "perfumer": "Various",
+      "gender": "Unisexe",
+      "concentration": "Extrait de Parfum",
+      "collection": "Sets",
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": []
+      },
+      "accords": [
+        "Coffret"
+      ],
+      "description": "Coffret des 5 parfums X Collection 10ème anniversaire.",
+      "retail_price_eur": 145,
+      "dupes": []
+    }
+  ]
+}

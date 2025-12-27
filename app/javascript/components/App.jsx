@@ -3,9 +3,11 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import PerfumeCard from "./PerfumeCard";
 
-export default function App({ recommended, latest, userSignedIn, currentUser }) {
+export default function App({ recommended, latest, userSignedIn, currentUser,perfumes }) {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [searchQuery, setSearchQuery] = useState("");
+  const root = document.getElementById("react-root");
+  const totalPerfumes = root.dataset.totalPerfumes;
 
   const carouselSlides = [
     { id: 1, title: "Votre parfum idéal existe", subtitle: "Laissez notre IA le trouver pour vous", icon: "💫" },
@@ -99,7 +101,8 @@ export default function App({ recommended, latest, userSignedIn, currentUser }) 
           </div>
           <div className="grid md:grid-cols-3 gap-6">
             {latest.map((perfume) => (
-              <div
+              <a
+                href={`/perfumes/${perfume.id}`}
                 key={perfume.id}
                 className="group bg-white rounded-2xl p-6 border border-slate-200 hover:border-slate-400 hover:shadow-lg transition cursor-pointer"
               >
@@ -114,7 +117,7 @@ export default function App({ recommended, latest, userSignedIn, currentUser }) 
                 <button className="text-sm text-slate-600 font-medium group-hover:text-slate-800 transition">
                   Découvrir →
                 </button>
-              </div>
+              </a>
             ))}
           </div>
         </div>
@@ -164,7 +167,7 @@ export default function App({ recommended, latest, userSignedIn, currentUser }) 
             </div>
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
-                <div className="text-4xl font-bold text-slate-700 mb-2">12k+</div>
+                <div className="text-4xl font-bold text-slate-700 mb-2">{totalPerfumes}</div>
                 <div className="text-slate-500">Parfums</div>
               </div>
               <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">

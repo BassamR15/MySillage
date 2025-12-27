@@ -6,11 +6,7 @@ export default function PerfumeCard({ perfume }) {
   return (
     <a href={`/perfumes/${perfume.id}`} className="group bg-white rounded-2xl overflow-hidden border border-slate-200 hover:border-slate-400 hover:shadow-lg transition cursor-pointer">
       <div className="aspect-square bg-gradient-to-br from-slate-100 to-slate-50 flex items-center justify-center text-6xl relative">
-        {perfume.image ? (
-          <img src={perfume.image} alt={perfume.name} className="w-full h-full object-cover" />
-        ) : (
-          <span>🧴</span>
-        )}
+          <img src={perfume.placeholder_image} alt={perfume.name} className="w-full h-full object-cover" />
         {perfume.score && (
           <div className="absolute top-3 right-3 bg-slate-700 text-white text-xs px-2 py-1 rounded-full font-bold">
             {perfume.score}%

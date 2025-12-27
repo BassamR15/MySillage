@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2025_12_25_180911) do
+ActiveRecord::Schema[7.1].define(version: 2025_12_27_084825) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
   enable_extension "vector"
@@ -82,12 +82,22 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_25_180911) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "brand_collections", force: :cascade do |t|
+    t.bigint "brand_id", null: false
+    t.string "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["brand_id"], name: "index_brand_collections_on_brand_id"
+  end
+
   create_table "brands", force: :cascade do |t|
     t.string "name"
     t.string "country"
     t.text "description"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "founded"
+    t.string "logo_url"
   end
 
   create_table "collections", force: :cascade do |t|
@@ -188,6 +198,7 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_25_180911) do
     t.string "family"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "image_url"
   end
 
   create_table "notifications", force: :cascade do |t|
@@ -249,6 +260,7 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_25_180911) do
     t.integer "dupe_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "similarity"
     t.index ["dupe_id"], name: "index_perfume_dupes_on_dupe_id"
     t.index ["original_perfume_id"], name: "index_perfume_dupes_on_original_perfume_id"
   end
@@ -277,6 +289,7 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_25_180911) do
     t.text "bio"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "photo_url"
   end
 
   create_table "perfumes", force: :cascade do |t|
@@ -293,6 +306,9 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_25_180911) do
     t.integer "reformulation_year"
     t.vector "embedding", limit: 1536
     t.integer "price_cents"
+    t.string "concentration"
+    t.bigint "brand_collection_id", null: false
+    t.index ["brand_collection_id"], name: "index_perfumes_on_brand_collection_id"
     t.index ["brand_id"], name: "index_perfumes_on_brand_id"
   end
 
@@ -445,6 +461,7 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_25_180911) do
   add_foreign_key "addresses", "marketplace_profiles"
   add_foreign_key "ai_conversations", "users"
   add_foreign_key "ai_messages", "ai_conversations"
+  add_foreign_key "brand_collections", "brands"
   add_foreign_key "collections", "perfumes"
   add_foreign_key "collections", "users"
   add_foreign_key "conversations", "listings"
@@ -477,6 +494,7 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_25_180911) do
   add_foreign_key "perfume_notes", "perfumes"
   add_foreign_key "perfume_perfumers", "perfumers"
   add_foreign_key "perfume_perfumers", "perfumes"
+  add_foreign_key "perfumes", "brand_collections"
   add_foreign_key "perfumes", "brands"
   add_foreign_key "price_alerts", "perfumes"
   add_foreign_key "price_alerts", "users"

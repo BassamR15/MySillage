@@ -1,0 +1,5518 @@
+{
+  "brand": "Jean Paul Gaultier",
+  "description": "Maison de parfumerie française emblématique fondée par le créateur de mode Jean Paul Gaultier en 1993 avec le lancement de Classique. Connu pour ses flacons iconiques en forme de buste (corset féminin pour Classique, torse masculin pour Le Male), JPG est devenu l'une des marques de parfums les plus vendues au monde. Appartenant au groupe Puig depuis 2016.",
+  "founded": 1993,
+  "headquarters": "Paris, France",
+  "parent_company": "Puig",
+  "website": "https://www.jeanpaulgaultier.com",
+  "total_perfumes": 175,
+  "perfumers": [
+    "Francis Kurkdjian",
+    "Jacques Cavallier Belletrud",
+    "Quentin Bisch",
+    "Fabrice Pellegrin",
+    "Daphné Bugey",
+    "Natalie Gracia-Cetto",
+    "Olivier Cresp",
+    "Annick Menardo",
+    "Christophe Raynaud",
+    "Sonia Constant",
+    "Amelie Jacquin",
+    "Aurélien Guichard",
+    "Ane Ayo",
+    "Hamid Merati-Kashani",
+    "Nicolas Bonneville",
+    "Steve DeMercado"
+  ],
+  "price_range": {
+    "edt_125ml": "80-100 EUR",
+    "edp_125ml": "100-135 EUR",
+    "parfum_125ml": "130-160 EUR"
+  },
+  "perfumes": [
+    {
+      "name": "Le Male",
+      "year": 1995,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe",
+          "Cardamome",
+          "Bergamote",
+          "Armoise"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger",
+          "Carvi"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka",
+          "Ambre",
+          "Santal",
+          "Cèdre"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Cuba Gold",
+          "brand": "Cuba Paris",
+          "similarity": 85,
+          "price": 15,
+          "price_eur": 15,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Gotik",
+          "brand": "Chez Pierre",
+          "similarity": 80,
+          "price": 20,
+          "price_eur": 20,
+          "source": "Fragrantica",
+          "notes": ""
+        }
+      ],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 1,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Essence de Parfum",
+      "year": 2016,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "discontinued",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Cardamome",
+          "Bergamote"
+        ],
+        "heart": [
+          "Lavande",
+          "Cuir"
+        ],
+        "base": [
+          "Vanille",
+          "Styrax",
+          "Ciste"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 2,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ultra Male",
+      "year": 2015,
+      "concentration": "EDT Intense",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "notes": {
+        "top": [
+          "Poire",
+          "Bergamote",
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Sauge sclarée",
+          "Cumin"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre",
+          "Cèdre",
+          "Cuir"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "9pm",
+          "brand": "Afnan",
+          "similarity": 90,
+          "price": 30,
+          "price_eur": 30,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Ramz Silver",
+          "brand": "Lattafa",
+          "similarity": 88,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Lion",
+          "brand": "Rayhaan",
+          "similarity": 85,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Attar Al Wesal",
+          "brand": "Al Wataniah",
+          "similarity": 85,
+          "price": 20,
+          "price_eur": 20,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Exchange Unlimited",
+          "brand": "Fragrance World",
+          "similarity": 85,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        }
+      ],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 3,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Le Parfum",
+      "year": 2020,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch",
+        "Natalie Gracia-Cetto"
+      ],
+      "notes": {
+        "top": [
+          "Cardamome"
+        ],
+        "heart": [
+          "Lavande",
+          "Iris"
+        ],
+        "base": [
+          "Vanille",
+          "Notes orientales",
+          "Notes boisées"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Glacier Le Noir",
+          "brand": "Maison Alhambra",
+          "similarity": 85,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Khadlaj Shiyaaka",
+          "brand": "Khadlaj",
+          "similarity": 80,
+          "price": 30,
+          "price_eur": 30,
+          "source": "Fragrantica",
+          "notes": ""
+        }
+      ],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 4,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Elixir",
+      "year": 2023,
+      "concentration": "Parfum",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Vanille",
+          "Benjoin"
+        ],
+        "base": [
+          "Miel",
+          "Fève tonka",
+          "Tabac"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "The Kingdom For Men",
+          "brand": "Lattafa",
+          "similarity": 90,
+          "price": 30,
+          "price_eur": 30,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Tribal Gold",
+          "brand": "Various",
+          "similarity": 80,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Lionheart Man",
+          "brand": "Armaf Club de Nuit",
+          "similarity": 88,
+          "price": 35,
+          "notes": "Plus de menthe, moins de miel que l'original, excellente performance",
+          "price_eur": 35,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Rayhaan Elixir",
+          "brand": "Rayhaan",
+          "similarity": 85,
+          "price": 30,
+          "notes": "Clone solide, nécessite macération",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Hawas Elixir",
+          "brand": "Rasasi",
+          "similarity": 88,
+          "price": 25,
+          "notes": "Version plus crémeuse, excellente balance",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 5,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Elixir Absolu",
+      "year": 2025,
+      "concentration": "Parfum Intense",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Lavande"
+        ],
+        "heart": [
+          "Prune"
+        ],
+        "base": [
+          "Fève tonka"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 6,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Elixir Collector Edition",
+      "year": 2025,
+      "concentration": "Parfum",
+      "gender": "masculin",
+      "status": "limited",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Vanille",
+          "Benjoin"
+        ],
+        "base": [
+          "Miel",
+          "Fève tonka",
+          "Tabac"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 7,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Terrible",
+      "year": 2010,
+      "concentration": "EDT Extreme",
+      "gender": "masculin",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "notes": {
+        "top": [
+          "Pamplemousse",
+          "Cardamome"
+        ],
+        "heart": [
+          "Lavande",
+          "Poivre rose"
+        ],
+        "base": [
+          "Vanille",
+          "Vétiver",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 8,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male On Board",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Citron",
+          "Néroli",
+          "Gingembre"
+        ],
+        "heart": [
+          "Lavande de mer",
+          "Notes aquatiques"
+        ],
+        "base": [
+          "Bois flotté",
+          "Musc",
+          "Ambre gris"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 9,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Lover",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Citron",
+          "Néroli"
+        ],
+        "heart": [
+          "Lavande",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 10,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male In the Navy",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Iris"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 11,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2009",
+      "year": 2009,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Lavande"
+        ],
+        "heart": [
+          "Notes marines"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 12,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2011",
+      "year": 2011,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Citrus",
+          "Menthe"
+        ],
+        "heart": [
+          "Lavande",
+          "Notes marines"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 13,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2012",
+      "year": 2012,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille légère"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 14,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2013",
+      "year": 2013,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Lavande",
+          "Menthe"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 15,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2014",
+      "year": 2014,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Citrus",
+          "Notes aquatiques"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 16,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2015",
+      "year": 2015,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille",
+          "Musc blanc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 17,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Popeye",
+      "year": 2013,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 18,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Aviator",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Lavande",
+          "Cardamome"
+        ],
+        "heart": [
+          "Cuir",
+          "Notes épicées"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 19,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Pride 2022",
+      "year": 2022,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 20,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Pride 2023",
+      "year": 2023,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 21,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Pride 2024",
+      "year": 2024,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Agrumes",
+          "Yuzu"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Néroli"
+        ],
+        "base": [
+          "Musc",
+          "Notes boisées"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 22,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Collector Edition 2022",
+      "year": 2022,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 23,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Collector Edition 2023",
+      "year": 2023,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 24,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Collector Edition 2024",
+      "year": 2024,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Lavande"
+        ],
+        "heart": [
+          "Menthe"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "id": 25,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Beau",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch",
+        "Daphné Bugey"
+      ],
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Noix de coco"
+        ],
+        "heart": [
+          "Tonka",
+          "Lavande"
+        ],
+        "base": [
+          "Bois de santal",
+          "Fève tonka"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Glacier Bold",
+          "brand": "Maison Alhambra",
+          "similarity": 85,
+          "price": 25,
+          "notes": "Clone du DNA Le Beau EDT, plus frais",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "collection": "Le Beau",
+      "brand": "Jean Paul Gaultier",
+      "id": 26,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Beau Le Parfum",
+      "year": 2022,
+      "concentration": "EDP Intense",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Noix de coco"
+        ],
+        "heart": [
+          "Amande",
+          "Vanille"
+        ],
+        "base": [
+          "Santal",
+          "Fève tonka",
+          "Benjoin"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Asad Zanzibar",
+          "brand": "Lattafa",
+          "similarity": 85,
+          "price": 30,
+          "price_eur": 30,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Glacier Bold",
+          "brand": "Maison Alhambra",
+          "similarity": 82,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Vida Loca",
+          "brand": "Mandarina Duck",
+          "similarity": 80,
+          "price": 35,
+          "price_eur": 35,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Khadlaj Island",
+          "brand": "Khadlaj",
+          "similarity": 90,
+          "price": 25,
+          "notes": "Considéré comme le meilleur clone, performance excellente",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Najdia Intense",
+          "brand": "Lattafa",
+          "similarity": 80,
+          "price": 20,
+          "notes": "Clone du DNA Le Beau, très sucré, notes tropicales",
+          "price_eur": 20,
+          "source": "Fragrantica"
+        }
+      ],
+      "collection": "Le Beau",
+      "brand": "Jean Paul Gaultier",
+      "id": 27,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Beau Paradise Garden",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Ylang-ylang",
+          "Bergamote"
+        ],
+        "heart": [
+          "Noix de coco",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Santal",
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Wadi",
+          "brand": "Maison Asrar",
+          "similarity": 82,
+          "price": 25,
+          "notes": "Ajoute douceur, meilleure tenue",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        },
+        {
+          "name": "Hawas Tropical",
+          "brand": "Rasasi",
+          "similarity": 80,
+          "price": 30,
+          "notes": "Ressemble à l'ouverture, moins de notes vertes",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        }
+      ],
+      "collection": "Le Beau",
+      "brand": "Jean Paul Gaultier",
+      "id": 28,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Beau Flower Edition",
+      "year": 2025,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Notes florales"
+        ],
+        "heart": [
+          "Noix de coco",
+          "Fleurs blanches"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Beau",
+      "brand": "Jean Paul Gaultier",
+      "id": 29,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique",
+      "year": 1993,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Jacques Cavallier Belletrud"
+      ],
+      "notes": {
+        "top": [
+          "Fleur d'oranger",
+          "Anis étoilé",
+          "Rose",
+          "Mandarine",
+          "Poire",
+          "Bergamote"
+        ],
+        "heart": [
+          "Ylang-ylang",
+          "Gingembre",
+          "Orchidée",
+          "Tubéreuse",
+          "Iris",
+          "Prune"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre",
+          "Musc",
+          "Cannelle",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Cuba Jungle Tiger",
+          "brand": "Cuba Paris",
+          "similarity": 75,
+          "price": 15,
+          "price_eur": 15,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "French Cancan",
+          "brand": "New Brand",
+          "similarity": 70,
+          "price": 15,
+          "price_eur": 15,
+          "source": "Fragrantica",
+          "notes": ""
+        }
+      ],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 30,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Eau de Parfum",
+      "year": 1993,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Jacques Cavallier Belletrud"
+      ],
+      "notes": {
+        "top": [
+          "Fleur d'oranger",
+          "Rose"
+        ],
+        "heart": [
+          "Ylang-ylang",
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 31,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Essence de Parfum",
+      "year": 2016,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Jasmin",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Vanille",
+          "Benjoin",
+          "Bois de santal"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 32,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Eau Fraîche",
+      "year": 2014,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Rose"
+        ],
+        "heart": [
+          "Gingembre",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 33,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Intense",
+      "year": 2014,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "notes": {
+        "top": [
+          "Rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 34,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique X",
+      "year": 1995,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "discontinued",
+      "notes": {
+        "top": [
+          "Fleur d'oranger",
+          "Mandarine"
+        ],
+        "heart": [
+          "Ylang-ylang",
+          "Orchidée"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 35,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Pin Up",
+      "year": 2020,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Pêche"
+        ],
+        "heart": [
+          "Rose",
+          "Orchidée"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 36,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Collector Edition 2022",
+      "year": 2022,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 37,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Collector Edition 2023",
+      "year": 2023,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 38,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Collector Edition 2024",
+      "year": 2024,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Gingembre"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 39,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Pride 2022",
+      "year": 2022,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 40,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Pride 2023",
+      "year": 2023,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 41,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Pride 2024",
+      "year": 2024,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 42,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2009",
+      "year": 2009,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citrus"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille légère"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 43,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2011",
+      "year": 2011,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Classique",
+      "brand": "Jean Paul Gaultier",
+      "id": 44,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal",
+      "year": 2017,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Fabrice Pellegrin",
+        "Daphné Bugey"
+      ],
+      "notes": {
+        "top": [
+          "Mandarine sanguine",
+          "Poire"
+        ],
+        "heart": [
+          "Miel",
+          "Gardénia",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Caramel",
+          "Beurre de cacahuète",
+          "Réglisse"
+        ]
+      },
+      "dupes": [],
+      "collection": "Scandal Femme",
+      "brand": "Jean Paul Gaultier",
+      "id": 45,
+      "perfumer": "Fabrice Pellegrin",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal By Night",
+      "year": 2018,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Fabrice Pellegrin",
+        "Daphné Bugey"
+      ],
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Bergamote"
+        ],
+        "heart": [
+          "Miel",
+          "Tubéreuse",
+          "Gardénia"
+        ],
+        "base": [
+          "Santal",
+          "Beurre de cacahuète",
+          "Patchouli"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Candid Tonight",
+          "brand": "Maison Alhambra",
+          "similarity": 85,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        }
+      ],
+      "collection": "Scandal Femme",
+      "brand": "Jean Paul Gaultier",
+      "id": 46,
+      "perfumer": "Fabrice Pellegrin",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "So Scandal!",
+      "year": 2020,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Fabrice Pellegrin",
+        "Daphné Bugey",
+        "Christophe Raynaud"
+      ],
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Poire"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Caramel",
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "So Candid",
+          "brand": "Maison Alhambra",
+          "similarity": 85,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Solitude Candy",
+          "brand": "Paris Corner",
+          "similarity": 80,
+          "price": 30,
+          "price_eur": 30,
+          "source": "Fragrantica",
+          "notes": ""
+        }
+      ],
+      "collection": "Scandal Femme",
+      "brand": "Jean Paul Gaultier",
+      "id": 47,
+      "perfumer": "Fabrice Pellegrin",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal A Paris",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Fabrice Pellegrin",
+        "Daphné Bugey"
+      ],
+      "notes": {
+        "top": [
+          "Poire",
+          "Orange sanguine"
+        ],
+        "heart": [
+          "Gardénia",
+          "Jasmin"
+        ],
+        "base": [
+          "Miel",
+          "Santal",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "collection": "Scandal Femme",
+      "brand": "Jean Paul Gaultier",
+      "id": 48,
+      "perfumer": "Fabrice Pellegrin",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Le Parfum",
+      "year": 2022,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Ane Ayo",
+        "Fabrice Pellegrin",
+        "Daphné Bugey"
+      ],
+      "notes": {
+        "top": [
+          "Jasmin"
+        ],
+        "heart": [
+          "Caramel",
+          "Sel"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Scandal Femme",
+      "brand": "Jean Paul Gaultier",
+      "id": 49,
+      "perfumer": "Ane Ayo",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Absolu",
+      "year": 2024,
+      "concentration": "Parfum",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch",
+        "Natalie Gracia-Cetto",
+        "Christophe Raynaud"
+      ],
+      "notes": {
+        "top": [
+          "Jasmin"
+        ],
+        "heart": [
+          "Caramel",
+          "Miel"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "collection": "Scandal Femme",
+      "brand": "Jean Paul Gaultier",
+      "id": 50,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Intense",
+      "year": 2025,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "current",
+      "notes": {
+        "top": [
+          "Mandarine"
+        ],
+        "heart": [
+          "Miel",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Vanille",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "collection": "Scandal Femme",
+      "brand": "Jean Paul Gaultier",
+      "id": 51,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Gold",
+      "year": 2021,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Mandarine sanguine"
+        ],
+        "heart": [
+          "Miel",
+          "Gardénia"
+        ],
+        "base": [
+          "Patchouli",
+          "Caramel"
+        ]
+      },
+      "dupes": [],
+      "collection": "Scandal Femme",
+      "brand": "Jean Paul Gaultier",
+      "id": 52,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Collector 2021",
+      "year": 2021,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Mandarine"
+        ],
+        "heart": [
+          "Miel",
+          "Gardénia"
+        ],
+        "base": [
+          "Patchouli",
+          "Caramel"
+        ]
+      },
+      "dupes": [],
+      "collection": "Scandal Femme",
+      "brand": "Jean Paul Gaultier",
+      "id": 53,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Pour Homme",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch",
+        "Natalie Gracia-Cetto",
+        "Christophe Raynaud"
+      ],
+      "notes": {
+        "top": [
+          "Mandarine sanguine"
+        ],
+        "heart": [
+          "Sauge sclarée",
+          "Caramel"
+        ],
+        "base": [
+          "Fève tonka",
+          "Vétiver",
+          "Cuir"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Candid",
+          "brand": "Maison Alhambra",
+          "similarity": 85,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Odyssey Mandarin Sky",
+          "brand": "Armaf",
+          "similarity": 80,
+          "price": 35,
+          "price_eur": 35,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Candid Pour Homme",
+          "brand": "Maison Alhambra",
+          "similarity": 90,
+          "price": 20,
+          "notes": "Clone 2024, 90% similaire, excellente qualité",
+          "price_eur": 20,
+          "source": "Fragrantica"
+        }
+      ],
+      "collection": "Scandal Pour Homme",
+      "brand": "Jean Paul Gaultier",
+      "id": 54,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Pour Homme Le Parfum",
+      "year": 2022,
+      "concentration": "EDP Intense",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch",
+        "Natalie Gracia-Cetto",
+        "Christophe Raynaud"
+      ],
+      "notes": {
+        "top": [
+          "Géranium"
+        ],
+        "heart": [
+          "Fève tonka"
+        ],
+        "base": [
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "collection": "Scandal Pour Homme",
+      "brand": "Jean Paul Gaultier",
+      "id": 55,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Pour Homme Absolu",
+      "year": 2024,
+      "concentration": "Parfum",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch",
+        "Natalie Gracia-Cetto",
+        "Christophe Raynaud"
+      ],
+      "notes": {
+        "top": [
+          "Mirabelle"
+        ],
+        "heart": [
+          "Châtaigne"
+        ],
+        "base": [
+          "Santal"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "King",
+          "brand": "Armaf",
+          "similarity": 85,
+          "price": 35,
+          "price_eur": 35,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Sheikh Al Shuyukh Supreme",
+          "brand": "Lattafa",
+          "similarity": 80,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        }
+      ],
+      "collection": "Scandal Pour Homme",
+      "brand": "Jean Paul Gaultier",
+      "id": 56,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Pour Homme Intense",
+      "year": 2025,
+      "concentration": "EDP Intense",
+      "gender": "masculin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Sauge sclarée"
+        ],
+        "heart": [
+          "Vétiver"
+        ],
+        "base": [
+          "Cuir"
+        ]
+      },
+      "dupes": [],
+      "collection": "Scandal Pour Homme",
+      "brand": "Jean Paul Gaultier",
+      "id": 57,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "La Belle",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Poire",
+          "Bergamote"
+        ],
+        "heart": [
+          "Vanille"
+        ],
+        "base": [
+          "Vétiver",
+          "Cashmere"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Sultry Pear",
+          "brand": "Zara",
+          "similarity": 80,
+          "price": 20,
+          "price_eur": 20,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Glacier Bella",
+          "brand": "Maison Alhambra",
+          "similarity": 75,
+          "price": 25,
+          "price_eur": 25,
+          "source": "Fragrantica",
+          "notes": ""
+        },
+        {
+          "name": "Teriaq",
+          "brand": "Lattafa",
+          "similarity": 75,
+          "price": 30,
+          "price_eur": 30,
+          "source": "Fragrantica",
+          "notes": ""
+        }
+      ],
+      "collection": "La Belle",
+      "brand": "Jean Paul Gaultier",
+      "id": 58,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "La Belle Le Parfum",
+      "year": 2021,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Poire"
+        ],
+        "heart": [
+          "Vanille",
+          "Jasmin"
+        ],
+        "base": [
+          "Fève tonka",
+          "Vétiver"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Teriaq",
+          "brand": "Lattafa",
+          "similarity": 82,
+          "price": 30,
+          "notes": "Plus profond et dense, pas un clone exact mais flanker DNA similaire",
+          "price_eur": 30,
+          "source": "Fragrantica"
+        }
+      ],
+      "collection": "La Belle",
+      "brand": "Jean Paul Gaultier",
+      "id": 59,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "La Belle Le Parfum (2024)",
+      "year": 2024,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "current",
+      "notes": {
+        "top": [
+          "Poire"
+        ],
+        "heart": [
+          "Vanille"
+        ],
+        "base": [
+          "Fève tonka"
+        ]
+      },
+      "dupes": [],
+      "collection": "La Belle",
+      "brand": "Jean Paul Gaultier",
+      "id": 60,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "La Belle Paradise Garden",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Poire",
+          "Fleur de tiaré"
+        ],
+        "heart": [
+          "Ylang-ylang",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [
+        {
+          "name": "Musamam White Intense",
+          "brand": "Lattafa",
+          "similarity": 85,
+          "price": 25,
+          "notes": "Très similaire, plus abordable, notes sucrées légères",
+          "price_eur": 25,
+          "source": "Fragrantica"
+        }
+      ],
+      "collection": "La Belle",
+      "brand": "Jean Paul Gaultier",
+      "id": 61,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "La Belle Fleur Terrible",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Poire",
+          "Jasmin"
+        ],
+        "heart": [
+          "Vanille",
+          "Fleurs blanches"
+        ],
+        "base": [
+          "Bois de santal"
+        ]
+      },
+      "dupes": [],
+      "collection": "La Belle",
+      "brand": "Jean Paul Gaultier",
+      "id": 62,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "La Belle Flower Edition",
+      "year": 2025,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "notes": {
+        "top": [
+          "Notes florales",
+          "Poire"
+        ],
+        "heart": [
+          "Jasmin",
+          "Vanille"
+        ],
+        "base": [
+          "Santal",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "La Belle",
+      "brand": "Jean Paul Gaultier",
+      "id": 63,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Gaultier Divine",
+      "year": 2023,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Brise marine salée"
+        ],
+        "heart": [
+          "Lys",
+          "Fleurs blanches"
+        ],
+        "base": [
+          "Meringue",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Divine",
+      "brand": "Jean Paul Gaultier",
+      "id": 64,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Gaultier Divine Le Parfum",
+      "year": 2024,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Sel",
+          "Notes marines"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Lys"
+        ],
+        "base": [
+          "Fève tonka",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Divine",
+      "brand": "Jean Paul Gaultier",
+      "id": 65,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Divine Elixir",
+      "year": 2025,
+      "concentration": "Parfum",
+      "gender": "féminin",
+      "status": "current",
+      "perfumers": [
+        "Quentin Bisch"
+      ],
+      "notes": {
+        "top": [
+          "Notes marines"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Lys"
+        ],
+        "base": [
+          "Fève tonka",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Divine",
+      "brand": "Jean Paul Gaultier",
+      "id": 66,
+      "perfumer": "Quentin Bisch",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Divine Collector Edition",
+      "year": 2025,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Brise marine"
+        ],
+        "heart": [
+          "Lys"
+        ],
+        "base": [
+          "Meringue",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Divine",
+      "brand": "Jean Paul Gaultier",
+      "id": 67,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Gaultier²",
+      "year": 2005,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "notes": {
+        "top": [
+          "Ambre gris",
+          "Musc"
+        ],
+        "heart": [
+          "Ambre",
+          "Notes orientales"
+        ],
+        "base": [
+          "Vanille",
+          "Bois"
+        ]
+      },
+      "dupes": [],
+      "collection": "Gaultier²",
+      "brand": "Jean Paul Gaultier",
+      "id": 68,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Gaultier² Edition 2022",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "limited",
+      "notes": {
+        "top": [
+          "Ambre gris",
+          "Musc"
+        ],
+        "heart": [
+          "Ambre"
+        ],
+        "base": [
+          "Vanille",
+          "Bois"
+        ]
+      },
+      "dupes": [],
+      "collection": "Gaultier²",
+      "brand": "Jean Paul Gaultier",
+      "id": 69,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Kokorico",
+      "year": 2011,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "perfumers": [
+        "Annick Menardo"
+      ],
+      "notes": {
+        "top": [
+          "Citron",
+          "Poivre rose",
+          "Cardamome"
+        ],
+        "heart": [
+          "Cacao",
+          "Fève tonka"
+        ],
+        "base": [
+          "Bois de cèdre",
+          "Vétiver",
+          "Patchouli"
+        ]
+      },
+      "dupes": [],
+      "collection": "Autres",
+      "brand": "Jean Paul Gaultier",
+      "id": 70,
+      "perfumer": "Annick Menardo",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Kokorico by Night",
+      "year": 2012,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Cardamome"
+        ],
+        "heart": [
+          "Cacao",
+          "Fève tonka"
+        ],
+        "base": [
+          "Cèdre",
+          "Ambre"
+        ]
+      },
+      "dupes": [],
+      "collection": "Autres",
+      "brand": "Jean Paul Gaultier",
+      "id": 71,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Fragile",
+      "year": 1999,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "perfumers": [
+        "Jean-Pierre Béthouart"
+      ],
+      "notes": {
+        "top": [
+          "Rose",
+          "Violette"
+        ],
+        "heart": [
+          "Jasmin",
+          "Muguet"
+        ],
+        "base": [
+          "Vanille",
+          "Musc",
+          "Santal"
+        ]
+      },
+      "dupes": [],
+      "collection": "Autres",
+      "brand": "Jean Paul Gaultier",
+      "id": 72,
+      "perfumer": "Jean-Pierre Béthouart",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Fragile Eau de Toilette",
+      "year": 2001,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "discontinued",
+      "notes": {
+        "top": [
+          "Rose",
+          "Violette"
+        ],
+        "heart": [
+          "Jasmin",
+          "Muguet"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Autres",
+      "brand": "Jean Paul Gaultier",
+      "id": 73,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ma Dame",
+      "year": 2008,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc",
+          "Cèdre"
+        ]
+      },
+      "dupes": [],
+      "collection": "Autres",
+      "brand": "Jean Paul Gaultier",
+      "id": 74,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ma Dame Eau de Toilette",
+      "year": 2008,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Autres",
+      "brand": "Jean Paul Gaultier",
+      "id": 75,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Monsieur",
+      "year": 1995,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Lavande"
+        ],
+        "heart": [
+          "Notes épicées"
+        ],
+        "base": [
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Autres",
+      "brand": "Jean Paul Gaultier",
+      "id": 76,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Fleur du Mâle",
+      "year": 2007,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "notes": {
+        "top": [
+          "Fleur d'oranger",
+          "Néroli"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "dupes": [],
+      "collection": "Autres",
+      "brand": "Jean Paul Gaultier",
+      "id": 77,
+      "perfumer": "Francis Kurkdjian",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Madame",
+      "year": 1999,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "dupes": [],
+      "collection": "Autres",
+      "brand": "Jean Paul Gaultier",
+      "id": 78,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "JPG Le Beau Male",
+      "year": 2013,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "notes": {
+        "top": [
+          "Menthe",
+          "Absinthe"
+        ],
+        "heart": [
+          "Lavande",
+          "Sauge"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "dupes": [],
+      "collection": "Le Beau",
+      "brand": "Jean Paul Gaultier",
+      "id": 79,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2007",
+      "year": 2007,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Notes marines"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 80,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2008",
+      "year": 2008,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Menthe"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 81,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2016",
+      "year": 2016,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 82,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2017",
+      "year": 2017,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Lavande marine"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 83,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2018",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 84,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Christmas Collector 2018",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 85,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Christmas Collector 2019",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 86,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Christmas Collector 2020",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 87,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Christmas Collector 2021",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 88,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Collector's Snow Globe",
+      "year": 2016,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 89,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Fleur",
+      "year": 2007,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Néroli",
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 90,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Eau Fraîche",
+      "year": 2006,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Menthe",
+          "Bergamote"
+        ],
+        "heart": [
+          "Lavande fraîche"
+        ],
+        "base": [
+          "Vanille légère",
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 91,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2012",
+      "year": 2012,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 92,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2013",
+      "year": 2013,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille légère"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 93,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2014",
+      "year": 2014,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 94,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2015",
+      "year": 2015,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 95,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2016",
+      "year": 2016,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille légère"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 96,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2017",
+      "year": 2017,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 97,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2018",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Fleur d'oranger marine"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 98,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Christmas Collector 2017",
+      "year": 2017,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 99,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Christmas Collector 2018",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 100,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Christmas Collector 2019",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 101,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Christmas Collector 2020",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 102,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Christmas Collector 2021",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 103,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Collector Snow Globe",
+      "year": 2016,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 104,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Cabaret",
+      "year": 2019,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Rose",
+          "Orchidée"
+        ],
+        "base": [
+          "Vanille",
+          "Patchouli"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 105,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Betty Boop",
+      "year": 2014,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 106,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Wonder Woman",
+      "year": 2017,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 107,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "JPG Pour Homme",
+      "year": 1992,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 108,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ma Dame Rose 'N' Roll",
+      "year": 2010,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Violette"
+        ],
+        "base": [
+          "Patchouli",
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 109,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ma Dame Intensive",
+      "year": 2009,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cassis"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 110,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ma Dame Summer",
+      "year": 2010,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Litchi"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 111,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Kokorico Wild",
+      "year": 2014,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre noir"
+        ],
+        "heart": [
+          "Cacao",
+          "Cannelle"
+        ],
+        "base": [
+          "Vétiver",
+          "Patchouli"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 112,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Gaultier x Rihanna",
+      "year": 2013,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Rose"
+        ],
+        "heart": [
+          "Fleurs blanches"
+        ],
+        "base": [
+          "Musc",
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 113,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Matelot",
+      "year": 2009,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Notes marines",
+          "Menthe"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 114,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Beau",
+      "year": 2017,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Absinthe"
+        ],
+        "heart": [
+          "Lavande",
+          "Menthe"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 115,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Fleet Sailor",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Notes marines"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 116,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2007",
+      "year": 2007,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 117,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2008",
+      "year": 2008,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille légère"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 118,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2010",
+      "year": 2010,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 119,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2010",
+      "year": 2010,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Menthe",
+          "Citrus"
+        ],
+        "heart": [
+          "Lavande marine"
+        ],
+        "base": [
+          "Vanille légère"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 120,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Collector Edition 2017",
+      "year": 2017,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 121,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Collector Edition 2018",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 122,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Collector Edition 2019",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 123,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Collector Edition 2020",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 124,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Collector Edition 2021",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 125,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Collector Edition 2017",
+      "year": 2017,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 126,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Collector Edition 2018",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 127,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Collector Edition 2019",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 128,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Collector Edition 2020",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 129,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Collector Edition 2021",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 130,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Pride 2019",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 131,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Pride 2020",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 132,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Pride 2021",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 133,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Pride 2019",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 134,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Pride 2020",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 135,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Pride 2021",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 136,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Gaultier² The Love Code",
+      "year": 2006,
+      "concentration": "EDP",
+      "gender": "unisexe",
+      "status": "discontinued",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Ambre"
+        ],
+        "heart": [
+          "Notes orientales"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 137,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Fleur du Mâle Terrible",
+      "year": 2011,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Néroli",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 138,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Regines",
+      "year": 1989,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Fruits",
+          "Agrumes"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Bois de santal",
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 139,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Jean Paul Gaultier Eau de Parfum",
+      "year": 1993,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleur d'oranger",
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 140,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Beau Male",
+      "year": 2013,
+      "concentration": "EDT Intense",
+      "gender": "masculin",
+      "status": "discontinued",
+      "collection": "Le Beau",
+      "notes": {
+        "top": [
+          "Menthe",
+          "Absinthe"
+        ],
+        "heart": [
+          "Lavande",
+          "Sauge sclarée"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 141,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Collector 2022",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Scandal Femme",
+      "notes": {
+        "top": [
+          "Mandarine"
+        ],
+        "heart": [
+          "Miel",
+          "Gardénia"
+        ],
+        "base": [
+          "Patchouli"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 142,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Collector 2023",
+      "year": 2023,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Scandal Femme",
+      "notes": {
+        "top": [
+          "Mandarine"
+        ],
+        "heart": [
+          "Miel",
+          "Gardénia"
+        ],
+        "base": [
+          "Patchouli"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 143,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Collector 2024",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Scandal Femme",
+      "notes": {
+        "top": [
+          "Mandarine"
+        ],
+        "heart": [
+          "Miel",
+          "Gardénia"
+        ],
+        "base": [
+          "Patchouli"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 144,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2019",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Lavande marine"
+        ],
+        "base": [
+          "Vanille légère"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 145,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2020",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 146,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Summer 2021",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Lavande marine"
+        ],
+        "base": [
+          "Vanille légère"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 147,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2019",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Fleur d'oranger marine"
+        ],
+        "base": [
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 148,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2020",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus frais"
+        ],
+        "heart": [
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille légère"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 149,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Summer 2021",
+      "year": 2021,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "heart": [
+          "Fleur d'oranger marine"
+        ],
+        "base": [
+          "Musc blanc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 150,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male 20th Anniversary",
+      "year": 2015,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Vanille",
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 151,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique 20th Anniversary",
+      "year": 2013,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre",
+          "Orchidée"
+        ],
+        "base": [
+          "Vanille",
+          "Ambre"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 152,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Silver",
+      "year": 2006,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille argent"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 153,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Silver",
+      "year": 2006,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille argent"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 154,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Elixir Absolu Collector",
+      "year": 2025,
+      "concentration": "Parfum Intense",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande"
+        ],
+        "heart": [
+          "Prune"
+        ],
+        "base": [
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 155,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Intense Collector 2025",
+      "year": 2025,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Scandal Femme",
+      "notes": {
+        "top": [
+          "Mandarine"
+        ],
+        "heart": [
+          "Miel",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 156,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Ma Dame Parfum",
+      "year": 2008,
+      "concentration": "Parfum",
+      "gender": "féminin",
+      "status": "discontinued",
+      "collection": "Autres",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cassis"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 157,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Miniature",
+      "year": 1995,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 158,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Miniature",
+      "year": 1993,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 159,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Travel Exclusive",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Menthe"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 160,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique Travel Exclusive",
+      "year": 2018,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger"
+        ],
+        "heart": [
+          "Gingembre"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 161,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Divine Intense 2026",
+      "year": 2026,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "current",
+      "collection": "Divine",
+      "notes": {
+        "top": [
+          "Notes marines"
+        ],
+        "heart": [
+          "Lys",
+          "Tubéreuse"
+        ],
+        "base": [
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 162,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Beau Elixir",
+      "year": 2026,
+      "concentration": "Parfum",
+      "gender": "masculin",
+      "status": "current",
+      "collection": "Le Beau",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Noix de coco"
+        ],
+        "heart": [
+          "Vanille intense"
+        ],
+        "base": [
+          "Santal",
+          "Benjoin"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 163,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Pour Homme Collector 2025",
+      "year": 2025,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Scandal Pour Homme",
+      "notes": {
+        "top": [
+          "Mandarine"
+        ],
+        "heart": [
+          "Caramel"
+        ],
+        "base": [
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 164,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Lover Collector",
+      "year": 2024,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Citron",
+          "Néroli"
+        ],
+        "heart": [
+          "Lavande"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 165,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal A Paris Collector",
+      "year": 2019,
+      "concentration": "EDT",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Scandal Femme",
+      "notes": {
+        "top": [
+          "Poire"
+        ],
+        "heart": [
+          "Gardénia"
+        ],
+        "base": [
+          "Miel"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 166,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "So Scandal! Collector",
+      "year": 2020,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Scandal Femme",
+      "notes": {
+        "top": [
+          "Gingembre"
+        ],
+        "heart": [
+          "Tubéreuse"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 167,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "La Belle Collector 2021",
+      "year": 2021,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "La Belle",
+      "notes": {
+        "top": [
+          "Poire"
+        ],
+        "heart": [
+          "Vanille"
+        ],
+        "base": [
+          "Vétiver"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 168,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "La Belle Le Parfum Collector",
+      "year": 2022,
+      "concentration": "EDP Intense",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "La Belle",
+      "notes": {
+        "top": [
+          "Poire"
+        ],
+        "heart": [
+          "Vanille"
+        ],
+        "base": [
+          "Fève tonka"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 169,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Beau Collector 2022",
+      "year": 2022,
+      "concentration": "EDP",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Beau",
+      "notes": {
+        "top": [
+          "Noix de coco"
+        ],
+        "heart": [
+          "Vanille"
+        ],
+        "base": [
+          "Santal"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 170,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Beau Le Parfum Collector",
+      "year": 2023,
+      "concentration": "EDP Intense",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Beau",
+      "notes": {
+        "top": [
+          "Noix de coco"
+        ],
+        "heart": [
+          "Amande"
+        ],
+        "base": [
+          "Benjoin"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 171,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Pour Homme Collector 2022",
+      "year": 2022,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Scandal Pour Homme",
+      "notes": {
+        "top": [
+          "Mandarine"
+        ],
+        "heart": [
+          "Caramel"
+        ],
+        "base": [
+          "Vétiver"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 172,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Scandal Pour Homme Le Parfum Collector",
+      "year": 2023,
+      "concentration": "EDP Intense",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Scandal Pour Homme",
+      "notes": {
+        "top": [
+          "Géranium"
+        ],
+        "heart": [
+          "Fève tonka"
+        ],
+        "base": [
+          "Santal"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 173,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Classique La Belle Collector",
+      "year": 2020,
+      "concentration": "EDP",
+      "gender": "féminin",
+      "status": "limited",
+      "collection": "Classique",
+      "notes": {
+        "top": [
+          "Fleur d'oranger",
+          "Poire"
+        ],
+        "heart": [
+          "Vanille"
+        ],
+        "base": [
+          "Ambre"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 174,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    },
+    {
+      "name": "Le Male Le Beau Collector",
+      "year": 2020,
+      "concentration": "EDT",
+      "gender": "masculin",
+      "status": "limited",
+      "collection": "Le Male",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Noix de coco"
+        ],
+        "heart": [
+          "Cannelle"
+        ],
+        "base": [
+          "Vanille"
+        ]
+      },
+      "brand": "Jean Paul Gaultier",
+      "dupes": [],
+      "id": 175,
+      "perfumer": "Non spécifié",
+      "accords": [],
+      "retail_price_eur": 0,
+      "description": ""
+    }
+  ],
+  "dupe_summary": {
+    "total_dupes_found": 37,
+    "perfumes_with_dupes": 15,
+    "most_cloned": [
+      {
+        "perfume": "Ultra Male",
+        "dupe_count": 5,
+        "best_dupe": "Afnan 9pm (90%)"
+      },
+      {
+        "perfume": "Le Male Elixir",
+        "dupe_count": 5,
+        "best_dupe": "Lattafa The Kingdom (90%)"
+      },
+      {
+        "perfume": "Le Beau Le Parfum",
+        "dupe_count": 5,
+        "best_dupe": "Khadlaj Island (90%)"
+      },
+      {
+        "perfume": "Le Male Le Parfum",
+        "dupe_count": 2,
+        "best_dupe": "Maison Alhambra Glacier Le Noir"
+      },
+      {
+        "perfume": "Scandal Pour Homme",
+        "dupe_count": 3,
+        "best_dupe": "Maison Alhambra Candid Pour Homme (90%)"
+      },
+      {
+        "perfume": "So Scandal!",
+        "dupe_count": 2,
+        "best_dupe": "Maison Alhambra So Candid"
+      },
+      {
+        "perfume": "La Belle",
+        "dupe_count": 4,
+        "best_dupe": "Zara Sultry Pear"
+      },
+      {
+        "perfume": "Le Beau Paradise Garden",
+        "dupe_count": 2,
+        "best_dupe": "Maison Asrar Wadi"
+      },
+      {
+        "perfume": "Le Beau",
+        "dupe_count": 1,
+        "best_dupe": "Maison Alhambra Glacier Bold"
+      },
+      {
+        "perfume": "La Belle Paradise Garden",
+        "dupe_count": 1,
+        "best_dupe": "Lattafa Musamam White Intense"
+      }
+    ],
+    "clone_houses": [
+      {
+        "brand": "Afnan",
+        "clones": [
+          "9pm (Ultra Male - 90%)"
+        ]
+      },
+      {
+        "brand": "Lattafa",
+        "clones": [
+          "Ramz Silver (Ultra Male - 88%)",
+          "The Kingdom (Le Male Elixir - 90%)",
+          "Asad Zanzibar (Le Beau Le Parfum - 85%)",
+          "Teriaq (La Belle Le Parfum - 82%)",
+          "Najdia Intense (Le Beau - 80%)",
+          "Musamam White Intense (La Belle Paradise Garden - 85%)"
+        ]
+      },
+      {
+        "brand": "Maison Alhambra",
+        "clones": [
+          "Glacier Le Noir (Le Male Le Parfum - 85%)",
+          "Candid (Scandal Pour Homme - 85%)",
+          "Candid Pour Homme (Scandal Pour Homme - 90%)",
+          "So Candid (So Scandal! - 85%)",
+          "Glacier Bold (Le Beau/Le Beau Le Parfum - 85%)",
+          "Glacier Bella (La Belle - 78%)"
+        ]
+      },
+      {
+        "brand": "Armaf",
+        "clones": [
+          "Club de Nuit Lionheart (Le Male Elixir - 88%)",
+          "King (Scandal Pour Homme Absolu - 85%)",
+          "Odyssey Mandarin Sky (Scandal Pour Homme - 80%)"
+        ]
+      },
+      {
+        "brand": "Rasasi",
+        "clones": [
+          "Hawas Elixir (Le Male Elixir - 88%)",
+          "Hawas Tropical (Le Beau Paradise Garden - 80%)"
+        ]
+      },
+      {
+        "brand": "Rayhaan",
+        "clones": [
+          "Lion (Ultra Male - 85%)",
+          "Rayhaan Elixir (Le Male Elixir - 85%)"
+        ]
+      },
+      {
+        "brand": "Khadlaj",
+        "clones": [
+          "Island (Le Beau Le Parfum - 90%)",
+          "Shiyaaka (Le Male Le Parfum - 80%)"
+        ]
+      },
+      {
+        "brand": "Cuba Paris",
+        "clones": [
+          "Cuba Gold (Le Male - 85%)",
+          "Cuba Jungle Tiger (Classique - 75%)"
+        ]
+      },
+      {
+        "brand": "Zara",
+        "clones": [
+          "Sultry Pear (La Belle - 80%)"
+        ]
+      },
+      {
+        "brand": "Maison Asrar",
+        "clones": [
+          "Wadi (Le Beau Paradise Garden - 82%)"
+        ]
+      }
+    ]
+  },
+  "country": "France"
+}
