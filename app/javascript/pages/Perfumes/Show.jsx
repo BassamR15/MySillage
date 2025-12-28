@@ -1,9 +1,68 @@
 // app/javascript/pages/Perfumes/Show.jsx
 import React, { useState } from 'react';
 
-export default function Show({ perfume, userSignedIn, currentUser }) {
+export default function Show({ perfume, userSignedIn, currentUser, userSeasonVotes, userReviews }) {
   const [selectedVolume, setSelectedVolume] = useState(1);
   const [isWishlisted, setIsWishlisted] = useState(false);
+  const [seasonVotes, setSeasonVotes] = useState({
+    spring: userSeasonVotes?.spring || false,
+    summer: userSeasonVotes?.summer || false,
+    fall: userSeasonVotes?.fall || false,
+    winter: userSeasonVotes?.winter || false
+  });
+  const [dayNightVotes, setDayNightVotes] = useState({
+    day: userSeasonVotes?.day || false,
+    night: userSeasonVotes?.night ||false
+  });
+  const [longevityVote, setLongevityVote] = useState(userReviews?.rating_longevity || null);
+  const [sillageVote, setSillageVote] = useState(userReviews?.rating_sillage || null);
+  const [valueVote, setValueVote] = useState(userReviews?.rating_value || null);
+
+  const handleSeasonClick = (season) => {
+    if (!userSignedIn) return;
+    const newValue = !seasonVotes[season];
+    setSeasonVotes(prev => ({
+      ...prev,
+      [season]: newValue
+    }));
+    
+    // Envoyer au serveur (on fera ça après)
+  };
+
+   const handleDayNightClick = (dayNight) => {
+    if (!userSignedIn) return;
+    const newValue = !dayNightVotes[dayNight];
+    setDayNightVotes(prev => ({
+      ...prev,
+      [dayNight]: newValue
+    }));
+    
+    // Envoyer au serveur (on fera ça après)
+  };
+
+  const handleLongevityClick = (value) => {
+    if (!userSignedIn) return;
+    const newValue = longevityVote === value ? null : value;
+    setLongevityVote(newValue);
+    
+    // Envoyer au serveur (on fera ça après)
+  };
+
+  const handleSillageClick = (value) => {
+    if (!userSignedIn) return;
+    const newValue = sillageVote === value ? null : value;
+    setSillageVote(newValue);
+    
+    // Envoyer au serveur (on fera ça après)
+  };
+
+  const handleValueClick = (value) => {
+    if (!userSignedIn) return;
+    const newValue = valueVote === value ? null : value;
+    setValueVote(newValue);
+    
+    // Envoyer au serveur (on fera ça après)
+  };
 
   // Volumes fictifs pour l'instant
   const volumes = [
@@ -123,16 +182,9 @@ export default function Show({ perfume, userSignedIn, currentUser }) {
               <span>🌿</span> Notes Olfactives
             </h3>
 
-            { perfume.notes_ordered.forEach( family => {
-              if family === :
-            });}
-
-            {['top', 'heart', 'base'].map(type => {
+            {Object.entries(perfume.notes_ordered).map(([type, notes]) => {
               const typeLabels = { top: 'Tête', heart: 'Cœur', base: 'Fond' };
               const typeIcons = { top: '🍃', heart: '🌸', base: '🪵' };
-              const notes = perfume.notes?.filter(n =>
-                perfume.perfume_notes?.find(pn => pn.note_type === type)
-              ) || [];
 
               return (
                 <div key={type} style={styles.notesTier}>
@@ -142,7 +194,7 @@ export default function Show({ perfume, userSignedIn, currentUser }) {
                   </div>
                   <div style={styles.notesChipsCentered}>
                     {notes.length > 0 ? notes.map((note, idx) => (
-                      <span key={idx} style={styles.noteChip}>{note.name}</span>
+                      <span key={idx} style={styles.noteChip}>{note}</span>
                     )) : (
                       <span style={styles.noteChip}>Non renseigné</span>
                     )}
@@ -150,6 +202,185 @@ export default function Show({ perfume, userSignedIn, currentUser }) {
                 </div>
               );
             })}
+          </div>
+        </div>
+        
+        {/* Votes de la Communauté */}
+        <div style={styles.votesSection}>
+          <h3 style={styles.sectionTitle}>
+            <span>📊</span> Votes de la Communauté
+          </h3>
+
+          <div style={styles.votesGrid}>
+            {/* Première ligne */}
+            <div style={styles.votesRow}>
+
+              {/* Saisons */}
+              <div style={{...styles.voteBlock, flex: 2}}>
+                <span style={styles.voteBlockLabel}>Quand le porter ?</span>
+                <div style={styles.seasonGrid}>
+                  {[
+                    { key: 'spring', label: 'Printemps', icon: '🌸' },
+                    { key: 'summer', label: 'Été', icon: '☀️' },
+                    { key: 'fall', label: 'Automne', icon: '🍂' },
+                    { key: 'winter', label: 'Hiver', icon: '❄️' }
+                  ].map(season => (
+                    <div 
+                      key={season.key} 
+                      style={{
+                        ...styles.seasonBtn,
+                        ...(seasonVotes[season.key] ? styles.seasonBtnActive : {}),
+                        cursor: userSignedIn ? 'pointer' : 'default'
+                      }}
+                      onClick={() => handleSeasonClick(season.key)}
+                    >
+                      <span style={styles.seasonIcon}>{season.icon}</span>
+                      <span style={styles.seasonLabel}>{season.label}</span>
+                      <div style={styles.seasonBarBg}>
+                        <div style={{
+                          ...styles.seasonBarFill,
+                          width: `${perfume.preferred_season?.[season.key]?.percentage || 0}%`
+                        }} />
+                      </div>
+                      <span style={styles.seasonVotes}>
+                        {perfume.preferred_season?.[season.key]?.count || 0} votes
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+              
+              {/* Jour/Nuit */}
+              <div style={{...styles.voteBlock, flex: 1}}>
+                <span style={styles.voteBlockLabel}>Jour ou Nuit ?</span>
+                <div style={styles.dayNightGrid}>
+                  {[
+                    { key: 'day', label: 'Jour', icon: '☀️' },
+                    { key: 'night', label: 'Nuit', icon: '🌙' }
+                  ].map(time => (
+                    <div 
+                      key={time.key} 
+                      style={{
+                        ...styles.dayNightBtn,
+                        ...(dayNightVotes[time.key] ? styles.seasonBtnActive : {}),
+                        cursor: userSignedIn ? 'pointer' : 'default'
+                      }}
+                      onClick={() => handleDayNightClick(time.key)}
+                    >
+                      <span style={styles.dayNightIcon}>{time.icon}</span>
+                      <span>{time.label}</span>
+                      <span style={styles.dayNightPercent}>
+                        {perfume.preferred_time?.[time.key]?.percentage || 0}%
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Longévité */}
+              <div style={{...styles.voteBlock, flex: 1}}>
+                <span style={styles.voteBlockLabel}>⏱ Longévité</span>
+                <div style={styles.ratingBars}>
+                  {[
+                    { key: 1, label: 'Très faible' },
+                    { key: 2, label: 'Faible' },
+                    { key: 3, label: 'Modérée' },
+                    { key: 4, label: 'Longue' },
+                    { key: 5, label: 'Éternelle' }
+                  ].map(item => (
+                    <div 
+                      key={item.key} 
+                      style={{
+                        ...styles.ratingRow,
+                        ...(longevityVote === item.key ? styles.ratingRowActive : {}),
+                        cursor: userSignedIn ? 'pointer' : 'default'
+                      }}
+                      onClick={() => handleLongevityClick(item.key)}
+                      >
+                      <span style={styles.ratingLabelText}>{item.label}</span>
+                      <div style={styles.ratingBarBg}>
+                        <div style={{
+                          ...styles.ratingBarFill,
+                          width: `${perfume.longevity_distribution?.[item.key]?.percentage || 0}%`
+                        }} />
+                      </div>
+                      <span style={styles.ratingCount}>
+                        {perfume.longevity_distribution?.[item.key]?.count || 0}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Sillage */}
+              <div style={{...styles.voteBlock, flex: 1}}>
+                <span style={styles.voteBlockLabel}>💨 Sillage</span>
+                <div style={styles.ratingBars}>
+                  {[
+                    { key: 1, label: 'Intime' },
+                    { key: 2, label: 'Modéré' },
+                    { key: 3, label: 'Fort' },
+                    { key: 4, label: 'Énorme' }
+                  ].map(item => (
+                    <div 
+                      key={item.key} 
+                      style={{
+                        ...styles.ratingRow,
+                        ...(sillageVote === item.key ? styles.ratingRowActive : {}),
+                        cursor: userSignedIn ? 'pointer' : 'default'
+                      }}
+                      onClick={() => handleSillageClick(item.key)}
+                      >
+                      <span style={styles.ratingLabelText}>{item.label}</span>
+                      <div style={styles.ratingBarBg}>
+                        <div style={{
+                          ...styles.ratingBarFill,
+                          width: `${perfume.sillage_distribution?.[item.key]?.percentage || 0}%`
+                        }} />
+                      </div>
+                      <span style={styles.ratingCount}>
+                        {perfume.sillage_distribution?.[item.key]?.count || 0}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+
+            {/* Deuxième ligne - Rapport Qualité/Prix */}
+            <div style={styles.voteBlock}>
+              <span style={styles.voteBlockLabel}>💰 Rapport Qualité/Prix</span>
+              <div style={styles.ratingBars}>
+                {[
+                  { key: 1, label: 'Trop cher' },
+                  { key: 2, label: 'Cher' },
+                  { key: 3, label: 'Correct' },
+                  { key: 4, label: 'Bon' },
+                  { key: 5, label: 'Excellent' }
+                ].map(item => (
+                  <div 
+                    key={item.key} 
+                    style={{
+                      ...styles.ratingRow, 
+                      ...(valueVote === item.key ? styles.ratingRowActive : {}),
+                      cursor: userSignedIn ? 'pointer' : 'default'
+                    }}
+                    onClick={() => handleValueClick(item.key)}
+                    >
+                    <span style={styles.ratingLabelText}>{item.label}</span>
+                    <div style={styles.ratingBarBg}>
+                      <div style={{
+                        ...styles.ratingBarFill,
+                        width: `${perfume.value_distribution?.[item.key]?.percentage || 0}%`
+                      }} />
+                    </div>
+                    <span style={styles.ratingCount}>
+                      {perfume.value_distribution?.[item.key]?.count || 0}
+                    </span>
+                  </div>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
 
@@ -354,5 +585,173 @@ const styles = {
   marketTitle: { fontSize: '1.2rem', fontWeight: 600, margin: 0 },
   offersBadge: { background: '#e8e0d5', color: '#6b5d4d', padding: '0.35rem 0.9rem', borderRadius: 20, fontSize: '0.8rem' },
   descriptionCard: { background: 'white', borderRadius: 20, padding: '2rem' },
-  descriptionText: { fontSize: '1.05rem', lineHeight: 1.9, color: '#5a4d3f', margin: 0 }
+  descriptionText: { fontSize: '1.05rem', lineHeight: 1.9, color: '#5a4d3f', margin: 0 },
+  votesSection: {
+    background: 'white',
+    borderRadius: 20,
+    padding: '2rem',
+    marginBottom: '2rem'
+  },
+  votesGrid: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '2rem'
+  },
+  votesRow: {
+    display: 'flex',
+    gap: '1.5rem'
+  },
+  voteBlock: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '0.75rem'
+  },
+  voteBlockLabel: {
+    fontSize: '1rem',
+    fontWeight: 600,
+    color: '#5a4d3f'
+  },
+  seasonGrid: {
+    display: 'grid',
+    gridTemplateColumns: 'repeat(4, 1fr)',
+    gap: '0.5rem'
+  },
+  seasonBtn: {
+    background: '#f8f5f0',
+    borderRadius: 12,
+    padding: '0.75rem',
+    textAlign: 'center'
+  },
+  seasonIcon: {
+    display: 'block',
+    fontSize: '1.5rem',
+    marginBottom: '0.25rem'
+  },
+  seasonLabel: {
+    display: 'block',
+    fontSize: '0.7rem',
+    fontWeight: 500,
+    marginBottom: '0.5rem'
+  },
+  seasonBarBg: {
+    height: 4,
+    background: '#e8e0d5',
+    borderRadius: 2,
+    marginBottom: '0.25rem'
+  },
+  seasonBarFill: {
+    height: '100%',
+    background: '#9caa97',
+    borderRadius: 2
+  },
+  seasonVotes: {
+    fontSize: '0.65rem',
+    color: '#a89f91'
+  },
+  dayNightGrid: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '0.5rem'
+  },
+  dayNightBtn: {
+    background: '#f8f5f0',
+    borderRadius: 12,
+    padding: '1rem',
+    display: 'flex',
+    alignItems: 'center',
+    gap: '0.5rem'
+  },
+  dayNightIcon: {
+    fontSize: '1.25rem'
+  },
+  dayNightPercent: {
+    marginLeft: 'auto',
+    fontWeight: 600,
+    color: '#9caa97'
+  },
+  ratingBars: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '0.4rem'
+  },
+  ratingRow: {
+    display: 'flex',
+    alignItems: 'center',
+    gap: '0.5rem'
+  },
+  ratingLabel: {
+    width: '1rem',
+    fontSize: '0.8rem',
+    fontWeight: 500,
+    color: '#5a4d3f'
+  },
+  ratingBarBg: {
+    flex: 1,
+    height: 8,
+    background: '#f0ebe3',
+    borderRadius: 4,
+    overflow: 'hidden'
+  },
+  ratingBarFill: {
+    height: '100%',
+    background: '#9caa97',
+    borderRadius: 4
+  },
+  ratingCount: {
+    width: '2rem',
+    fontSize: '0.7rem',
+    color: '#a89f91',
+    textAlign: 'right'
+  },
+  valueRatingRow: {
+    display: 'flex',
+    justifyContent: 'space-between',
+    gap: '1rem'
+  },
+  valueRatingItem: {
+    flex: 1,
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    gap: '0.5rem'
+  },
+  valueBarContainer: {
+    width: '100%',
+    height: 80,
+    background: '#f0ebe3',
+    borderRadius: 8,
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'flex-end',
+    overflow: 'hidden'
+  },
+  valueBarFill: {
+    width: '100%',
+    background: '#9caa97',
+    borderRadius: '8px 8px 0 0'
+  },
+  valueLabel: {
+    fontSize: '0.75rem',
+    fontWeight: 500,
+    color: '#5a4d3f',
+    textAlign: 'center'
+  },
+  valueCount: {
+    fontSize: '0.7rem',
+    color: '#a89f91'
+  },
+  ratingLabelText: {
+    width: '5rem',
+    fontSize: '0.8rem',
+    color: '#5a4d3f'
+  },
+  seasonBtnActive: {
+    background: '#e8f5e9',
+    border: '2px solid #9caa97'
+  },
+  ratingRowActive: {
+    background: '#e8f5e9',
+    borderRadius: 8,
+    padding: '0.2rem'
+  }
 };

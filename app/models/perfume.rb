@@ -45,6 +45,53 @@ class Perfume < ApplicationRecord
       .order(launch_year: :desc, created_at: :desc)
       .limit(6)
   }
+  
+  def preferred_season
+    summer = season_votes.where(summer: true).size
+    winter = season_votes.where(winter: true).size
+    fall = season_votes.where(fall: true).size
+    spring = season_votes.where(spring: true).size
+    total = summer + winter + fall + spring
+    if total > 0
+      { 
+        summer: {count: summer, percentage: summer*100/total}, 
+        winter: {count: winter, percentage: winter*100/total}, 
+        fall: {count: fall, percentage: fall*100/total},
+        spring: {count: spring, percentage: spring*100/total},
+        total: total
+      }
+    else 
+      { total: total }
+    end
+  end
+
+  def preferred_time
+    day = season_votes.where(day: true).size
+    night = season_votes.where(night: true).size
+    total = day + night
+    if total > 0 
+      {
+      day: {count: day, percentage: day*100/total},
+      night: {count: night, percentage: night*100/total}, 
+      total: total 
+    }
+    else
+      { total: total }
+    end
+  end
+  
+  def rating_distribution(rating)
+    counts = reviews.group(rating).count
+    total = counts.values.sum
+    
+    return { total: 0 } if total == 0
+    
+    result = counts.transform_values do |value|
+      { count: value, percentage: value * 100 / total }
+    end
+    result[:total] = total
+    result
+  end
 
   def placeholder_image
     ActionController::Base.helpers.asset_path("bottle_#{id % 10}.jpg")
@@ -67,7 +114,7 @@ class Perfume < ApplicationRecord
         base << note.note.name
       end
     end
-   [{top: top} ,{heart: heart} ,{base: base}]
+   {top: top, heart: heart, base: base}
   end
 
   private
