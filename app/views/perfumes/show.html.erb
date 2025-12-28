@@ -1,3 +1,12 @@
-<h1>Perfumes#show</h1>
-<p>Find me in app/views/perfumes/show.html.erb</p>
-<%= @perfume.name %>
+<div id="react-root"
+  data-perfume="<%= @perfume.to_json(include: {
+      brand: { only: [:name] },
+      perfumers: { only: [:name] },
+      notes: { only: [:name, :family] },
+      perfume_notes: { only: [:note_type] },
+      reviews: { only: [:rating_overall, :rating_longevity, :rating_sillage, :rating_value, :content] },
+      season_votes: { only: [:spring, :summer, :fall, :winter, :day, :night]}
+    })%>"
+  data-user-signed-in="<%= user_signed_in? %>"
+  data-current-user="<%= current_user.to_json(only: [:id, :email, :username]) if user_signed_in? %>">
+</div>

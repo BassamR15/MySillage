@@ -54,10 +54,13 @@ export default function Navbar({ userSignedIn, currentUser }) {
           <div className="flex items-center h-16 gap-2">
             {/* Logo */}
             <a href="/" className="flex items-center space-x-2 mr-4">
-              <div className="w-9 h-9 bg-gradient-to-br from-slate-600 to-slate-800 rounded-lg flex items-center justify-center">
-                <span className="text-slate-100 font-bold text-lg">M</span>
+              <div className="flex items-center space-x-1">
+                <img
+                  src="/mysillage-midnight-clean1.png"
+                  alt="MySillage logo"
+                  className="w-auto h-12 object-contain"
+                />
               </div>
-              <span className="text-xl font-bold text-slate-700">MySillage</span>
             </a>
 
             {/* Navigation */}

@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import PerfumeCard from "./PerfumeCard";
 
-export default function App({ recommended, latest, userSignedIn, currentUser,perfumes }) {
+export default function App({ recommended, latest, userSignedIn, currentUser }) {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [searchQuery, setSearchQuery] = useState("");
   const root = document.getElementById("react-root");
@@ -187,6 +187,7 @@ export default function App({ recommended, latest, userSignedIn, currentUser,per
         </div>
       </section>
 
+      {userSignedIn === false ? (
       <section className="py-20 px-6">
         <div className="max-w-3xl mx-auto text-center">
           <div className="bg-gradient-to-br from-slate-700 to-slate-900 rounded-3xl p-12">
@@ -200,7 +201,9 @@ export default function App({ recommended, latest, userSignedIn, currentUser,per
           </div>
         </div>
       </section>
-
+      ) : (
+        <div></div>
+      )}
       <Footer />
     </div>
   );
