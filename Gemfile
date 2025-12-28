@@ -86,3 +86,7 @@ group :test do
 end
 
 gem "jsbundling-rails", "~> 1.3"
+
+gem "inertia_rails", "~> 3.15"
+
+gem "vite_rails", "~> 3.0"

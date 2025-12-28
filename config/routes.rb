@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+
+  # Redirect to localhost from 127.0.0.1 to use same IP address with Vite server
+  constraints(host: "127.0.0.1") do
+    get "(*path)", to: redirect { |params, req| "#{req.protocol}localhost:#{req.port}/#{params[:path]}" }
+  end
+  get 'inertia-example', to: 'inertia_example#index'
   devise_for :users
   root to: "pages#home"
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
@@ -7,10 +13,22 @@ Rails.application.routes.draw do
   # Can be used by load balancers and uptime monitors to verify that the app is live.
   get "up" => "rails/health#show", as: :rails_health_check
 
-  resources :perfumes, only: [:show]
+  # collection et scent profile et smells user badges dans profile ?
+  
+  resources :perfumes, only: [:show, :index] do
+    resources :reviews, only: [:create, :update, :destroy]
+    resources :season_votes, only: [:create, :update, :destroy]
+  end
+
+  resources :wishlists, only: [:create, :index, :destroy]
+
+  resources :verifications, only: [:new, :create, :index, :destroy]
   resources :brands, only: [:index, :show]
   resources :perfumers, only: [:index, :show]
   resources :marketplace_profiles, only: [:show]
+  resources :notes, only: [:show, :index]
+
+  resources :notifications, only: [:index, :show, :destroy]
 
   resources :conversations, only: [:show] do
     resources :messages, only: [:create, :update, :destroy]
@@ -21,7 +39,7 @@ Rails.application.routes.draw do
 
   resources :layerings, only: [:new, :create, :destroy]
 
-  resources :favourites, only: [:show]
+  resources :price_alerts, only: [:new, :create, :destroy, :index]
 
   resources :listings do
     resources :orders, only: [:show] do
@@ -30,7 +48,7 @@ Rails.application.routes.draw do
   end
 
   resources :marketplace_profiles, except: [:index]
-
+  # favorite et seller reviews dans market place profiles
 
   resources :ai_conversations, only: [:show, :create, :destroy] do
     resources :ai_messages, only: [:create]
