@@ -15,7 +15,8 @@ class PerfumesController < ApplicationController
         perfume_notes: { only: [:note_type] },
         reviews: { only: [:rating_overall, :rating_longevity, :rating_sillage, :rating_value, :content] },
         season_votes: { only: [:spring, :summer, :fall, :winter, :day, :night] }
-      }),
+      },
+      methods: [:placeholder_image, :notes_ordered]),
       userSignedIn: user_signed_in? ,
       currentUser: user_signed_in? ? current_user.as_json(only: [:id, :email, :username]) : nil
     }

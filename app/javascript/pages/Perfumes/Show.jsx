@@ -2,16 +2,8 @@
 import React, { useState } from 'react';
 
 export default function Show({ perfume, userSignedIn, currentUser }) {
-  const [selectedImage, setSelectedImage] = useState(0);
   const [selectedVolume, setSelectedVolume] = useState(1);
   const [isWishlisted, setIsWishlisted] = useState(false);
-
-  // Pour l'instant on utilise des images placeholder
-  const images = [
-    "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=600&h=600&fit=crop",
-    "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=600&h=600&fit=crop",
-    "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=600&h=600&fit=crop"
-  ];
 
   // Volumes fictifs pour l'instant
   const volumes = [
@@ -45,30 +37,16 @@ export default function Show({ perfume, userSignedIn, currentUser }) {
         <div>
           <div style={styles.mainImageContainer}>
             <img
-              src={images[selectedImage]}
+              src={perfume.placeholder_image}
               alt={perfume.name}
               style={styles.mainImage}
             />
           </div>
-          <div style={styles.thumbnails}>
-            {images.map((img, idx) => (
-              <button
-                key={idx}
-                style={{
-                  ...styles.thumbnail,
-                  ...(selectedImage === idx ? styles.thumbnailActive : {})
-                }}
-                onClick={() => setSelectedImage(idx)}
-              >
-                <img src={img} alt="" style={styles.thumbnailImg} />
-              </button>
-            ))}
-          </div>
-
+  
           {/* Parfumeur Card */}
           <div style={styles.parfumeurCard}>
             <div style={styles.parfumeurItem}>
-              <span style={styles.parfumeurIcon}>👨‍🔬</span>
+              <span style={styles.parfumeurIcon}></span>
               <div>
                 <span style={styles.parfumeurLabel}>Parfumeur</span>
                 <span style={styles.parfumeurValue}>
@@ -78,7 +56,7 @@ export default function Show({ perfume, userSignedIn, currentUser }) {
             </div>
             <div style={styles.parfumeurDivider} />
             <div style={styles.parfumeurItem}>
-              <span style={styles.parfumeurIcon}>📅</span>
+              <span style={styles.parfumeurIcon}></span>
               <div>
                 <span style={styles.parfumeurLabel}>Année</span>
                 <span style={styles.parfumeurValue}>{perfume.launch_year || 'N/A'}</span>
@@ -86,7 +64,7 @@ export default function Show({ perfume, userSignedIn, currentUser }) {
             </div>
             <div style={styles.parfumeurDivider} />
             <div style={styles.parfumeurItem}>
-              <span style={styles.parfumeurIcon}>💧</span>
+              <span style={styles.parfumeurIcon}></span>
               <div>
                 <span style={styles.parfumeurLabel}>Concentration</span>
                 <span style={styles.parfumeurValue}>{perfume.concentration || 'EDP'}</span>
@@ -98,7 +76,10 @@ export default function Show({ perfume, userSignedIn, currentUser }) {
         {/* Right Column */}
         <div>
           <div style={styles.productHeader}>
-            <span style={styles.brandTag}>{perfume.brand?.name}</span>
+            <div style={styles.topTag}>
+              <span style={styles.brandTag}>{perfume.brand?.name}</span>
+              <span style={styles.brandTag}>{perfume.gender}</span>
+            </div>
             <h1 style={styles.productName}>{perfume.name}</h1>
             <p style={styles.tagline}>{perfume.tagline || perfume.description?.slice(0, 60) + '...'}</p>
 
@@ -141,6 +122,10 @@ export default function Show({ perfume, userSignedIn, currentUser }) {
             <h3 style={styles.sectionTitleCentered}>
               <span>🌿</span> Notes Olfactives
             </h3>
+
+            { perfume.notes_ordered.forEach( family => {
+              if family === :
+            });}
 
             {['top', 'heart', 'base'].map(type => {
               const typeLabels = { top: 'Tête', heart: 'Cœur', base: 'Fond' };
@@ -265,13 +250,8 @@ const styles = {
     margin: '0 auto',
     alignItems: 'start'
   },
-  mainImageContainer: {
-    background: 'white',
-    borderRadius: 24,
-    padding: '2rem',
-    marginBottom: '1rem'
-  },
-  mainImage: { width: '100%', aspectRatio: '1', objectFit: 'contain' },
+  mainImageContainer: { marginBottom: '1rem' },
+  mainImage: { width: '100%', borderRadius: '24', height: '377px', objectFit: 'contain' },
   thumbnails: { display: 'flex', gap: '0.8rem', justifyContent: 'center', marginBottom: '1.5rem' },
   thumbnail: {
     width: 70, height: 70, background: 'white', borderRadius: 14,
@@ -292,6 +272,7 @@ const styles = {
   parfumeurValue: { display: 'block', fontWeight: 600, fontSize: '0.9rem', color: '#5a4d3f' },
   parfumeurDivider: { width: 1, height: 40, background: '#e8e0d5', margin: '0 0.5rem' },
   productHeader: { marginBottom: '1.5rem' },
+  topTag: { display: 'flex' , justifyContent: 'flex-start' , gap: '0.5rem' },
   brandTag: {
     display: 'inline-block', background: '#e8e0d5', padding: '0.4rem 1rem',
     borderRadius: 20, fontSize: '0.75rem', textTransform: 'uppercase',

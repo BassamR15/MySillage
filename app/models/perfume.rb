@@ -53,6 +53,22 @@ class Perfume < ApplicationRecord
   def self.k_size
     count >= 1000 ? "#{count / 1000}K+" : "#{count}"
   end
+  
+  def notes_ordered 
+    top = []
+    heart = []
+    base = []
+    perfume_notes.each do |note|
+      if note.note_type == "top"
+        top << note.note.name
+      elsif note.note_type == "heart"
+        heart << note.note.name
+      else
+        base << note.note.name
+      end
+    end
+   [{top: top} ,{heart: heart} ,{base: base}]
+  end
 
   private
 
