@@ -1,7 +1,22 @@
 class PerfumesController < ApplicationController
-  skip_before_action :authenticate_user!, only: [:show]
+  skip_before_action :authenticate_user!, only: [:show, :index]
   def index
     @perfumes = Perfume.all
+    wishlisted_ids = user_signed_in? ? current_user.wishlists.pluck(:perfume_id) : []
+
+    render inertia: 'Perfumes/Index', props: {
+      perfumes: @perfumes.map { |perfume|
+        perfume.as_json(include: {
+          brand: { only: [:name] },
+          notes: { only: [:name, :family] }
+        }).merge(
+          placeholder_image: perfume.placeholder_image, 
+          wishlisted: wishlisted_ids.include?(perfume.id)
+        )
+      },
+      userSignedIn: user_signed_in?,
+      currentUser: user_signed_in? ? current_user.as_json(only: [:id, :email, :username]) : nil,
+    }
   end
 
   def show

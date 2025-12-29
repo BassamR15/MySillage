@@ -93,6 +93,10 @@ class Perfume < ApplicationRecord
     result
   end
 
+  def average_averall
+    counts = reviews.(:rating_overall).count 
+  end
+
   def placeholder_image
     ActionController::Base.helpers.asset_path("bottle_#{id % 10}.jpg")
   end
