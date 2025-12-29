@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2025_12_27_084825) do
+ActiveRecord::Schema[7.1].define(version: 2025_12_28_162317) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
   enable_extension "vector"
@@ -339,9 +339,9 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_27_084825) do
     t.bigint "user_id", null: false
     t.bigint "perfume_id", null: false
     t.float "rating_overall"
-    t.float "rating_longevity"
-    t.float "rating_sillage"
-    t.float "rating_value"
+    t.integer "rating_longevity"
+    t.integer "rating_sillage"
+    t.integer "rating_value"
     t.text "content"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false

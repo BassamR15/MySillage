@@ -1,7 +1,0 @@
-<div id="react-root"
-  data-recommended="<%= @recommended.to_json(methods: [:placeholder_image], include: { brand: { only: [:name] }, notes: { only: [:name] } }) %>"
-  data-latest="<%= @latest.to_json(methods: [:placeholder_image], include: { brand: { only: [:name] } }) %>"
-  data-total-perfumes="<%= Perfume.k_size %>"
-  data-user-signed-in="<%= user_signed_in? %>"
-  data-current-user="<%= current_user.to_json(only: [:id, :email, :username]) if user_signed_in? %>">
-</div>

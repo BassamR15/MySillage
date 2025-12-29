@@ -1,0 +1,652 @@
+@use '../../styles/variables' as *;
+
+.container {
+  font-family: $font-main;
+  background: $beige;
+  color: #2d2a26;
+  min-height: 100vh;
+}
+
+// Header
+.header {
+  padding: 1rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(248, 245, 240, 0.95);
+  backdrop-filter: blur(10px);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 1px solid $beige-dark;
+}
+
+.logo {
+  font-family: $font-serif;
+  font-size: 1.8rem;
+  color: $brown;
+}
+
+.logoAccent {
+  font-style: italic;
+  color: $green;
+}
+
+.nav {
+  display: flex;
+  gap: 2rem;
+}
+
+.navLink {
+  color: $brown;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.headerRight {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: $radius-sm;
+  background: linear-gradient(135deg, $green, $green-dark);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
+
+// Main Grid
+.mainGrid {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  gap: 3rem;
+  padding: 1.5rem 3rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  align-items: start;
+}
+
+.mainImageContainer {
+  margin-bottom: 1rem;
+}
+
+.mainImage {
+  width: 100%;
+  border-radius: 24px;
+  height: 377px;
+  object-fit: contain;
+}
+
+// Parfumeur Card
+.parfumeurCard {
+  background: white;
+  border-radius: $radius;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.parfumeurItem {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  flex: 1;
+}
+
+.parfumeurIcon {
+  font-size: 1.5rem;
+}
+
+.parfumeurLabel {
+  display: block;
+  font-size: 0.65rem;
+  color: $brown-light;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.15rem;
+}
+
+.parfumeurValue {
+  display: block;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: $brown-dark;
+}
+
+.parfumeurDivider {
+  width: 1px;
+  height: 40px;
+  background: $beige-dark;
+  margin: 0 0.5rem;
+}
+
+// Product Header
+.productHeader {
+  margin-bottom: 1.5rem;
+}
+
+.topTag {
+  display: flex;
+  justify-content: flex-start;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.brandTag {
+  display: inline-block;
+  background: $beige-dark;
+  padding: 0.4rem 1rem;
+  border-radius: $radius;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $brown;
+  margin-bottom: 0.8rem;
+}
+
+.priceAlertTag {
+  margin-left: auto;
+  margin-bottom: 0;
+  background: $beige;
+  border: 1px solid $beige-dark;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.4rem 1rem;
+  border-radius: $radius;
+}
+
+.priceAlertTagActive {
+  background: #fff3e0;
+  border-color: #ffb74d;
+  color: #e65100;
+}
+
+.productName {
+  font-family: $font-serif;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1;
+  margin-bottom: 0.4rem;
+}
+
+.tagline {
+  font-family: $font-serif;
+  font-size: 1.1rem;
+  font-style: italic;
+  color: $brown-light;
+  margin-bottom: 1rem;
+}
+
+.ratingRow {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ratingStars {
+  color: #c4a77d;
+  font-size: 1.1rem;
+}
+
+.ratingScore {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: $brown-dark;
+}
+
+.ratingCount {
+  color: $brown-light;
+  font-size: 0.9rem;
+}
+
+// Accords Section
+.accordsSection {
+  background: white;
+  border-radius: $radius;
+  padding: 1.5rem;
+}
+
+.sectionTitle {
+  font-family: $font-serif;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.accordsList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.accordItem {}
+
+.accordHeader {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.3rem;
+}
+
+.accordName {
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.accordBarBg {
+  height: 8px;
+  background: #f0ebe3;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.accordBarFill {
+  height: 100%;
+  border-radius: 4px;
+  background: $green;
+}
+
+// Full Width Container
+.fullWidthContainer {
+  padding: 2rem 3rem 4rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+// Notes Card
+.notesCenterWrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.notesCard {
+  background: white;
+  border-radius: $radius;
+  padding: 2rem;
+  max-width: 700px;
+  width: 100%;
+}
+
+.sectionTitleCentered {
+  font-family: $font-serif;
+  font-size: 1.3rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+}
+
+.notesTier {
+  margin-bottom: 1.5rem;
+}
+
+.tierHeaderCentered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.tierIcon {
+  font-size: 1.3rem;
+}
+
+.tierLabel {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: $brown;
+}
+
+.notesChipsCentered {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: center;
+}
+
+.noteChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: $beige;
+  padding: 0.6rem 1rem;
+  border-radius: $radius;
+  font-size: 0.85rem;
+}
+
+// Votes Section
+.votesSection {
+  background: white;
+  border-radius: $radius;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.votesGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.votesRow {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.voteBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.voteBlockLabel {
+  font-size: 1rem;
+  font-weight: 600;
+  color: $brown-dark;
+}
+
+// Season Grid
+.seasonGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+}
+
+.seasonBtn {
+  background: $beige;
+  border-radius: $radius-sm;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+.seasonBtnActive {
+  background: #e8f5e9;
+  border: 2px solid $green;
+}
+
+.seasonIcon {
+  display: block;
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.seasonLabel {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.seasonBarBg {
+  height: 4px;
+  background: $beige-dark;
+  border-radius: 2px;
+  margin-bottom: 0.25rem;
+}
+
+.seasonBarFill {
+  height: 100%;
+  background: $green;
+  border-radius: 2px;
+}
+
+.seasonVotes {
+  font-size: 0.65rem;
+  color: $brown-light;
+}
+
+// Day/Night Grid
+.dayNightGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.dayNightBtn {
+  background: $beige;
+  border-radius: $radius-sm;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dayNightIcon {
+  font-size: 1.25rem;
+}
+
+.dayNightPercent {
+  margin-left: auto;
+  font-weight: 600;
+  color: $green;
+}
+
+// Rating Bars
+.ratingBars {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.ratingRowVote {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ratingRowActive {
+  background: #e8f5e9;
+  border-radius: 8px;
+  padding: 0.2rem;
+}
+
+.ratingLabelText {
+  width: 5rem;
+  font-size: 0.8rem;
+  color: $brown-dark;
+}
+
+.ratingBarBg {
+  flex: 1;
+  height: 8px;
+  background: #f0ebe3;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.ratingBarFill {
+  height: 100%;
+  background: $green;
+  border-radius: 4px;
+}
+
+.ratingCountVote {
+  width: 2rem;
+  font-size: 0.7rem;
+  color: $brown-light;
+  text-align: right;
+}
+
+// Commerce Grid
+.commerceGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.priceCard {
+  background: white;
+  border-radius: $radius;
+  padding: 2rem;
+}
+
+.priceHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.priceLabel {
+  font-size: 0.85rem;
+  color: $brown-light;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.wishlistBtn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: $beige;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.wishlistBtnActive {
+  background: #fce4ec;
+}
+
+.priceAmount {
+  margin-bottom: 1.5rem;
+}
+
+.priceBig {
+  font-family: $font-serif;
+  font-size: 2.8rem;
+  color: $brown-dark;
+}
+
+.priceUnit {
+  color: $brown-light;
+  font-size: 1rem;
+  margin-left: 0.3rem;
+}
+
+.volumeSelector {
+  display: flex;
+  gap: 0.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.volumeBtn {
+  flex: 1;
+  padding: 1rem;
+  background: $beige;
+  border: 2px solid transparent;
+  border-radius: $radius-sm;
+  text-align: center;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.volumeBtnActive {
+  background: white;
+  border-color: $green;
+}
+
+.volumeBtnCollected {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.volSize {
+  display: block;
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 0.2rem;
+}
+
+.volPrice {
+  font-size: 0.8rem;
+  color: $brown-light;
+}
+
+.collectedBadge {
+  color: $green;
+  font-size: 0.8rem;
+}
+
+.addToCollectionBtn {
+  width: 100%;
+  padding: 1.1rem;
+  background: $green;
+  border: none;
+  border-radius: $radius-full;
+  color: white;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btnDisabled {
+  background: $brown-light;
+  cursor: not-allowed;
+}
+
+// Marketplace Card
+.marketplaceCard {
+  background: white;
+  border-radius: $radius;
+  padding: 2rem;
+}
+
+.marketHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.marketTitle {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.offersBadge {
+  background: $beige-dark;
+  color: $brown;
+  padding: 0.35rem 0.9rem;
+  border-radius: $radius;
+  font-size: 0.8rem;
+}
+
+.marketPlaceholder {
+  color: $brown-light;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+// Description Card
+.descriptionCard {
+  background: white;
+  border-radius: $radius;
+  padding: 2rem;
+}
+
+.descriptionText {
+  font-size: 1.05rem;
+  line-height: 1.9;
+  color: $brown-dark;
+  margin: 0;
+}

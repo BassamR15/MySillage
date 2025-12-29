@@ -16,11 +16,14 @@ Rails.application.routes.draw do
   # collection et scent profile et smells user badges dans profile ?
   
   resources :perfumes, only: [:show, :index] do
-    resources :reviews, only: [:create, :update, :destroy]
-    resources :season_votes, only: [:create, :update, :destroy]
+    resources :reviews, only: [:create, :destroy]
+    resources :season_votes, only: [:create, :destroy]
+    resource :wishlist, only: [:create, :destroy]
+    resource :collection, only: [:create]
+    resource :price_alert, only: [:create, :destroy]
   end
 
-  resources :wishlists, only: [:create, :index, :destroy]
+  resources :wishlists, only: [:index]
 
   resources :verifications, only: [:new, :create, :index, :destroy]
   resources :brands, only: [:index, :show]

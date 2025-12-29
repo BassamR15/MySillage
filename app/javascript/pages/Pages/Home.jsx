@@ -1,13 +1,11 @@
 import React, { useState, useEffect } from "react";
-import Navbar from "./Navbar";
-import Footer from "./Footer";
-import PerfumeCard from "./PerfumeCard";
+import Navbar from "../../components/Navbar";
+import Footer from "../../components/Footer";
+import PerfumeCard from "../../components/PerfumeCard";
 
-export default function App({ recommended, latest, userSignedIn, currentUser }) {
+export default function Home({ recommended, latest, userSignedIn, currentUser, totalPerfumes }) {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [searchQuery, setSearchQuery] = useState("");
-  const root = document.getElementById("react-root");
-  const totalPerfumes = root.dataset.totalPerfumes;
 
   const carouselSlides = [
     { id: 1, title: "Votre parfum idéal existe", subtitle: "Laissez notre IA le trouver pour vous", icon: "💫" },

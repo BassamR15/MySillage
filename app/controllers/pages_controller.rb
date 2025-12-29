@@ -9,5 +9,19 @@ class PagesController < ApplicationController
     else
       @recommended = Perfume.popular.includes(:brand).limit(8)
     end
+    
+    render inertia: 'Pages/Home', props: {
+      totalPerfumes: Perfume.k_size,
+      recommended: @recommended.as_json(methods: [:placeholder_image],
+        include: { brand: { only: [:name] },
+          notes: { only: [:name] }
+        }
+      ),
+      latest: @latest.as_json(methods: [:placeholder_image],
+        include: { brand: { only: [:name] } }
+      ),
+      userSignedIn: user_signed_in? ,
+      currentUser: user_signed_in? ? current_user.as_json(only: [:id, :email, :username]) : nil
+    }
   end
 end

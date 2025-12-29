@@ -1,0 +1,91 @@
+@use '../../styles/variables' as *;
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.content {
+  background: white;
+  border-radius: $radius;
+  padding: 2rem;
+  width: 100%;
+  max-width: 400px;
+}
+
+.title {
+  font-family: $font-serif;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.field {
+  margin-bottom: 1rem;
+}
+
+.label {
+  display: block;
+  font-size: 0.85rem;
+  color: $brown;
+  margin-bottom: 0.5rem;
+}
+
+.input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid $beige-dark;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-family: inherit;
+  box-sizing: border-box;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.cancelBtn {
+  flex: 1;
+  padding: 0.75rem;
+  background: $beige;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.confirmBtn {
+  flex: 1;
+  padding: 0.75rem;
+  background: $green;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-family: inherit;
+  color: white;
+}
+
+.deleteBtn {
+  flex: 1;
+  padding: 0.75rem;
+  background: #ffebee;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-family: inherit;
+  color: #c62828;
+}
