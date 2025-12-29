@@ -26,7 +26,10 @@ class PerfumesController < ApplicationController
       userSignedIn: user_signed_in?,
       currentUser: user_signed_in? ? current_user.as_json(only: [:id, :email, :username]) : nil,
       userSeasonVotes: user_signed_in? ? @perfume.season_votes.find_by(user: current_user) : nil,
-      userReviews: user_signed_in? ? @perfume.reviews.find_by(user: current_user) : nil
+      userReviews: user_signed_in? ? @perfume.reviews.find_by(user: current_user) : nil,
+      userWishlist: user_signed_in? ? Wishlist.exists?(user: current_user, perfume: @perfume) : false,
+      userCollectedVolumes: user_signed_in? ? @perfume.collections.where(user: current_user).pluck(:base_quantity_ml) : [],
+      userPriceAlert: user_signed_in? ? @perfume.price_alerts.find_by(user: current_user) : nil
     }
   end
 end
