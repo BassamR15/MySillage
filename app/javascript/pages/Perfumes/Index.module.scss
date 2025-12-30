@@ -1,0 +1,232 @@
+@import '../../styles/variables';
+
+.container {
+  min-height: 100vh;
+  background: $beige;
+}
+
+// ============================================
+// HEADER
+// ============================================
+.header {
+  padding: 1rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba($beige, 0.95);
+  backdrop-filter: blur(10px);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 1px solid $beige-dark;
+}
+
+.logo {
+  font-family: $font-serif;
+  font-size: 1.8rem;
+  color: $brown;
+  text-decoration: none;
+}
+
+.logoAccent {
+  font-style: italic;
+  color: $green;
+}
+
+.nav {
+  display: flex;
+  gap: 2rem;
+}
+
+.navLink {
+  color: $brown;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+
+  &:hover {
+    color: $green;
+  }
+}
+
+.headerRight {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: $radius-sm;
+  background: linear-gradient(135deg, $green, $green-dark);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
+
+.loginBtn {
+  padding: 0.6rem 1.2rem;
+  background: $green;
+  color: white;
+  border-radius: $radius-full;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background 0.2s;
+
+  &:hover {
+    background: $green-dark;
+  }
+}
+
+// ============================================
+// MAIN LAYOUT
+// ============================================
+.mainLayout {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+// ============================================
+// CONTENT
+// ============================================
+.content {
+  padding: 2rem;
+}
+
+// ============================================
+// HERO
+// ============================================
+.hero {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.heroTitle {
+  font-family: $font-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+  color: #2d2a26;
+}
+
+.heroSubtitle {
+  font-family: $font-serif;
+  font-size: 1rem;
+  font-style: italic;
+  color: $brown-light;
+  margin-bottom: 1.5rem;
+}
+
+// ============================================
+// RESULTS BAR
+// ============================================
+.resultsBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $beige-dark;
+}
+
+.resultsCount {
+  font-size: 0.9rem;
+  color: $brown;
+}
+
+.sortSelect {
+  padding: 0.6rem 1rem;
+  border: 1px solid $beige-dark;
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 0.85rem;
+  color: $brown;
+  background: white;
+  cursor: pointer;
+
+  &:focus {
+    outline: none;
+    border-color: $green;
+  }
+}
+
+// ============================================
+// GRID
+// ============================================
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+}
+
+// ============================================
+// LOAD MORE
+// ============================================
+.loadMore {
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5rem;
+}
+
+.loadMoreBtn {
+  padding: 1rem 2.5rem;
+  background: white;
+  border: 1px solid $beige-dark;
+  border-radius: $radius-full;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: $brown;
+  cursor: pointer;
+  transition: all 0.2s;
+
+  &:hover {
+    background: $green;
+    border-color: $green;
+    color: white;
+  }
+}
+
+// ============================================
+// RESPONSIVE
+// ============================================
+@media (max-width: 1024px) {
+  .mainLayout {
+    grid-template-columns: 1fr;
+  }
+
+  .header {
+    padding: 1rem 1.5rem;
+  }
+
+  .nav {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .heroTitle {
+    font-size: 1.5rem;
+  }
+
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .content {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

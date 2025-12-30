@@ -1,0 +1,149 @@
+// app/javascript/components/PerfumeCard.module.scss
+@import '../styles/variables';
+
+.card {
+  background: white;
+  border-radius: $radius;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  transition: all 0.3s;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.1);
+
+    .wishlistBtn {
+      opacity: 1;
+    }
+
+    .image {
+      transform: scale(1.05);
+    }
+  }
+}
+
+.imageContainer {
+  position: relative;
+  padding: 1.5rem;
+  background: linear-gradient(180deg, #faf8f5 0%, #f5f0eb 100%);
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  transition: transform 0.3s;
+  z-index: 1;
+}
+
+.badge {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background: $green;
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.7rem;
+  font-weight: 500;
+  z-index: 2;
+}
+
+.wishlistBtn {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: white;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  opacity: 0;
+  transition: all 0.2s;
+  z-index: 2;
+
+  &:hover {
+    transform: scale(1.1);
+  }
+}
+.content {
+  padding: 1.25rem;
+}
+
+.brand {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $green;
+  margin-bottom: 0.3rem;
+}
+
+.name {
+  font-family: $font-serif;
+  font-size: 1.15rem;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+  color: #2d2a26;
+  line-height: 1.3;
+}
+
+.notes {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.note {
+  background: $beige;
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.65rem;
+  color: $brown;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.75rem;
+  border-top: 1px solid #f0ebe3;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.stars {
+  color: #c4a77d;
+  font-size: 0.9rem;
+}
+
+.score {
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: $brown-dark;
+}
+
+.priceAlertBtn {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: $beige;
+  border: none;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s;
+
+  &:hover {
+    background: $beige-dark;
+  }
+}

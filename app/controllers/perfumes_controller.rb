@@ -1,26 +1,42 @@
 class PerfumesController < ApplicationController
   skip_before_action :authenticate_user!, only: [:show, :index]
   def index
-    @perfumes = Perfume.all
+    @perfumes = Perfume.all.order(trending: :desc, name: :asc)
     wishlisted_ids = user_signed_in? ? current_user.wishlists.pluck(:perfume_id) : []
+    price_alerted_ids = user_signed_in? ? current_user.price_alerts.pluck(:perfume_id) : []
+    @query = params[:search]
+    if @query.present?
+        sql_subquery = <<~SQL
+        perfumes.name ILIKE :query
+        or brands.name ILIKE :query
+        or notes.name ILIKE :query
+        or notes.family ILIKE :query
+      SQL
+      @perfumes = @perfumes.joins(:brand, :notes).where(sql_subquery,query: "%#{@query}%").distinct
+    end
 
     render inertia: 'Perfumes/Index', props: {
       perfumes: @perfumes.map { |perfume|
         perfume.as_json(include: {
-          brand: { only: [:name] },
+          brand: { only: [:id, :name] },
           notes: { only: [:name, :family] }
         }).merge(
           placeholder_image: perfume.placeholder_image, 
-          wishlisted: wishlisted_ids.include?(perfume.id)
+          wishlisted: wishlisted_ids.include?(perfume.id),
+          price_alerted: price_alerted_ids.include?(perfume.id),
+          average: perfume.average_overall
         )
       },
+      brands: Brand.all.as_json(only: [:id, :name]),
+      families: Note.distinct.pluck(:family),
       userSignedIn: user_signed_in?,
-      currentUser: user_signed_in? ? current_user.as_json(only: [:id, :email, :username]) : nil,
+      currentUser: user_signed_in? ? current_user.as_json(only: [:id, :email, :username]) : nil
     }
   end
 
   def show
     @perfume = Perfume.find(params[:id])
+    PerfumeVisit.create(perfume: @perfume)
 
     render inertia: 'Perfumes/Show', props: {
       perfume: {

@@ -8,6 +8,8 @@ class Perfume < ApplicationRecord
   has_many :perfume_notes, dependent: :destroy
   has_many :notes, through: :perfume_notes
 
+  has_many :perfume_visits, dependent: :destroy
+
   has_many :perfume_perfumers, dependent: :destroy
   has_many :perfumers, through: :perfume_perfumers
 
@@ -93,8 +95,8 @@ class Perfume < ApplicationRecord
     result
   end
 
-  def average_averall
-    counts = reviews.(:rating_overall).count 
+  def average_overall
+   reviews.average(:rating_overall)&.round(1)
   end
 
   def placeholder_image

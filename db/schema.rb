@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2025_12_28_162317) do
+ActiveRecord::Schema[7.1].define(version: 2025_12_30_080647) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
   enable_extension "vector"
@@ -284,6 +284,13 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_28_162317) do
     t.index ["perfumer_id"], name: "index_perfume_perfumers_on_perfumer_id"
   end
 
+  create_table "perfume_visits", force: :cascade do |t|
+    t.bigint "perfume_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["perfume_id"], name: "index_perfume_visits_on_perfume_id"
+  end
+
   create_table "perfumers", force: :cascade do |t|
     t.string "name"
     t.text "bio"
@@ -308,6 +315,7 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_28_162317) do
     t.integer "price_cents"
     t.string "concentration"
     t.bigint "brand_collection_id", null: false
+    t.boolean "trending"
     t.index ["brand_collection_id"], name: "index_perfumes_on_brand_collection_id"
     t.index ["brand_id"], name: "index_perfumes_on_brand_id"
   end
@@ -494,6 +502,7 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_28_162317) do
   add_foreign_key "perfume_notes", "perfumes"
   add_foreign_key "perfume_perfumers", "perfumers"
   add_foreign_key "perfume_perfumers", "perfumes"
+  add_foreign_key "perfume_visits", "perfumes"
   add_foreign_key "perfumes", "brand_collections"
   add_foreign_key "perfumes", "brands"
   add_foreign_key "price_alerts", "perfumes"

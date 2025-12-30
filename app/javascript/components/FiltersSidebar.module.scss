@@ -1,0 +1,138 @@
+@import '../styles/variables';
+
+.sidebar {
+  background: white;
+  padding: 2rem;
+  border-right: 1px solid $beige-dark;
+  height: calc(100vh - 70px);
+  position: sticky;
+  top: 70px;
+  overflow-y: auto;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: $beige;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: $beige-dark;
+    border-radius: 3px;
+  }
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.title {
+  font-family: $font-serif;
+  font-size: 1.3rem;
+  color: $brown-dark;
+}
+
+.clearBtn {
+  font-size: 0.8rem;
+  color: $green;
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-family: inherit;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.filterGroup {
+  margin-bottom: 1.75rem;
+}
+
+.filterLabel {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $brown-light;
+  margin-bottom: 0.75rem;
+  display: block;
+  font-weight: 500;
+}
+
+.filterOptions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.filterOption {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  transition: background 0.2s;
+
+  &:hover {
+    background: $beige;
+  }
+}
+
+.checkbox {
+  width: 18px;
+  height: 18px;
+  border: 2px solid $beige-dark;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65rem;
+  color: white;
+  background: white;
+  transition: all 0.2s;
+
+  &.checked {
+    background: $green;
+    border-color: $green;
+  }
+}
+
+.filterText {
+  font-size: 0.9rem;
+  color: $brown-dark;
+}
+
+.priceInputs {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.priceInput {
+  flex: 1;
+  padding: 0.6rem;
+  border: 1px solid $beige-dark;
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 0.85rem;
+  text-align: center;
+  background: $beige;
+
+  &:focus {
+    outline: none;
+    border-color: $green;
+  }
+
+  &::placeholder {
+    color: $brown-light;
+  }
+}
+
+.priceSeparator {
+  color: $brown-light;
+}
