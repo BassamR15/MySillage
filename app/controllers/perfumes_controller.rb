@@ -1,11 +1,77 @@
 class PerfumesController < ApplicationController
-  skip_before_action :authenticate_user!, only: [:show]
+  skip_before_action :authenticate_user!, only: [:show, :index]
   def index
-    @perfumes = Perfume.all
+    @perfumes_base = Perfume.sorted_by(params[:order])
+    
+    if params[:search].present?
+      sql_subquery = <<~SQL
+        perfumes.name ILIKE :query
+        OR brands.name ILIKE :query
+        OR notes.name ILIKE :query
+        OR notes.family ILIKE :query
+      SQL
+      @perfumes_base = @perfumes_base.joins(:brand, :notes).where(sql_subquery, query: "%#{params[:search]}%").distinct
+    end
+
+    if params[:brands].present?
+      @perfumes_base = @perfumes_base.where(brand_id: params[:brands])
+    end
+
+    if params[:genders].present?
+      genders = params[:genders]
+      if genders.include?('male') || genders.include?('female')
+        genders = genders + ['unisex'] unless genders.include?('unisex')
+      end
+      @perfumes_base = @perfumes_base.where(gender: genders.uniq)
+    end
+
+    if params[:families].present?
+      @perfumes_base = @perfumes_base.joins(:notes).where(notes: { family: params[:families] }).distinct
+    end
+
+    total_count = @perfumes_base.count
+    @perfumes = @perfumes_base.limit(24).offset(params[:offset].to_i || 0)
+
+    wishlisted_ids = user_signed_in? ? current_user.wishlists.pluck(:perfume_id) : []
+    price_alerted_ids = user_signed_in? ? current_user.price_alerts.pluck(:perfume_id) : []
+
+    perfumes_json = @perfumes.map { |perfume|
+      perfume.as_json(include: {
+        brand: { only: [:id, :name] },
+        notes: { only: [:name, :family] }
+      }).merge(
+        placeholder_image: perfume.placeholder_image,
+        wishlisted: wishlisted_ids.include?(perfume.id),
+        price_alerted: price_alerted_ids.include?(perfume.id),
+        average: perfume.average_overall
+      )
+    }
+
+    if request.format.json?
+      render json: { perfumes: perfumes_json, totalCount: total_count }
+    else
+      render inertia: 'Perfumes/Index', props: {
+        perfumes: perfumes_json,
+        totalCount: total_count,
+        brands: Brand.all.as_json(only: [:id, :name]),
+        families: Note.distinct.pluck(:family),
+        userSignedIn: user_signed_in?,
+        currentUser: user_signed_in? ? current_user.as_json(only: [:id, :email, :username]) : nil,
+        currentOrder: params[:order] || '',
+        currentSearch: params[:search] || '',
+        currentFilters: {
+          brands: (params[:brands] || []).map(&:to_i).uniq,
+          genders: params[:genders] || [],
+          families: params[:families] || []
+        },
+        sidebarOpen: params[:sidebar] == 'true'
+      }
+    end
   end
 
   def show
     @perfume = Perfume.find(params[:id])
+    PerfumeVisit.create(perfume: @perfume)
 
     render inertia: 'Perfumes/Show', props: {
       perfume: {

@@ -10,6 +10,7 @@ export default function PriceAlertModal({
 }) {
   const [alertMaxPrice, setAlertMaxPrice] = useState(priceAlert?.max_price_cents / 100 || 50);
   const [alertMinQuantity, setAlertMinQuantity] = useState(priceAlert?.min_quantity_ml || 50);
+  
 
   const handleCreate = () => {
     fetch(`/perfumes/${perfumeId}/price_alert`, {
@@ -68,7 +69,7 @@ export default function PriceAlertModal({
           onChange={(e) => setAlertMinQuantity(parseInt(e.target.value))}
           className={modalStyles.input}
         >
-          {volumes.map(vol => (
+          {(volumes || [{ size: '30ml' }, { size: '50ml' }, { size: '100ml' }]).map(vol => (
             <option key={vol.size} value={parseInt(vol.size)}>
               {vol.size}
             </option>

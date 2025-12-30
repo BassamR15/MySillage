@@ -8,6 +8,8 @@ class Perfume < ApplicationRecord
   has_many :perfume_notes, dependent: :destroy
   has_many :notes, through: :perfume_notes
 
+  has_many :perfume_visits, dependent: :destroy
+
   has_many :perfume_perfumers, dependent: :destroy
   has_many :perfumers, through: :perfume_perfumers
 
@@ -44,6 +46,15 @@ class Perfume < ApplicationRecord
     where(launch_year: [Date.current.year, Date.current.year - 1])
       .order(launch_year: :desc, created_at: :desc)
       .limit(6)
+  }
+
+  scope :sorted_by, ->(order) {
+    case order
+    when 'newest' then order(launch_year: :desc, name: :asc)
+    when 'rating' then order(Arel.sql('average_overall DESC NULLS LAST'), name: :asc)
+    when 'name' then order(name: :asc)
+    else order(trending: :desc, launch_year: :desc, name: :asc)  # default = popularity
+    end
   }
   
   def preferred_season
@@ -91,6 +102,10 @@ class Perfume < ApplicationRecord
     end
     result[:total] = total
     result
+  end
+
+  def average_overall
+   reviews.average(:rating_overall)&.round(1)
   end
 
   def placeholder_image

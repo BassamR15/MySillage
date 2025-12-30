@@ -1,0 +1,63 @@
+// app/javascript/components/SearchBar.module.scss
+@import '../styles/variables';
+
+.searchContainer {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.searchBar {
+  display: flex;
+  background: white;
+  border-radius: $radius-full;
+  padding: 0.4rem;
+  box-shadow: $shadow;
+  border: 1px solid $green; 
+   &:focus-within {
+    outline: none; 
+   }
+}
+
+.searchInput {
+  flex: 1;
+  border: none;
+  padding: 0.9rem 1.5rem;
+  font-size: 0.95rem;
+  font-family: inherit;
+  background: transparent;
+  outline: none;
+
+  &::placeholder {
+    color: $brown-light;
+    outline: none;
+  }
+  &:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+}
+
+.searchBtn {
+  background: $green;
+  border: none;
+  padding: 0.9rem 1.8rem;
+  border-radius: $radius-full;
+  color: white;
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background 0.2s;
+  outline: none;
+
+  &:hover {
+    background: $green-dark;
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
