@@ -1,32 +1,99 @@
-import React, { useState } from 'react';
-import { Link } from '@inertiajs/react';
+import React, { useState, useEffect, useRef } from 'react';
+import { Link, router } from '@inertiajs/react';
 import PriceAlertModal from '../../components/PriceAlertModal';
 import SearchBar from '../../components/PerfumeSearchBar';
 import FiltersSidebar from '../../components/FiltersSidebar';
 import PerfumeCard from '../../components/PerfumeCard2';
+import Dropdown from '../../components/Dropdown';
 import styles from './Index.module.scss';
-import { router } from '@inertiajs/react';
 
-export default function Index({ perfumes, brands, families, userSignedIn, currentUser }) {
-  const [searchQuery, setSearchQuery] = useState('');
+export default function Index({ perfumes, totalCount, brands, families, userSignedIn, currentUser, currentOrder, currentSearch, currentFilters, sidebarOpen: initialSidebarOpen }) {
+  const [searchQuery, setSearchQuery] = useState(currentSearch);
   const [selectedPerfume, setSelectedPerfume] = useState(null);
   const [filters, setFilters] = useState({
-    brands: [],
-    genders: [],
-    families: [],
+    brands: currentFilters?.brands || [],
+    genders: currentFilters?.genders || [],
+    families: currentFilters?.families || [],
     priceMin: '',
     priceMax: ''
   });
-  const handleSearch = () => {
-    router.get('/perfumes', { search: searchQuery });
-  };
-  const [order, setOrder] = useState('popularity');
-  const [visibleCount, setVisibleCount] = useState(12);
+  const [order, setOrder] = useState(currentOrder);
+  const [displayedPerfumes, setDisplayedPerfumes] = useState(perfumes || []);
+  const [sidebarOpen, setSidebarOpen] = useState(initialSidebarOpen || false);
+  
+  const isFirstRender = useRef(true);
 
-  // Charger plus de parfums
-  const loadMore = () => {
-    setVisibleCount(visibleCount + 12);
+  useEffect(() => {
+    if (isFirstRender.current) {
+      isFirstRender.current = false;
+      return;
+    }
+
+    const timer = setTimeout(() => {
+      applyFilters();
+    }, 300);
+
+    return () => clearTimeout(timer);
+  }, [filters]);
+
+  const applyFilters = () => {
+    router.get('/perfumes', {
+      search: searchQuery,
+      order: order,
+      brands: filters.brands,
+      genders: filters.genders,
+      families: filters.families,
+      sidebar: sidebarOpen
+    }, { preserveState: false });
   };
+
+  const handleSearch = () => {
+    router.get('/perfumes', { 
+      search: searchQuery, 
+      order: order,
+      brands: filters.brands,
+      genders: filters.genders,
+      families: filters.families
+    });
+  };
+
+  const handleOrderChange = (newOrder) => {
+    setOrder(newOrder);
+    router.get('/perfumes', { 
+      search: searchQuery, 
+      order: newOrder,
+      brands: filters.brands,
+      genders: filters.genders,
+      families: filters.families
+    });
+  };
+
+  const loadMore = () => {
+    const offset = displayedPerfumes.length;
+    const params = new URLSearchParams({
+      offset: offset,
+      search: searchQuery,
+      order: order
+    });
+    
+    filters.brands.forEach(b => params.append('brands[]', b));
+    filters.genders.forEach(g => params.append('genders[]', g));
+    filters.families.forEach(f => params.append('families[]', f));
+    
+    fetch(`/perfumes.json?${params.toString()}`)
+      .then(res => res.json())
+      .then(data => {
+        setDisplayedPerfumes([...displayedPerfumes, ...data.perfumes]);
+      });
+  };
+
+  const sortOptions = [
+    { value: 'popularity', label: 'Popularité' },
+    { value: 'newest', label: 'Nouveautés' },
+    { value: 'price_asc', label: 'Prix croissant' },
+    { value: 'price_desc', label: 'Prix décroissant' },
+    { value: 'rating', label: 'Meilleures notes' }
+  ];
 
   return (
     <div className={styles.container}>
@@ -51,14 +118,17 @@ export default function Index({ perfumes, brands, families, userSignedIn, curren
         </div>
       </header>
 
-      <div className={styles.mainLayout}>
+      <div className={`${styles.mainLayout} ${!sidebarOpen ? styles.noSidebar : ''}`}>
         {/* Sidebar Filtres */}
-        <FiltersSidebar
-          filters={filters}
-          setFilters={setFilters}
-          brands={brands}
-          families={families}
-        />
+        {sidebarOpen && (
+          <FiltersSidebar
+            filters={filters}
+            setFilters={setFilters}
+            brands={brands}
+            families={families}
+            onClose={() => setSidebarOpen(false)}
+          />
+        )}
 
         {/* Contenu principal */}
         <main className={styles.content}>
@@ -76,24 +146,29 @@ export default function Index({ perfumes, brands, families, userSignedIn, curren
           {/* Barre de résultats */}
           <div className={styles.resultsBar}>
             <span className={styles.resultsCount}>
-              {perfumes?.length || 0} parfums trouvés
+              {totalCount || 0} parfums trouvés
             </span>
-            <select
-              className={styles.sortSelect}
-              value={order}
-              onChange={(e) => setOrder(e.target.value)}
-            >
-              <option value="popularity">Popularité</option>
-              <option value="newest">Nouveautés</option>
-              <option value="price_asc">Prix croissant</option>
-              <option value="price_desc">Prix décroissant</option>
-              <option value="rating">Meilleures notes</option>
-            </select>
+            <div className={styles.resultsRight}>
+              {!sidebarOpen && (
+                <button 
+                  className={styles.openFiltersBtn}
+                  onClick={() => setSidebarOpen(true)}
+                >
+                  ☰ Filtres
+                </button>
+              )}
+              <Dropdown
+                value={order}
+                options={sortOptions}
+                placeholder="Trier"
+                onChange={handleOrderChange}
+              />
+            </div>
           </div>
 
           {/* Grille de parfums */}
           <section className={styles.grid}>
-            {perfumes?.slice(0, visibleCount).map(perfume => (
+            {displayedPerfumes.map(perfume => (
               <PerfumeCard
                 key={perfume.id}
                 perfume={perfume}
@@ -104,7 +179,7 @@ export default function Index({ perfumes, brands, families, userSignedIn, curren
           </section>
 
           {/* Bouton Charger plus */}
-          {visibleCount < perfumes?.length && (
+          {displayedPerfumes.length < totalCount && (
             <div className={styles.loadMore}>
               <button className={styles.loadMoreBtn} onClick={loadMore}>
                 Charger plus de parfums
@@ -119,6 +194,7 @@ export default function Index({ perfumes, brands, families, userSignedIn, curren
         <PriceAlertModal
           perfumeId={selectedPerfume.id}
           priceAlert={null}
+          volumes={[{ size: '30ml' }, { size: '50ml' }, { size: '100ml' }]}
           onClose={() => setSelectedPerfume(null)}
           onSuccess={() => setSelectedPerfume(null)}
         />

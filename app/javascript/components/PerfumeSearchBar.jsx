@@ -9,6 +9,11 @@ export default function SearchBar({ query, onChange, onSearch }) {
         placeholder="Rechercher un parfum, une marque, une note..."
         value={query}
         onChange={(e) => onChange(e.target.value)}
+        onKeyDown={(e) => {
+          if (e.key === 'Enter') {
+            onSearch();
+          }
+        }}
       />
       <button className={styles.searchBtn} onClick={onSearch}>
         <span>🔍</span>

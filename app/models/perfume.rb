@@ -47,6 +47,15 @@ class Perfume < ApplicationRecord
       .order(launch_year: :desc, created_at: :desc)
       .limit(6)
   }
+
+  scope :sorted_by, ->(order) {
+    case order
+    when 'newest' then order(launch_year: :desc, name: :asc)
+    when 'rating' then order(Arel.sql('average_overall DESC NULLS LAST'), name: :asc)
+    when 'name' then order(name: :asc)
+    else order(trending: :desc, launch_year: :desc, name: :asc)  # default = popularity
+    end
+  }
   
   def preferred_season
     summer = season_votes.where(summer: true).size

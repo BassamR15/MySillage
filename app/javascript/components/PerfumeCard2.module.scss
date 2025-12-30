@@ -9,6 +9,7 @@
   color: inherit;
   display: block;
   transition: all 0.3s;
+  border: 1px solid $green; 
 
   &:hover {
     transform: translateY(-4px);

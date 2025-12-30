@@ -35,10 +35,6 @@ export default function PerfumeCard({ perfume, userSignedIn, onPriceAlertClick }
           <span className={styles.badge}>🔥 Tendance</span>
         )}
 
-        <button className={styles.priceAlertBtn} onClick={handlePriceAlertClick}>
-          🔔
-        </button>
-
         <button className={styles.wishlistBtn} onClick={handleWishlistClick}>
           {isWishlisted ? '❤️' : '🤍'}
         </button>
@@ -66,6 +62,9 @@ export default function PerfumeCard({ perfume, userSignedIn, onPriceAlertClick }
             <span className={styles.stars}>★</span>
             <span className={styles.score}>{perfume.average_overall || 'N/A'}</span>
           </div>
+          <button className={styles.priceAlertBtn} onClick={handlePriceAlertClick}>
+            🔔
+          </button>
         </div>
       </div>
     </Link>

@@ -23,6 +23,25 @@
   }
 }
 
+.brandSearchInput {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid $beige-dark;
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem;
+  
+  &:focus {
+    outline: none;
+    border-color: $green;
+  }
+  
+  &::placeholder {
+    color: $brown-light;
+  }
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -30,10 +49,29 @@
   margin-bottom: 2rem;
 }
 
+.headerButtons {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
 .title {
   font-family: $font-serif;
   font-size: 1.3rem;
   color: $brown-dark;
+}
+
+.closeBtn {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  color: $brown-light;
+  cursor: pointer;
+  padding: 0.25rem;
+  
+  &:hover {
+    color: $brown;
+  }
 }
 
 .clearBtn {
@@ -53,13 +91,38 @@
   margin-bottom: 1.75rem;
 }
 
+.filterHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 0.75rem;
+  user-select: none;
+}
+
+.arrow {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 6px solid $brown-light;
+  transition: transform 0.2s;
+  
+  &.arrowOpen {
+    transform: rotate(0deg);
+  }
+  
+  &:not(.arrowOpen) {
+    transform: rotate(-90deg);
+  }
+}
+
 .filterLabel {
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: $brown-light;
-  margin-bottom: 0.75rem;
-  display: block;
+  cursor: pointer;
   font-weight: 500;
 }
 
@@ -67,6 +130,8 @@
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
+  max-height: 240px; 
+  overflow-y: auto;
 }
 
 .filterOption {
