@@ -1,4 +1,5 @@
 class PerfumersController < ApplicationController
+  skip_before_action :authenticate_user!, only: [:show, :index]
 
   def index
     @perfumers = Perfumer.all
