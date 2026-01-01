@@ -134,8 +134,8 @@ export default function Index({ perfumes, totalCount, brands, families, userSign
         <main className={styles.content}>
           {/* Hero + Search */}
           <section className={styles.hero}>
-            <h1 className={styles.heroTitle}>Explorez notre Collection</h1>
-            <p className={styles.heroSubtitle}>Plus de 10 000 parfums à découvrir</p>
+            <h1 className={styles.heroTitle}>Répertoire des <em>Parfums</em></h1>
+            <p className={styles.heroSubtitle}>Plus de {totalCount} parfums à découvrir</p>
             <SearchBar 
               query={searchQuery} 
               onChange={setSearchQuery}

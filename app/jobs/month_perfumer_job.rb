@@ -16,16 +16,17 @@ class MonthPerfumerJob < ApplicationJob
       .group('perfume_perfumers.perfumer_id')
       .count
 
+    max_wishlists = wishlists_count.values.max || 1
+
     perfumer_scores = {}
 
     Perfumer.includes(perfumes: :reviews).find_each do |perfumer|
       reviews_score = reviews_avg[perfumer.id] || 0
       wishlists_score = wishlists_count[perfumer.id] || 0
-      rating = perfumer.rating || 0
-      max_wishlists = wishlists_count.values.max || 1
       wishlists_normalized = (wishlists_score.to_f / max_wishlists) * 5
-
-      perfumer_scores[perfumer.id] = rating + reviews_score + wishlists_normalized
+      rating = perfumer.rating || 0
+      
+      perfumer_scores[perfumer.id] = reviews_score + wishlists_normalized + rating
     end
     
     winner_id = perfumer_scores.max_by { |_id, score| score }&.first

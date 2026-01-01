@@ -19,6 +19,9 @@ production:
   trending_perfumes:
     class: UpdateTrendingPerfumesJob
     schedule: every month on the 1st at 3am
+  trending_perfumer:
+    class: MonthPerfumerJob
+    schedule: every month on the 1st at 3am   
 
 development:
   daily_recommendations:  
@@ -26,4 +29,7 @@ development:
     schedule: every day at 3am
   trending_perfumes:
     class: UpdateTrendingPerfumesJob
+    schedule: every month on the 1st at 3am
+  trending_perfumer:
+    class: MonthPerfumerJob
     schedule: every month on the 1st at 3am

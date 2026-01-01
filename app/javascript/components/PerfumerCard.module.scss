@@ -1,0 +1,75 @@
+@use '../styles/variables' as *;
+
+.perfumerCard {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.25rem;
+  background: white;
+  border-radius: $radius;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: translateX(8px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.06);
+  }
+}
+
+.avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, $green, $brown-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: $font-serif;
+  font-size: 1.1rem;
+  color: white;
+  flex-shrink: 0;
+}
+
+.info {
+  flex: 1;
+  min-width: 0;
+}
+
+.name h3 {
+  font-family: $font-serif;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: $brown-dark;
+  margin: 0 0 0.2rem 0;
+}
+
+.brands {
+  font-size: 0.8rem;
+  color: $green;
+  margin-bottom: 0.3rem;
+}
+
+.stats {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.75rem;
+  color: $brown-light;
+
+  span {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+}
+
+.arrow {
+  color: $beige-dark;
+  font-size: 1.1rem;
+  transition: all 0.2s;
+
+  .perfumerCard:hover & {
+    color: $green;
+    transform: translateX(4px);
+  }
+}

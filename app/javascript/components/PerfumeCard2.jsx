@@ -11,7 +11,7 @@ export default function PerfumeCard({ perfume, userSignedIn, onPriceAlertClick }
     if (!userSignedIn) return;
 
     const method = isWishlisted ? 'DELETE' : 'POST';
-    setIsWishlisted(!isWishlisted);
+    setIsWishlisted(!isWishlisted); 
 
     fetch(`/perfumes/${perfume.id}/wishlist`, {
       method: method,
