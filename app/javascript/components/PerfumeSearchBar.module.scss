@@ -1,5 +1,5 @@
 // app/javascript/components/SearchBar.module.scss
-@import '../styles/variables';
+@use '../styles/variables' as *;
 
 .searchContainer {
   max-width: 600px;

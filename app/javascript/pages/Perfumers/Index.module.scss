@@ -1,0 +1,358 @@
+@use '../../styles/variables' as *;
+
+.container {
+  font-family: $font-main;
+  background: $beige;
+  color: #2d2a26;
+  min-height: 100vh;
+}
+
+// Header
+.header {
+  padding: 1rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(248, 245, 240, 0.95);
+  backdrop-filter: blur(10px);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 1px solid $beige-dark;
+}
+
+.logo {
+  font-family: $font-serif;
+  font-size: 1.8rem;
+  color: $brown;
+  text-decoration: none;
+}
+
+.logoAccent {
+  font-style: italic;
+  color: $green;
+}
+
+.nav {
+  display: flex;
+  gap: 2rem;
+}
+
+.navLink {
+  color: $brown;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+
+  &:hover, &.active {
+    color: $green;
+  }
+}
+
+.headerRight {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: $radius-sm;
+  background: linear-gradient(135deg, $green, $green-dark);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
+
+.loginBtn {
+  padding: 0.6rem 1.2rem;
+  background: $green;
+  color: white;
+  border-radius: $radius-full;
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+// Main Container
+.mainContainer {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+// Hero
+.hero {
+  text-align: start;
+  margin-bottom: 2rem;
+}
+
+.heroTitle {
+  font-family: $font-serif;
+  font-size: 2.8rem;
+  font-weight: 400;
+  color: $brown-dark;
+  margin-bottom: 0.5rem;
+
+  em {
+    font-style: italic;
+    color: $green;
+  }
+}
+
+.heroSubtitle {
+  font-family: $font-serif;
+  font-size: 1rem;
+  font-style: italic;
+  color: $brown-light;
+  margin-bottom: 1.5rem;
+}
+
+// Stats Section
+.statsSection {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: space-evenly;
+  padding: 2rem;
+  background: white;
+  border-radius: $radius;
+  margin-bottom: 2rem;
+}
+
+.statCard {
+  text-align: center;
+  padding: 1.5rem 3rem;
+  background: $beige;
+  border-radius: $radius;
+}
+
+.statNumber {
+  font-family: $font-serif;
+  font-size: 2.5rem;
+  color: $green;
+  margin-bottom: 0.3rem;
+}
+
+.statLabel {
+  font-size: 0.85rem;
+  color: $brown;
+}
+
+// Featured Section
+.featuredSection {
+  background: white;
+  border-radius: $radius;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.featuredImage {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, $beige-dark, darken($beige-dark, 5%));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.featuredInitials {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, $green, $brown-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: $font-serif;
+  font-size: 2.5rem;
+  color: white;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+}
+
+.featuredContent {
+  flex: 1;
+}
+
+.featuredLabel {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: $brown-light;
+  margin-bottom: 0.5rem;
+}
+
+.featuredName {
+  font-family: $font-serif;
+  font-size: 1.8rem;
+  color: $brown-dark;
+  margin: 0 0 0.3rem 0;
+}
+
+.featuredBrands {
+  color: $green;
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.featuredBio {
+  color: $brown;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.featuredStats {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.featuredStat {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.featuredStatValue {
+  font-weight: 600;
+  color: $brown-dark;
+}
+
+.featuredStatLabel {
+  color: $brown-light;
+  font-size: 0.85rem;
+}
+
+.featuredBtn {
+  padding: 0.9rem 2rem;
+  background: $green;
+  border: none;
+  border-radius: $radius-full;
+  color: white;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s;
+
+  &:hover {
+    background: $green-dark;
+  }
+}
+
+// Alphabet Navigation
+.alphabetNav {
+  display: flex;
+  justify-content: center;
+  gap: 0.3rem;
+  padding: 1.5rem;
+  background: white;
+  border-radius: $radius;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  scroll-margin-top: 100px;
+}
+
+.letterLink {
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: $font-serif;
+  font-size: 1rem;
+  color: $brown;
+  background: none;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+
+  &:hover:not(.disabled) {
+    background: $beige;
+    color: $green;
+  }
+
+  &.disabled {
+    color: $beige-dark;
+    cursor: default;
+  }
+}
+
+// Perfumers List
+.perfumersList {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.letterSection {
+  scroll-margin-top: 100px;
+}
+
+.letterHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.letterBig {
+  font-family: $font-serif;
+  font-size: 3.5rem;
+  color: $green;
+  line-height: 1;
+  width: 70px;
+}
+
+.letterLine {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, $beige-dark, transparent);
+}
+
+.letterCount {
+  font-size: 0.85rem;
+  color: $brown-light;
+  background: $beige;
+  padding: 0.4rem 1rem;
+  border-radius: $radius-full;
+}
+
+.letterPerfumers {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1rem;
+}
+
+// Return Buton
+.backToTop {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 50px;
+  height: 50px;
+  background: $green;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(156, 170, 151, 0.4);
+  transition: all 0.2s;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(156, 170, 151, 0.5);
+  }
+}
