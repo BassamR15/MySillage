@@ -1,9 +1,17 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from '@inertiajs/react';
 import PerfumerCard from '../../components/PerfumerCard';
 import styles from './Index.module.scss';
 
 export default function Index({ perfumers, perfumersCount, perfumesCount, userSignedIn, currentUser, featuredPerfumer }) {
+  const [windowScroll, setWindowScroll] = useState(0);
+  useEffect(() => {
+    const handleScroll = () => setWindowScroll(window.scrollY);
+    window.addEventListener('scroll', handleScroll);
+    
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
   const groupedPerfumers = perfumers.reduce((acc, perfumer) => {
     const letter = perfumer.name[0].toUpperCase();
     if (!acc[letter]) {
@@ -23,6 +31,11 @@ export default function Index({ perfumers, perfumersCount, perfumesCount, userSi
       element.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
   };
+
+  const scrollToAlphabet = () => {
+    const alphabetNav = document.getElementById('alphabet-nav')
+    alphabetNav.scrollIntoView({behavior: 'smooth', block: 'start'})
+  }
 
   return (
     <div className={styles.container}>
@@ -65,6 +78,14 @@ export default function Index({ perfumers, perfumersCount, perfumesCount, userSi
             <div className={styles.statNumber}>{perfumesCount}</div>
             <div className={styles.statLabel}>Créations</div>
           </div>
+          <div className={styles.statCard}>
+            <div className={styles.statNumber}>{perfumesCount}</div>
+            <div className={styles.statLabel}>Créations</div>
+          </div>
+          <div className={styles.statCard}>
+            <div className={styles.statNumber}>{perfumesCount}</div>
+            <div className={styles.statLabel}>Créations</div>
+          </div>
         </section>
 
         {/* Featured Perfumer */}
@@ -98,7 +119,7 @@ export default function Index({ perfumers, perfumersCount, perfumesCount, userSi
         )}
 
         {/* Alphabet Navigation */}
-        <nav className={styles.alphabetNav}>
+        <nav id='alphabet-nav' className={styles.alphabetNav}>
           {alphabet.map(letter => (
             <button
               key={letter}
@@ -128,6 +149,15 @@ export default function Index({ perfumers, perfumersCount, perfumesCount, userSi
             </div>
           ))}
         </section>
+
+        {windowScroll > 300 && (
+          <button 
+            className={styles.backToTop}
+            onClick={scrollToAlphabet}
+          >
+            ↑
+          </button>
+        )}
       </main>
     </div>
   );
